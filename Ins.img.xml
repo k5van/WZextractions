@@ -3219,7 +3219,7 @@
 		<string name="desc_leftalign" value="\r\n#cThis unique chair earns you a fixed rate of EXP every 10 seconds.#"/>
 	</imgdir>
 	<imgdir name="3018292">
-		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="Adventure Performance Chair: Violin"/>
 		<string name="desc" value="Experience the uplifting melody of a violin. \r\nYou can earn Adventure Points periodically if you use this in the Adventure Canteen. \r\n#cRestores 50 HP and 50 MP every 10 seconds.#"/>
 		<string name="desc_leftalign" value="\r\n#cThis unique chair earns you 3 points every 10 seconds.#"/>
 	</imgdir>
@@ -3294,8 +3294,8 @@
 		<string name="desc" value="Reflect on your memories with the Toben Hair Hero.\r\n#cRestores 50 HP and 50 MP every 10 seconds.#"/>
 	</imgdir>
 	<imgdir name="3018333">
-		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="Mu Lung Master Pink Bean Chair"/>
+		<string name="desc" value="A chair modeled after the Pink Bean who conquered Mu Lung Dojo.#c Restores 100 HP and 100 MP every 10 seconds#. "/>
 	</imgdir>
 	<imgdir name="3018336">
 		<string name="name" value="Sounds of Spring"/>
@@ -3310,56 +3310,56 @@
 		<string name="desc" value="Can you hear it? A beautiful melody that carries through the quiet of a moonlit night...\r\n#cRestores 100 HP and 100 MP every 10 seconds.#"/>
 	</imgdir>
 	<imgdir name="3018340">
-		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="Pixel Henesys Chair"/>
+		<string name="desc" value="A chair inspired by life in Henesys.\r\n#c Restores 50 HP and 50 MP every 10 seconds#. "/>
 	</imgdir>
 	<imgdir name="3018341">
-		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="Pixel Sun Chair"/>
+		<string name="desc" value="An enormous sun chair that radiates warm, energizing light. \r\n#cRestores 60 HP and 60 MP every 10 seconds.# "/>
 	</imgdir>
 	<imgdir name="3018342">
-		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="Pixel Starglow Chair"/>
+		<string name="desc" value="Bask in the glow of lovely stars. These don&apos;t appear to be ordinary stars... #cRestores 100 HP and 100 MP every 10 seconds.#"/>
 	</imgdir>
 	<imgdir name="3018343">
-		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="Pixel Bloom of Lucid"/>
+		<string name="desc" value="An enchanting bloom, almost like something out of a dream. \r\n#cRestores 100 HP and 100 MP every 10 seconds.# "/>
 	</imgdir>
 	<imgdir name="3018345">
-		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="desc_leftalign" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="Rollerskating Chair: Novice"/>
+		<string name="desc" value="A chair used to go roller skating. Used in the Pixel Roller Rink. \r\n#cRestores 50 HP and 50 MP every 10 seconds.#"/>
+		<string name="desc_leftalign" value="#cIf used at the Pixel Roller Rink, you&apos;ll gather Pixel Power. Gathers 3 Pixel Power every 10 seconds.#"/>
 	</imgdir>
 	<imgdir name="3018346">
-		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="desc_leftalign" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="Rollerskating Chair: Intermediate"/>
+		<string name="desc" value="A chair used to go roller skating. Used in the Pixel Roller Rink. \r\n#cRestores 100 HP and 100 MP every 10 seconds.#"/>
+		<string name="desc_leftalign" value="#cIf used at the Pixel Roller Rink, you&apos;ll gather Pixel Power. Gathers 4 Pixel Power every 10 seconds.#"/>
 	</imgdir>
 	<imgdir name="3018347">
-		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="desc_leftalign" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="Rollerskating Chair: Advanced"/>
+		<string name="desc" value="A chair used to go roller skating. Used in the Pixel Roller Rink. \r\n#cRestores 200 HP and 200 MP every 10 seconds.#"/>
+		<string name="desc_leftalign" value="#cIf used at the Pixel Roller Rink, you&apos;ll gather Pixel Power. Gathers 5 Pixel Power every 10 seconds.#"/>
 	</imgdir>
 	<imgdir name="3018349">
-		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="desc_leftalign" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="Rollerskating Chair: Expert"/>
+		<string name="desc" value="A chair used to go roller skating. Used in the Pixel Roller Rink. \r\n#cRestores 1000 HP and 1000 MP every 10 seconds.#"/>
+		<string name="desc_leftalign" value="#cIf used at the Pixel Roller Rink, you&apos;ll gather Pixel Power. Gathers 6 Pixel Power every 10 seconds.#"/>
 	</imgdir>
 	<imgdir name="3018350">
-		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="Pixel First Maple Tree"/>
+		<string name="desc" value="The very first maple tree on Maple Island. \n#cRestores 100 HP and 100 MP every 10 seconds.#"/>
 	</imgdir>
 	<imgdir name="3018351">
-		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="Pixel Ancient Guardian Chair"/>
+		<string name="desc" value="An ancient guardian that protects a chosen few. Its power is said to be great enough to defeat entire armies. \r\nRestores #c1000 HP and 1000 MP# every 10 seconds."/>
 	</imgdir>
 	<imgdir name="3018352">
-		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="Pixel Hall of Maple Warriors"/>
+		<string name="desc" value="Join the pantheon in the Hall of the Maple Warriors. #cRestores 50 HP and 50 MP every 10 seconds.# "/>
 	</imgdir>
 	<imgdir name="3018353">
-		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="Pixel Arcana Spirit Tree Chair"/>
+		<string name="desc" value="Hang out with your spirit friends under the mysterious Spirit Tree! #cRestores 100 HP and 100 MP every 10 seconds.#"/>
 	</imgdir>
 	<imgdir name="3018354">
 		<string name="name" value="The Boy in the Starlight Study"/>
@@ -5321,8 +5321,8 @@ If you feed #cFruit# to the Parrot, it might change color and gain a level. The 
 		<string name="desc" value="You eliminated 100,000 monsters in 2 weeks! You&apos;re the true embodiment of haste!\r\n\r\n#cAttack Power &amp; Magic ATT +20\nAll Stats +50\nBoss Damage +30%, DEF Ignored +30% \nMax HP &amp; MP +2500\r\n\nClick to turn ON/OFF and Stats are retained until MM/DD/YYYY HH:MM AM/PM UTC.#"/>
 	</imgdir>
 	<imgdir name="3700550">
-		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="Pink Bean World Champion"/>
+		<string name="desc" value="A title given for ranking 1st place for Pink Bean World&apos;s Mu Lung Dojo. #cDouble-click to turn ON/OFF.#\r\n\r\n#cAll Stat +10\r\nMax HP +500\r\nMax MP +500\r\nAttack Power &amp; Magic ATT +10\r\nBoss Damage +10%#"/>
 	</imgdir>
 	<imgdir name="3800010">
 		<string name="name" value="L Forest I"/>
@@ -15499,7 +15499,7 @@ Keep it in your Inventory Set-up tab for 30 minutes to receive a Shiny Easter Eg
 	</imgdir>
 	<imgdir name="3015958">
 		<string name="name" value="Mustachioed Man Chair"/>
-		<string name="desc" value="A bowler hat and mustache sure to give you a gigglemug. \r\n#cRestores 100 HP and 50 MP every 10 seconds.#"/>
+		<string name="desc" value="A bowler hat and mustache sure to give you a gigglemug. \r\n#cRestores 100 HP and 50 MP every 10 seconds.# "/>
 	</imgdir>
 	<imgdir name="3700455">
 		<string name="name" value="MMF Marathon Runner"/>
@@ -16773,19 +16773,19 @@ Keep it in your Inventory Set-up tab for 30 minutes to receive a Shiny Easter Eg
 	</imgdir>
 	<imgdir name="3018482">
 		<string name="name" value="Rainbow House Full of Sweets Chair"/>
-		<string name="desc" value=" #cRestores 100 HP and 100 MP every 10 seconds.#"/>
+		<string name="desc" value="Relax in your house of delicious cookies. Restores 100 HP and 100 MP every 10 seconds."/>
 	</imgdir>
 	<imgdir name="3018490">
 		<string name="name" value="Spring Picnic Chair"/>
-		<string name="desc" value=" #cRestores 100 HP and 100 MP every 10 seconds.#"/>
+		<string name="desc" value="Enjoy a picnic with monsters! Restores 100 HP and 100 MP every 10 seconds."/>
 	</imgdir>
 	<imgdir name="3018491">
 		<string name="name" value="Mandarin Napping Chair"/>
-		<string name="desc" value=" #cRestores 100 HP and 100 MP every 10 seconds.#"/>
+		<string name="desc" value="You&apos;re full of mandarins now. Restores 100 HP and 100 MP every 10 seconds."/>
 	</imgdir>
 	<imgdir name="3018492">
 		<string name="name" value="Tsurushibina Chair"/>
-		<string name="desc" value=" #cRestores 100 HP and 100 MP every 10 seconds.#"/>
+		<string name="desc" value="The view from here is amazing! Restores 100 HP and 100 MP every 10 seconds."/>
 	</imgdir>
 	<imgdir name="3018510">
 		<string name="name" value="Meso-Raining Chair"/>
@@ -16798,5 +16798,73 @@ Keep it in your Inventory Set-up tab for 30 minutes to receive a Shiny Easter Eg
 	<imgdir name="3018514">
 		<string name="name" value="Sounds of Spring"/>
 		<string name="desc" value="You can almost hear the soft steps of the onset of spring.\r\n#cRestores 50 HP and 50 MP every 10 seconds.#"/>
+	</imgdir>
+	<imgdir name="3700628">
+		<string name="name" value="Tria Traveler"/>
+		<string name="desc" value="Welcome to a whole other Maple World!\r\n\r\n#cAll Stats: +5, Attack Power &amp; Magic ATT +5\nBoss Damage +5%\nIgnore Defense +5% \nMax HP/MP+500\n10% Bonus EXP\r\n\nClick to turn ON/OFF.\nStats Duration: 30 days"/>
+	</imgdir>
+	<imgdir name="3012035">
+		<string name="name" value="String Phone Chair"/>
+		<string name="desc" value="Sit down with a friend and talk over a string telephone. #cRestores 100 HP and 100 MP every 10 seconds.#"/>
+	</imgdir>
+	<imgdir name="3018533">
+		<string name="name" value="Dignified Marching Anthem"/>
+		<string name="desc" value="The proud marching song continues ever on!\n#cRestores 50 HP and 50 MP every 10 seconds.#"/>
+	</imgdir>
+	<imgdir name="3018534">
+		<string name="name" value="Pup Tent Chair"/>
+		<string name="desc" value="Camping is fun, but it&apos;s even better when you add cute puppies.\n#cRestores 50 HP and 50 MP every 10 seconds.#"/>
+	</imgdir>
+	<imgdir name="3018535">
+		<string name="name" value="Feline Felicity"/>
+		<string name="desc" value="You too can be as happy as a cat sheltered from a spring rain. #cRestores 100 HP and 50 MP every 10 seconds.#"/>
+	</imgdir>
+	<imgdir name="3018536">
+		<string name="name" value="Grim Reaper Throne"/>
+		<string name="desc" value="This chair certainly promises a grim recovery rate for any who dare to use it. \r\n#cRestores 100 HP and 50 MP every 10 seconds.#"/>
+	</imgdir>
+	<imgdir name="3080017">
+		<string name="name" value="40 Slot Chair Bag"/>
+		<string name="desc" value="Holds 40 chairs in your Set-up tab. \r\n#cYou can only use two Chair Bags at once.#"/>
+	</imgdir>
+	<imgdir name="3018505">
+		<string name="name" value="Pink Bean Sleepover"/>
+		<string name="desc" value="Thanks to Pink Bean, you can sleep... well-ish. Restores 100 HP and 100 MP every 10 seconds."/>
+	</imgdir>
+	<imgdir name="3018506">
+		<string name="name" value="Bunny Impostor"/>
+		<string name="desc" value="These bunnies don&apos;t yet realize you&apos;re not a bunny. Restores 100 HP and 100 MP every 10 seconds."/>
+	</imgdir>
+	<imgdir name="3018507">
+		<string name="name" value="Uglee"/>
+		<string name="desc" value="Even the Commanders succumb to the lure of food. Restores 100 HP and 100 MP every 10 seconds."/>
+	</imgdir>
+	<imgdir name="3018508">
+		<string name="name" value="I&apos;m Catnip"/>
+		<string name="desc" value="You won&apos;t be able to escape for now. Restores 100 HP and 100 MP every 10 seconds."/>
+	</imgdir>
+	<imgdir name="3700623">
+		<string name="name" value="Custom Title"/>
+		<string name="desc" value="Combine two Titles to assemble a customized Title with the frame, stats, and text of your choice!\r\n#cClick to toggle ON/OFF.# \r\n#c&lt;Effects&gt;\nAttack Power &amp; Magic ATT +5#\n10% Additional EXP\r\n\r\n&lt;How to Use&gt;\r\n#c1. Right-click the Custom Title icon.\r\n2. Drag a Title with the desired appearance to the Frame slot and a title with the desired stats to the Attributes slot. \r\n3. Enter text for your new Title that&apos;s under 20 characters into the box.\r\n4. Click the SAVE button, and if there are no issues, you&apos;re done!\r\n5. After it&apos;s assembled, the Title can be double-clicked with the right mouse button to toggle it on/off.#\r\n\r\n&lt;Caution&gt;\r\n#c- When changing the Title text, you can only use letters, numbers, and spaces.#\r\n#c- You cannot utilize Titles that are not permanent in the Attributes slot.#\r\n#c- After you&apos;ve assembled a Title, 30 minutes need to pass before you can assemble another one.#\r\n#c- You can only have 1 Custom Title in your possession.#"/>
+	</imgdir>
+	<imgdir name="3018531">
+		<string name="name" value="True Guardian&apos;s Last Moment"/>
+		<string name="desc" value="All that&apos;s left of the guardian who endured countless trials through willpower alone.\r\n#cRestores 100 HP and 100 MP every 10 seconds. #"/>
+	</imgdir>
+	<imgdir name="3018516">
+		<string name="name" value="Space Life Experience"/>
+		<string name="desc" value="MapleStory in zero gravity? Restores 100 HP and 100 MP every 10 seconds."/>
+	</imgdir>
+	<imgdir name="3018517">
+		<string name="name" value="Tunnelling Speed"/>
+		<string name="desc" value="You&apos;ll arrive at the planet&apos;s core in no time at this pace! Restores 100 HP and 100 MP every 10 seconds."/>
+	</imgdir>
+	<imgdir name="3018520">
+		<string name="name" value="Green Pea"/>
+		<string name="desc" value="The green peas look very happy. Restores 100 HP and 100 MP every 10 seconds."/>
+	</imgdir>
+	<imgdir name="3018521">
+		<string name="name" value="Summer Dream"/>
+		<string name="desc" value="Soft ice cream on a deserted island! Restores 100 HP and 100 MP every 10 seconds."/>
 	</imgdir>
 </imgdir>

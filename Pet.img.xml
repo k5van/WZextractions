@@ -1572,7 +1572,7 @@
 	</imgdir>
 	<imgdir name="5002036">
 		<string name="name" value="PixSnail"/>
-		<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="desc" value="Behold the mighty#c PixSnail#! Once an ordinary snail from Maple World, now the coolest snail in the Pixel Kingdom. His has come to challenge Lord Pixrog!"/>
 		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
 	</imgdir>
 	<imgdir name="5002037">
@@ -1582,7 +1582,7 @@
 	</imgdir>
 	<imgdir name="5002038">
 		<string name="name" value="PixShroom"/>
-		<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="desc" value="After fleeing his home in Pixel Kingdom has this peace-loving #cPixShroom# finally found the perfect owner?"/>
 		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
 	</imgdir>
 	<imgdir name="5002039">
@@ -4483,6 +4483,66 @@
 	<imgdir name="5002129">
 		<string name="name" value="Magentabloom"/>
 		<string name="desc" value="A Magentabloom pet.\n\nEquip Bloom pets to get the #cMysterious Bloom Power# skill, which grows stronger as you equip more Bloom pets (max 3)."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002158">
+		<string name="name" value="Rubybloom"/>
+		<string name="desc" value="This is the Rubybloom pet."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002159">
+		<string name="name" value="Rosebloom"/>
+		<string name="desc" value="This is the Rosebloom pet."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002160">
+		<string name="name" value="Magentabloom"/>
+		<string name="desc" value="This is the Magentabloom pet."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002145">
+		<string name="name" value="Doodlesnail"/>
+		<string name="desc" value="A cute and hapless little #cDoodlesnail#."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002144">
+		<string name="name" value="Pepedoodle"/>
+		<string name="desc" value="A cute and hapless little #cPepedoodle#."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002143">
+		<string name="name" value="Doodleshroom"/>
+		<string name="desc" value="A cute and hapless little #cDoodleshroom#."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5000877">
+		<string name="name" value="Doodlesnail"/>
+		<string name="desc" value="A cute and hapless little #cDoodlesnail#."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5000878">
+		<string name="name" value="Pepedoodle"/>
+		<string name="desc" value="A cute and hapless little #cPepedoodle#."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5000879">
+		<string name="name" value="Doodleshroom"/>
+		<string name="desc" value="A cute and hapless little #cDoodleshroom#."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002150">
+		<string name="name" value="Young Cherry"/>
+		<string name="desc" value="This #cYoung Cherry# wants to ripen a bit more."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002151">
+		<string name="name" value="Ripe Chery"/>
+		<string name="desc" value="This #cRipe Cherry# is perfectly ready for anything."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002152">
+		<string name="name" value="Old Cherry"/>
+		<string name="desc" value="This #cOld Cherry# might have overdone the whole ripening thing."/>
 		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
 	</imgdir>
 </imgdir>

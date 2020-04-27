@@ -18013,8 +18013,8 @@
 			<string name="desc" value="You&apos;ll get 1 Adventure Coin for every 100 Adventure Points earned."/>
 		</imgdir>
 		<imgdir name="4310269">
-			<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-			<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="name" value="Pixel Coin"/>
+			<string name="desc" value="A currency made from crystallized #cPixel Power#. It can be used for various purposes in Pixel Kingdom.\n\n#c1 Pixel Coin is obtained for every 100 Pixel Power gathered."/>
 		</imgdir>
 		<imgdir name="4310272">
 			<string name="name" value="Glory Coin"/>
@@ -27535,11 +27535,11 @@ Looking at this fills you with hope. It&apos;s terribly fragile, so handle with 
 		</imgdir>
 		<imgdir name="4390000">
 			<string name="name" value="1.3x EXP Ticket"/>
-			<string name="desc" value="This coupon allows you get 1.3x EXP. \n\n#c*Cannot be stacked with another cash item that has the same effect.\n#c*Cannot be applied on characters above Lv. 200.#"/>
+			<string name="desc" value="This item grants you 1.3x EXP while held.\n\n#c*Cannot be stacked with another cash item that has the same effect.\n*No effect on characters above Lv. 200.#"/>
 		</imgdir>
 		<imgdir name="4390001">
 			<string name="name" value="1.5x EXP Ticket"/>
-			<string name="desc" value="This coupon allows you to get 1.5x EXP.This coupon allows you get 1.3x EXP. \n\n#c*Cannot be stacked with another cash item that has the same effect.\n#c*Cannot be applied on characters above Lv. 200.#"/>
+			<string name="desc" value="This item grants you 1.5x EXP while held.\n\n#c*Cannot be stacked with another cash item that has the same effect.\n*No effect on characters above Lv. 200.#"/>
 		</imgdir>
 		<imgdir name="4400000">
 			<string name="name" value="Wheel of Loot"/>
@@ -28607,6 +28607,14 @@ Looking at this fills you with hope. It&apos;s terribly fragile, so handle with 
 		<imgdir name="4001903">
 			<string name="name" value="Maple Tour VIP Pass"/>
 			<string name="desc" value="A pass that lets you borrow access the studio to film for Maple Tour."/>
+		</imgdir>
+		<imgdir name="4310288">
+			<string name="name" value="Gollux Coin"/>
+			<string name="desc" value="A coin from Gollux."/>
+		</imgdir>
+		<imgdir name="4310289">
+			<string name="name" value="Gollux Penny"/>
+			<string name="desc" value="A coin from Gollux."/>
 		</imgdir>
 	</imgdir>
 </imgdir>

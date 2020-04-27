@@ -735,16 +735,16 @@
 			<int name="align" value="1"/>
 			<imgdir name="0">
 				<imgdir name="0">
-					<string name="text" value="While exploring Victoria Island, you bumped into a girl named Olive, who was obsessed with all things shiny, including a special jewel that was property of the Thieves Guild."/>
+					<string name="text" value="While exploring Victoria Island, you bumped into a shiny-seeking girl named Olive on the trail of a jewel held by the Thieves Guild."/>
 				</imgdir>
 				<imgdir name="1">
-					<string name="text" value="Olive sent you into a secret Thieves Guild room to scope out the jewel, only for you to encounter a masked intruder!"/>
+					<string name="text" value="Olive sent you to a secret Thieves Guild room to scout, but you stumbled into a fight!"/>
 				</imgdir>
 				<imgdir name="2">
-					<string name="text" value="You managed to defeat the intruder. When you filled Olive in, she complained that all the shiny stuff she liked was always stolen by other people first."/>
+					<string name="text" value="You managed to defeat the intruder. Olive complained that all the shiny stuff she likes gets stolen by others first."/>
 				</imgdir>
 				<imgdir name="3">
-					<string name="text" value="You realized that it could be a concerted effort by a malicious organization. Olive agreed, noting that the group must be powerful to make it into the Thieves Guild&apos;s hideout..."/>
+					<string name="text" value="You and Olive concluded it must be a secret organization powerful enough to infiltrate the Thieves Guild..."/>
 				</imgdir>
 			</imgdir>
 		</imgdir>

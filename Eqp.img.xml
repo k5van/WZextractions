@@ -171,7 +171,7 @@
 				<string name="name" value="Aquamarine Gem"/>
 			</imgdir>
 			<imgdir name="1000086">
-				<string name="name" value="Team Wig"/>
+				<string name="name" value="Tim Wig"/>
 			</imgdir>
 			<imgdir name="1000088">
 				<string name="name" value="Kinesis Wig"/>
@@ -4560,6 +4560,7 @@
 			</imgdir>
 			<imgdir name="1004403">
 				<string name="name" value="Cutie Bunny Hat"/>
+				<string name="desc" value="A cute bunny hat. Designed by the China MapleStory player PIPI."/>
 			</imgdir>
 			<imgdir name="1004404">
 				<string name="name" value="Frozen Hat"/>
@@ -6018,12 +6019,12 @@
 				<string name="name" value="Infatuation Fragment"/>
 			</imgdir>
 			<imgdir name="1005361">
-				<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-				<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+				<string name="name" value="Pixel Helm"/>
+				<string name="desc" value="A helm said to be the treasure of Pixel Kingdom. Only the hero of prophecy can unseal the helm and release its power.\r\n#cUpon reaching the rank of 5-Star-Hero, this item is transformed into &lt;Pixel Hero Helm&gt; (can trigger once per account per world).#"/>
 			</imgdir>
 			<imgdir name="1005362">
-				<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-				<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+				<string name="name" value="Pixel Hero Helm"/>
+				<string name="desc" value="A legendary helm from the Pixel Kingdom whose true power was restored by the prophesied hero.."/>
 			</imgdir>
 			<imgdir name="1005364">
 				<string name="name" value="Branch of Memory"/>
@@ -9143,6 +9144,80 @@
 			<imgdir name="1005490">
 				<string name="name" value="Well-Deserved Vacation Hat (F)"/>
 			</imgdir>
+			<imgdir name="1005462">
+				<string name="name" value="Butterfly Ribbon (Black)"/>
+			</imgdir>
+			<imgdir name="1005463">
+				<string name="name" value="Butterfly Ribbon (Blue)"/>
+			</imgdir>
+			<imgdir name="1005464">
+				<string name="name" value="Butterfly Ribbon (Red)"/>
+			</imgdir>
+			<imgdir name="1005465">
+				<string name="name" value="Butterfly Ribbon (Green)"/>
+			</imgdir>
+			<imgdir name="1005466">
+				<string name="name" value="Butterfly Ribbon (Mocha)"/>
+			</imgdir>
+			<imgdir name="1005467">
+				<string name="name" value="Butterfly Ribbon (Lavender)"/>
+			</imgdir>
+			<imgdir name="1005468">
+				<string name="name" value="Butterfly Ribbon (Pink)"/>
+			</imgdir>
+			<imgdir name="1005469">
+				<string name="name" value="Butterfly Ribbon (Off-White)"/>
+			</imgdir>
+			<imgdir name="1005471">
+				<string name="name" value="Oversized Beret (Black)"/>
+			</imgdir>
+			<imgdir name="1005472">
+				<string name="name" value="Oversized Beret (Caramel)"/>
+			</imgdir>
+			<imgdir name="1005473">
+				<string name="name" value="Oversized Beret (Off-White)"/>
+			</imgdir>
+			<imgdir name="1005474">
+				<string name="name" value="Oversized Beret (Pink)"/>
+			</imgdir>
+			<imgdir name="1005475">
+				<string name="name" value="Oversized Beret (Purple)"/>
+			</imgdir>
+			<imgdir name="1005476">
+				<string name="name" value="Oversized Beret (White)"/>
+			</imgdir>
+			<imgdir name="1005508">
+				<string name="name" value="Black Moon Hat"/>
+			</imgdir>
+			<imgdir name="1005509">
+				<string name="name" value="Firefly Forest Hat (M)"/>
+				<string name="desc" value="This is the Firefly Forest Hat. Designed by the China MapleStory player wuchang."/>
+			</imgdir>
+			<imgdir name="1005510">
+				<string name="name" value="Firefly Forest Hat (F)"/>
+				<string name="desc" value="This is the Firefly Forest Hat. Designed by the China MapleStory player wuchang."/>
+			</imgdir>
+			<imgdir name="1005511">
+				<string name="name" value="Refreshing Spring Hat"/>
+			</imgdir>
+			<imgdir name="1005521">
+				<string name="name" value="Kindergarten Back-to-School Hat (M)"/>
+			</imgdir>
+			<imgdir name="1005522">
+				<string name="name" value="Kindergarten Back-to-School Hat (F)"/>
+			</imgdir>
+			<imgdir name="1005523">
+				<string name="name" value="Battle Suit Type A Hoodie"/>
+			</imgdir>
+			<imgdir name="1005524">
+				<string name="name" value="Battle Suit Type B Beanie"/>
+			</imgdir>
+			<imgdir name="1005525">
+				<string name="name" value="Fluffy Star Cloud Hairpin"/>
+			</imgdir>
+			<imgdir name="1005526">
+				<string name="name" value="Fluffy Heart Cloud Hairpin"/>
+			</imgdir>
 		</imgdir>
 		<imgdir name="Cape">
 			<imgdir name="1100001">
@@ -11038,12 +11113,12 @@
 				<string name="name" value="Bond of Destiny"/>
 			</imgdir>
 			<imgdir name="1103191">
-				<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-				<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+				<string name="desc" value="A cape said to be the treasure of Pixel Kingdom. Only the hero of prophecy can unseal the cape and release its power.\r\n#cUpon reaching the rank of 5-Star-Hero, this item is transformed into &lt;Pixel Hero Cape&gt; (can trigger once per account per world).#"/>
+				<string name="name" value="Pixel Cape"/>
 			</imgdir>
 			<imgdir name="1103192">
-				<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-				<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+				<string name="desc" value="A legendary cape of Pixel Kingdom whose true power was restored by the prophesied hero."/>
+				<string name="name" value="Pixel Hero Cape"/>
 			</imgdir>
 			<imgdir name="1103193">
 				<string name="name" value="Light of Erda"/>
@@ -12104,7 +12179,7 @@
 				<string name="desc" value="Mechanic Wings designed by the MapleStory player ikraie."/>
 			</imgdir>
 			<imgdir name="1103111">
-				<string name="name" value="14th Anniversary Cape"/>
+				<string name="name" value="15th Anniversary Cape"/>
 			</imgdir>
 			<imgdir name="1103123">
 				<string name="name" value="Alika"/>
@@ -12289,6 +12364,16 @@
 			</imgdir>
 			<imgdir name="1103239">
 				<string name="name" value="Well-Deserved Vacation Cape"/>
+			</imgdir>
+			<imgdir name="1103245">
+				<string name="name" value="Refreshing Spring Cape"/>
+			</imgdir>
+			<imgdir name="1103246">
+				<string name="name" value="Firefly Forest Cape"/>
+				<string name="desc" value="This is the Firefly Forest Cape. Designed by the China MapleStory player wuchang."/>
+			</imgdir>
+			<imgdir name="1103248">
+				<string name="name" value="Spare Battle Gun"/>
 			</imgdir>
 		</imgdir>
 		<imgdir name="Coat">
@@ -32659,6 +32744,363 @@
 			<imgdir name="26848">
 				<string name="name" value="Female Evan Face"/>
 			</imgdir>
+			<imgdir name="51000">
+				<string name="name" value="Naughty Face"/>
+			</imgdir>
+			<imgdir name="51100">
+				<string name="name" value="Naughty Face"/>
+			</imgdir>
+			<imgdir name="51200">
+				<string name="name" value="Naughty Face"/>
+			</imgdir>
+			<imgdir name="51300">
+				<string name="name" value="Naughty Face"/>
+			</imgdir>
+			<imgdir name="51400">
+				<string name="name" value="Naughty Face"/>
+			</imgdir>
+			<imgdir name="51500">
+				<string name="name" value="Naughty Face"/>
+			</imgdir>
+			<imgdir name="51600">
+				<string name="name" value="Naughty Face"/>
+			</imgdir>
+			<imgdir name="51700">
+				<string name="name" value="Naughty Face"/>
+			</imgdir>
+			<imgdir name="51800">
+				<string name="name" value="Naughty Face"/>
+			</imgdir>
+			<imgdir name="51001">
+				<string name="name" value="Uncorrupted Face"/>
+			</imgdir>
+			<imgdir name="51101">
+				<string name="name" value="Uncorrupted Face"/>
+			</imgdir>
+			<imgdir name="51201">
+				<string name="name" value="Uncorrupted Face"/>
+			</imgdir>
+			<imgdir name="51301">
+				<string name="name" value="Uncorrupted Face"/>
+			</imgdir>
+			<imgdir name="51401">
+				<string name="name" value="Uncorrupted Face"/>
+			</imgdir>
+			<imgdir name="51501">
+				<string name="name" value="Uncorrupted Face"/>
+			</imgdir>
+			<imgdir name="51601">
+				<string name="name" value="Uncorrupted Face"/>
+			</imgdir>
+			<imgdir name="51701">
+				<string name="name" value="Uncorrupted Face"/>
+			</imgdir>
+			<imgdir name="51801">
+				<string name="name" value="Uncorrupted Face"/>
+			</imgdir>
+			<imgdir name="27090">
+				<string name="name" value="Puffy Face"/>
+			</imgdir>
+			<imgdir name="27190">
+				<string name="name" value="Puffy Face"/>
+			</imgdir>
+			<imgdir name="27290">
+				<string name="name" value="Puffy Face"/>
+			</imgdir>
+			<imgdir name="27390">
+				<string name="name" value="Puffy Face"/>
+			</imgdir>
+			<imgdir name="27490">
+				<string name="name" value="Puffy Face"/>
+			</imgdir>
+			<imgdir name="27590">
+				<string name="name" value="Puffy Face"/>
+			</imgdir>
+			<imgdir name="27690">
+				<string name="name" value="Puffy Face"/>
+			</imgdir>
+			<imgdir name="27790">
+				<string name="name" value="Puffy Face"/>
+			</imgdir>
+			<imgdir name="27890">
+				<string name="name" value="Puffy Face"/>
+			</imgdir>
+			<imgdir name="27873">
+				<string name="name" value="aa"/>
+			</imgdir>
+			<imgdir name="28892">
+				<string name="name" value="Bashful Face"/>
+			</imgdir>
+			<imgdir name="50001">
+				<string name="name" value="Brooding Face"/>
+			</imgdir>
+			<imgdir name="50101">
+				<string name="name" value="Brooding Face"/>
+			</imgdir>
+			<imgdir name="50201">
+				<string name="name" value="Brooding Face"/>
+			</imgdir>
+			<imgdir name="50301">
+				<string name="name" value="Brooding Face"/>
+			</imgdir>
+			<imgdir name="50401">
+				<string name="name" value="Brooding Face"/>
+			</imgdir>
+			<imgdir name="50501">
+				<string name="name" value="Brooding Face"/>
+			</imgdir>
+			<imgdir name="50601">
+				<string name="name" value="Brooding Face"/>
+			</imgdir>
+			<imgdir name="50701">
+				<string name="name" value="Brooding Face"/>
+			</imgdir>
+			<imgdir name="50801">
+				<string name="name" value="Brooding Face"/>
+			</imgdir>
+			<imgdir name="51013">
+				<string name="name" value="Brooding Face"/>
+			</imgdir>
+			<imgdir name="51113">
+				<string name="name" value="Brooding Face"/>
+			</imgdir>
+			<imgdir name="51213">
+				<string name="name" value="Brooding Face"/>
+			</imgdir>
+			<imgdir name="51313">
+				<string name="name" value="Brooding Face"/>
+			</imgdir>
+			<imgdir name="51413">
+				<string name="name" value="Brooding Face"/>
+			</imgdir>
+			<imgdir name="51513">
+				<string name="name" value="Brooding Face"/>
+			</imgdir>
+			<imgdir name="51613">
+				<string name="name" value="Brooding Face"/>
+			</imgdir>
+			<imgdir name="51713">
+				<string name="name" value="Brooding Face"/>
+			</imgdir>
+			<imgdir name="51813">
+				<string name="name" value="Brooding Face"/>
+			</imgdir>
+			<imgdir name="50002">
+				<string name="name" value="Indignant Face"/>
+			</imgdir>
+			<imgdir name="50102">
+				<string name="name" value="Indignant Face"/>
+			</imgdir>
+			<imgdir name="50202">
+				<string name="name" value="Indignant Face"/>
+			</imgdir>
+			<imgdir name="50302">
+				<string name="name" value="Indignant Face"/>
+			</imgdir>
+			<imgdir name="50402">
+				<string name="name" value="Indignant Face"/>
+			</imgdir>
+			<imgdir name="50502">
+				<string name="name" value="Indignant Face"/>
+			</imgdir>
+			<imgdir name="50602">
+				<string name="name" value="Indignant Face"/>
+			</imgdir>
+			<imgdir name="50702">
+				<string name="name" value="Indignant Face"/>
+			</imgdir>
+			<imgdir name="50802">
+				<string name="name" value="Indignant Face"/>
+			</imgdir>
+			<imgdir name="51014">
+				<string name="name" value="Indignant Face"/>
+			</imgdir>
+			<imgdir name="51114">
+				<string name="name" value="Indignant Face"/>
+			</imgdir>
+			<imgdir name="51214">
+				<string name="name" value="Indignant Face"/>
+			</imgdir>
+			<imgdir name="51314">
+				<string name="name" value="Indignant Face"/>
+			</imgdir>
+			<imgdir name="51414">
+				<string name="name" value="Indignant Face"/>
+			</imgdir>
+			<imgdir name="51514">
+				<string name="name" value="Indignant Face"/>
+			</imgdir>
+			<imgdir name="51614">
+				<string name="name" value="Indignant Face"/>
+			</imgdir>
+			<imgdir name="51714">
+				<string name="name" value="Indignant Face"/>
+			</imgdir>
+			<imgdir name="51814">
+				<string name="name" value="Indignant Face"/>
+			</imgdir>
+			<imgdir name="50005">
+				<string name="name" value="Child&apos;s Adorable Face"/>
+			</imgdir>
+			<imgdir name="50105">
+				<string name="name" value="Child&apos;s Adorable Face"/>
+			</imgdir>
+			<imgdir name="50205">
+				<string name="name" value="Child&apos;s Adorable Face"/>
+			</imgdir>
+			<imgdir name="50305">
+				<string name="name" value="Child&apos;s Adorable Face"/>
+			</imgdir>
+			<imgdir name="50405">
+				<string name="name" value="Child&apos;s Adorable Face"/>
+			</imgdir>
+			<imgdir name="50505">
+				<string name="name" value="Child&apos;s Adorable Face"/>
+			</imgdir>
+			<imgdir name="50605">
+				<string name="name" value="Child&apos;s Adorable Face"/>
+			</imgdir>
+			<imgdir name="50705">
+				<string name="name" value="Child&apos;s Adorable Face"/>
+			</imgdir>
+			<imgdir name="50805">
+				<string name="name" value="Child&apos;s Adorable Face"/>
+			</imgdir>
+			<imgdir name="50006">
+				<string name="name" value="Aloof Face"/>
+			</imgdir>
+			<imgdir name="50106">
+				<string name="name" value="Aloof Face"/>
+			</imgdir>
+			<imgdir name="50206">
+				<string name="name" value="Aloof Face"/>
+			</imgdir>
+			<imgdir name="50306">
+				<string name="name" value="Aloof Face"/>
+			</imgdir>
+			<imgdir name="50406">
+				<string name="name" value="Aloof Face"/>
+			</imgdir>
+			<imgdir name="50506">
+				<string name="name" value="Aloof Face"/>
+			</imgdir>
+			<imgdir name="50606">
+				<string name="name" value="Aloof Face"/>
+			</imgdir>
+			<imgdir name="50706">
+				<string name="name" value="Aloof Face"/>
+			</imgdir>
+			<imgdir name="50806">
+				<string name="name" value="Aloof Face"/>
+			</imgdir>
+			<imgdir name="50018">
+				<string name="name" value="aa"/>
+			</imgdir>
+			<imgdir name="50118">
+				<string name="name" value="aa"/>
+			</imgdir>
+			<imgdir name="50218">
+				<string name="name" value="aa"/>
+			</imgdir>
+			<imgdir name="50318">
+				<string name="name" value="aa"/>
+			</imgdir>
+			<imgdir name="50418">
+				<string name="name" value="aa"/>
+			</imgdir>
+			<imgdir name="50518">
+				<string name="name" value="aa"/>
+			</imgdir>
+			<imgdir name="50618">
+				<string name="name" value="aa"/>
+			</imgdir>
+			<imgdir name="50718">
+				<string name="name" value="aa"/>
+			</imgdir>
+			<imgdir name="50818">
+				<string name="name" value="aa"/>
+			</imgdir>
+			<imgdir name="50019">
+				<string name="name" value="aa"/>
+			</imgdir>
+			<imgdir name="50119">
+				<string name="name" value="aa"/>
+			</imgdir>
+			<imgdir name="50219">
+				<string name="name" value="aa"/>
+			</imgdir>
+			<imgdir name="50319">
+				<string name="name" value="aa"/>
+			</imgdir>
+			<imgdir name="50419">
+				<string name="name" value="aa"/>
+			</imgdir>
+			<imgdir name="50519">
+				<string name="name" value="aa"/>
+			</imgdir>
+			<imgdir name="50619">
+				<string name="name" value="aa"/>
+			</imgdir>
+			<imgdir name="50719">
+				<string name="name" value="aa"/>
+			</imgdir>
+			<imgdir name="50819">
+				<string name="name" value="aa"/>
+			</imgdir>
+			<imgdir name="51018">
+				<string name="name" value="Child&apos;s Adorable Face"/>
+			</imgdir>
+			<imgdir name="51118">
+				<string name="name" value="Child&apos;s Adorable Face"/>
+			</imgdir>
+			<imgdir name="51218">
+				<string name="name" value="Child&apos;s Adorable Face"/>
+			</imgdir>
+			<imgdir name="51318">
+				<string name="name" value="Child&apos;s Adorable Face"/>
+			</imgdir>
+			<imgdir name="51418">
+				<string name="name" value="Child&apos;s Adorable Face"/>
+			</imgdir>
+			<imgdir name="51518">
+				<string name="name" value="Child&apos;s Adorable Face"/>
+			</imgdir>
+			<imgdir name="51618">
+				<string name="name" value="Child&apos;s Adorable Face"/>
+			</imgdir>
+			<imgdir name="51718">
+				<string name="name" value="Child&apos;s Adorable Face"/>
+			</imgdir>
+			<imgdir name="51818">
+				<string name="name" value="Child&apos;s Adorable Face"/>
+			</imgdir>
+			<imgdir name="51019">
+				<string name="name" value="Aloof Face"/>
+			</imgdir>
+			<imgdir name="51119">
+				<string name="name" value="Aloof Face"/>
+			</imgdir>
+			<imgdir name="51219">
+				<string name="name" value="Aloof Face"/>
+			</imgdir>
+			<imgdir name="51319">
+				<string name="name" value="Aloof Face"/>
+			</imgdir>
+			<imgdir name="51419">
+				<string name="name" value="Aloof Face"/>
+			</imgdir>
+			<imgdir name="51519">
+				<string name="name" value="Aloof Face"/>
+			</imgdir>
+			<imgdir name="51619">
+				<string name="name" value="Aloof Face"/>
+			</imgdir>
+			<imgdir name="51719">
+				<string name="name" value="Aloof Face"/>
+			</imgdir>
+			<imgdir name="51819">
+				<string name="name" value="Aloof Face"/>
+			</imgdir>
 		</imgdir>
 		<imgdir name="Glove">
 			<imgdir name="1080000">
@@ -34655,6 +35097,9 @@
 			<imgdir name="1082591">
 				<string name="name" value="Shadow Thanatos Gauntlet"/>
 			</imgdir>
+			<imgdir name="1082747">
+				<string name="name" value="Survival Battle Gloves"/>
+			</imgdir>
 		</imgdir>
 		<imgdir name="Hair">
 			<imgdir name="30000">
@@ -34673,7 +35118,7 @@
 				<string name="name" value="Toben Hair"/>
 			</imgdir>
 			<imgdir name="30005">
-				<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+				<string name="name" value="Toben Hair"/>
 			</imgdir>
 			<imgdir name="30006">
 				<string name="name" value="Toben Hair"/>
@@ -64208,6 +64653,294 @@
 			<imgdir name="48717">
 				<string name="name" value="Voluminous Short Crescent Hair"/>
 			</imgdir>
+			<imgdir name="46510">
+				<string name="name" value="Goggles and Spikes Hair"/>
+			</imgdir>
+			<imgdir name="46511">
+				<string name="name" value="Goggles and Spikes Hair"/>
+			</imgdir>
+			<imgdir name="46512">
+				<string name="name" value="Goggles and Spikes Hair"/>
+			</imgdir>
+			<imgdir name="46513">
+				<string name="name" value="Goggles and Spikes Hair"/>
+			</imgdir>
+			<imgdir name="46514">
+				<string name="name" value="Goggles and Spikes Hair"/>
+			</imgdir>
+			<imgdir name="46515">
+				<string name="name" value="Goggles and Spikes Hair"/>
+			</imgdir>
+			<imgdir name="46516">
+				<string name="name" value="Goggles and Spikes Hair"/>
+			</imgdir>
+			<imgdir name="46517">
+				<string name="name" value="Goggles and Spikes Hair"/>
+			</imgdir>
+			<imgdir name="46520">
+				<string name="name" value="Feathered Locks"/>
+			</imgdir>
+			<imgdir name="46521">
+				<string name="name" value="Feathered Locks"/>
+			</imgdir>
+			<imgdir name="46522">
+				<string name="name" value="Feathered Locks"/>
+			</imgdir>
+			<imgdir name="46523">
+				<string name="name" value="Feathered Locks"/>
+			</imgdir>
+			<imgdir name="46524">
+				<string name="name" value="Feathered Locks"/>
+			</imgdir>
+			<imgdir name="46525">
+				<string name="name" value="Feathered Locks"/>
+			</imgdir>
+			<imgdir name="46526">
+				<string name="name" value="Feathered Locks"/>
+			</imgdir>
+			<imgdir name="46527">
+				<string name="name" value="Feathered Locks"/>
+			</imgdir>
+			<imgdir name="48620">
+				<string name="name" value="Fluffy Bobbed Hair"/>
+			</imgdir>
+			<imgdir name="48621">
+				<string name="name" value="Fluffy Bobbed Hair"/>
+			</imgdir>
+			<imgdir name="48622">
+				<string name="name" value="Fluffy Bobbed Hair"/>
+			</imgdir>
+			<imgdir name="48623">
+				<string name="name" value="Fluffy Bobbed Hair"/>
+			</imgdir>
+			<imgdir name="48624">
+				<string name="name" value="Fluffy Bobbed Hair"/>
+			</imgdir>
+			<imgdir name="48625">
+				<string name="name" value="Fluffy Bobbed Hair"/>
+			</imgdir>
+			<imgdir name="48626">
+				<string name="name" value="Fluffy Bobbed Hair"/>
+			</imgdir>
+			<imgdir name="48627">
+				<string name="name" value="Fluffy Bobbed Hair"/>
+			</imgdir>
+			<imgdir name="48630">
+				<string name="name" value="Double Ponytail Hair"/>
+			</imgdir>
+			<imgdir name="48631">
+				<string name="name" value="Double Ponytail Hair"/>
+			</imgdir>
+			<imgdir name="48632">
+				<string name="name" value="Double Ponytail Hair"/>
+			</imgdir>
+			<imgdir name="48633">
+				<string name="name" value="Double Ponytail Hair"/>
+			</imgdir>
+			<imgdir name="48634">
+				<string name="name" value="Double Ponytail Hair"/>
+			</imgdir>
+			<imgdir name="48635">
+				<string name="name" value="Double Ponytail Hair"/>
+			</imgdir>
+			<imgdir name="48636">
+				<string name="name" value="Double Ponytail Hair"/>
+			</imgdir>
+			<imgdir name="48637">
+				<string name="name" value="Double Ponytail Hair"/>
+			</imgdir>
+			<imgdir name="46610">
+				<string name="name" value="Shaggy Parted Hair"/>
+			</imgdir>
+			<imgdir name="46611">
+				<string name="name" value="Shaggy Parted Hair"/>
+			</imgdir>
+			<imgdir name="46612">
+				<string name="name" value="Shaggy Parted Hair"/>
+			</imgdir>
+			<imgdir name="46613">
+				<string name="name" value="Shaggy Parted Hair"/>
+			</imgdir>
+			<imgdir name="46614">
+				<string name="name" value="Shaggy Parted Hair"/>
+			</imgdir>
+			<imgdir name="46615">
+				<string name="name" value="Shaggy Parted Hair"/>
+			</imgdir>
+			<imgdir name="46616">
+				<string name="name" value="Shaggy Parted Hair"/>
+			</imgdir>
+			<imgdir name="46617">
+				<string name="name" value="Shaggy Parted Hair"/>
+			</imgdir>
+			<imgdir name="46620">
+				<string name="name" value="Wiry Hair"/>
+			</imgdir>
+			<imgdir name="46621">
+				<string name="name" value="Wiry Hair"/>
+			</imgdir>
+			<imgdir name="46622">
+				<string name="name" value="Wiry Hair"/>
+			</imgdir>
+			<imgdir name="46623">
+				<string name="name" value="Wiry Hair"/>
+			</imgdir>
+			<imgdir name="46624">
+				<string name="name" value="Wiry Hair"/>
+			</imgdir>
+			<imgdir name="46625">
+				<string name="name" value="Wiry Hair"/>
+			</imgdir>
+			<imgdir name="46626">
+				<string name="name" value="Wiry Hair"/>
+			</imgdir>
+			<imgdir name="46627">
+				<string name="name" value="Wiry Hair"/>
+			</imgdir>
+			<imgdir name="48760">
+				<string name="name" value="Scraggly Locks"/>
+			</imgdir>
+			<imgdir name="48761">
+				<string name="name" value="Scraggly Locks"/>
+			</imgdir>
+			<imgdir name="48762">
+				<string name="name" value="Scraggly Locks"/>
+			</imgdir>
+			<imgdir name="48763">
+				<string name="name" value="Scraggly Locks"/>
+			</imgdir>
+			<imgdir name="48764">
+				<string name="name" value="Scraggly Locks"/>
+			</imgdir>
+			<imgdir name="48765">
+				<string name="name" value="Scraggly Locks"/>
+			</imgdir>
+			<imgdir name="48766">
+				<string name="name" value="Scraggly Locks"/>
+			</imgdir>
+			<imgdir name="48767">
+				<string name="name" value="Scraggly Locks"/>
+			</imgdir>
+			<imgdir name="48770">
+				<string name="name" value="Booksmart Hair"/>
+			</imgdir>
+			<imgdir name="48771">
+				<string name="name" value="Booksmart Hair"/>
+			</imgdir>
+			<imgdir name="48772">
+				<string name="name" value="Booksmart Hair"/>
+			</imgdir>
+			<imgdir name="48773">
+				<string name="name" value="Booksmart Hair"/>
+			</imgdir>
+			<imgdir name="48774">
+				<string name="name" value="Booksmart Hair"/>
+			</imgdir>
+			<imgdir name="48775">
+				<string name="name" value="Booksmart Hair"/>
+			</imgdir>
+			<imgdir name="48776">
+				<string name="name" value="Booksmart Hair"/>
+			</imgdir>
+			<imgdir name="48777">
+				<string name="name" value="Booksmart Hair"/>
+			</imgdir>
+			<imgdir name="46630">
+				<string name="name" value="Sparkling Hair"/>
+			</imgdir>
+			<imgdir name="46631">
+				<string name="name" value="Sparkling Hair"/>
+			</imgdir>
+			<imgdir name="46632">
+				<string name="name" value="Sparkling Hair"/>
+			</imgdir>
+			<imgdir name="46633">
+				<string name="name" value="Sparkling Hair"/>
+			</imgdir>
+			<imgdir name="46634">
+				<string name="name" value="Sparkling Hair"/>
+			</imgdir>
+			<imgdir name="46635">
+				<string name="name" value="Sparkling Hair"/>
+			</imgdir>
+			<imgdir name="46636">
+				<string name="name" value="Sparkling Hair"/>
+			</imgdir>
+			<imgdir name="46637">
+				<string name="name" value="Sparkling Hair"/>
+			</imgdir>
+			<imgdir name="46640">
+				<string name="name" value="V Hair"/>
+			</imgdir>
+			<imgdir name="46641">
+				<string name="name" value="V Hair"/>
+			</imgdir>
+			<imgdir name="46642">
+				<string name="name" value="V Hair"/>
+			</imgdir>
+			<imgdir name="46643">
+				<string name="name" value="V Hair"/>
+			</imgdir>
+			<imgdir name="46644">
+				<string name="name" value="V Hair"/>
+			</imgdir>
+			<imgdir name="46645">
+				<string name="name" value="V Hair"/>
+			</imgdir>
+			<imgdir name="46646">
+				<string name="name" value="V Hair"/>
+			</imgdir>
+			<imgdir name="46647">
+				<string name="name" value="V Hair"/>
+			</imgdir>
+			<imgdir name="48790">
+				<string name="name" value="Princess Ponytail Hair"/>
+			</imgdir>
+			<imgdir name="48791">
+				<string name="name" value="Princess Ponytail Hair"/>
+			</imgdir>
+			<imgdir name="48792">
+				<string name="name" value="Princess Ponytail Hair"/>
+			</imgdir>
+			<imgdir name="48793">
+				<string name="name" value="Princess Ponytail Hair"/>
+			</imgdir>
+			<imgdir name="48794">
+				<string name="name" value="Princess Ponytail Hair"/>
+			</imgdir>
+			<imgdir name="48795">
+				<string name="name" value="Princess Ponytail Hair"/>
+			</imgdir>
+			<imgdir name="48796">
+				<string name="name" value="Princess Ponytail Hair"/>
+			</imgdir>
+			<imgdir name="48797">
+				<string name="name" value="Princess Ponytail Hair"/>
+			</imgdir>
+			<imgdir name="48800">
+				<string name="name" value="Child&apos;s Round Hair"/>
+			</imgdir>
+			<imgdir name="48801">
+				<string name="name" value="Child&apos;s Round Hair"/>
+			</imgdir>
+			<imgdir name="48802">
+				<string name="name" value="Child&apos;s Round Hair"/>
+			</imgdir>
+			<imgdir name="48803">
+				<string name="name" value="Child&apos;s Round Hair"/>
+			</imgdir>
+			<imgdir name="48804">
+				<string name="name" value="Child&apos;s Round Hair"/>
+			</imgdir>
+			<imgdir name="48805">
+				<string name="name" value="Child&apos;s Round Hair"/>
+			</imgdir>
+			<imgdir name="48806">
+				<string name="name" value="Child&apos;s Round Hair"/>
+			</imgdir>
+			<imgdir name="48807">
+				<string name="name" value="Child&apos;s Round Hair"/>
+			</imgdir>
 		</imgdir>
 		<imgdir name="Longcoat">
 			<imgdir name="1050000">
@@ -68512,12 +69245,12 @@
 				<string name="name" value="Cherry Blossom Raincoat"/>
 			</imgdir>
 			<imgdir name="1053436">
-				<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-				<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+				<string name="name" value="Pixel Armor"/>
+				<string name="desc" value="A set of armor said to be the treasure of Pixel Kingdom. Only the hero of prophecy can unseal the armor and release its power.\r\n#cUpon reaching the rank of 5-Star-Hero, this item is transformed into &lt;Pixel Hero Armor&gt; (can trigger once per account per world).#"/>
 			</imgdir>
 			<imgdir name="1053437">
-				<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-				<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+				<string name="name" value="Pixel Hero Armor"/>
+				<string name="desc" value="A legendary armor of Pixel Kingdom that regained its true power when wielded by the hero of prophecy."/>
 			</imgdir>
 			<imgdir name="1053440">
 				<string name="name" value="Lake Waves"/>
@@ -70730,6 +71463,74 @@
 			</imgdir>
 			<imgdir name="1053534">
 				<string name="name" value="Well-Deserved Vacation Outfit (F)"/>
+			</imgdir>
+			<imgdir name="1053518">
+				<string name="name" value="Baggy Cardigan (Black)"/>
+			</imgdir>
+			<imgdir name="1053519">
+				<string name="name" value="Baggy Cardigan (Blue)"/>
+			</imgdir>
+			<imgdir name="1053520">
+				<string name="name" value="Baggy Cardigan (Brown)"/>
+			</imgdir>
+			<imgdir name="1053521">
+				<string name="name" value="Baggy Cardigan (Cherry Blossom)"/>
+			</imgdir>
+			<imgdir name="1053522">
+				<string name="name" value="Baggy Cardigan (Green)"/>
+			</imgdir>
+			<imgdir name="1053523">
+				<string name="name" value="Baggy Cardigan (Pink)"/>
+			</imgdir>
+			<imgdir name="1053548">
+				<string name="name" value="Kimono Uniform (M)"/>
+			</imgdir>
+			<imgdir name="1053549">
+				<string name="name" value="Kimono Uniform (F)"/>
+			</imgdir>
+			<imgdir name="1053550">
+				<string name="name" value="Refreshing Spring Outfit (M)"/>
+			</imgdir>
+			<imgdir name="1053551">
+				<string name="name" value="Refreshing Spring Outfit (F)"/>
+			</imgdir>
+			<imgdir name="1053552">
+				<string name="name" value="Black Moon Outfit (M)"/>
+			</imgdir>
+			<imgdir name="1053553">
+				<string name="name" value="Black Moon Outfit (F)"/>
+			</imgdir>
+			<imgdir name="1053554">
+				<string name="name" value="Firefly Forest Outfit (M)"/>
+				<string name="desc" value="This is the Firefly Forest Outfit. Designed by the China MapleStory player wuchang."/>
+			</imgdir>
+			<imgdir name="1053555">
+				<string name="name" value="Firefly Forest Outfit (F)"/>
+				<string name="desc" value="This is the Firefly Forest Outfit. Designed by the China MapleStory player wuchang."/>
+			</imgdir>
+			<imgdir name="1050549">
+				<string name="name" value="Black Moon Outfit (M)"/>
+			</imgdir>
+			<imgdir name="1051619">
+				<string name="name" value="Black Moon Outfit (F)"/>
+			</imgdir>
+			<imgdir name="1053566">
+				<string name="name" value="Kindergarten Back-to-School Outfit (M)"/>
+			</imgdir>
+			<imgdir name="1053567">
+				<string name="name" value="Kindergarten Back-to-School Outfit (F)"/>
+			</imgdir>
+			<imgdir name="1053568">
+				<string name="name" value="Battle Suit Type A (M)"/>
+			</imgdir>
+			<imgdir name="1053569">
+				<string name="name" value="Battle Suit Type B (F)"/>
+			</imgdir>
+			<imgdir name="1053570">
+				<string name="name" value="Puffy Cloud Overalls (M)"/>
+			</imgdir>
+			<imgdir name="1053571">
+				<string name="name" value="Puffy Cloud Dress (F)"/>
 			</imgdir>
 		</imgdir>
 		<imgdir name="Pants">
@@ -74436,6 +75237,30 @@
 				<string name="name" value="Bloom Equipment"/>
 				<string name="desc" value="Fashionable accessories for the#c Bloom# pets."/>
 			</imgdir>
+			<imgdir name="1802739">
+				<string name="name" value="Doodle Heart"/>
+				<string name="desc" value="A heart that accents the #cDoodleshroom# innate cuteness."/>
+			</imgdir>
+			<imgdir name="1802740">
+				<string name="name" value="Doodle Glitter"/>
+				<string name="desc" value="Glitter that accents the #cPepedoodle#&apos;s innate cuteness."/>
+			</imgdir>
+			<imgdir name="1802744">
+				<string name="name" value="Doodle Star"/>
+				<string name="desc" value="A little star that accents the #cDoodlesnail#&apos;s innate cuteness."/>
+			</imgdir>
+			<imgdir name="1802746">
+				<string name="name" value="Red Heart"/>
+				<string name="desc" value="A small heart that makes #cYoung Cherry# happy."/>
+			</imgdir>
+			<imgdir name="1802747">
+				<string name="name" value="Pink Heart"/>
+				<string name="desc" value="A small heart that makes #cRipe Cherry# happy."/>
+			</imgdir>
+			<imgdir name="1802748">
+				<string name="name" value="Purple Heart"/>
+				<string name="desc" value="A small heart that makes #cOld Cherry# happy."/>
+			</imgdir>
 		</imgdir>
 		<imgdir name="Shield">
 			<imgdir name="1092000">
@@ -74726,7 +75551,7 @@
 				<string name="name" value="Force Shield of Extremes"/>
 			</imgdir>
 			<imgdir name="1099010">
-				<string name="name" value="Onyx Maple Force Shield"/>
+				<string name="name" value="Onyx Maple Demon Aegis"/>
 				<string name="itemCollectionName" value="Force Shield"/>
 			</imgdir>
 			<imgdir name="1099013">
@@ -77409,6 +78234,7 @@
 			</imgdir>
 			<imgdir name="1073037">
 				<string name="name" value="Cutie Bunny Shoes"/>
+				<string name="desc" value="Cute bunny shoes. Designed by the China MapleStory player PIPI."/>
 			</imgdir>
 			<imgdir name="1073039">
 				<string name="name" value="Cutie Birk Shoes"/>
@@ -78997,6 +79823,40 @@
 			</imgdir>
 			<imgdir name="1073427">
 				<string name="name" value="Retro Maid Shoes (F)"/>
+			</imgdir>
+			<imgdir name="1073405">
+				<string name="name" value="Striped Knee Socks (Blue)"/>
+			</imgdir>
+			<imgdir name="1073406">
+				<string name="name" value="Striped Knee Socks (Dark Gray)"/>
+			</imgdir>
+			<imgdir name="1073407">
+				<string name="name" value="Striped Knee Socks (Green)"/>
+			</imgdir>
+			<imgdir name="1073408">
+				<string name="name" value="Striped Knee Socks (Lavender)"/>
+			</imgdir>
+			<imgdir name="1073409">
+				<string name="name" value="Striped Knee Socks (Light Gray)"/>
+			</imgdir>
+			<imgdir name="1073410">
+				<string name="name" value="Striped Knee Socks (Mint Green)"/>
+			</imgdir>
+			<imgdir name="1073411">
+				<string name="name" value="Striped Knee Socks (Off-White)"/>
+			</imgdir>
+			<imgdir name="1073412">
+				<string name="name" value="Striped Knee Socks (Pink)"/>
+			</imgdir>
+			<imgdir name="1073431">
+				<string name="name" value="Black Moon Shoes"/>
+			</imgdir>
+			<imgdir name="1073432">
+				<string name="name" value="Firefly Forest Shoes"/>
+				<string name="desc" value="This is the Firefly Forest Shoes. Designed by the China MapleStory player wuchang."/>
+			</imgdir>
+			<imgdir name="1073435">
+				<string name="name" value="Sparkly Rainbow Shoes"/>
 			</imgdir>
 		</imgdir>
 		<imgdir name="Taming">
@@ -81741,12 +82601,12 @@
 				<string name="name" value="Fafnir Mistilteinn"/>
 			</imgdir>
 			<imgdir name="1302357">
-				<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-				<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+				<string name="name" value="Pixel Hero Sword"/>
+				<string name="desc" value="A legendary sword of Pixel Kingdom that regained its true power when wielded by the hero of prophecy."/>
 			</imgdir>
 			<imgdir name="1302358">
-				<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-				<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+				<string name="name" value="Pink Swim Tube"/>
+				<string name="desc" value="A swim tube used to pick coconuts during Pixel Coconut Season."/>
 			</imgdir>
 			<imgdir name="1302359">
 				<string name="name" value="Arcane Umbra Saber"/>
@@ -83971,7 +84831,7 @@
 				<string name="name" value="Nova&apos;s Essence"/>
 			</imgdir>
 			<imgdir name="1352505">
-				<string name="name" value="Nova Onyx Maple Essence"/>
+				<string name="name" value="Nova&apos;s Black Essence"/>
 				<string name="itemCollectionName" value="Nova Essence"/>
 			</imgdir>
 			<imgdir name="1352507">
@@ -84439,13 +85299,13 @@
 				<string name="name" value="Perfect Relic"/>
 			</imgdir>
 			<imgdir name="1353704">
-				<string name="name" value="Black Relic"/>
+				<string name="name" value="Frozen Relic"/>
 			</imgdir>
 			<imgdir name="1353705">
 				<string name="name" value="Evolving Perfect Relic"/>
 			</imgdir>
 			<imgdir name="1353706">
-				<string name="name" value="Black Relic"/>
+				<string name="name" value="Onyx Maple Relic"/>
 			</imgdir>
 			<imgdir name="1353800">
 				<string name="name" value="Mano Fan Tassel"/>
@@ -86266,8 +87126,8 @@
 				<string name="name" value="Fafnir Penitent Tears"/>
 			</imgdir>
 			<imgdir name="1402270">
-				<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-				<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+				<string name="name" value="Pixel Sword"/>
+				<string name="desc" value="A sword said to be the treasure of Pixel Kingdom. Only the hero of prophecy can unseal the sword and release its power.\r\n#cUpon reaching the rank of 5-Star-Hero, this item is transformed into &lt;Pixel Hero Sword&gt; (can trigger once per account per world).#"/>
 			</imgdir>
 			<imgdir name="1402271">
 				<string name="name" value="Arcane Umbra Two-handed Sword"/>
@@ -91493,7 +92353,7 @@
 				<string name="name" value="Ephesus Ancient Bow"/>
 			</imgdir>
 			<imgdir name="1592008">
-				<string name="name" value="Black Ancient Bow"/>
+				<string name="name" value="Frozen Ancient Bow"/>
 			</imgdir>
 			<imgdir name="1592009">
 				<string name="name" value="Dragon Ancient Bow"/>
@@ -91558,7 +92418,7 @@
 				<string name="name" value="Fafnir Ancient Bow"/>
 			</imgdir>
 			<imgdir name="1592030">
-				<string name="name" value="Black Ancient Bow"/>
+				<string name="name" value="Onyx Maple Ancient Bow"/>
 			</imgdir>
 			<imgdir name="1592035">
 				<string name="name" value="Fafnir Ancient Bow"/>
@@ -92270,7 +93130,7 @@
 			</imgdir>
 			<imgdir name="1702160">
 				<string name="name" value="Tiger Paw Knuckle"/>
-				<string name="desc" value="Can be equipped over #cany weapon except one-handed sword, one-handed axe, one-handed blunt, dagger, cane, wand, staff, two-handed sword, two-handed axe, two-handed blunt, spear, polearm, bow, crossbow, claw, gun, Dual Bowgun, Hand Cannon, Long Swords, Heavy Swords, and Scepter#."/>
+				<string name="desc" value="This weapon that strongly resembles a tiger claw can be masked over an equipped #cknuckle#."/>
 			</imgdir>
 			<imgdir name="1702162">
 				<string name="name" value="Koala Doll"/>
@@ -93809,8 +94669,8 @@
 				<string name="desc" value="Go on a dream world journey with Drowsy Rabbit! A weapon skin that can be equipped over#c any weapon.#"/>
 			</imgdir>
 			<imgdir name="1702914">
-				<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-				<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+				<string name="name" value="Pink Bean&apos;s Umbrella"/>
+				<string name="desc" value="This special umbrella is cherished by Pink Bean. A weapon skin that can be equipped over#c any weapon.#"/>
 			</imgdir>
 			<imgdir name="1702918">
 				<string name="name" value="Cherry Blossom Umbrella"/>
@@ -93825,12 +94685,12 @@
 				<string name="desc" value="A weapon skin that can be equipped over#c any weapon.#"/>
 			</imgdir>
 			<imgdir name="1702923">
-				<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-				<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+				<string name="name" value="Pixel Sword"/>
+				<string name="desc" value="A sword said to be the treasure of Pixel Kingdom. Only the hero of prophecy can unseal the sword and release its power.\r\n#cUpon reaching the rank of 5-Star-Hero, this item is transformed into &lt;Pixel Hero Sword&gt; (can trigger once per account per world).#"/>
 			</imgdir>
 			<imgdir name="1702924">
-				<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-				<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+				<string name="name" value="Pixel Hero Sword"/>
+				<string name="desc" value="A legendary sword of Pixel Kingdom that regained its true power when wielded by the hero of prophecy."/>
 			</imgdir>
 			<imgdir name="1702925">
 				<string name="name" value="Lantern of Oblivion"/>
@@ -99422,6 +100282,36 @@
 				<string name="name" value="Sweet Bunny Candy Weapon"/>
 				<string name="desc" value="A Sweet Bunny Candy weapon skin that can be equipped over#c any weapon.# Designed by the China MapleStory player Xiaoma."/>
 			</imgdir>
+			<imgdir name="1702984">
+				<string name="name" value="Sea of Stars Paper Boat Weapon"/>
+				<string name="desc" value="A Sea of Stars Paper Boat weapon skin that can be equipped over#c any weapon.# Designed by China MapleStory player Criceto."/>
+			</imgdir>
+			<imgdir name="1702985">
+				<string name="name" value="Black Moon Weapon"/>
+				<string name="desc" value="A Black Moon weapon skin that can be equipped over#c any weapon.#"/>
+			</imgdir>
+			<imgdir name="1702986">
+				<string name="name" value="Firefly Forest Weapon"/>
+				<string name="desc" value="A Firefly Forest weapon skin that can be equipped over#c any weapon.# Designed by China MapleStory player wuchang."/>
+			</imgdir>
+			<imgdir name="1702990">
+				<string name="name" value="Descendant of Dragons"/>
+			</imgdir>
+			<imgdir name="1702991">
+				<string name="name" value="Survival Battle Gun"/>
+			</imgdir>
+			<imgdir name="1702992">
+				<string name="name" value="Fluffy Cloud Balloon"/>
+			</imgdir>
+			<imgdir name="1542083">
+				<string name="name" value="Pearl Maple Katana"/>
+			</imgdir>
+			<imgdir name="1552083">
+				<string name="name" value="Pearl Maple Fan"/>
+			</imgdir>
+			<imgdir name="1252110">
+				<string name="name" value="Pearl Maple Scepter "/>
+			</imgdir>
 		</imgdir>
 		<imgdir name="Ring">
 			<imgdir name="1112000">
@@ -103110,6 +104000,20 @@
 			<imgdir name="1115193">
 				<string name="name" value="Berry Sweet Label Ring"/>
 			</imgdir>
+			<imgdir name="1115195">
+				<string name="name" value="A Drop of Nostalgia Label Ring"/>
+			</imgdir>
+			<imgdir name="1115094">
+				<string name="name" value="A Drop of Nostalgia Chat Ring"/>
+			</imgdir>
+			<imgdir name="1115198">
+				<string name="desc" value="aa"/>
+				<string name="name" value="Rock Spirit Label Ring"/>
+			</imgdir>
+			<imgdir name="1115097">
+				<string name="desc" value="aa"/>
+				<string name="name" value="Rock Spirit Chat Ring"/>
+			</imgdir>
 		</imgdir>
 		<imgdir name="Android">
 			<imgdir name="1662000">
@@ -103389,16 +104293,16 @@
 				<string name="desc" value="An android that looks like Will. Allows you access to General Store functions via the #cVisit Shop# button in her equipment window. Must have an #cAndroid Heart# equipped to operate.\nThe android rank must be the same or higher than the rank of the Android Heart."/>
 			</imgdir>
 			<imgdir name="1662149">
-				<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-				<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+				<string name="name" value="Pixel Aliciaroid"/>
+				<string name="desc" value="An android that looks like Alicia. Allows you access to General Store functions via the #cVisit Shop# button in its equipment window. Must have an #cAndroid Heart# equipped to operate.\nThe android rank must be the same or higher than the rank of the Android Heart.\n#c\nThis is a non-human type android whose face and hair cannot be changed, and whose appearance will not change when Cash Items are equipped.#"/>
 			</imgdir>
 			<imgdir name="1662150">
-				<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-				<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+				<string name="name" value="Pixel Lucidroid"/>
+				<string name="desc" value="An android that looks like Lucid. Allows you access to General Store functions via the #cVisit Shop# button in its equipment window. Must have an #cAndroid Heart# equipped to operate.\nThe android rank must be the same or higher than the rank of the Android Heart.\n#c\nThis is a non-human type android whose face and hair cannot be changed, and whose appearance will not change when Cash Items are equipped.#"/>
 			</imgdir>
 			<imgdir name="1662151">
-				<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-				<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+				<string name="name" value="Pixel Damienroid"/>
+				<string name="desc" value="An android that looks like Damien. Allows you access to General Store functions via the #cVisit Shop# button in its equipment window. Must have an #cAndroid Heart# equipped to operate.\nThe android rank must be the same or higher than the rank of the Android Heart.\n#c\nThis is a non-human type android whose face and hair cannot be changed, and whose appearance will not change when Cash Items are equipped.#"/>
 			</imgdir>
 			<imgdir name="1662152">
 				<string name="name" value="Serenoid"/>
@@ -108994,7 +109898,7 @@ Stage 5: Transcendent Heart Necklace"/>
 				<string name="name" value="Blazing Hot"/>
 			</imgdir>
 			<imgdir name="1143169">
-				<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+				<string name="name" value="Pixel Hero"/>
 				<string name="desc" value="A commemorative Maple 15th Anniversary medal."/>
 			</imgdir>
 			<imgdir name="1143174">
@@ -112447,7 +113351,7 @@ Stage 5: Transcendent Heart Necklace"/>
 				<string name="name" value="Maple Voter"/>
 			</imgdir>
 			<imgdir name="1142659">
-				<string name="name" value="Tynerum Guardian"/>
+				<string name="name" value="Phantom Forest Guardian"/>
 			</imgdir>
 			<imgdir name="1142662">
 				<string name="name" value="Commerci Citizen"/>
@@ -114640,6 +115544,24 @@ The duration can be extended using Resurrection Elixir of Isis."/>
 			<imgdir name="1012710">
 				<string name="name" value="Ridiculous Face Accessory"/>
 			</imgdir>
+			<imgdir name="1012711">
+				<string name="name" value="Sobbing Face Accessory"/>
+			</imgdir>
+			<imgdir name="1012712">
+				<string name="name" value="Black Moon Face Accessory"/>
+			</imgdir>
+			<imgdir name="1012713">
+				<string name="name" value="P-Please Don&apos;t Do This!"/>
+			</imgdir>
+			<imgdir name="1012714">
+				<string name="name" value="Fierce Battle Wound A"/>
+			</imgdir>
+			<imgdir name="1012715">
+				<string name="name" value="Bursting Rainbow"/>
+			</imgdir>
+			<imgdir name="1012717">
+				<string name="name" value="Fierce Battle Wound B"/>
+			</imgdir>
 		</imgdir>
 		<imgdir name="Bits">
 			<imgdir name="1680000">
@@ -115531,7 +116453,7 @@ The duration can be extended using Resurrection Elixir of Isis."/>
 		</imgdir>
 		<imgdir name="MonsterBook">
 			<imgdir name="1172000">
-				<string name="name" value="Crusader Codex"/>
+				<string name="name" value="Roro the Familiar Manager"/>
 			</imgdir>
 		</imgdir>
 		<imgdir name="Skillskin">

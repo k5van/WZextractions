@@ -1898,7 +1898,7 @@ Talk to NPC Lauren at Henesys Hair Salon for Androids."/>
 		<string name="desc" value="#cDouble-click# to exchange this coupon for a#c random# Pixel Pick Royal Hair, or talk to Lauren at the Henesys Hair Salon to change your Android&apos;s hair. Double-click it in the Cash Shop for a#c preview#!"/>
 	</imgdir>
 	<imgdir name="5150167">
-		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="Pixel Hair Coupon"/>
 		<string name="desc" value="#cDouble-click# to apply the hairstyle of your choice from a carefully curated list, or talk to Lauren at the Henesys Hair Salon to change your Android&apos;s hair."/>
 	</imgdir>
 	<imgdir name="5151000">
@@ -2179,7 +2179,7 @@ Talk to NPC Lauren at Henesys Hair Salon for Androids."/>
 		<string name="desc" value="#cDouble-click# to exchange this coupon for a#c random# Pixel Pick Royal Face, or talk to Lauren at the Henesys Hair Salon to change your Android&apos;s face. Double-click it in the Cash Shop for a#c preview#!"/>
 	</imgdir>
 	<imgdir name="5152239">
-		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="Pixel Face Coupon"/>
 		<string name="desc" value="#cDouble-click# to apply the face of your choice from a carefully curated list, or talk to Lauren at the Henesys Hair Salon to change your Android&apos;s hair."/>
 	</imgdir>
 	<imgdir name="5152300">
@@ -5420,8 +5420,8 @@ Talk to NPC Lauren at Henesys Hair Salon for Androids."/>
 		<string name="desc" value="Contains #cMaple Stamp x6# that can be exchanged for all kinds of gifts."/>
 	</imgdir>
 	<imgdir name="5530874">
-		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="Party Pixel x1 Coupon"/>
+		<string name="desc" value="Double-click and use to obtain #cParty Pixel x1#, which can be exchanged for various rewards."/>
 	</imgdir>
 	<imgdir name="5530875">
 		<string name="name" value="Power Elixir x1000"/>
@@ -5608,12 +5608,12 @@ Talk to NPC Lauren at Henesys Hair Salon for Androids."/>
 		<string name="desc" value="A box containing a glittery, celebratory hat. You will randomly receive 1 of the 6 hat types. #cItems in this box are obtained at the same rate.#"/>
 	</imgdir>
 	<imgdir name="5533122">
-		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="Pixel High Fashion Box"/>
+		<string name="desc" value="This Pixel High Fashion Box was specially curated to commemorate the 15th Anniversary. Contains #c1 of the 11 random fashion items#.\r\n(You have an equal chance to obtain any of the items in the Pixel High Fashion Box.)"/>
 	</imgdir>
 	<imgdir name="5533123">
-		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="Pixel Everyday Fashion Box"/>
+		<string name="desc" value="This Pixel Everyday Fashion Box was specially curated to commemorate the 15th Anniversary. Contains #c1 of the 11 random fashion items#.\r\n(You have an equal chance to obtain any of the items in the Pixel Everyday Fashion Box.)"/>
 	</imgdir>
 	<imgdir name="5550000">
 		<string name="name" value="Add Pendant Slot"/>
@@ -7590,7 +7590,7 @@ Talk to NPC Lauren at Henesys Hair Salon for Androids."/>
 	</imgdir>
 	<imgdir name="5010183">
 		<string name="name" value="Junior Exorcist Emblem"/>
-		<string name="desc" value="Displays the emblem of a Ghost Park Junior Exorcist. Double-click to toggle the effect on/off, or set up a hotkey for it in your Key Config."/>
+		<string name="desc" value="Displays the emblem of the Ghost Park Junior Exorcist. Double-click to toggle the effect on/off, or set up a hotkey for it in your Key Config."/>
 	</imgdir>
 	<imgdir name="5120198">
 		<string name="name" value="Meso-Raining Goblin Cloud"/>
@@ -8551,7 +8551,7 @@ ATT, MATT + 100"/>
 	</imgdir>
 	<imgdir name="5211060">
 		<string name="name" value="2-hour 3x EXP Special Coupon"/>
-		<string name="desc" value="This coupon allows users to earn #c3x Exp (triple experience)#. The coupon will be activated immediately after purchase, and the triple experience effect will be available for 2 hour upon purchase. \n\n#c*Cannot be applied on characters above Lv. 250.#"/>
+		<string name="desc" value="Grants #c3x EXP (triple experience)# while held. The item will be activated immediately upon purchase, with its effects lasting for 2 hours. \n\n#c*No effect on characters above Lv. 250.#"/>
 	</imgdir>
 	<imgdir name="5211067">
 		<string name="name" value="Sapphire EXP Coupon"/>
@@ -8617,17 +8617,16 @@ ATT, MATT + 100"/>
 	</imgdir>
 	<imgdir name="5220083">
 		<string name="name" value="Starter Pack"/>
-		<string name="desc" value="A starter pack commemorating the introduction of Monster Familiars! \n\nContents: \nPig \nCloud Fox \nTerrified Wild Boar \nRed Drake \n\n#cCannot be traded. Can only be purchased once per account.#
+		<string name="desc" value="A starter pack commemorating the introduction of Monster Familiars! \n\nContents: \nPig \nCloud Fox \nTerrified Wild Boar \nJr. Cactus \n\n#cCannot be traded. Can only be purchased once per account.#
 "/>
 	</imgdir>
 	<imgdir name="5220084">
 		<string name="name" value="Booster Pack"/>
-		<string name="desc" value="A pack that gives out 3 random Familiars total: 2 common and 1 uncommon or better.
-\n#cThe contents are determined by the system, and a Rare item is not always given. The chances of obtaining better items are not affected by the amount purchased. #"/>
+		<string name="desc" value="A booster pack containing 3 random Familiars. The Familiars you can receive range from Common to Epic in rank."/>
 	</imgdir>
 	<imgdir name="5220092">
-		<string name="name" value="Legendary Booster Pack"/>
-		<string name="desc" value="This booster pack gives out 3 Rare or higher Familiars. \nLevel: Contains 3 Rare Familiars - one below Lv. 50, one below Lv. 100, and one Lv. 100 or higher. There is a small chance that a Lv. 1 - 200 Legendary Familiar might come out instead of the Lv. 100 or higher Rare Familiar. \nRank: 1 Normal, 1 Normal or Special, and 1 Special or better. \n#cYou will receive a Volatile Legends Familiar Stamp upon using the item. Collect 20 of them to receive a Volatile Familiar Ticket that will allow you to get a Legendary Familiar. #The contents are determined by the system, and a Rare item is not always given. The chances of obtaining better items are not affected by the amount purchased."/>
+		<string name="name" value="Unique Booster Pack"/>
+		<string name="desc" value="A booster pack containing 3 random Familiars. The Familiars you can receive range from Rare to Unique in rank.\n#cYou will receive a Volatile Unique Familiar Stamp upon using this item. Collect 20 of them to receive a Volatile Familiar Ticket that will allow you to get a Unique Familiar. "/>
 	</imgdir>
 	<imgdir name="5220094">
 		<string name="name" value="Nebulite Gachapon Ticket"/>
@@ -12009,5 +12008,57 @@ ATT, MATT + 100"/>
 	<imgdir name="5252032">
 		<string name="name" value="Maple Tour VIP Pass"/>
 		<string name="desc" value="A pass that lets you make use of the MNN studio to film for Maple Tour."/>
+	</imgdir>
+	<imgdir name="5060074">
+		<string name="name" value="Familiar Rebirth Card"/>
+		<string name="desc" value="A mysterious card that&apos;s said to reset a Familiar&apos;s Potential. Has a low chance of increasing the Familiar&apos;s rank."/>
+	</imgdir>
+	<imgdir name="5060075">
+		<string name="name" value="Red Familiar Card"/>
+		<string name="desc" value="A mysterious card that&apos;s said to reset a Familiar&apos;s Potential. Has a low chance of increasing the Familiar&apos;s rank."/>
+	</imgdir>
+	<imgdir name="5060076">
+		<string name="name" value="Familiar Breakthrough Card"/>
+		<string name="desc" value="Allows a Familiar to break through its limitations, increasing its level cap."/>
+	</imgdir>
+	<imgdir name="5060077">
+		<string name="name" value="Fauxmiliar Card"/>
+	</imgdir>
+	<imgdir name="5060078">
+		<string name="name" value="Suspicious Fauxmiliar Card"/>
+	</imgdir>
+	<imgdir name="5060079">
+		<string name="name" value="Familiar Level-Up Card"/>
+		<string name="desc" value="A mysterious card that increases the Familiar&apos;s level by one when used."/>
+	</imgdir>
+	<imgdir name="5060080">
+		<string name="name" value="Familiar Level Reset Card"/>
+		<string name="desc" value="A mysterious card that resets a Familiar&apos;s level when used."/>
+	</imgdir>
+	<imgdir name="5060081">
+		<string name="name" value="Familiar Slot Expansion Coupon"/>
+		<string name="desc" value="Increases Familiar storage slots by 5 when used."/>
+	</imgdir>
+	<imgdir name="5680821">
+		<string name="name" value="Suspicious Fauxmiliar Card"/>
+	</imgdir>
+	<imgdir name="5680822">
+		<string name="name" value="Fauxmiliar Card"/>
+	</imgdir>
+	<imgdir name="5220028">
+		<string name="name" value="Familiar Booster Pack Coupon"/>
+		<string name="desc" value="A coupon that grants a Familiar Booster Pack when used."/>
+	</imgdir>
+	<imgdir name="5240203">
+		<string name="name" value="Fresh-baked Drumstick"/>
+		<string name="desc" value="A glistening chicken leg that can only be eaten by the #cDoodle Monsters#. Restores Fullness completely and #cincreases Closeness by 100#."/>
+	</imgdir>
+	<imgdir name="5680813">
+		<string name="desc" value="#cDouble-click# to get a Custom Title. You won&apos;t get one if you&apos;re already using a Custom Title."/>
+		<string name="name" value="Custom Title Coupon"/>
+	</imgdir>
+	<imgdir name="5240204">
+		<string name="name" value="aa"/>
+		<string name="desc" value="A spoonful of sweet sugar that only the #cCherry Chum pets# can stomach. Restores Fullness completely and #cincreases Closeness by 100#."/>
 	</imgdir>
 </imgdir>

@@ -36840,16 +36840,16 @@
 			<string name="mapName" value="Ruler of the Sky&apos;s Territory"/>
 		</imgdir>
 		<imgdir name="993100000">
-			<string name="streetName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-			<string name="mapName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="streetName" value="Pixel Kingdom"/>
+			<string name="mapName" value="Pixel Reverse Battle Lobby"/>
 		</imgdir>
 		<imgdir name="993100100">
-			<string name="streetName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-			<string name="mapName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="streetName" value="Pixel Kingdom"/>
+			<string name="mapName" value="Pixel Reverse Battle Arena"/>
 		</imgdir>
 		<imgdir name="993100200">
-			<string name="streetName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-			<string name="mapName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="streetName" value="Pixel Kingdom"/>
+			<string name="mapName" value="Pixel Reverse Battle Exit"/>
 		</imgdir>
 		<imgdir name="993100300">
 			<string name="streetName" value="One Card"/>
@@ -36916,172 +36916,172 @@
 			<string name="mapName" value="Ancient Temple"/>
 		</imgdir>
 		<imgdir name="993104000">
-			<string name="streetName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-			<string name="mapName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="streetName" value="Up and Up"/>
+			<string name="mapName" value="Up and Up Lobby"/>
 		</imgdir>
 		<imgdir name="993104100">
-			<string name="streetName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-			<string name="mapName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="streetName" value="Up and Up"/>
+			<string name="mapName" value="Up and Up "/>
 		</imgdir>
 		<imgdir name="993104200">
-			<string name="streetName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-			<string name="mapName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="streetName" value="Up and Up"/>
+			<string name="mapName" value="Up and Up Exit"/>
 		</imgdir>
 		<imgdir name="993104300">
-			<string name="streetName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-			<string name="mapName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="streetName" value="Hidden Street"/>
+			<string name="mapName" value="Pixel Coconut Season &lt;Lobby&gt;"/>
 		</imgdir>
 		<imgdir name="993104310">
-			<string name="streetName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-			<string name="mapName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="streetName" value="Hidden Street"/>
+			<string name="mapName" value="Pixel Coconut Season"/>
 		</imgdir>
 		<imgdir name="993104320">
-			<string name="streetName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-			<string name="mapName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="streetName" value="Hidden Street"/>
+			<string name="mapName" value="Pixel Coconut Season Exit"/>
 		</imgdir>
 		<imgdir name="993105000">
-			<string name="streetName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-			<string name="mapName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="streetName" value="Pixel Kingdom"/>
+			<string name="mapName" value="Watchtower Construction Site"/>
 		</imgdir>
 		<imgdir name="993105500">
-			<string name="streetName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-			<string name="mapName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="streetName" value="Pixel Kingdom"/>
+			<string name="mapName" value="Maximum Impulse"/>
 		</imgdir>
 		<imgdir name="993106000">
-			<string name="streetName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-			<string name="mapName" value="&#43690;&#43690;&#43690;"/>
+			<string name="streetName" value="Digital Horizon"/>
+			<string name="mapName" value="Barrier"/>
 		</imgdir>
 		<imgdir name="993106001">
-			<string name="streetName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-			<string name="mapName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="streetName" value="Digital Horizon"/>
+			<string name="mapName" value="Battleground Entrance"/>
 		</imgdir>
 		<imgdir name="993106002">
-			<string name="streetName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-			<string name="mapName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="streetName" value="Digital Horizon"/>
+			<string name="mapName" value="Battleground Entrance"/>
 		</imgdir>
 		<imgdir name="993106003">
-			<string name="streetName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-			<string name="mapName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="streetName" value="Digital Horizon"/>
+			<string name="mapName" value="Battleground Entrance"/>
 		</imgdir>
 		<imgdir name="993106004">
-			<string name="streetName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-			<string name="mapName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="streetName" value="Digital Horizon"/>
+			<string name="mapName" value="Battleground Entrance"/>
 		</imgdir>
 		<imgdir name="993106005">
-			<string name="streetName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-			<string name="mapName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="streetName" value="Digital Horizon"/>
+			<string name="mapName" value="Battleground Entrance"/>
 		</imgdir>
 		<imgdir name="993106006">
-			<string name="streetName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-			<string name="mapName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="streetName" value="Digital Horizon"/>
+			<string name="mapName" value="Battleground Exit"/>
 		</imgdir>
 		<imgdir name="993106100">
-			<string name="streetName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-			<string name="mapName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="streetName" value="Digital Horizon"/>
+			<string name="mapName" value="Battleground"/>
 		</imgdir>
 		<imgdir name="993107000">
-			<string name="streetName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-			<string name="mapName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="streetName" value="Pixel Kingdom"/>
+			<string name="mapName" value="Monster Pyramid Lobby"/>
 		</imgdir>
 		<imgdir name="993107100">
-			<string name="streetName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-			<string name="mapName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="streetName" value="Pixel Kingdom"/>
+			<string name="mapName" value="Monster Pyramid Battleground"/>
 		</imgdir>
 		<imgdir name="993107200">
-			<string name="streetName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-			<string name="mapName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="streetName" value="Pixel Kingdom"/>
+			<string name="mapName" value="Monster Pyramid Exit"/>
 		</imgdir>
 		<imgdir name="993107201">
-			<string name="streetName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-			<string name="mapName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="streetName" value="Pixel Kingdom"/>
+			<string name="mapName" value="Pixel Kingdom Skies"/>
 		</imgdir>
 		<imgdir name="993107300">
-			<string name="streetName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-			<string name="mapName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="streetName" value="Pixel Kingdom"/>
+			<string name="mapName" value="Watchtower Construction Site Exit"/>
 		</imgdir>
 		<imgdir name="993107400">
-			<string name="streetName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-			<string name="mapName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="streetName" value="Pixel Kingdom"/>
+			<string name="mapName" value="Maximum Impulse Exit"/>
 		</imgdir>
 		<imgdir name="993110000">
-			<string name="streetName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-			<string name="mapName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="streetName" value="Pixel Kingdom"/>
+			<string name="mapName" value="Pixel Kingdom"/>
 		</imgdir>
 		<imgdir name="993110100">
-			<string name="streetName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-			<string name="mapName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="streetName" value="Pixel Kingdom"/>
+			<string name="mapName" value="Pixel Roller Rink"/>
 		</imgdir>
 		<imgdir name="993110200">
-			<string name="streetName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-			<string name="mapName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="streetName" value="Pixel Kingdom"/>
+			<string name="mapName" value="Pixel Sauna"/>
 		</imgdir>
 		<imgdir name="993110300">
-			<string name="streetName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-			<string name="mapName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="streetName" value="Pixel Kingdom"/>
+			<string name="mapName" value="Pixel Kingdom"/>
 		</imgdir>
 		<imgdir name="993110400">
-			<string name="streetName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-			<string name="mapName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="streetName" value="Pixel Kingdom"/>
+			<string name="mapName" value="Pixel Kingdom"/>
 		</imgdir>
 		<imgdir name="993110500">
-			<string name="streetName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-			<string name="mapName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="streetName" value="Pixel Kingdom"/>
+			<string name="mapName" value="Pixel Kingdom"/>
 		</imgdir>
 		<imgdir name="993110600">
-			<string name="streetName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-			<string name="mapName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="streetName" value="Pixel Kingdom"/>
+			<string name="mapName" value="Pixel Kingdom"/>
 		</imgdir>
 		<imgdir name="993110700">
-			<string name="streetName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-			<string name="mapName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="streetName" value="Final Battle"/>
+			<string name="mapName" value="Lord Pixrog&apos;s Hideout"/>
 		</imgdir>
 		<imgdir name="993107600">
-			<string name="streetName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-			<string name="mapName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="streetName" value="Lord Pixrog"/>
+			<string name="mapName" value="Lord Pixrog&apos;s Hideout"/>
 		</imgdir>
 		<imgdir name="993107800">
-			<string name="streetName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-			<string name="mapName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="streetName" value="Crazy Splash"/>
+			<string name="mapName" value="Crazy Splash"/>
 		</imgdir>
 		<imgdir name="993108200">
-			<string name="streetName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-			<string name="mapName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="streetName" value="Crazy Splash"/>
+			<string name="mapName" value="Crazy Splash Lobby"/>
 		</imgdir>
 		<imgdir name="993108201">
-			<string name="streetName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-			<string name="mapName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="streetName" value="Crazy Splash"/>
+			<string name="mapName" value="Crazy Splash Exit"/>
 		</imgdir>
 		<imgdir name="993108202">
-			<string name="streetName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-			<string name="mapName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="streetName" value="Crazy Splash"/>
+			<string name="mapName" value="Path to Pixel Kingdom"/>
 		</imgdir>
 		<imgdir name="993107701">
-			<string name="streetName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-			<string name="mapName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="streetName" value="Lord Pixrog"/>
+			<string name="mapName" value="Hideout Exit"/>
 		</imgdir>
 		<imgdir name="993110800">
-			<string name="streetName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-			<string name="mapName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="streetName" value="Pixel Kingdom"/>
+			<string name="mapName" value="Pixel One Card Lobby"/>
 		</imgdir>
 		<imgdir name="993110900">
-			<string name="streetName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-			<string name="mapName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="streetName" value="Pixel Kingdom"/>
+			<string name="mapName" value="Pixel One Card Battleground"/>
 		</imgdir>
 		<imgdir name="993111000">
-			<string name="streetName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-			<string name="mapName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="streetName" value="Pixel Kingdom"/>
+			<string name="mapName" value="Pixel One Card Exit"/>
 		</imgdir>
 		<imgdir name="993111100">
-			<string name="streetName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-			<string name="mapName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="streetName" value="Pixel Kingdom"/>
+			<string name="mapName" value="Pixel Supernatural Yut Lobby"/>
 		</imgdir>
 		<imgdir name="993111200">
-			<string name="streetName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-			<string name="mapName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="streetName" value="Pixel Kingdom"/>
+			<string name="mapName" value="Pixel Supernatural Yut Battleground"/>
 		</imgdir>
 		<imgdir name="993111300">
-			<string name="streetName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-			<string name="mapName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="streetName" value="Pixel Kingdom"/>
+			<string name="mapName" value="Pixel Supernatural Yut Exit"/>
 		</imgdir>
 		<imgdir name="993110750">
 			<string name="streetName" value="Job Epilogue"/>
@@ -47664,87 +47664,87 @@
 			<string name="mapName" value="San Commerci Office"/>
 		</imgdir>
 		<imgdir name="863000100">
-			<string name="streetName" value="Tynerum"/>
+			<string name="streetName" value="Phantom Forest"/>
 			<string name="mapName" value="Heart Tree Guardian Grove"/>
 		</imgdir>
 		<imgdir name="863000900">
-			<string name="streetName" value="Tynerum"/>
+			<string name="streetName" value="Phantom Forest"/>
 			<string name="mapName" value="Gollux: Head"/>
 		</imgdir>
 		<imgdir name="863000920">
-			<string name="streetName" value="Tynerum"/>
+			<string name="streetName" value="Phantom Forest"/>
 			<string name="mapName" value="Gollux: Head"/>
 		</imgdir>
 		<imgdir name="863010000">
-			<string name="streetName" value="Tynerum"/>
+			<string name="streetName" value="Phantom Forest"/>
 			<string name="mapName" value="Memories of the Heart Tree"/>
 		</imgdir>
 		<imgdir name="863010100">
-			<string name="streetName" value="Tynerum"/>
+			<string name="streetName" value="Phantom Forest"/>
 			<string name="mapName" value="Road to Gollux"/>
 		</imgdir>
 		<imgdir name="863010200">
-			<string name="streetName" value="Tynerum"/>
+			<string name="streetName" value="Phantom Forest"/>
 			<string name="mapName" value="Gollux: Lower Right Leg"/>
 		</imgdir>
 		<imgdir name="863010210">
-			<string name="streetName" value="Tynerum"/>
+			<string name="streetName" value="Phantom Forest"/>
 			<string name="mapName" value="Gollux: Upper Right Leg"/>
 		</imgdir>
 		<imgdir name="863010220">
-			<string name="streetName" value="Tynerum"/>
+			<string name="streetName" value="Phantom Forest"/>
 			<string name="mapName" value="Gollux: Lower Left Leg"/>
 		</imgdir>
 		<imgdir name="863010230">
-			<string name="streetName" value="Tynerum"/>
+			<string name="streetName" value="Phantom Forest"/>
 			<string name="mapName" value="Gollux: Upper Left Leg"/>
 		</imgdir>
 		<imgdir name="863010240">
-			<string name="streetName" value="Tynerum"/>
+			<string name="streetName" value="Phantom Forest"/>
 			<string name="mapName" value="Gollux: Abdomen"/>
 		</imgdir>
 		<imgdir name="863010300">
-			<string name="streetName" value="Tynerum"/>
-			<string name="mapName" value="Gollux: Lower Left Torso"/>
+			<string name="streetName" value="Phantom Forest"/>
+			<string name="mapName" value="Gollux: Lower Right Torso"/>
 		</imgdir>
 		<imgdir name="863010310">
-			<string name="streetName" value="Tynerum"/>
-			<string name="mapName" value="Gollux: Upper Left Torso"/>
+			<string name="streetName" value="Phantom Forest"/>
+			<string name="mapName" value="Gollux: Upper Right Torso"/>
 		</imgdir>
 		<imgdir name="863010320">
-			<string name="streetName" value="Tynerum"/>
+			<string name="streetName" value="Phantom Forest"/>
 			<string name="mapName" value="Gollux: Upper Right Arm"/>
 		</imgdir>
 		<imgdir name="863010330">
-			<string name="streetName" value="Tynerum"/>
+			<string name="streetName" value="Phantom Forest"/>
 			<string name="mapName" value="Gollux: Right Shoulder"/>
 		</imgdir>
 		<imgdir name="863010400">
-			<string name="streetName" value="Tynerum"/>
-			<string name="mapName" value="Gollux: Lower Right Torso"/>
+			<string name="streetName" value="Phantom Forest"/>
+			<string name="mapName" value="Gollux: Lower Left Torso"/>
 		</imgdir>
 		<imgdir name="863010410">
-			<string name="streetName" value="Tynerum"/>
-			<string name="mapName" value="Gollux: Upper Right Torso"/>
+			<string name="streetName" value="Phantom Forest"/>
+			<string name="mapName" value="Gollux: Upper Left Torso"/>
 		</imgdir>
 		<imgdir name="863010420">
-			<string name="streetName" value="Tynerum"/>
+			<string name="streetName" value="Phantom Forest"/>
 			<string name="mapName" value="Gollux: Upper Left Arm"/>
 		</imgdir>
 		<imgdir name="863010430">
-			<string name="streetName" value="Tynerum"/>
+			<string name="streetName" value="Phantom Forest"/>
 			<string name="mapName" value="Gollux: Left Shoulder"/>
 		</imgdir>
 		<imgdir name="863010500">
-			<string name="streetName" value="Tynerum"/>
+			<string name="streetName" value="Phantom Forest"/>
 			<string name="mapName" value="Gollux: Heart"/>
 		</imgdir>
 		<imgdir name="863010600">
-			<string name="streetName" value="Tynerum"/>
+			<string name="streetName" value="Phantom Forest"/>
 			<string name="mapName" value="Gollux: Head"/>
 		</imgdir>
 		<imgdir name="863010700">
-			<string name="streetName" value="Tynerum"/>
+			<string name="streetName" value="Phantom Forest"/>
 			<string name="mapName" value="Gollux: Heart"/>
 		</imgdir>
 		<imgdir name="865000000">
@@ -48670,6 +48670,14 @@
 		<imgdir name="866000250">
 			<string name="streetName" value="Arboren"/>
 			<string name="mapName" value="Bitterstump Forest Path"/>
+		</imgdir>
+		<imgdir name="863000110">
+			<string name="streetName" value="Phantom Forest"/>
+			<string name="mapName" value="Heart Tree Guardian Grove"/>
+		</imgdir>
+		<imgdir name="863010710">
+			<string name="streetName" value="Phantom Forest"/>
+			<string name="mapName" value="Heart Tree Guardian Grove"/>
 		</imgdir>
 	</imgdir>
 	<imgdir name="Sengoku2014">
@@ -54955,7 +54963,7 @@
 		</imgdir>
 		<imgdir name="600010180">
 			<string name="streetName" value="Krakian Jungle"/>
-			<string name="mapName" value="Where the Cliff Splits"/>
+			<string name="mapName" value="Sacrificial Altar"/>
 		</imgdir>
 		<imgdir name="600010200">
 			<string name="streetName" value="Krakian Jungle"/>
