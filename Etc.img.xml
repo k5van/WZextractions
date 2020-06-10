@@ -5792,7 +5792,7 @@
 			<string name="desc" value="A raw ore of a gem that contains the power of time."/>
 		</imgdir>
 		<imgdir name="4020013">
-			<string name="name" value="Faded Dream Fragment"/>
+			<string name="name" value="Dream Fragment"/>
 			<string name="desc" value="A fragment filled with dreams."/>
 		</imgdir>
 		<imgdir name="4021000">
@@ -18020,6 +18020,14 @@
 			<string name="name" value="Glory Coin"/>
 			<string name="desc" value="A coin given to members of the Glory Guard as a reward for carrying out missions. It can be used to purchase items from the Alliance Supply Depot, or increase one&apos;s Glory Guard rank."/>
 		</imgdir>
+		<imgdir name="4310275">
+			<string name="name" value="Goblin Coin"/>
+			<string name="desc" value="A coin that can be spent at the #cFull Moon Goblin Night Market#."/>
+		</imgdir>
+		<imgdir name="4310276">
+			<string name="name" value="Full Moon Buckwheat Jelly"/>
+			<string name="desc" value="Buckwheat jelly you received as a gift for collecting many Goblin Coins. A favorite of the goblins, and can be exchanged for a variety of items at Sweepy&apos;s General Store."/>
+		</imgdir>
 		<imgdir name="4320000">
 			<string name="name" value="Damage Meter"/>
 			<string name="desc" value="A meter that can measure damage."/>
@@ -18480,14 +18488,6 @@
 			<string name="name" value="Crumpled Note"/>
 			<string name="desc" value="A crumpled note. Inside, it says &apos;It&apos;s a monster... run...&apos;"/>
 		</imgdir>
-		<imgdir name="4310275">
-			<string name="name" value="Goblin Coin"/>
-			<string name="desc" value="A coin that can be spent at the #cFull Moon Goblin Night Market#."/>
-		</imgdir>
-		<imgdir name="4310276">
-			<string name="name" value="Full Moon Buckwheat Jelly"/>
-			<string name="desc" value="Buckwheat jelly you received as a gift for collecting many Goblin Coins. A favorite of the goblins, and can be exchanged for a variety of items at Sweepy&apos;s General Store."/>
-		</imgdir>
 		<imgdir name="4036607">
 			<string name="name" value="Tamed Rudolph"/>
 			<string name="desc" value="A lost Rudolph that has been tamed through spells."/>
@@ -18557,8 +18557,68 @@
 			<string name="desc" value="A picture of a person you don&apos;t recognize. Whoever they are, they&apos;re smiling happily."/>
 		</imgdir>
 		<imgdir name="4036624">
-			<string name="name" value="Dream Fragment"/>
+			<string name="name" value="Shiny Dream Fragment"/>
 			<string name="desc" value="A fragment filled with dreams."/>
+		</imgdir>
+		<imgdir name="4310283">
+			<string name="name" value="Salon Stamp"/>
+			<string name="desc" value="Can be exchanged for various items at the Salon Stamp Shop in Rise Salon."/>
+		</imgdir>
+		<imgdir name="4036631">
+			<string name="name" value="Blue Rat Meat"/>
+			<string name="desc" value="It doesn&apos;t look very tasty..."/>
+		</imgdir>
+		<imgdir name="4036632">
+			<string name="name" value="Purple Rat Meat"/>
+			<string name="desc" value="It smells weird and looks tough."/>
+		</imgdir>
+		<imgdir name="4036633">
+			<string name="name" value="T-Boy&apos;s Research Notes"/>
+			<string name="desc" value="T-Boy&apos;s research notes. They&apos;re surprisingly well written."/>
+		</imgdir>
+		<imgdir name="4036634">
+			<string name="name" value="Drone Part"/>
+			<string name="desc" value="Someone smashed up an innocent drone to get this part."/>
+		</imgdir>
+		<imgdir name="4036635">
+			<string name="name" value="Drone Part"/>
+			<string name="desc" value="Someone smashed up an innocent drone to get this part."/>
+		</imgdir>
+		<imgdir name="4036636">
+			<string name="name" value="Surviving in the Jungle"/>
+			<string name="desc" value="The model on the cover is making a peace sign. But why?"/>
+		</imgdir>
+		<imgdir name="4036637">
+			<string name="name" value="Surviving in the Subway"/>
+			<string name="desc" value="The model on the cover is making a peace sign. But why?"/>
+		</imgdir>
+		<imgdir name="4036638">
+			<string name="name" value="Old Walkie-Talkie"/>
+			<string name="desc" value="It may be old, but it still works."/>
+		</imgdir>
+		<imgdir name="4036639">
+			<string name="name" value="Christmas Tree Ornament"/>
+			<string name="desc" value="A Christmas ornament."/>
+		</imgdir>
+		<imgdir name="4036641">
+			<string name="name" value="Subway Line Map"/>
+			<string name="desc" value="A crumpled old subway map."/>
+		</imgdir>
+		<imgdir name="4310282">
+			<string name="name" value="Rise Coin"/>
+			<string name="desc" value="Can be exchanged for various special items at the #cRise Salon Coin Shop#."/>
+		</imgdir>
+		<imgdir name="4036657">
+			<string name="name" value="Ristonian Silver"/>
+			<string name="desc" value="A silver coin issued by Ristonia."/>
+		</imgdir>
+		<imgdir name="4036658">
+			<string name="name" value="Ristonian Dispatch"/>
+			<string name="desc" value="A newspaper published in Ristonia."/>
+		</imgdir>
+		<imgdir name="4036659">
+			<string name="name" value="Small Ember"/>
+			<string name="desc" value="A weak ember that might go out at any moment."/>
 		</imgdir>
 		<imgdir name="4000174">
 			<string name="name" value="Money Envelope"/>
@@ -23351,12 +23411,12 @@ Looking at this fills you with hope. It&apos;s terribly fragile, so handle with 
 			<string name="desc" value="Evidence of the Heart Tree&apos;s corruption."/>
 		</imgdir>
 		<imgdir name="4033981">
-			<string name="name" value="Fragile Heart Tree Key"/>
-			<string name="desc" value="A key cobbled together from the memories of the Heart Tree. It should give you access to Gollux, but will break due to its poor construction. You can get 3 of these each day."/>
+			<string name="name" value="Fallen Gollux Key Replica"/>
+			<string name="desc" value="A magical key created from collecting remnants from Gollux. If you contact the imitation heart using this key, you can move to where Gollux is.#cBut be careful, as the magical power will weaken after 1 day#."/>
 		</imgdir>
 		<imgdir name="4033982">
 			<string name="name" value="Fallen Heart Tree Key"/>
-			<string name="desc" value="Made from various dead roots and stems found near the Heart Tree. It should give you access to Gollux. "/>
+			<string name="desc" value="A magical key made from Gollux&apos;s heart fragment. It reeks of strong corrupted energy. #cBe careful when using this key, as you&apos;ll be immediately moved to Gollux: Head upon contacting the imitation heart with it.#"/>
 		</imgdir>
 		<imgdir name="4033983">
 			<string name="name" value="Masterful Heart Tree Key"/>
@@ -27535,11 +27595,11 @@ Looking at this fills you with hope. It&apos;s terribly fragile, so handle with 
 		</imgdir>
 		<imgdir name="4390000">
 			<string name="name" value="1.3x EXP Ticket"/>
-			<string name="desc" value="This item grants you 1.3x EXP while held.\n\n#c*Cannot be stacked with another cash item that has the same effect.\n*No effect on characters above Lv. 200.#"/>
+			<string name="desc" value="You will earn 1.3x EXP while this coupon is in your inventory.\n\n#c*Cannot be stacked with another cash item that has the same effect.\n*Cannot be applied on characters above Lv. 200.#"/>
 		</imgdir>
 		<imgdir name="4390001">
 			<string name="name" value="1.5x EXP Ticket"/>
-			<string name="desc" value="This item grants you 1.5x EXP while held.\n\n#c*Cannot be stacked with another cash item that has the same effect.\n*No effect on characters above Lv. 200.#"/>
+			<string name="desc" value="You will earn 1.5x EXP while this coupon is in your inventory.\n\n#c*Cannot be stacked with another cash item that has the same effect.\n*Cannot be applied on characters above Lv. 200.#"/>
 		</imgdir>
 		<imgdir name="4400000">
 			<string name="name" value="Wheel of Loot"/>

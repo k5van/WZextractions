@@ -1,3 +1,29 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <imgdir name="StringTable.img">
+	<string name="ReloadStringTable" value="/reloadstring"/>
+	<string name="SID_EMOTICON_CMD_ERROR_SPACE" value="Spaces cannot be used."/>
+	<string name="SID_EMOTICON_CMD_ERROR_SLASH" value="The &apos;/&apos; character cannot be used."/>
+	<string name="SID_EMOTICON_CMD_ERROR_SYSTEM_CMD" value="%s is a command scheduled by the system."/>
+	<string name="SID_EMOTICON_CMD_ERROR_CURSE" value="Profanity cannot be used."/>
+	<string name="SID_MESSENGER_NORAML_MODE_EMOTICON" value="&quot;Emoticon: %s&quot;"/>
+	<string name="SID_EMOTICON_SEND_ERROR_FIELD" value="Chat emoticons can&apos;t be used in this map."/>
+	<string name="SID_EMOTICON_REMOVE_ERROR_DEFAULT" value="Default chat emoticons cannot be removed."/>
+	<string name="SID_EMOTICON_GROUP_FAVORITE" value="View emoticons you&apos;ve set as Favorites. \r\nAdd an emoticon to your Favorites by pressing Change."/>
+	<string name="SID_EMOTICON_SEND_ERROR_BLOCK" value="Chat emoticons can&apos;t be used right now."/>
+	<string name="SID_CHAT_BUTTON_EMOTICON" value="Chat Emoticon"/>
+	<string name="SID_EMOTICON_SEND_ERROR_FRIEND" value="Chat emoticons cannot be used in friend chat."/>
+	<string name="SID_EMOTICON_SEND_ERROR_FRIEND_GROUP" value="Chat emoticons cannot be used in group chat."/>
+	<string name="SID_EMOTICON_SEND_ERROR_GUILD" value="Chat emoticons cannot be used in guild chat."/>
+	<string name="SID_EMOTICON_SEND_ERROR_ALLIANCE" value="Chat emoticons cannot be used in alliance chat."/>
+	<string name="SID_EMOTICON_SEND_ERROR_WHISPER" value="Chat emoticons cannot be used in whispers."/>
+	<string name="SID_EMOTICON_GROUP_PAGE_TOOLTIP" value="Use the left and right arrow keys or the mouse wheel \r\nto change pages."/>
+	<string name="SID_EMOTICON_EDIT_MODE_TOOLTIP" value="Delete or change the order of chat emoticon groups. \r\nSet the order of your Favorites list, or add/remove emoticons from the list."/>
+	<string name="SID_TOOLTIP_GUILD_MASTER_TIMEOUT" value="Since the Guild Leader has not logged in for a long time, you can force-change the Guild Leader at the Guild Base &lt;Hall of Heroes&gt;."/>
+	<string name="SID_ADD_BLACKLIST_NICKNAME" value="Enter a name to add to the blacklist."/>
+	<string name="SID_ADD_BLACKLIST_USERNAME" value="Enter a character name."/>
+	<string name="SID_ADD_BLACKLIST_USERALREADYBLACKLIST" value="%s already has their %s%s registered."/>
+	<string name="SID_ADD_BLACKLIST_NICKALREADYUSE" value="%s%s is already being used."/>
+	<string name="SID_ADD_BLACKLIST_NICKANME_SPACE" value="Names cannot contain spaces."/>
+	<string name="SID_ADD_BLACKLIST_NICKNAME_CURSE" value="Names cannot contain profanity."/>
+	<string name="SID_ADD_FRIEND_ERROR_CURSE" value="Profanity can&apos;t be used in nicknames or memos."/>
 </imgdir>

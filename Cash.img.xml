@@ -406,6 +406,26 @@
 		<string name="name" value="Golden Glory Guard Emblem"/>
 		<string name="desc" value="Displays the golden emblem of the Glory Guard. Double-click to toggle the effect, or setup a hotkey for it in your Key Config."/>
 	</imgdir>
+	<imgdir name="5010179">
+		<string name="name" value="The Magic of Space"/>
+		<string name="desc" value="Space is an infinite, wondrous place.\r\nDouble-click to toggle the effect on/off, or set up a hotkey for it in your Key Config."/>
+	</imgdir>
+	<imgdir name="5010180">
+		<string name="name" value="Autumn Notepad"/>
+		<string name="desc" value="Are you ready to jot down some more notes today?\r\nDouble-click to toggle the effect on/off, or set up a hotkey for it in your Key Config."/>
+	</imgdir>
+	<imgdir name="5010181">
+		<string name="name" value="Master Exorcist Emblem"/>
+		<string name="desc" value="Displays the emblem of the Ghost Park Master Exorcist. Double-click to toggle the effect on/off, or set up a hotkey for it in your Key Config."/>
+	</imgdir>
+	<imgdir name="5010182">
+		<string name="name" value="Veteran Exorcist Emblem"/>
+		<string name="desc" value="Displays the emblem of the Ghost Park Veteran Exorcist. Double-click to toggle the effect on/off, or setup a hotkey for it in your Key Config"/>
+	</imgdir>
+	<imgdir name="5010183">
+		<string name="name" value="Junior Exorcist Emblem"/>
+		<string name="desc" value="Displays the emblem of the Ghost Park Junior Exorcist. Double-click to toggle the effect on/off, or set up a hotkey for it in your Key Config."/>
+	</imgdir>
 	<imgdir name="5010999">
 		<string name="name" value="Changing to a Monster"/>
 		<string name="desc" value="Not sold in Cash Shop. An effect shown while changing into a monster."/>
@@ -1349,6 +1369,11 @@
 	<imgdir name="5120187">
 		<string name="name" value="Messenger of Darkness"/>
 	</imgdir>
+	<imgdir name="5120198">
+		<string name="name" value="Meso-Raining Goblin Cloud"/>
+		<string name="desc" value="Ride Mount"/>
+		<string name="msg" value="%s"/>
+	</imgdir>
 	<imgdir name="5121000">
 		<string name="name" value="Fighting Spirit"/>
 		<string name="desc" value="You can enter the message of your choice. "/>
@@ -2182,6 +2207,10 @@ Talk to NPC Lauren at Henesys Hair Salon for Androids."/>
 		<string name="name" value="Pixel Face Coupon"/>
 		<string name="desc" value="#cDouble-click# to apply the face of your choice from a carefully curated list, or talk to Lauren at the Henesys Hair Salon to change your Android&apos;s hair."/>
 	</imgdir>
+	<imgdir name="5152241">
+		<string name="name" value="Big-Eyed Royal Face Coupon"/>
+		<string name="desc" value="#cDouble-click# to change your face to one of the Big-Eyed Faces at#c random#, or talk to Lauren at Henesys Hair Salon to change your Android&apos;s face. #cDouble-click# it in the Cash Shop for a preview! #cYou have the same odds or receiving any of the faces.#"/>
+	</imgdir>
 	<imgdir name="5152300">
 		<string name="name" value="Colorblend Eye Color Coupon"/>
 		<string name="desc" value="Use this special coupon to change your eye color. Choose a base color and an additional color to mix in to create a truly unique look! Cannot be used on Androids."/>
@@ -2224,7 +2253,7 @@ Talk to NPC Lauren at Henesys Hair Salon for Androids."/>
 	</imgdir>
 	<imgdir name="5155000">
 		<string name="name" value="Carta&apos;s Indigo Pearl"/>
-		<string name="desc" value="This beautiful, enchanted pearl causes the#c elf#,#c Mercedes#, to adopt a#c human# appearance. \nAll other characters will instead magically sprout#c elf ears.#"/>
+		<string name="desc" value="This beautiful pearl is enchanted with the ability to transform your ears to those of #canother race&apos;s#. Carta has graciously blessed this pearl to transform your ears to the #cears of your choice#.\r\nThis item&apos;s effect applies to both Alpha and Beta #cZero# classes.\r\nThis item only effects #cAngelic Buster# on Normal Mode."/>
 	</imgdir>
 	<imgdir name="5155001">
 		<string name="name" value="Dragon Tail Remover"/>
@@ -2240,11 +2269,11 @@ Talk to NPC Lauren at Henesys Hair Salon for Androids."/>
 	</imgdir>
 	<imgdir name="5155004">
 		<string name="name" value="Carta&apos;s Teal Pearl"/>
-		<string name="desc" value="This beautiful, enchanted pearl causes the#c Verdant Flora#,#c Illium#, to adopt a#c human# appearance. \nAll other characters will instead magically sprout#c Verdant Flora ears.#"/>
+		<string name="desc" value="This beautiful pearl is enchanted with the ability to transform your ears to those of #canother race&apos;s#. Carta has graciously blessed this pearl to transform your ears to the #cears of your choice#.\r\nThis item&apos;s effect applies to both Alpha and Beta #cZero# classes.\r\nThis item only effects #cAngelic Buster# on Normal Mode."/>
 	</imgdir>
 	<imgdir name="5155005">
 		<string name="name" value="Carta&apos;s Scarlet Pearl"/>
-		<string name="desc" value="This beautiful, enchanted pearl causes the#c High Flora#,#c Ark#, to adopt a#c human# appearance. \nAll other characters will instead magically sprout#c High Flora ears.#"/>
+		<string name="desc" value="This beautiful pearl is enchanted with the ability to transform your ears to those of #canother race&apos;s#. Carta has graciously blessed this pearl to transform your ears to the #cears of your choice#.\r\nThis item&apos;s effect applies to both Alpha and Beta #cZero# classes.\r\nThis item only effects #cAngelic Buster# on Normal Mode."/>
 	</imgdir>
 	<imgdir name="5155006">
 		<string name="name" value="Abyssal Ritual Remover"/>
@@ -2725,6 +2754,10 @@ Talk to NPC Lauren at Henesys Hair Salon for Androids."/>
 	<imgdir name="5204036">
 		<string name="name" value="Cool Fridge"/>
 		<string name="desc" value="A fridge to help you cool off!\r\n#cRestores 100 HP and 50 MP every 10 seconds.# "/>
+	</imgdir>
+	<imgdir name="5204038">
+		<string name="name" value="Pup Tent Chair"/>
+		<string name="desc" value="Camping is fun, but it&apos;s even better when you add cute puppies.\n#cRestores 50 HP and 50 MP every 10 seconds.#"/>
 	</imgdir>
 	<imgdir name="5211000">
 		<string name="name" value="2x EXP Card"/>
@@ -5581,7 +5614,7 @@ Talk to NPC Lauren at Henesys Hair Salon for Androids."/>
 	</imgdir>
 	<imgdir name="5533103">
 		<string name="name" value="Sweet Soft Box"/>
-		<string name="desc" value="A box containing sweet and soft cash equipment. You&apos;ll randomly get 1 of the following accessories. \r\n#cPossible Items\r\n- Cherry Sundae Beanie\n- Sweet Choco Cake Slice\n- Fresh Strawberry Cake Slice\n- Soft Earmuffs\n- Glorious Red Bean Treat Hat#"/>
+		<string name="desc" value="A box that contains a sweet and soft cash equipment item. You&apos;ll randomly get 1 of the following 5 cash equipment items.\n#c- Soft Earmuffs (Hat)\n- Cherry Sundae Beanie (Hat)\n- Sweet Choco Cake Slice (Hat)\n- Fresh Strawberry Cake Slice (Hat)\n- Chocolate Overload Face Accessory (Face Accessory)\r\n(You have an equal chance to obtain any of the items in the Sweet Soft Box.)#"/>
 	</imgdir>
 	<imgdir name="5533105">
 		<string name="name" value="Golden Pup Surprise Box"/>
@@ -5614,6 +5647,18 @@ Talk to NPC Lauren at Henesys Hair Salon for Androids."/>
 	<imgdir name="5533123">
 		<string name="name" value="Pixel Everyday Fashion Box"/>
 		<string name="desc" value="This Pixel Everyday Fashion Box was specially curated to commemorate the 15th Anniversary. Contains #c1 of the 11 random fashion items#.\r\n(You have an equal chance to obtain any of the items in the Pixel Everyday Fashion Box.)"/>
+	</imgdir>
+	<imgdir name="5533129">
+		<string name="name" value="Victoria Island Flower Crown Box"/>
+		<string name="desc" value="Celebratory flower crowns fashioned by the 6 towns of Victoria Island. You can earn 1 of the 6 types of hats. \r\n(You have an equal chance to obtain any of the items in the Victoria Island Flower Crown Box.)"/>
+	</imgdir>
+	<imgdir name="5533130">
+		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+	</imgdir>
+	<imgdir name="5533131">
+		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
 	</imgdir>
 	<imgdir name="5550000">
 		<string name="name" value="Add Pendant Slot"/>
@@ -7472,6 +7517,19 @@ Talk to NPC Lauren at Henesys Hair Salon for Androids."/>
 		<string name="name" value="Glory Coin x1000 Coupon"/>
 		<string name="desc" value="#cDouble-click# to get #cGlory Coin x1 and Coupon x1000#."/>
 	</imgdir>
+	<imgdir name="5680760">
+		<string name="name" value="Victoria Island Flower Crown Box"/>
+		<string name="desc" value="Celebratory flower crowns fashioned by the 6 towns of Victoria Island. You can earn 1 of the 6 types of hats. \r\n(You have an equal chance to obtain any of the items in the Victoria Island Flower Crown Box.)"/>
+	</imgdir>
+	<imgdir name="5680795">
+		<string name="desc" value="It&apos;s a #cMapleStory Gift# box! \r\n#cDouble-click# to open it."/>
+		<string name="name" value="MapleStory Gift"/>
+	</imgdir>
+	<imgdir name="5680800">
+		<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="desc_leftalign" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+	</imgdir>
 	<imgdir name="5689000">
 		<string name="name" value="Premium Water of Life"/>
 		<string name="desc" value="#cDouble-click# on this enchanted water to revive a pet that has been turned into a doll. The spell does not work on #cMiracle Pets#."/>
@@ -7572,63 +7630,94 @@ Talk to NPC Lauren at Henesys Hair Salon for Androids."/>
 		<string name="name" value="Maple Auction Red Ticket"/>
 		<string name="desc" value="The Maple Auction Red Ticket offers the following benefits for #c30 days.#\nService fee discount: 5% to 3%\nUnlimited searches\nAdditional auction slots: 10 purchase and 10 sell slots\nAdvanced searches\nAuction bidding time extension: 24 and 48 hours"/>
 	</imgdir>
-	<imgdir name="5010179">
-		<string name="name" value="The Magic of Space"/>
-		<string name="desc" value="Space is an infinite, wondrous place.\r\nDouble-click to toggle the effect on/off, or set up a hotkey for it in your Key Config."/>
+	<imgdir name="5010185">
+		<string name="name" value="Floating Rock Spirit"/>
+		<string name="desc" value="Summons the Floating Rock Spirit. Double-click to toggle the effect on/off, or set up a hotkey for it in your Key Config."/>
 	</imgdir>
-	<imgdir name="5010180">
-		<string name="name" value="Autumn Notepad"/>
-		<string name="desc" value="Are you ready to jot down some more notes today?\r\nDouble-click to toggle the effect on/off, or set up a hotkey for it in your Key Config."/>
+	<imgdir name="5120205">
+		<string name="name" value="Shout of Arcanus"/>
 	</imgdir>
-	<imgdir name="5010181">
-		<string name="name" value="Master Exorcist Emblem"/>
-		<string name="desc" value="Displays the emblem of the Ghost Park Master Exorcist. Double-click to toggle the effect on/off, or set up a hotkey for it in your Key Config."/>
+	<imgdir name="5121101">
+		<string name="name" value="Greater Blessing of the Guild"/>
+		<string name="desc" value="Every character in the map receives Weapon Attack +30 and Magic Attack +30 for 30 min. Stacks with other effects."/>
+		<string name="msg" value="May the blessing of the Guild be with you..."/>
 	</imgdir>
-	<imgdir name="5010182">
-		<string name="name" value="Veteran Exorcist Emblem"/>
-		<string name="desc" value="Displays the emblem of the Ghost Park Veteran Exorcist. Double-click to toggle the effect on/off, or setup a hotkey for it in your Key Config"/>
+	<imgdir name="5150171">
+		<string name="name" value="Beauty Awards Hair Coupon"/>
+		<string name="desc" value="#cDouble-click# to exchange this coupon for a#c random# Beauty Awards Hair, or talk to Lauren at the Henesys Hair Salon to change your Android&apos;s hair.\nDouble-click it in the Cash Shop for a#c preview#! #cAll hairstyles have the same chance to be obtained.# "/>
 	</imgdir>
-	<imgdir name="5010183">
-		<string name="name" value="Junior Exorcist Emblem"/>
-		<string name="desc" value="Displays the emblem of the Ghost Park Junior Exorcist. Double-click to toggle the effect on/off, or set up a hotkey for it in your Key Config."/>
+	<imgdir name="5150172">
+		<string name="name" value="Reboot Beauty Awards Hair Coupon"/>
+		<string name="desc" value="#cDouble-click# to pick one of the Beauty Awards Hair styles, or talk to Lauren at the Henesys Hair Salon to change your Android&apos;s hair. Double-click it in the Cash Shop for a#c preview#!"/>
 	</imgdir>
-	<imgdir name="5120198">
-		<string name="name" value="Meso-Raining Goblin Cloud"/>
-		<string name="desc" value="Ride Mount"/>
-		<string name="msg" value="%s"/>
+	<imgdir name="5150173">
+		<string name="name" value="Beauty Awards Hair Coupon"/>
+		<string name="desc" value="#cDouble-click# to exchange this coupon for a#c random# Beauty Awards Hair, or talk to Lauren at the Henesys Hair Salon to change your Android&apos;s hair.\nDouble-click it in the Cash Shop for a#c preview#! #cAll hairstyles have the same chance to be obtained.# "/>
 	</imgdir>
-	<imgdir name="5152241">
-		<string name="name" value="Big-Eyed Royal Face Coupon"/>
-		<string name="desc" value="#cDouble-click# to change your face to one of the Big-Eyed Faces at#c random#, or talk to Lauren at Henesys Hair Salon to change your Android&apos;s face. #cDouble-click# it in the Cash Shop for a preview! #cYou have the same odds or receiving any of the faces.#"/>
+	<imgdir name="5150174">
+		<string name="name" value="Reboot Beauty Awards Hair Coupon"/>
+		<string name="desc" value="#cDouble-click# to pick one of the Beauty Awards Hair styles, or talk to Lauren at the Henesys Hair Salon to change your Android&apos;s hair. Double-click it in the Cash Shop for a#c preview#!"/>
 	</imgdir>
-	<imgdir name="5204038">
-		<string name="name" value="Pup Tent Chair"/>
-		<string name="desc" value="Camping is fun, but it&apos;s even better when you add cute puppies.\n#cRestores 50 HP and 50 MP every 10 seconds.#"/>
+	<imgdir name="5152243">
+		<string name="name" value="Beauty Awards Face Coupon"/>
+		<string name="desc" value="#cDouble-click# to exchange this coupon for a#c random# Beauty Awards Face, or talk to Lauren at the Henesys Hair Salon to change your Android&apos;s face.\nDouble-click it in the Cash Shop for a#c preview#! #cAll faces have the same chance to be obtained.# "/>
 	</imgdir>
-	<imgdir name="5533129">
-		<string name="name" value="Victoria Island Flower Crown Box"/>
-		<string name="desc" value="Celebratory flower crowns fashioned by the 6 towns of Victoria Island. You can earn 1 of the 6 types of hats. \r\n(You have an equal chance to obtain any of the items in the Victoria Island Flower Crown Box.)"/>
+	<imgdir name="5152244">
+		<string name="name" value="Reboot Beauty Awards Face Coupon"/>
+		<string name="desc" value="#cDouble-click# to pick one of the Beauty Awards Faces, or talk to Lauren at the Henesys Hair Salon to change your Android&apos;s hair. Double-click it in the Cash Shop for a#c preview#!"/>
 	</imgdir>
-	<imgdir name="5533130">
-		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+	<imgdir name="5152245">
+		<string name="name" value="Beauty Awards Face Coupon"/>
+		<string name="desc" value="#cDouble-click# to exchange this coupon for a#c random# Beauty Awards Face, or talk to Lauren at the Henesys Hair Salon to change your Android&apos;s face.\nDouble-click it in the Cash Shop for a#c preview#! #cAll faces have the same chance to be obtained.# "/>
 	</imgdir>
-	<imgdir name="5533131">
-		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+	<imgdir name="5152246">
+		<string name="name" value="Reboot Beauty Awards Face Coupon"/>
+		<string name="desc" value="#cDouble-click# to pick one of the Beauty Awards Faces, or talk to Lauren at the Henesys Hair Salon to change your Android&apos;s hair. Double-click it in the Cash Shop for a#c preview#!"/>
 	</imgdir>
-	<imgdir name="5680760">
-		<string name="name" value="Victoria Island Flower Crown Box"/>
-		<string name="desc" value="Celebratory flower crowns fashioned by the 6 towns of Victoria Island. You can earn 1 of the 6 types of hats. \r\n(You have an equal chance to obtain any of the items in the Victoria Island Flower Crown Box.)"/>
+	<imgdir name="5157022">
+		<string name="name" value="Gentle Breeze Hair Coupon"/>
+		<string name="desc" value="#cDouble-click# to change your hair to the selected hairstyle. Can only be used on male characters."/>
 	</imgdir>
-	<imgdir name="5680795">
-		<string name="desc" value="It&apos;s a #cMapleStory Gift# box! \r\n#cDouble-click# to open it."/>
-		<string name="name" value="MapleStory Gift"/>
+	<imgdir name="5157023">
+		<string name="name" value="Foggy Gentle Breeze Hair Coupon"/>
+		<string name="desc" value="#cDouble-click# to change your hair to the selected hairstyle. Can only be used on male characters."/>
 	</imgdir>
-	<imgdir name="5680800">
-		<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+	<imgdir name="5157024">
+		<string name="name" value="Glimmering Ripple Hair Coupon"/>
+		<string name="desc" value="#cDouble-click# to change your hair to the selected hairstyle. Can only be used on female characters."/>
+	</imgdir>
+	<imgdir name="5157025">
+		<string name="name" value="Foggy Glimmering Ripple Hair Coupon"/>
+		<string name="desc" value="#cDouble-click# to change your hair to the selected hairstyle. Can only be used on female characters."/>
+	</imgdir>
+	<imgdir name="5204040">
+		<string name="name" value="Snow Crystal Scene"/>
+		<string name="desc" value="A soft snow crystal scene featuring bunnies. \n#cRestores 100 HP and 50 MP every 10 seconds.#"/>
+	</imgdir>
+	<imgdir name="5533134">
+		<string name="name" value="Happy Year Hat Box"/>
+		<string name="desc" value="A hat box that contains hope for the rest of the year. You&apos;ll randomly get 1 of the 5 following hats.\n#c- Bright New Year Hat\n- Pompom Knit Hat\n- Pink Bean Likes Meat\n- Moonbeam&apos;s Game of Yut\n- Shade&apos;s Game of Yut\r\n(You have an equal chance to obtain any of the items in the Happy New Year Hat Box.)#"/>
+	</imgdir>
+	<imgdir name="5680810">
+		<string name="name" value="Gentle Breeze Hair Selection Coupon (M)"/>
+		<string name="desc" value="#cDouble-click# to select either the Gentle Breeze Hair Coupon or Foggy Gentle Breeze Hair Coupon."/>
+	</imgdir>
+	<imgdir name="5680811">
+		<string name="name" value="Glimmering Ripple Hair Selection Coupon (F)"/>
+		<string name="desc" value="#cDouble-click# to select either the Glimmering Ripple Hair Coupon or Foggy Glimmering Ripple Hair Coupon."/>
+	</imgdir>
+	<imgdir name="5680815">
+		<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
 		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="desc_leftalign" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="desc_leftalign" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+	</imgdir>
+	<imgdir name="5680812">
+		<string name="name" value="Simper Face Coupon Ticket"/>
+		<string name="desc" value="#cDouble-click# to obtain a #cSimper Face Coupon#."/>
+	</imgdir>
+	<imgdir name="5680814">
+		<string name="name" value="Mystery Mix Dye Coupon"/>
+		<string name="desc" value="Double-click and use to get a hair color mixed from #c2 random colors# out of 8. #cThese items are used in the order that they are stored in your Cash tab.# Cannot be used on Androids."/>
 	</imgdir>
 	<imgdir name="5010008">
 		<string name="name" value="Mr. Jackpot"/>
@@ -8567,7 +8656,7 @@ ATT, MATT + 100"/>
 	</imgdir>
 	<imgdir name="5211111">
 		<string name="name" value="4-hour 1.5x EXP Special Coupon"/>
-		<string name="desc" value="This coupon allows you to earn #c1.5x Exp#. The coupon will be activated immediately after purchase, and the 1.5x experience effect will be available for 4 hours upon purchase. \n\n#c*Cannot be applied on characters above Lv. 250.#"/>
+		<string name="desc" value="This coupon allows you to earn #c1.5x Exp#. The coupon will be activated immediately after purchase, and the 1.5x experience effect will be available for 4 hours."/>
 	</imgdir>
 	<imgdir name="5211120">
 		<string name="name" value="1-hour 2x EXP Special Coupon"/>
@@ -8575,11 +8664,11 @@ ATT, MATT + 100"/>
 	</imgdir>
 	<imgdir name="5211121">
 		<string name="name" value="2-hour 2x EXP Special Coupon"/>
-		<string name="desc" value="This coupon allows you to earn #c2x Exp (double experience)#. The coupon will be activated immediately after purchase, and the double experience effect will be available for 2 hours upon purchase. \n\n#c*Cannot be applied on characters above Lv. 250.#"/>
+		<string name="desc" value="This coupon allows you to earn #c2x Exp (double experience)#. The coupon will be activated immediately after purchase, and the double experience effect will be available for 2 hours."/>
 	</imgdir>
 	<imgdir name="5211122">
 		<string name="name" value="6-hour 2x EXP Special Coupon"/>
-		<string name="desc" value="This coupon allows you to earn #c2x Exp (double experience)#. The coupon will be activated immediately after purchase, and the double experience effect will be available for 6 hours upon purchase. \n\n#c*Cannot be applied on characters above Lv. 250.#"/>
+		<string name="desc" value="This coupon allows you to earn #c2x Exp (double experience)#. The coupon will be activated immediately after purchase, and the double experience effect will be available for 6 hours."/>
 	</imgdir>
 	<imgdir name="5220010">
 		<string name="name" value="Gachapon for slot machines"/>
@@ -11718,8 +11807,8 @@ ATT, MATT + 100"/>
 		<string name="desc" value="#cDouble-click# to get the Free Hug Cat chair."/>
 	</imgdir>
 	<imgdir name="5680779">
-		<string name="name" value="Night Chair"/>
-		<string name="desc" value="#cDouble-click# to get the Night chair."/>
+		<string name="name" value="Starry Night Chair Coupon"/>
+		<string name="desc" value="#cDouble-click# to get the Starry Night chair."/>
 	</imgdir>
 	<imgdir name="5680780">
 		<string name="name" value="Musical Note Chair"/>
@@ -12060,5 +12149,17 @@ ATT, MATT + 100"/>
 	<imgdir name="5240204">
 		<string name="name" value="aa"/>
 		<string name="desc" value="A spoonful of sweet sugar that only the #cCherry Chum pets# can stomach. Restores Fullness completely and #cincreases Closeness by 100#."/>
+	</imgdir>
+	<imgdir name="5680823">
+		<string name="name" value="Wild Totem Coupon"/>
+		<string name="desc" value="#cDouble-click# to get a Wild Totem that lasts #c2 hours.#"/>
+	</imgdir>
+	<imgdir name="5222202">
+		<string name="name" value="Rise Surprise Style Box"/>
+		<string name="desc" value="A box containing random items to celebrate the Rise patch."/>
+	</imgdir>
+	<imgdir name="5240205">
+		<string name="name" value="Heroic Churu"/>
+		<string name="desc" value="Noble premium jelly, a favorite of the #cHeroes of Meow# cat pets. Restores Fullness completely and #cincreases Closeness by 100.#"/>
 	</imgdir>
 </imgdir>

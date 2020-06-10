@@ -1067,17 +1067,17 @@
 	</imgdir>
 	<imgdir name="5000707">
 		<string name="name" value="Small Spirit"/>
-		<string name="desc" value="An Arcana spirit pet.\r\nEquip to obtain the#c Arcana Spirit Friends# skill, which will grow in power as you equip more Arcana spirit pets (max 3)."/>
+		<string name="desc" value="An Arcana spirit pet. "/>
 		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
 	</imgdir>
 	<imgdir name="5000708">
 		<string name="name" value="Tree Spirit"/>
-		<string name="desc" value="An Arcana spirit pet.\r\nEquip to obtain the#c Arcana Spirit Friends# skill, which will grow in power as you equip more Arcana spirit pets (max 3)."/>
+		<string name="desc" value="An Arcana spirit pet. "/>
 		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
 	</imgdir>
 	<imgdir name="5000709">
 		<string name="name" value="Rock Spirit"/>
-		<string name="desc" value="An Arcana spirit pet.\r\nEquip to obtain the#c Arcana Spirit Friends# skill, which will grow in power as you equip more Arcana spirit pets (max 3)."/>
+		<string name="desc" value="An Arcana spirit pet. "/>
 		<string name="descD" value=" Your pet has turned into a doll. You can revive it with the Water of Life."/>
 	</imgdir>
 	<imgdir name="5000721">
@@ -1572,7 +1572,7 @@
 	</imgdir>
 	<imgdir name="5002036">
 		<string name="name" value="PixSnail"/>
-		<string name="desc" value="Behold the mighty#c PixSnail#! Once an ordinary snail from Maple World, now the coolest snail in the Pixel Kingdom. His has come to challenge Lord Pixrog!"/>
+		<string name="desc" value="Behold the mighty#c PixSnail#! Once an ordinary snail from Maple World, now the coolest snail in the Pixel Kingdom. His time has come to challenge Lord Pixrog!"/>
 		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
 	</imgdir>
 	<imgdir name="5002037">
@@ -1644,6 +1644,41 @@
 		<string name="name" value="Lil Wonky"/>
 		<string name="desc" value="This little bitty pet is always starving and starved for attention. Show your love with tasty treats!"/>
 		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002121">
+		<string name="name" value="Snail"/>
+		<string name="desc" value="A snail that is really hard to figure out. The pet&apos;s skills will disappear once the magic duration ends."/>
+		<string name="descD" value="It was a cute snail, but it turned into a doll after its magic duration expired. You cannot revive it in any way. Double-click to find out how to get a new pet."/>
+	</imgdir>
+	<imgdir name="5002137">
+		<string name="name" value="Blanc"/>
+		<string name="desc" value="#cBlanc# is snow white. Rumor has it that it helped those lost in the Snowy Mountain."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002138">
+		<string name="name" value="Prim"/>
+		<string name="desc" value="#cPrim# dreams of becoming a Nine-Tailed Fox and has a bubbly personality."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002139">
+		<string name="name" value="Snowy"/>
+		<string name="desc" value="#cSnowy# is very forthright and loves its friends more than anything."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002140">
+		<string name="name" value="Pepper Tuna"/>
+		<string name="desc" value="It&apos;s #cPepper Tuna#! Gotta love that spice!"/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002141">
+		<string name="name" value="Winterberry"/>
+		<string name="desc" value="#cWinterberry# has eyes so adorable that it can coax you into giving it snacks."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002142">
+		<string name="name" value="Lil Boo"/>
+		<string name="desc" value="#cLil Boo# is cute and squishy."/>
+		<string name="descD" value="Lil Boo has turned into a doll. You can revive it with the Water of Life."/>
 	</imgdir>
 	<imgdir name="5000025">
 		<string name="name" value="Golden Pig"/>
@@ -4152,17 +4187,17 @@
 	</imgdir>
 	<imgdir name="5002066">
 		<string name="name" value="Small Spirit"/>
-		<string name="desc" value="An Arcana spirit pet.\r\nEquip to obtain the#c Arcana Spirit Friends# skill, which grows stronger as you equip more Arcana spirit pets (max 3)."/>
+		<string name="desc" value="An Arcana spirit pet."/>
 		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
 	</imgdir>
 	<imgdir name="5002067">
 		<string name="name" value="Tree Spirit"/>
-		<string name="desc" value="An Arcana spirit pet.\r\nEquip to obtain the#c Arcana Spirit Friends# skill, which grows stronger as you equip more Arcana spirit pets (max 3)."/>
+		<string name="desc" value="An Arcana spirit pet."/>
 		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
 	</imgdir>
 	<imgdir name="5002068">
 		<string name="name" value="Rock Spirit"/>
-		<string name="desc" value="An Arcana spirit pet.\r\nEquip to obtain the#c Arcana Spirit Friends# skill, which grows stronger as you equip more Arcana spirit pets (max 3)."/>
+		<string name="desc" value="An Arcana spirit pet."/>
 		<string name="descD" value=" Your pet has turned into a doll. You can revive it with the Water of Life."/>
 	</imgdir>
 	<imgdir name="5002069">
@@ -4543,6 +4578,21 @@
 	<imgdir name="5002152">
 		<string name="name" value="Old Cherry"/>
 		<string name="desc" value="This #cOld Cherry# might have overdone the whole ripening thing."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002153">
+		<string name="name" value="Cat Evan"/>
+		<string name="desc" value="This is #cCat Evan#, raised by Evan."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002154">
+		<string name="name" value="Cat Phantom"/>
+		<string name="desc" value="This is #cCat Phantom#, raised by Phantom."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002155">
+		<string name="name" value="Cat Luminous"/>
+		<string name="desc" value="This is #cCat Luminous#, raised by Luminous."/>
 		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
 	</imgdir>
 </imgdir>

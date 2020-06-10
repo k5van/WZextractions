@@ -39,7 +39,7 @@
 			<int name="align" value="1"/>
 			<imgdir name="0">
 				<imgdir name="0">
-					<string name="text" value="You were settling into your new life when you heard a news flash: An important jewel that belonged to the Explorer&apos;s Guild was stolen by a masked thief!"/>
+					<string name="text" value="Just as you were settling down, you heard a news flash. An important jewel from the Explorer&apos;s Guild was stolen!"/>
 				</imgdir>
 				<imgdir name="1">
 					<string name="text" value="Athena Pierce requested your help in retrieving it, which is how you ended up chasing the thief up and down the outskirts of Henesys. When you finally stopped the thief and got the jewel, an Explorer named Olive appeared."/>
@@ -282,7 +282,7 @@
 			<int name="align" value="1"/>
 			<imgdir name="0">
 				<imgdir name="0">
-					<string name="text" value="You were settling into your new life when you heard a news flash: An important jewel that belonged to the Explorer&apos;s Guild was stolen by a masked thief!"/>
+					<string name="text" value="Just as you were settling down, you heard a news flash. An important jewel from the Explorer&apos;s Guild was stolen!"/>
 				</imgdir>
 				<imgdir name="1">
 					<string name="text" value="Athena Pierce requested your help in retrieving it, which is how you ended up chasing the thief up and down the outskirts of Henesys. When you finally stopped the thief and got the jewel, an Explorer named Olive appeared."/>
@@ -525,7 +525,7 @@
 			<int name="align" value="1"/>
 			<imgdir name="0">
 				<imgdir name="0">
-					<string name="text" value="You were settling into your new life when you heard a news flash: An important jewel that belonged to the Explorer&apos;s Guild was stolen by a masked thief!"/>
+					<string name="text" value="Just as you were settling down, you heard a news flash. An important jewel from the Explorer&apos;s Guild was stolen!"/>
 				</imgdir>
 				<imgdir name="1">
 					<string name="text" value="Athena Pierce requested your help in retrieving it, which is how you ended up chasing the thief up and down the outskirts of Henesys. When you finally stopped the thief and got the jewel, an Explorer named Olive appeared."/>
@@ -753,16 +753,16 @@
 			<int name="align" value="1"/>
 			<imgdir name="0">
 				<imgdir name="0">
-					<string name="text" value="You were settling into your new life when you heard a news flash: An important jewel that belonged to the Explorer&apos;s Guild was stolen by a masked thief!"/>
+					<string name="text" value="Just as you were settling down, you heard a news flash. An important jewel from the Explorer&apos;s Guild was stolen!"/>
 				</imgdir>
 				<imgdir name="1">
-					<string name="text" value="When you finally stopped the thief and got the jewel, Olive appeared and said she was the one who was supposed to deliver the jewel to Athena Pierce in the first place."/>
+					<string name="text" value="When you finally got the jewel, Olive appeared and said she would deliver it to Athena Pierce."/>
 				</imgdir>
 				<imgdir name="2">
-					<string name="text" value="But you sensed something was off. Olive was never this nice... When you questioned her, she transformed into a man and ran off."/>
+					<string name="text" value="But you sensed something was off. When you questioned her, she transformed into a man and ran off."/>
 				</imgdir>
 				<imgdir name="3">
-					<string name="text" value="When you told Athena Pierce all that transpired, she revealed that the jewel was actually a Seal Stone, an artifact of immense but mysterious powers. Who stole the Seal Stone? What evil plans were they hatching upon Maple World?"/>
+					<string name="text" value="Later, Athena Pierce revealed that the jewel was a Seal Stone, an artifact of immense but mysterious powers. Who stole the Seal Stone? And for what evil purpose?"/>
 				</imgdir>
 			</imgdir>
 		</imgdir>
@@ -987,7 +987,7 @@
 			<int name="align" value="1"/>
 			<imgdir name="0">
 				<imgdir name="0">
-					<string name="text" value="You were settling into your new life when you heard a news flash: An important jewel that belonged to the Explorer&apos;s Guild was stolen by a masked thief!"/>
+					<string name="text" value="Just as you were settling down, you heard a news flash. An important jewel from the Explorer&apos;s Guild was stolen!"/>
 				</imgdir>
 				<imgdir name="1">
 					<string name="text" value="Athena Pierce requested your help in retrieving it, which is how you ended up chasing the thief up and down the outskirts of Henesys. When you finally stopped the thief and got the jewel, an Explorer named Olive appeared."/>

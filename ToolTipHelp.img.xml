@@ -822,12 +822,12 @@
 	<imgdir name="Shop">
 		<imgdir name="Button">
 			<imgdir name="BuyAvatar">
-				<string name="Title" value="Buying Equipped Items"/>
-				<string name="Desc" value="Buying the items that are equipped by the character. The existing items are not\nincluded in the purchase."/>
+				<string name="Title" value="Buy All Equipped"/>
+				<string name="Desc" value="Purchase the items currently previewed on your character (excludes items already equipped prior to entering the Cash Shop)."/>
 			</imgdir>
 			<imgdir name="DefaultAvatar">
-				<string name="Title" value="Back to Default"/>
-				<string name="Desc" value="Character being put back into the state of default before walking into the cash shop."/>
+				<string name="Title" value="Reset Preview"/>
+				<string name="Desc" value="Resets your character&apos;s appearance in the preview window to your current equipment."/>
 			</imgdir>
 			<imgdir name="Rebate">
 				<string name="Title" value="Rebate"/>
@@ -858,8 +858,8 @@
 				<string name="Desc" value="Checking the remaining Cash"/>
 			</imgdir>
 			<imgdir name="Coupon">
-				<string name="Title" value="Using Coupon"/>
-				<string name="Desc" value="Exchanging the item coupon into an item."/>
+				<string name="Title" value="Redeem Coupon"/>
+				<string name="Desc" value="Redeem coupon codes to receive items."/>
 			</imgdir>
 			<imgdir name="TakeoffAvatar">
 				<string name="Title" value="Remove All"/>
@@ -1555,13 +1555,13 @@
 		</imgdir>
 		<imgdir name="101020300">
 			<imgdir name="0">
-				<string name="Title" value="Sagacious Magician"/>
+				<string name="Title" value="Magician Association"/>
 			</imgdir>
 			<imgdir name="1">
 				<string name="Title" value="Close to the Sky"/>
 			</imgdir>
 			<imgdir name="2">
-				<string name="Title" value="Sagacious Magician"/>
+				<string name="Title" value="Magician Association"/>
 			</imgdir>
 			<imgdir name="3">
 				<string name="Title" value="Close to the Sky"/>
@@ -1569,13 +1569,13 @@
 		</imgdir>
 		<imgdir name="101020401">
 			<imgdir name="0">
-				<string name="Title" value="Sagacious Magician"/>
+				<string name="Title" value="Magician Association"/>
 			</imgdir>
 			<imgdir name="1">
 				<string name="Title" value="Where the Birds Chirp"/>
 			</imgdir>
 			<imgdir name="2">
-				<string name="Title" value="Sagacious Magician"/>
+				<string name="Title" value="Magician Association"/>
 			</imgdir>
 			<imgdir name="3">
 				<string name="Title" value="Where the Birds Chirp"/>
@@ -1597,30 +1597,30 @@
 		</imgdir>
 		<imgdir name="101020403">
 			<imgdir name="0">
-				<string name="Title" value="Windy Place"/>
+				<string name="Title" value="Where the Birds Chirp"/>
 			</imgdir>
 			<imgdir name="1">
-				<string name="Title" value="Where the Sun Rises"/>
+				<string name="Title" value="Where the Forest Sings"/>
 			</imgdir>
 			<imgdir name="2">
-				<string name="Title" value="Windy Place"/>
+				<string name="Title" value="Where the Birds Chirp"/>
 			</imgdir>
 			<imgdir name="3">
-				<string name="Title" value="Where the Sun Rises"/>
+				<string name="Title" value="Where the Forest Sings"/>
 			</imgdir>
 		</imgdir>
 		<imgdir name="101020404">
 			<imgdir name="0">
-				<string name="Title" value="Where the Birds Chirp"/>
+				<string name="Title" value="Where the Sun Rises"/>
 			</imgdir>
 			<imgdir name="1">
-				<string name="Title" value="Where the Forest Sings"/>
+				<string name="Title" value="Where Trees Dance"/>
 			</imgdir>
 			<imgdir name="2">
-				<string name="Title" value="Where the Birds Chirp"/>
+				<string name="Title" value="Where the Sun Rises"/>
 			</imgdir>
 			<imgdir name="3">
-				<string name="Title" value="Where the Forest Sings"/>
+				<string name="Title" value="Where Trees Dance"/>
 			</imgdir>
 		</imgdir>
 		<imgdir name="101020405">
@@ -2026,6 +2026,18 @@
 			<imgdir name="7">
 				<string name="Title" value="Perion Northern Ridge"/>
 			</imgdir>
+			<imgdir name="0">
+				<string name="Title" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			</imgdir>
+			<imgdir name="1">
+				<string name="Title" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			</imgdir>
+			<imgdir name="2">
+				<string name="Title" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			</imgdir>
+			<imgdir name="5">
+				<string name="Title" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			</imgdir>
 		</imgdir>
 		<imgdir name="102020200">
 			<imgdir name="0">
@@ -2067,6 +2079,21 @@
 			</imgdir>
 			<imgdir name="5">
 				<string name="Title" value="Mini Rocky Road"/>
+			</imgdir>
+			<imgdir name="0">
+				<string name="Title" value="&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			</imgdir>
+			<imgdir name="3">
+				<string name="Title" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			</imgdir>
+			<imgdir name="6">
+				<string name="Title" value="&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			</imgdir>
+			<imgdir name="7">
+				<string name="Title" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			</imgdir>
+			<imgdir name="8">
+				<string name="Title" value="&#43690;&#43690;&#43690;&#43690;&#43690;"/>
 			</imgdir>
 		</imgdir>
 		<imgdir name="102020500">
@@ -8735,7 +8762,9 @@
 			<string name="east00" value="Castle Entrance"/>
 		</imgdir>
 		<imgdir name="211060200">
-			<string name="up00" value="Roof of the First Tower"/>
+			<imgdir name="up00">
+				<string name="Title" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			</imgdir>
 			<imgdir name="east00">
 				<string name="Title" value="Castle Ramparts 2"/>
 				<imgdir name="Mob">
@@ -8744,7 +8773,9 @@
 			</imgdir>
 		</imgdir>
 		<imgdir name="211060400">
-			<string name="up00" value="Roof of the Second Tower"/>
+			<imgdir name="up00">
+				<string name="Title" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			</imgdir>
 			<imgdir name="east00">
 				<string name="Title" value="Castle Ramparts 3"/>
 				<imgdir name="Mob">
@@ -8759,7 +8790,9 @@
 			</imgdir>
 		</imgdir>
 		<imgdir name="211060600">
-			<string name="up00" value="Roof of the Third Tower"/>
+			<imgdir name="up00">
+				<string name="Title" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			</imgdir>
 			<imgdir name="east00">
 				<string name="Title" value="Castle Ramparts 4"/>
 				<imgdir name="Mob">
@@ -8856,6 +8889,12 @@
 				<string name="Title" value="Sophelia&apos;s Room"/>
 				<imgdir name="Npc">
 					<string name="0" value="Sophelia"/>
+				</imgdir>
+			</imgdir>
+			<imgdir name="in03">
+				<string name="Title" value="&#43690;&#43690;&#43690;"/>
+				<imgdir name="Mob">
+					<string name="0" value="9500184"/>
 				</imgdir>
 			</imgdir>
 		</imgdir>
@@ -11013,6 +11052,16 @@
 			</imgdir>
 			<imgdir name="pt02">
 				<string name="Title" value="Sky-Touched Land 2"/>
+			</imgdir>
+		</imgdir>
+		<imgdir name="410000331">
+			<imgdir name="up00">
+				<string name="Title" value="Three Crossroads"/>
+			</imgdir>
+		</imgdir>
+		<imgdir name="410000340">
+			<imgdir name="east00">
+				<string name="Title" value="Mansion Corridor 1"/>
 			</imgdir>
 		</imgdir>
 		<imgdir name="100030000">
