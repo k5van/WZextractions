@@ -1397,7 +1397,7 @@
 		<string name="n1" value="Need some equipment repaired? Bring it on over!"/>
 	</imgdir>
 	<imgdir name="1022004">
-		<string name="name" value="Mr. Smith"/>
+		<string name="name" value="Silas Irons"/>
 		<string name="func" value="Blacksmith"/>
 		<string name="n0" value="I&apos;m Mr. Thunder&apos;s best student. I can make ANYTHING."/>
 		<string name="n1" value="Mr. Thunder does the repairs. I make all the new weapons."/>
@@ -3647,7 +3647,7 @@
 		<string name="name" value="Tangyoon"/>
 		<string name="d0" value="These pirates would probably start eating the ship if I missed a single meal."/>
 		<string name="d1" value="These pirates would probably start eating the ship if I missed a single meal."/>
-		<string name="func" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="func" value="Cooking with Tangyoon"/>
 	</imgdir>
 	<imgdir name="1097001">
 		<string name="name" value="Tangyoon"/>
@@ -10377,7 +10377,7 @@
 		<string name="d0" value="I must gather my strength!"/>
 		<string name="d1" value="Everything is going according to plan..."/>
 		<string name="g0" value="I will use the secret door to get to the ravine. Why don&apos;t you guys go through Ice Valley?"/>
-		<string name="func" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="func" value="Resurrection of the Hoblin King"/>
 	</imgdir>
 	<imgdir name="2022004">
 		<string name="name" value="Tylus"/>
@@ -36466,94 +36466,94 @@
 		<string name="name" value="T-Drone"/>
 	</imgdir>
 	<imgdir name="3004700">
-		<string name="name" value="&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="d0" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="d1" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="Caster"/>
+		<string name="d0" value="Ahh, good morning! I&apos;m Caster."/>
+		<string name="d1" value="I&apos;m Caster. I was awakened around here."/>
 	</imgdir>
 	<imgdir name="3004701">
-		<string name="name" value="&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="d0" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="d1" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="Monkeyrog"/>
+		<string name="d0" value="Ugh..."/>
+		<string name="d1" value="Ugh..."/>
 	</imgdir>
 	<imgdir name="3004702">
-		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="d0" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="d1" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="Small Flower"/>
+		<string name="d0" value="A small flower with a mysterious scent."/>
+		<string name="d1" value="A small flower with a mysterious scent."/>
 	</imgdir>
 	<imgdir name="3004703">
-		<string name="name" value="&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="d0" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="d1" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="Caster"/>
+		<string name="d0" value="I&apos;m looking for someone."/>
+		<string name="d1" value="I&apos;m looking for someone."/>
 	</imgdir>
 	<imgdir name="3004704">
-		<string name="name" value="&#43690;&#43690;&#43690;"/>
-		<string name="d0" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="d1" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="Bappy"/>
+		<string name="d0" value="So did you find them or not?"/>
+		<string name="d1" value="So did you find them or not?"/>
 	</imgdir>
 	<imgdir name="3004705">
-		<string name="name" value="&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="d0" value="&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="d1" value="&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="Puptail"/>
+		<string name="d0" value="Woof, woof!!"/>
+		<string name="d1" value="Woof, woof!!"/>
 	</imgdir>
 	<imgdir name="3004706">
-		<string name="name" value="&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="d0" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="d1" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="Caster"/>
+		<string name="d0" value="I&apos;m looking for someone."/>
+		<string name="d1" value="I&apos;m looking for someone."/>
 	</imgdir>
 	<imgdir name="3004707">
-		<string name="name" value="&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="d0" value="&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="d1" value="&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="Puptail"/>
+		<string name="d0" value="Woof, woof!!"/>
+		<string name="d1" value="Woof, woof!!"/>
 	</imgdir>
 	<imgdir name="3004708">
-		<string name="name" value="&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="d0" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="d1" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="Caster"/>
+		<string name="d0" value="I&apos;m looking for someone."/>
+		<string name="d1" value="I&apos;m looking for someone."/>
 	</imgdir>
 	<imgdir name="3004709">
-		<string name="name" value="&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="d0" value="&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="d1" value="&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="Puptail"/>
+		<string name="d0" value="Woof, woof!!"/>
+		<string name="d1" value="Woof, woof!!"/>
 	</imgdir>
 	<imgdir name="3004710">
-		<string name="name" value="&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="d0" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="d1" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="Caster"/>
+		<string name="d0" value="I&apos;m looking for someone."/>
+		<string name="d1" value="I&apos;m looking for someone."/>
 	</imgdir>
 	<imgdir name="3004711">
-		<string name="name" value="&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="d0" value="&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="d1" value="&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="Puptail"/>
+		<string name="d0" value="Woof, woof!!"/>
+		<string name="d1" value="Woof, woof!!"/>
 	</imgdir>
 	<imgdir name="3004712">
-		<string name="name" value="&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="d0" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="d1" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="Caster"/>
+		<string name="d0" value="I&apos;m looking for someone."/>
+		<string name="d1" value="I&apos;m looking for someone."/>
 	</imgdir>
 	<imgdir name="3004713">
-		<string name="name" value="&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="d0" value="&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="d1" value="&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="Puptail"/>
+		<string name="d0" value="Woof, woof!!"/>
+		<string name="d1" value="Woof, woof!!"/>
 	</imgdir>
 	<imgdir name="3004714">
-		<string name="name" value="&#43690;&#43690;&#43690;"/>
-		<string name="d0" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="d1" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="Muppy"/>
+		<string name="d0" value="Hey! I&apos;m Muppy, and I was just born."/>
+		<string name="d1" value="Hey! I&apos;m Muppy, and I was just born."/>
 	</imgdir>
 	<imgdir name="3004715">
-		<string name="name" value="&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="d0" value="&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="d1" value="&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="Puptail"/>
+		<string name="d0" value="Woof, woof!!"/>
+		<string name="d1" value="Woof, woof!!"/>
 	</imgdir>
 	<imgdir name="3004716">
-		<string name="name" value="&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="d0" value="&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="d1" value="&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="Puptail"/>
+		<string name="d0" value="Woof, woof!!"/>
+		<string name="d1" value="Woof, woof!!"/>
 	</imgdir>
 	<imgdir name="3004717">
-		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="d0" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="d1" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="Giant Flower"/>
+		<string name="d0" value="A giant flower that gives off a terrible smell."/>
+		<string name="d1" value="A giant flower that gives off a terrible smell."/>
 	</imgdir>
 	<imgdir name="3004718">
 		<string name="name" value="???"/>
@@ -36561,159 +36561,159 @@
 		<string name="d1" value="......"/>
 	</imgdir>
 	<imgdir name="3004719">
-		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="d0" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="d1" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="Fallen Button"/>
+		<string name="d0" value="A button that has fallen off."/>
+		<string name="d1" value="A button that has fallen off."/>
 	</imgdir>
 	<imgdir name="3004720">
-		<string name="name" value="&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="Caster"/>
 		<string name="d0" value="......"/>
 		<string name="d1" value="......"/>
 	</imgdir>
 	<imgdir name="3004721">
-		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="d0" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="d1" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="Giant Flower"/>
+		<string name="d0" value="A giant flower that gives off a terrible smell."/>
+		<string name="d1" value="A giant flower that gives off a terrible smell."/>
 	</imgdir>
 	<imgdir name="3004722">
-		<string name="name" value="&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="Caster"/>
 		<string name="d0" value="......"/>
 		<string name="d1" value="......"/>
 	</imgdir>
 	<imgdir name="3004723">
-		<string name="name" value="&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="d0" value="&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="d1" value="&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="Puptail"/>
+		<string name="d0" value="Woof, woof!!"/>
+		<string name="d1" value="Woof, woof!!"/>
 	</imgdir>
 	<imgdir name="3004724">
-		<string name="name" value="&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="func" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="Treecat"/>
+		<string name="func" value="General Goods Merchant"/>
 	</imgdir>
 	<imgdir name="3004725">
-		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="func" value="&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="Mrs. Piggy"/>
+		<string name="func" value="Storage Keeper"/>
 	</imgdir>
 	<imgdir name="3004726">
-		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="d0" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="d1" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="Chief Lyon"/>
+		<string name="d0" value="I&apos;m Lyon, chief of Chu Chu Village! Meow!"/>
+		<string name="d1" value="I&apos;m Lyon, chief of Chu Chu Village! Meow!"/>
 	</imgdir>
 	<imgdir name="3004727">
-		<string name="name" value="&#43690;&#43690;&#43690;"/>
-		<string name="d0" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="d1" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="Muppy"/>
+		<string name="d0" value="My match made in heaven is right here!"/>
+		<string name="d1" value="My match made in heaven is right here!"/>
 	</imgdir>
 	<imgdir name="3004728">
-		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="d0" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="d1" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="Chief Lyon"/>
+		<string name="d0" value="It&apos;d be great if the two towns could get along! Meow!"/>
+		<string name="d1" value="It&apos;d be great if the two towns could get along! Meow!"/>
 	</imgdir>
 	<imgdir name="3004729">
-		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="d0" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="d1" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="Chief Lyon"/>
+		<string name="d0" value="This place feels really terrible! Meow!"/>
+		<string name="d1" value="This place feels really terrible! Meow!"/>
 	</imgdir>
 	<imgdir name="3004730">
-		<string name="name" value="&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="Caster"/>
 	</imgdir>
 	<imgdir name="3004731">
-		<string name="name" value="&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="Puptail"/>
 	</imgdir>
 	<imgdir name="3004732">
-		<string name="name" value="&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="Caster"/>
 	</imgdir>
 	<imgdir name="3004733">
-		<string name="name" value="&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="Puptail"/>
 	</imgdir>
 	<imgdir name="3004734">
-		<string name="name" value="&#43690;&#43690;&#43690;"/>
+		<string name="name" value="Muppy"/>
 	</imgdir>
 	<imgdir name="3004735">
-		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="Chief Lyon"/>
 	</imgdir>
 	<imgdir name="3004736">
-		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="Fallen Monkeyrog"/>
 	</imgdir>
 	<imgdir name="3004737">
-		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="Fallen Bunshroom"/>
 	</imgdir>
 	<imgdir name="3004738">
-		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="Small Flower"/>
 	</imgdir>
 	<imgdir name="3004739">
-		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="Small Flower"/>
 	</imgdir>
 	<imgdir name="3004740">
-		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="Neinheart"/>
 	</imgdir>
 	<imgdir name="3004741">
-		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="Cygnus"/>
 	</imgdir>
 	<imgdir name="3004742">
-		<string name="name" value="&#43690;&#43690;&#43690;"/>
+		<string name="name" value="Ollie"/>
 	</imgdir>
 	<imgdir name="3004743">
-		<string name="name" value="&#43690;&#43690;&#43690;"/>
+		<string name="name" value="Kaling"/>
 	</imgdir>
 	<imgdir name="3004744">
-		<string name="name" value="&#43690;&#43690;&#43690;"/>
+		<string name="name" value="Bappy"/>
 	</imgdir>
 	<imgdir name="3004745">
-		<string name="name" value="&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="Monkeyrog"/>
 	</imgdir>
 	<imgdir name="3004746">
-		<string name="name" value="&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="Bunshroom"/>
 	</imgdir>
 	<imgdir name="3004747">
-		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="Caster&apos;s Button"/>
 	</imgdir>
 	<imgdir name="3004748">
-		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="Orange Piabee"/>
 	</imgdir>
 	<imgdir name="3004749">
-		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="Yellow Piabee"/>
 	</imgdir>
 	<imgdir name="3004750">
-		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="Purple Piabee"/>
 	</imgdir>
 	<imgdir name="3004751">
 		<string name="name" value="???"/>
 	</imgdir>
 	<imgdir name="3004752">
-		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="Fallen Monkeyrog"/>
 	</imgdir>
 	<imgdir name="3004753">
-		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="Fallen Bunshroom"/>
 	</imgdir>
 	<imgdir name="3004754">
-		<string name="name" value="&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="Caster"/>
 	</imgdir>
 	<imgdir name="3004755">
-		<string name="name" value="&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="Puptail"/>
 	</imgdir>
 	<imgdir name="3004756">
-		<string name="name" value="&#43690;&#43690;&#43690;"/>
+		<string name="name" value="Muppy"/>
 	</imgdir>
 	<imgdir name="3004757">
-		<string name="name" value="&#43690;&#43690;&#43690;"/>
+		<string name="name" value="Bappy"/>
 	</imgdir>
 	<imgdir name="3004758">
-		<string name="name" value="&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="Caster"/>
 	</imgdir>
 	<imgdir name="3004780">
-		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="d0" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="d1" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="Chief Lyon"/>
+		<string name="d0" value="This place feels ghastly! Meow!"/>
+		<string name="d1" value="This place feels ghastly! Meow!"/>
 	</imgdir>
 	<imgdir name="3004781">
-		<string name="name" value="&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="d0" value="&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="d1" value="&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="Puptail"/>
+		<string name="d0" value="Woof, woof!!"/>
+		<string name="d1" value="Woof, woof!!"/>
 	</imgdir>
 	<imgdir name="3004782">
-		<string name="name" value="&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="d0" value="&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="d1" value="&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="Puptail"/>
+		<string name="d0" value="Woof, woof!!"/>
+		<string name="d1" value="Woof, woof!!"/>
 	</imgdir>
 	<imgdir name="9062278">
 		<string name="name" value="Daria"/>
@@ -47526,6 +47526,11 @@
 	<imgdir name="9201611">
 		<string name="name" value="Subordinate"/>
 	</imgdir>
+	<imgdir name="9201613">
+		<string name="name" value="Moon Mouse"/>
+		<string name="d0" value="How are you doing, squeak?"/>
+		<string name="d1" value="How are you doing, squeak?"/>
+	</imgdir>
 	<imgdir name="9400791">
 		<string name="name" value="Yoria"/>
 		<string name="func" value="Lunar New Year Event Planner"/>
@@ -48129,6 +48134,30 @@
 	<imgdir name="9270160">
 		<string name="name" value="Popoh"/>
 		<string name="func" value="Maple Relay"/>
+	</imgdir>
+	<imgdir name="9270161">
+		<string name="name" value="Conqueror"/>
+		<string name="func" value="Combo God"/>
+	</imgdir>
+	<imgdir name="9270162">
+		<string name="name" value="Slayer"/>
+		<string name="func" value="Combo God"/>
+	</imgdir>
+	<imgdir name="9270163">
+		<string name="name" value="Warlord"/>
+		<string name="func" value="Combo God"/>
+	</imgdir>
+	<imgdir name="9270164">
+		<string name="name" value="Paragon"/>
+		<string name="func" value="Combo God"/>
+	</imgdir>
+	<imgdir name="9270165">
+		<string name="name" value="Destroyer"/>
+		<string name="func" value="Combo God"/>
+	</imgdir>
+	<imgdir name="9270166">
+		<string name="name" value="Asura"/>
+		<string name="func" value="Combo God"/>
 	</imgdir>
 	<imgdir name="9400985">
 		<string name="name" value="Modryn"/>

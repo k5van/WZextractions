@@ -57,8 +57,8 @@
 		<string name="desc" value="A pretty moon cushion. \r\n#cRestores 60 HP every 10 seconds.#"/>
 	</imgdir>
 	<imgdir name="3010064">
-		<string name="name" value="Male Desert Rabbit Cushion  "/>
-		<string name="desc" value="60 HP is restored every 10 seconds if you lean back on this cute Male Desert Rabbit Cushion."/>
+		<string name="name" value="Male Desert Rabbit Cushion"/>
+		<string name="desc" value="Sit on this adorable desert rabbit to recover 60 HP every 10 seconds."/>
 	</imgdir>
 	<imgdir name="3010065">
 		<string name="name" value="Pink Beach Parasol"/>
@@ -15624,6 +15624,10 @@ Keep it in your Inventory Set-up tab for 30 minutes to receive a Shiny Easter Eg
 		<string name="name" value="Marvelous Throne of Diligence"/>
 		<string name="desc" value="#cRestores 50 HP and 50 MP every 10 seconds.#"/>
 	</imgdir>
+	<imgdir name="3015946">
+		<string name="name" value="Maple Mushroom Stew Chair"/>
+		<string name="desc" value="A hot Maple mushroom stew chair! #cRestores 50 HP and 50 MP every 10 seconds.#"/>
+	</imgdir>
 	<imgdir name="3015915">
 		<string name="name" value="Custom Kitty Chair "/>
 		<string name="desc" value="It&apos;s a Custom Kitty Chair. \r\n#cRestores 50 HP and 50 MP every 10 seconds.#"/>
@@ -16985,5 +16989,31 @@ Keep it in your Inventory Set-up tab for 30 minutes to receive a Shiny Easter Eg
 	<imgdir name="3018571">
 		<string name="name" value="Wedding Arch with Groom"/>
 		<string name="desc" value="The dreamy combination of wedding cake and macarons! \r\n#cRestores 50 HP and 50 MP every 10 seconds.#"/>
+	</imgdir>
+	<imgdir name="3016223">
+		<string name="name" value="Dewy Four-Leaf Clover Group Chair"/>
+		<string name="desc" value="A dewy four-leaf clover group chair. Up to 2 people can sit in it together. #cRestores 100 HP and 100 MP every 10 seconds.#"/>
+	</imgdir>
+	<imgdir name="3018550">
+		<string name="name" value="Sparkling-ade Rocket Chair"/>
+		<string name="desc" value="A sparkling-ade rocket chair. #cRestores 100 HP and 100 MP every 10 seconds.#"/>
+	</imgdir>
+	<imgdir name="3018551">
+		<string name="name" value="Studio Filming Chair"/>
+		<string name="desc" value="A studio filming chair. #cRecovers 100 HP and 100 MP every 10 seconds.# Designed by the MapleStorySEA player rnlk."/>
+	</imgdir>
+	<imgdir name="3018552">
+		<string name="name" value="Bubbly Bath Time Chair"/>
+		<string name="desc" value="A bubbly bath time chair. #cRestores 100 HP and 100 MP every 10 seconds.#"/>
+	</imgdir>
+	<imgdir name="3018578">
+		<string name="name" value="Chess Master Throne"/>
+		<string name="desc" value="Victory to the chess master!\n#cRestores 50 HP and 50 MP every 10 seconds.#"/>
+	</imgdir>
+	<imgdir name="3700651">
+		<string name="name" value="Guild Pride"/>
+		<string name="desc" value="A commemorative title that displays the name of your guild."/>
+		<string name="qrDefault" value="Guild Free"/>
+		<string name="nickWithQR" value="#qr65666#"/>
 	</imgdir>
 </imgdir>

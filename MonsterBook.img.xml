@@ -479,7 +479,7 @@
 		</imgdir>
 	</imgdir>
 	<imgdir name="2100100">
-		<string name="episode" value=" Lv. :  20\nForm : Mammal\nSpecial Trait : -50% Sanctity Attribute Damage.\n\nA female Desert Rabbit found in deserts. Has a characteristically small pair of ears and a round body. Its staple food are clovers and carrots which grow around oases, and so these Desert Rabbits tend to be very good at finding food and water even in the deep desert. Desert Rabbits were apparently beloved pets that used to be raised by many a desert nomads.   "/>
+		<string name="episode" value=" Lv. :  20\nForm : Mammal\nSpecial Trait : -50% Sanctity Attribute Damage.\n\nA female Desert Rabbit found in deserts. Has a characteristically small pair of ears and a round body. Its staple food are clovers and carrots which grow around oases, and so these Desert Rabbits tend to be very good at finding food and water even in the deep desert. Desert Rabbits were apparently beloved pets that used to be raised by many a desert nomads.  "/>
 		<imgdir name="map">
 			<int name="0" value="260010700"/>
 		</imgdir>

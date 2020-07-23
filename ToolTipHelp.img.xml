@@ -367,7 +367,7 @@
 					<vector name="lt" x="12" y="244"/>
 					<vector name="rb" x="69" y="260"/>
 					<string name="Title" value="DEX"/>
-					<string name="Desc" value="Luck determines your Avoidability. It&apos;s one of Xenon&apos;s main attack stats."/>
+					<string name="Desc" value="The higher this stat is, the higher your Avoidability. Affects Xenon&apos;s Attack Power."/>
 				</imgdir>
 				<imgdir name="10">
 					<string name="Title" value="INT"/>
@@ -377,7 +377,7 @@
 				</imgdir>
 				<imgdir name="11">
 					<string name="Title" value="LUK"/>
-					<string name="Desc" value="Luck determines your Avoidability. It&apos;s one of Xenon&apos;s main attack stats."/>
+					<string name="Desc" value="The higher this stat is, the higher your Avoidability. Affects Xenon&apos;s Attack Power."/>
 					<vector name="lt" x="12" y="280"/>
 					<vector name="rb" x="69" y="296"/>
 				</imgdir>
@@ -2027,16 +2027,16 @@
 				<string name="Title" value="Perion Northern Ridge"/>
 			</imgdir>
 			<imgdir name="0">
-				<string name="Title" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+				<string name="Title" value="Mini Rocky Road"/>
 			</imgdir>
 			<imgdir name="1">
-				<string name="Title" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+				<string name="Title" value="Wild Boar Land"/>
 			</imgdir>
 			<imgdir name="2">
-				<string name="Title" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+				<string name="Title" value="Perion Northern Ridge"/>
 			</imgdir>
 			<imgdir name="5">
-				<string name="Title" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+				<string name="Title" value="Wild Boar Land"/>
 			</imgdir>
 		</imgdir>
 		<imgdir name="102020200">
@@ -2081,19 +2081,19 @@
 				<string name="Title" value="Mini Rocky Road"/>
 			</imgdir>
 			<imgdir name="0">
-				<string name="Title" value="&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+				<string name="Title" value="Gusty Peak"/>
 			</imgdir>
 			<imgdir name="3">
-				<string name="Title" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+				<string name="Title" value="Initial Excavation Area"/>
 			</imgdir>
 			<imgdir name="6">
-				<string name="Title" value="&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+				<string name="Title" value="Gusty Peak"/>
 			</imgdir>
 			<imgdir name="7">
-				<string name="Title" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+				<string name="Title" value="Initial Excavation Area"/>
 			</imgdir>
 			<imgdir name="8">
-				<string name="Title" value="&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+				<string name="Title" value="Big Rocky Road"/>
 			</imgdir>
 		</imgdir>
 		<imgdir name="102020500">
@@ -8763,7 +8763,7 @@
 		</imgdir>
 		<imgdir name="211060200">
 			<imgdir name="up00">
-				<string name="Title" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+				<string name="Title" value="Roof of the First Tower"/>
 			</imgdir>
 			<imgdir name="east00">
 				<string name="Title" value="Castle Ramparts 2"/>
@@ -8774,7 +8774,7 @@
 		</imgdir>
 		<imgdir name="211060400">
 			<imgdir name="up00">
-				<string name="Title" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+				<string name="Title" value="Roof of the Second Tower"/>
 			</imgdir>
 			<imgdir name="east00">
 				<string name="Title" value="Castle Ramparts 3"/>
@@ -8791,7 +8791,7 @@
 		</imgdir>
 		<imgdir name="211060600">
 			<imgdir name="up00">
-				<string name="Title" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+				<string name="Title" value="Roof of the Third Tower"/>
 			</imgdir>
 			<imgdir name="east00">
 				<string name="Title" value="Castle Ramparts 4"/>
@@ -8892,7 +8892,7 @@
 				</imgdir>
 			</imgdir>
 			<imgdir name="in03">
-				<string name="Title" value="&#43690;&#43690;&#43690;"/>
+				<string name="Title" value="Library"/>
 				<imgdir name="Mob">
 					<string name="0" value="9500184"/>
 				</imgdir>

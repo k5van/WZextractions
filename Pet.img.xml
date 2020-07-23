@@ -4595,4 +4595,34 @@
 		<string name="desc" value="This is #cCat Luminous#, raised by Luminous."/>
 		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
 	</imgdir>
+	<imgdir name="5002166">
+		<string name="name" value="White Whale"/>
+		<string name="desc" value="It&apos;s a White Whale Pet.\nEquip Whale pets to get the #cWhales&apos; Mysterious Power# skill, which grows stronger as you equip more Whale pets."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002167">
+		<string name="name" value="Black Whale"/>
+		<string name="desc" value="It&apos;s a Black Whale Pet.\nEquip Whale pets to get the #cWhales&apos; Mysterious Power# skill, which grows stronger as you equip more Whale pets."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002168">
+		<string name="name" value="Pink Whale"/>
+		<string name="desc" value="It&apos;s a Pink Whale Pet.\nEquip Whale pets to get the #cWhales&apos; Mysterious Power# skill, which grows stronger as you equip more Whale pets."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002180">
+		<string name="name" value="White Whale"/>
+		<string name="desc" value="This is the White Whale pet."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002181">
+		<string name="name" value="Black Whale"/>
+		<string name="desc" value="This is the Black Whale pet."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002182">
+		<string name="name" value="Pink Whale"/>
+		<string name="desc" value="This is the Pink Whale pet."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
 </imgdir>

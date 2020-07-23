@@ -3942,7 +3942,7 @@
 		<string name="hch" value="MP Cost: #mpCon, Damage: #damage%, Number of Attacks: #attackCount, Max Enemies Hit: #mobCount, Seal Chance: #hcProp%, Seal Duration: #hcTime sec"/>
 	</imgdir>
 	<imgdir name="3211005">
-		<string name="name" value="Freezer"/>
+		<string name="name" value="Frostprey"/>
 		<string name="desc" value="Temporarily summons a Frostprey to deal ice damage to up to 4 enemies. This skill is not affected by enemy damage reflection skills. Also permanently increases Defense."/>
 		<string name="h" value="MP Cost: #mpCon, summon Frostprey for #time sec. Attacks up to 4 enemies at once with #damage% damage. Freezes for #x sec\n[Passive Effects: Increases Defense by #pddR%]"/>
 	</imgdir>
@@ -5124,7 +5124,7 @@
 	<imgdir name="4211003">
 		<string name="name" value="Pick Pocket"/>
 		<string name="desc" value="Drops 1 meso every time you attack with your skills (besides Meso Explosion, 5th Job Common Skills, and Summoner attacks). Can be toggled #cOn/Off#."/>
-		<string name="h" value="Meso Drop Chance: #prop%, Max Mesos Created: #y.\nWhen mesos are consumed from being hit with Mesogaurd up, up to 5 mesos drop. \nMesos do not drop from Venom or Sudden Raid, which to damage over time."/>
+		<string name="h" value="Meso Drop Chance: #prop%, Max Mesos Created: #y.\nWhen mesos are consumed from being hit with Mesoguard up, up to 5 mesos drop. \nMesos do not drop from Venom or Sudden Raid, which to damage over time."/>
 	</imgdir>
 	<imgdir name="4211004">
 		<string name="name" value="Band of Thieves"/>
@@ -7264,27 +7264,27 @@
 	</imgdir>
 	<imgdir name="10000255">
 		<string name="name" value="Cygnus Blessing (Warrior)"/>
-		<string name="desc" value="Blessings from an awakened Empress Cygnus protects you from harm.\nThis Link Skill can be stacked up to 5 times, once for each unique Cygnus Knights job character you have on this world."/>
+		<string name="desc" value="Blessings from an awakened Empress Cygnus protect you from harm.\nThis Link Skill can be stacked up to 5 times, once for each unique Cygnus Knights job character you have on this world."/>
 		<string name="h" value="Attack Power and Magic ATT: +#padX, Abnormal Status Resistance: +#asrR, All Elemental Resistance: +#terR%"/>
 	</imgdir>
 	<imgdir name="10000256">
 		<string name="name" value="Cygnus Blessing (Magician)"/>
-		<string name="desc" value="Blessings from an awakened Empress Cygnus protects you from harm.\nThis Link Skill can be stacked up to 5 times, once for each unique Cygnus Knights job character you have on this world."/>
+		<string name="desc" value="Blessings from an awakened Empress Cygnus protect you from harm.\nThis Link Skill can be stacked up to 5 times, once for each unique Cygnus Knights job character you have on this world."/>
 		<string name="h" value="Attack Power and Magic ATT: +#padX, Abnormal Status Resistance: +#asrR, All Elemental Resistance: +#terR%"/>
 	</imgdir>
 	<imgdir name="10000257">
 		<string name="name" value="Cygnus Blessing (Bowman)"/>
-		<string name="desc" value="Blessings from an awakened Empress Cygnus protects you from harm.\nThis Link Skill can be stacked up to 5 times, once for each unique Cygnus Knights job character you have on this world."/>
+		<string name="desc" value="Blessings from an awakened Empress Cygnus protect you from harm.\nThis Link Skill can be stacked up to 5 times, once for each unique Cygnus Knights job character you have on this world."/>
 		<string name="h" value="Attack Power and Magic ATT: +#padX, Abnormal Status Resistance: +#asrR, All Elemental Resistance: +#terR%"/>
 	</imgdir>
 	<imgdir name="10000258">
 		<string name="name" value="Cygnus Blessing (Thief)"/>
-		<string name="desc" value="Blessings from an awakened Empress Cygnus protects you from harm.\nThis Link Skill can be stacked up to 5 times, once for each unique Cygnus Knights job character you have on this world."/>
+		<string name="desc" value="Blessings from an awakened Empress Cygnus protect you from harm.\nThis Link Skill can be stacked up to 5 times, once for each unique Cygnus Knights job character you have on this world."/>
 		<string name="h" value="Attack Power and Magic ATT: +#padX, Abnormal Status Resistance: +#asrR, All Elemental Resistance: +#terR%"/>
 	</imgdir>
 	<imgdir name="10000259">
 		<string name="name" value="Cygnus Blessing (Pirate)"/>
-		<string name="desc" value="Blessings from an awakened Empress Cygnus protects you from harm.\nThis Link Skill can be stacked up to 5 times, once for each unique Cygnus Knights job character you have on this world."/>
+		<string name="desc" value="Blessings from an awakened Empress Cygnus protect you from harm.\nThis Link Skill can be stacked up to 5 times, once for each unique Cygnus Knights job character you have on this world."/>
 		<string name="h" value="Attack Power and Magic ATT: +#padX, Abnormal Status Resistance: +#asrR, All Elemental Resistance: +#terR%"/>
 	</imgdir>
 	<imgdir name="10001000">
@@ -21682,7 +21682,7 @@
 	</imgdir>
 	<imgdir name="64120006">
 		<string name="name" value="Muscle Memory III"/>
-		<string name="desc" value="Your continued training and familiarity with your weapons further enhances their deadliness.#c Overrides the effects of Muscle Memory II, except for the passive bonus to Summoned Weapon skill damage, which is stacked.\nRequired Skill: #cMuscle Memory II Lv. 10#\n#cLv. 10+ required to learn Hyper Skill &apos;Veteran Shadowdealer&apos;#"/>
+		<string name="desc" value="Your continued training and familiarity with your weapons further enhances their deadliness.#c Overrides the effects of Muscle Memory II, except for the passive bonus to Summoned Weapon skill damage, which is stacked.#\nRequired Skill: #cMuscle Memory II Lv. 10#\n#cLv. 10+ required to learn Hyper Skill &apos;Veteran Shadowdealer&apos;#"/>
 		<string name="h" value="Triggers upon switching summoned weapons. #c[Stack Bonus]# Attack Skill Final Damage +#x% for #time sec. Stacks up to the number of weapon summon skills you possess (excluding Chain Arts).\nRefreshing or incrementing this buff stack inflicts additional hits. #c[Bonus Hits]# Damage: #y%, Max Enemies Hit: #s, Number of Attacks: #w, Cooldown: 0.25 sec\n#c[Passive Effect: Damage for Summon Scimitar, Claw, Shuriken, Shotgun, Daggers, and Decoy Bomb are all increased by +#damPlus%p]#"/>
 	</imgdir>
 	<imgdir name="64120007">
@@ -39645,7 +39645,7 @@
 	<imgdir name="80002863">
 		<string name="name" value="Rising Knight Training"/>
 		<string name="desc" value="Help Arthur as he trains to become a knight!\nEliminate #cmonsters near your level# and there&apos;s a chance Arthur will help you, earning you #cRise Coin# x1 each time he does.\n\nOnce you&apos;ve earned the maximum possible Rise Coins each day, Arthur&apos;s training will end for that day.\n\n#cRight-click to turn ON/OFF.#"/>
-		<string name="h" value="Eliminate #cmonsters near your level# and there&apos;s a small chance Arthur will enter a #cfocused# state to consecutively attack monsters #z times. "/>
+		<string name="h" value="Eliminate #cmonsters near your level# and there&apos;s a small chance Arthur will enter a #cfocused# state to deliver a #z-hit attack against monsters."/>
 	</imgdir>
 	<imgdir name="80002869">
 		<string name="name" value="Maple World&apos;s Santa Mount"/>
@@ -45163,7 +45163,7 @@
 	<imgdir name="42121000">
 		<string name="name" value="Vanquisher&apos;s Charm"/>
 		<string name="desc" value="#c[Spirit Walker Skill]#\nBlast the enemy with evil-destroying charms. Hold down the skill key for a rapid-fire attack.\nIf the 5th Job Advancement skill &apos;Liberated Spirit Circle&apos; has been learned, it will be automatically activated if not on cooldown."/>
-		<string name="h" value="Mana Cost: #epCon, Max Enemies Hit: #mobCount, Damage: #damage%, Number of Consecutive Attacks: #attackCount\nYou can #cmove# and #cjump# while holding down the skill key.\nWhile in use, increases the amount needed to activate #cShikigami Doppelganger# by #y.\r\nCooldown: #cooltime sec"/>
+		<string name="h" value="Mana Cost: #epCon, Max Duration: #time sec, Max Enemies Hit: #mobCount, Damage: #damage%, Number of Consecutive Attacks: #attackCount\nYou can #cmove# and #cjump# while holding down the skill key.\nWhile in use, increases the amount needed to activate #cShikigami Doppelganger# by #y.\r\nCooldown: #cooltime sec"/>
 	</imgdir>
 	<imgdir name="42121002">
 		<string name="name" value="Falling Sakura"/>
@@ -48376,7 +48376,7 @@ Damages and freezes enemies when hit."/>
 	</imgdir>
 	<imgdir name="80011513">
 		<string name="name" value="The Ring of Torment"/>
-		<string name="desc" value="The damage you deal to enemies is reduced, but your Bonus EXP is increased. \n#cCooldown: 30 min#"/>
+		<string name="desc" value="Increases your Bonus EXP earned, but reduces the damage you deal to enemies. \n#cCooldown: 30 min\nDuration: 15 min#"/>
 		<string name="h" value="The damage you deal to enemies is reduced by #x%, and your Bonus EXP is increased by #y%."/>
 	</imgdir>
 	<imgdir name="80010112">
@@ -49308,7 +49308,7 @@ Damages and freezes enemies when hit."/>
 	<imgdir name="42121100">
 		<string name="name" value="Orochi Unbound"/>
 		<string name="desc" value="Temporarily release the sealed shikigami, Orochi, to immolate enemies in a wide area with its mighty power.\nCan also be used while in the air. Knockback Resistance is automatically set to 100% while casting."/>
-		<string name="h" value="Mana Cost: 50, Max Enemies hit: #c15#, Damage: #c#w%#, Attack Count: #c1#. Hold the key down for #cup to approx. 6 sec# to use #c#epCon# Mana per sec. Max Enemies Hit: #c#mobCount#, Damage: #c#damage%#, Attack Count: #c#attackCount#.\nCooldown: #cooltime sec"/>
+		<string name="h" value="Mana Cost: 50, Max Enemies hit: #c15#, Damage: #c#w%#, Attack Count: #c1#. Hold the key down for #cup to approx. 4 sec# to use #c#epCon# Mana per sec. Max Enemies Hit: #c#mobCount#, Damage: #c#damage%#, Attack Count: #c#attackCount#.\nCooldown: #cooltime sec"/>
 	</imgdir>
 	<imgdir name="42121101">
 		<string name="name" value="Orochi Unbound (First Hit)"/>
@@ -49753,5 +49753,40 @@ Damages and freezes enemies when hit."/>
 		<string name="name" value="Heroes of Meow Pet Lv. 3"/>
 		<string name="desc" value="The cuteness of the Heroes of Meow cats increases your Attack Power and Magic ATT by 5."/>
 		<string name="h" value="#Attack Power: +#padX, Magic ATT: +#madX"/>
+	</imgdir>
+	<imgdir name="80011977">
+		<string name="name" value="Lv. 1 Whales&apos; Mysterious Power"/>
+		<string name="desc" value="Increases Attack Power and Magic ATT by 3."/>
+		<string name="h" value="#Attack Power: +#padX, Magic ATT: +#madX"/>
+	</imgdir>
+	<imgdir name="80011978">
+		<string name="name" value="Lv. 2 Whales&apos; Mysterious Power"/>
+		<string name="desc" value="Increases Attack Power and Magic ATT by 5."/>
+		<string name="h" value="#Attack Power: +#padX, Magic ATT: +#madX"/>
+	</imgdir>
+	<imgdir name="80011979">
+		<string name="name" value="Lv. 3 Whales&apos; Mysterious Power"/>
+		<string name="desc" value="Increases Attack Power and Magic ATT by 7."/>
+		<string name="h" value="#Attack Power: +#padX, Magic ATT: +#madX"/>
+	</imgdir>
+	<imgdir name="80011980">
+		<string name="name" value="Gelato Cart Mount"/>
+		<string name="desc" value="[Master Level: 1]\nRide around on a Gelato Cart mount that can double jump and move #cvery quickly#."/>
+		<string name="h" value="MP Cost: 10, DEF: 10, Speed: 170, Jump: 120"/>
+	</imgdir>
+	<imgdir name="80011981">
+		<string name="name" value="Gelato Cart Mount"/>
+		<string name="desc" value="[Master Level: 1]\nRide around on a Gelato Cart mount that can double jump and move #cvery quickly#."/>
+		<string name="h" value="MP Cost: 10, DEF: 10, Speed: 170, Jump: 120"/>
+	</imgdir>
+	<imgdir name="42111108">
+		<string name="name" value="Spirit Warding Charm 2"/>
+		<string name="desc" value="A Devil-Destroying Tailsman that thrown while using Shikigami Haunting. It burns enemies for a short time and slows them down."/>
+		<string name="h" value="[Spirit Warding Charm]: Activation Chance: #prop%, Speed Reduction: -#x%, Duration: #dotTime sec, Damage: #dot% every sec"/>
+	</imgdir>
+	<imgdir name="42121106">
+		<string name="name" value="Spirit Warding Charm 3"/>
+		<string name="desc" value="A Devil-Destroying Tailsman thrown while using Shikigami Haunting. It burns enemies for a short time and slows them down."/>
+		<string name="h" value="[Spirit Warding Charm]: Activation Chance: #prop%, Speed Reduction: -#x%, Duration: #dotTime sec, Damage: #dot% every sec"/>
 	</imgdir>
 </imgdir>

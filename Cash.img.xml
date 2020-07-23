@@ -2320,11 +2320,11 @@ Talk to NPC Lauren at Henesys Hair Salon for Androids."/>
 		<string name="desc" value="Double-click to change your hair to the selected hair. Can only be used on female characters."/>
 	</imgdir>
 	<imgdir name="5157010">
-		<string name="name" value="Novel Spunky Evan Hair Coupon"/>
+		<string name="name" value="Pageboy Hair Coupon (M)"/>
 		<string name="desc" value="Double-click to change your hair to the selected hair. Can only be used on male characters."/>
 	</imgdir>
 	<imgdir name="5157011">
-		<string name="name" value="Novel Prim Evan Hair Coupon"/>
+		<string name="name" value="Pageboy Hair Coupon (F)"/>
 		<string name="desc" value="Double-click to change your hair to the selected hair. Can only be used on female characters."/>
 	</imgdir>
 	<imgdir name="5157014">
@@ -2413,7 +2413,7 @@ Talk to NPC Lauren at Henesys Hair Salon for Androids."/>
 	</imgdir>
 	<imgdir name="5160001">
 		<string name="name" value="Panicky"/>
-		<string name="desc" value="On the KeyConfig, configure this expression on a button of your choice. Press the button and watch your character display panicking face."/>
+		<string name="desc" value="In the Keyboard Shortcuts window, assign this expression to the key of your choice. Press the key and watch your character stare off in silence."/>
 	</imgdir>
 	<imgdir name="5160002">
 		<string name="name" value="Sweetness"/>
@@ -2473,7 +2473,7 @@ Talk to NPC Lauren at Henesys Hair Salon for Androids."/>
 	</imgdir>
 	<imgdir name="5160020">
 		<string name="name" value="Speechless"/>
-		<string name="desc" value="In the KeyConfig, assign this expression to a button of your choice. Press the button and watch your character panic. Eeek!"/>
+		<string name="desc" value="In the Keyboard Shortcuts window, assign this expression to the key of your choice. Press the key and watch your character stare off in silence."/>
 	</imgdir>
 	<imgdir name="5160021">
 		<string name="name" value="Sweetness"/>
@@ -8705,16 +8705,16 @@ ATT, MATT + 100"/>
 		<string name="desc" value="You can exchange this for 8 Gachapon Tickets if you visit The Great Gachapierrot in a town. "/>
 	</imgdir>
 	<imgdir name="5220083">
-		<string name="name" value="Starter Pack"/>
+		<string name="name" value="Familiar Starter Pack"/>
 		<string name="desc" value="A starter pack commemorating the introduction of Monster Familiars! \n\nContents: \nPig \nCloud Fox \nTerrified Wild Boar \nJr. Cactus \n\n#cCannot be traded. Can only be purchased once per account.#
 "/>
 	</imgdir>
 	<imgdir name="5220084">
-		<string name="name" value="Booster Pack"/>
+		<string name="name" value="Normal Familiar Booster Pack"/>
 		<string name="desc" value="A booster pack containing 3 random Familiars. The Familiars you can receive range from Common to Epic in rank."/>
 	</imgdir>
 	<imgdir name="5220092">
-		<string name="name" value="Unique Booster Pack"/>
+		<string name="name" value="Premium Familiar Booster Pack"/>
 		<string name="desc" value="A booster pack containing 3 random Familiars. The Familiars you can receive range from Rare to Unique in rank.\n#cYou will receive a Volatile Unique Familiar Stamp upon using this item. Collect 20 of them to receive a Volatile Familiar Ticket that will allow you to get a Unique Familiar. "/>
 	</imgdir>
 	<imgdir name="5220094">
@@ -10586,7 +10586,7 @@ ATT, MATT + 100"/>
 		<string name="desc" value="Perfume for Pets.\nThe buff you get will depend on the number of pets summoned when the perfume is first used.\n1: LUK +3 for 2 hours\n2: LUK +6 for 2 hours\n3: LUK +10 for 2 hours\nThis buff stacks with other buffs, but not with other Pet Perfume buffs."/>
 	</imgdir>
 	<imgdir name="5680059">
-		<string name="name" value="Sengoku Booster Pack"/>
+		<string name="name" value="Sengoku Familiar Booster Pack"/>
 		<string name="desc" value="Booster Pack with a chance to grant a Sengoku Familiar. Use to obtain one random Familiar out of 29, including the mythical Ranmaru."/>
 	</imgdir>
 	<imgdir name="5680141">
@@ -12108,7 +12108,7 @@ ATT, MATT + 100"/>
 	</imgdir>
 	<imgdir name="5060076">
 		<string name="name" value="Familiar Breakthrough Card"/>
-		<string name="desc" value="Allows a Familiar to break through its limitations, increasing its level cap."/>
+		<string name="desc" value="Allows a Familiar to break through its limitations, increasing its level cap.\nOnly usable on Familiars of Unique rank or higher. Each Familiar can be the subject of up to two Breakthroughs."/>
 	</imgdir>
 	<imgdir name="5060077">
 		<string name="name" value="Fauxmiliar Card"/>
@@ -12135,8 +12135,8 @@ ATT, MATT + 100"/>
 		<string name="name" value="Fauxmiliar Card"/>
 	</imgdir>
 	<imgdir name="5220028">
-		<string name="name" value="Familiar Booster Pack Coupon"/>
-		<string name="desc" value="A coupon that grants a Familiar Booster Pack when used."/>
+		<string name="name" value="Roro&apos;s Familiar Booster Pack"/>
+		<string name="desc" value="Grants 3 random Familiar Cards when used."/>
 	</imgdir>
 	<imgdir name="5240203">
 		<string name="name" value="Fresh-baked Drumstick"/>
@@ -12161,5 +12161,9 @@ ATT, MATT + 100"/>
 	<imgdir name="5240205">
 		<string name="name" value="Heroic Churu"/>
 		<string name="desc" value="Noble premium jelly, a favorite of the #cHeroes of Meow# cat pets. Restores Fullness completely and #cincreases Closeness by 100.#"/>
+	</imgdir>
+	<imgdir name="5240206">
+		<string name="name" value="School of Sardines"/>
+		<string name="desc" value="A school of sardines, the favorite delicacy of #cWhale# pets. Completely restores Fullness and#c increases Closeness by 100#."/>
 	</imgdir>
 </imgdir>
