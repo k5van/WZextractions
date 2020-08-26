@@ -36656,31 +36656,31 @@
 			<string name="mapName" value="Somewhere in the Labyrinth"/>
 		</imgdir>
 		<imgdir name="993063002">
-			<string name="streetName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="streetName" value="Labyrinth of Suffering"/>
 			<string name="mapName" value="Somewhere in the Labyrinth"/>
 		</imgdir>
 		<imgdir name="993063003">
-			<string name="streetName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="streetName" value="Labyrinth of Suffering"/>
 			<string name="mapName" value="Somewhere in the Labyrinth"/>
 		</imgdir>
 		<imgdir name="993063004">
-			<string name="streetName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="streetName" value="Labyrinth of Suffering"/>
 			<string name="mapName" value="Somewhere in the Labyrinth"/>
 		</imgdir>
 		<imgdir name="993063005">
-			<string name="streetName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="streetName" value="Labyrinth of Suffering"/>
 			<string name="mapName" value="Somewhere in the Labyrinth"/>
 		</imgdir>
 		<imgdir name="993063007">
-			<string name="streetName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="streetName" value="Labyrinth of Suffering"/>
 			<string name="mapName" value="Somewhere in the Labyrinth"/>
 		</imgdir>
 		<imgdir name="993063008">
-			<string name="streetName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="streetName" value="Labyrinth of Suffering"/>
 			<string name="mapName" value="Somewhere in the Labyrinth"/>
 		</imgdir>
 		<imgdir name="993063009">
-			<string name="streetName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="streetName" value="Labyrinth of Suffering"/>
 			<string name="mapName" value="Somewhere in the Labyrinth"/>
 		</imgdir>
 		<imgdir name="993063010">
@@ -38556,7 +38556,7 @@
 			<string name="mapName" value="Happyville"/>
 		</imgdir>
 		<imgdir name="993174700">
-			<string name="streetName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="streetName" value="Haunted Mansion"/>
 			<string name="mapName" value="The Center Hall"/>
 		</imgdir>
 		<imgdir name="993174800">
@@ -38595,120 +38595,120 @@
 			<string name="mapName" value="Someone Else&apos;s House"/>
 		</imgdir>
 		<imgdir name="993175400">
-			<string name="streetName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-			<string name="mapName" value="&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="streetName" value="Haunted Mansion"/>
+			<string name="mapName" value="The Center Hall"/>
 		</imgdir>
 		<imgdir name="993175401">
-			<string name="streetName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-			<string name="mapName" value="&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="streetName" value="Haunted Mansion"/>
+			<string name="mapName" value="Second Floor"/>
 		</imgdir>
 		<imgdir name="993175402">
-			<string name="streetName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-			<string name="mapName" value="&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="streetName" value="Haunted Mansion"/>
+			<string name="mapName" value="Second Floor"/>
 		</imgdir>
 		<imgdir name="993175410">
-			<string name="streetName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-			<string name="mapName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="streetName" value="Haunted Mansion"/>
+			<string name="mapName" value="Guest Room 1"/>
 		</imgdir>
 		<imgdir name="993175411">
-			<string name="streetName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-			<string name="mapName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="streetName" value="Haunted Mansion"/>
+			<string name="mapName" value="Guest Room 1"/>
 		</imgdir>
 		<imgdir name="993175420">
-			<string name="streetName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-			<string name="mapName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="streetName" value="Haunted Mansion"/>
+			<string name="mapName" value="Guest Room 2"/>
 		</imgdir>
 		<imgdir name="993175430">
-			<string name="streetName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-			<string name="mapName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="streetName" value="Haunted Mansion"/>
+			<string name="mapName" value="Guest Room 3"/>
 		</imgdir>
 		<imgdir name="993175440">
-			<string name="streetName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-			<string name="mapName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="streetName" value="Haunted Mansion"/>
+			<string name="mapName" value="Guest Room 4"/>
 		</imgdir>
 		<imgdir name="993175450">
-			<string name="streetName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-			<string name="mapName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="streetName" value="Haunted Mansion"/>
+			<string name="mapName" value="Guest Room 5"/>
 		</imgdir>
 		<imgdir name="993175451">
-			<string name="streetName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-			<string name="mapName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="streetName" value="Haunted Mansion"/>
+			<string name="mapName" value="Guest Room 5"/>
 		</imgdir>
 		<imgdir name="993175460">
-			<string name="streetName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-			<string name="mapName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="streetName" value="Haunted Mansion"/>
+			<string name="mapName" value="Unused Room"/>
 		</imgdir>
 		<imgdir name="993175461">
-			<string name="streetName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-			<string name="mapName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="streetName" value="Haunted Mansion"/>
+			<string name="mapName" value="Unused Room"/>
 		</imgdir>
 		<imgdir name="993175470">
-			<string name="streetName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-			<string name="mapName" value="&#43690;&#43690;&#43690;"/>
+			<string name="streetName" value="Haunted Mansion"/>
+			<string name="mapName" value="Library"/>
 		</imgdir>
 		<imgdir name="993175480">
-			<string name="streetName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-			<string name="mapName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="streetName" value="Haunted Mansion"/>
+			<string name="mapName" value="Haunted Mansion Entrance"/>
 		</imgdir>
 		<imgdir name="993175490">
-			<string name="streetName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-			<string name="mapName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="streetName" value="Haunted Mansion"/>
+			<string name="mapName" value="Abandoned Graveyard"/>
 		</imgdir>
 		<imgdir name="993175500">
-			<string name="streetName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-			<string name="mapName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="streetName" value="Haunted Mansion"/>
+			<string name="mapName" value="Second Floor Hallway"/>
 		</imgdir>
 		<imgdir name="993175510">
-			<string name="streetName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-			<string name="mapName" value="&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="streetName" value="Haunted Mansion"/>
+			<string name="mapName" value="Attic"/>
 		</imgdir>
 		<imgdir name="993175520">
-			<string name="streetName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-			<string name="mapName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="streetName" value="Haunted Mansion"/>
+			<string name="mapName" value="Portrait Gallery"/>
 		</imgdir>
 		<imgdir name="993175530">
-			<string name="streetName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-			<string name="mapName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="streetName" value="Haunted Mansion"/>
+			<string name="mapName" value="Doll Workshop"/>
 		</imgdir>
 		<imgdir name="993175540">
-			<string name="streetName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-			<string name="mapName" value="&#43690;&#43690;&#43690;"/>
+			<string name="streetName" value="Haunted Mansion"/>
+			<string name="mapName" value="Living Room"/>
 		</imgdir>
 		<imgdir name="993175550">
-			<string name="streetName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-			<string name="mapName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="streetName" value="Haunted Mansion"/>
+			<string name="mapName" value="Forbidden Room"/>
 		</imgdir>
 		<imgdir name="993175560">
-			<string name="streetName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-			<string name="mapName" value="&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="streetName" value="Haunted Mansion"/>
+			<string name="mapName" value="Ballroom"/>
 		</imgdir>
 		<imgdir name="993175561">
-			<string name="streetName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-			<string name="mapName" value="&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="streetName" value="Haunted Mansion"/>
+			<string name="mapName" value="Ballroom"/>
 		</imgdir>
 		<imgdir name="993175562">
-			<string name="streetName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-			<string name="mapName" value="&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="streetName" value="Haunted Mansion"/>
+			<string name="mapName" value="Ballroom"/>
 		</imgdir>
 		<imgdir name="993175570">
-			<string name="streetName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-			<string name="mapName" value="&#43690;&#43690;&#43690;"/>
+			<string name="streetName" value="Haunted Mansion"/>
+			<string name="mapName" value="Chimney"/>
 		</imgdir>
 		<imgdir name="993175580">
-			<string name="streetName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-			<string name="mapName" value="&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="streetName" value="Haunted Mansion"/>
+			<string name="mapName" value="Pumpkin Patch 1"/>
 		</imgdir>
 		<imgdir name="993175590">
-			<string name="streetName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-			<string name="mapName" value="&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="streetName" value="Haunted Mansion"/>
+			<string name="mapName" value="Pumpkin Patch 2"/>
 		</imgdir>
 		<imgdir name="993175600">
-			<string name="streetName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-			<string name="mapName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="streetName" value="Haunted Mansion"/>
+			<string name="mapName" value="Doll Workshop 2"/>
 		</imgdir>
 		<imgdir name="993175700">
-			<string name="streetName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-			<string name="mapName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="streetName" value="Haunted Mansion"/>
+			<string name="mapName" value="Ghost-Filled Hallway"/>
 		</imgdir>
 		<imgdir name="993175800">
 			<string name="streetName" value="Ghost Park"/>
@@ -39299,80 +39299,80 @@
 			<string name="mapName" value="Cernium Square"/>
 		</imgdir>
 		<imgdir name="993175481">
-			<string name="streetName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-			<string name="mapName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="streetName" value="Haunted Mansion"/>
+			<string name="mapName" value="Haunted Mansion Entrance"/>
 		</imgdir>
 		<imgdir name="993175412">
-			<string name="streetName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-			<string name="mapName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="streetName" value="Haunted Mansion"/>
+			<string name="mapName" value="Faraway Town"/>
 		</imgdir>
 		<imgdir name="993175413">
-			<string name="streetName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-			<string name="mapName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="streetName" value="Haunted Mansion"/>
+			<string name="mapName" value="Guest Room 1"/>
 		</imgdir>
 		<imgdir name="993175551">
-			<string name="streetName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-			<string name="mapName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="streetName" value="Haunted Mansion"/>
+			<string name="mapName" value="Forbidden Room"/>
 		</imgdir>
 		<imgdir name="993175403">
-			<string name="streetName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-			<string name="mapName" value="&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="streetName" value="Haunted Mansion"/>
+			<string name="mapName" value="The Center Hall"/>
 		</imgdir>
 		<imgdir name="993175491">
-			<string name="streetName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-			<string name="mapName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="streetName" value="Haunted Mansion"/>
+			<string name="mapName" value="Abandoned Graveyard"/>
 		</imgdir>
 		<imgdir name="993175421">
-			<string name="streetName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-			<string name="mapName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="streetName" value="Haunted Mansion"/>
+			<string name="mapName" value="Park"/>
 		</imgdir>
 		<imgdir name="993175422">
-			<string name="streetName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-			<string name="mapName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="streetName" value="Haunted Mansion"/>
+			<string name="mapName" value="Guest Room 2"/>
 		</imgdir>
 		<imgdir name="993175521">
-			<string name="streetName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-			<string name="mapName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="streetName" value="Haunted Mansion"/>
+			<string name="mapName" value="Portrait Gallery"/>
 		</imgdir>
 		<imgdir name="993175431">
-			<string name="streetName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-			<string name="mapName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="streetName" value="Haunted Mansion"/>
+			<string name="mapName" value="Guest Room 3"/>
 		</imgdir>
 		<imgdir name="993175432">
-			<string name="streetName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-			<string name="mapName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="streetName" value="Haunted Mansion"/>
+			<string name="mapName" value="Someone&apos;s Home"/>
 		</imgdir>
 		<imgdir name="993175433">
-			<string name="streetName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-			<string name="mapName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="streetName" value="Haunted Mansion"/>
+			<string name="mapName" value="Guest Room 3"/>
 		</imgdir>
 		<imgdir name="993175434">
-			<string name="streetName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-			<string name="mapName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="streetName" value="Haunted Mansion"/>
+			<string name="mapName" value="Guest Room 3"/>
 		</imgdir>
 		<imgdir name="993175441">
-			<string name="streetName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-			<string name="mapName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="streetName" value="Haunted Mansion"/>
+			<string name="mapName" value="Guest Room 4"/>
 		</imgdir>
 		<imgdir name="993175462">
-			<string name="streetName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-			<string name="mapName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="streetName" value="Haunted Mansion"/>
+			<string name="mapName" value="Unused Room"/>
 		</imgdir>
 		<imgdir name="993175442">
-			<string name="streetName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-			<string name="mapName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="streetName" value="Haunted Mansion"/>
+			<string name="mapName" value="Guest Room 4"/>
 		</imgdir>
 		<imgdir name="993175541">
-			<string name="streetName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-			<string name="mapName" value="&#43690;&#43690;&#43690;"/>
+			<string name="streetName" value="Haunted Mansion"/>
+			<string name="mapName" value="Living Room"/>
 		</imgdir>
 		<imgdir name="993175542">
-			<string name="streetName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-			<string name="mapName" value="&#43690;&#43690;&#43690;"/>
+			<string name="streetName" value="Haunted Mansion"/>
+			<string name="mapName" value="Living Room"/>
 		</imgdir>
 		<imgdir name="993175482">
-			<string name="streetName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-			<string name="mapName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="streetName" value="Haunted Mansion"/>
+			<string name="mapName" value="Haunted Mansion Entrance"/>
 		</imgdir>
 		<imgdir name="925041002">
 			<string name="streetName" value="Mu Lung Dojo"/>
@@ -61364,6 +61364,52 @@
 		<imgdir name="867150099">
 			<string name="streetName" value="Masteria - Krakian Jungle"/>
 			<string name="mapName" value="Final Stage"/>
+		</imgdir>
+	</imgdir>
+	<imgdir name="Wz2_CoronaFestival">
+		<imgdir name="867139000">
+			<string name="streetName" value="Celestial Festival"/>
+			<string name="mapName" value="Festival Venue"/>
+		</imgdir>
+		<imgdir name="867139100">
+			<string name="streetName" value="Celestial Festival"/>
+			<string name="mapName" value="The Umbra"/>
+		</imgdir>
+		<imgdir name="867139150">
+			<string name="streetName" value="Celestial Festival"/>
+			<string name="mapName" value="The Umbra"/>
+		</imgdir>
+		<imgdir name="867139200">
+			<string name="streetName" value="Celestial Festival"/>
+			<string name="mapName" value="The Umbra"/>
+		</imgdir>
+		<imgdir name="867139250">
+			<string name="streetName" value="Celestial Festival"/>
+			<string name="mapName" value="The Umbra"/>
+		</imgdir>
+		<imgdir name="867139300">
+			<string name="streetName" value="Celestial Festival"/>
+			<string name="mapName" value="Firework Storage"/>
+		</imgdir>
+		<imgdir name="867139399">
+			<string name="streetName" value="Celestial Festival"/>
+			<string name="mapName" value="Firework Storage"/>
+		</imgdir>
+		<imgdir name="867139400">
+			<string name="streetName" value="Celestial Festival"/>
+			<string name="mapName" value="Sanctuary of Stars"/>
+		</imgdir>
+		<imgdir name="867139500">
+			<string name="streetName" value="Celestial Festival"/>
+			<string name="mapName" value="Festival Venue"/>
+		</imgdir>
+		<imgdir name="867139600">
+			<string name="streetName" value="Celestial Festival"/>
+			<string name="mapName" value="Festival Venue"/>
+		</imgdir>
+		<imgdir name="867139650">
+			<string name="streetName" value="Celestial Festival"/>
+			<string name="mapName" value="Festival Venue"/>
 		</imgdir>
 	</imgdir>
 </imgdir>

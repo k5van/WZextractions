@@ -3474,16 +3474,16 @@
 		<string name="desc" value="The proud marching song continues ever on!\n#cRestores 50 HP and 50 MP every 10 seconds.#"/>
 	</imgdir>
 	<imgdir name="3018460">
-		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="Haunted Mansion Chair"/>
+		<string name="desc" value="It kinda feels like someone&apos;s watching me. \r\n#cRestores 50 HP and 50 MP every 10 seconds.#"/>
 	</imgdir>
 	<imgdir name="3018461">
-		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="Halloween Party Chair (M)"/>
+		<string name="desc" value="Let&apos;s enjoy the Halloween party! \r\n#cRestores 50 HP and 50 MP every 10 seconds.#"/>
 	</imgdir>
 	<imgdir name="3018462">
-		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="Halloween Party Chair (F)"/>
+		<string name="desc" value="Let&apos;s enjoy the Halloween party! \r\n#cRestores 50 HP and 50 MP every 10 seconds.#"/>
 	</imgdir>
 	<imgdir name="3018463">
 		<string name="name" value="Tactical Relay Chair 2.0"/>
@@ -5416,6 +5416,10 @@ If you feed #cFruit# to the Parrot, it might change color and gain a level. The 
 		<string name="name" value="Pink Bean World Champion"/>
 		<string name="desc" value="A title given for ranking 1st place for Pink Bean World&apos;s Mu Lung Dojo. #cDouble-click to turn ON/OFF.#\r\n\r\n#cAll Stat +10\r\nMax HP +500\r\nMax MP +500\r\nAttack Power &amp; Magic ATT +10\r\nBoss Damage +10%#"/>
 	</imgdir>
+	<imgdir name="3700581">
+		<string name="name" value="Light of the Eclipse"/>
+		<string name="desc" value="A title that&apos;s given to celebrate the Celestial Festival. Grants a powerful yet temporary stat boost.\r\n\r\n#cAttack Power &amp; Magic ATT +10\nAll Stats +30\nMax HP &amp; Max MP + 1,500\r\n\nDouble-click to turn ON/OFF.\nStats Expire: 10/22/2020 23:59 PM UTC"/>
+	</imgdir>
 	<imgdir name="3700582">
 		<string name="name" value="Fast and Furious"/>
 		<string name="desc" value="You took out 100,000 monsters in 2 weeks! How&apos;s THAT for speedy service?\r\n\r\n#cAttack Power &amp; Magic ATT +20 \nAll Stats +50 \nBoss Damage +30% \nDEF Ignored +30% \nMax HP &amp; MP +2500 \r\n\r\nClick to toggle ON/OFF. Stats will be retained until MM/DD/YYYY HH:MM AM/PM UTC.#"/>
@@ -6180,6 +6184,10 @@ If you feed #cFruit# to the Parrot, it might change color and gain a level. The 
 	<imgdir name="3801366">
 		<string name="name" value="Ghoulish Charm Drink"/>
 		<string name="desc" value="A trait drink used in the 2018 Ghoulish Greetings"/>
+	</imgdir>
+	<imgdir name="3801493">
+		<string name="name" value="Celestial Points"/>
+		<string name="desc" value="Festival-exclusive points given to players who diligently participate in the Celestial Festival. With them, you can increase your #cCelestial Rank#, or purchase skill points for #cCelestial Skills#."/>
 	</imgdir>
 	<imgdir name="3802046">
 		<string name="name" value="EXP based on level"/>
@@ -16932,7 +16940,7 @@ Keep it in your Inventory Set-up tab for 30 minutes to receive a Shiny Easter Eg
 	</imgdir>
 	<imgdir name="3700623">
 		<string name="name" value="Custom Title"/>
-		<string name="desc" value="Combine two Titles to assemble a customized Title with the frame, stats, and text of your choice!\r\n#cClick to toggle ON/OFF.# \r\n#c&lt;Effects&gt;\nAttack Power &amp; Magic ATT +5#\n10% Additional EXP\r\n\r\n&lt;How to Use&gt;\r\n#c1. Right-click the Custom Title icon.\r\n2. Drag a Title with the desired appearance to the Frame slot and a title with the desired stats to the Attributes slot. \r\n3. Enter text for your new Title that&apos;s under 20 characters into the box.\r\n4. Click the SAVE button, and if there are no issues, you&apos;re done!\r\n5. After it&apos;s assembled, the Title can be double-clicked with the right mouse button to toggle it on/off.#\r\n\r\n&lt;Caution&gt;\r\n#c- When changing the Title text, you can only use letters, numbers, and spaces.#\r\n#c- You cannot utilize Titles that are not permanent in the Attributes slot.#\r\n#c- After you&apos;ve assembled a Title, 30 minutes need to pass before you can assemble another one.#\r\n#c- You can only have 1 Custom Title in your possession.#"/>
+		<string name="desc" value="Combine two Titles to assemble a customized Title with the frame, stats, and text of your choice!\r\n#cClick to toggle ON/OFF.# \r\n#c&lt;Effects&gt;\nAttack Power &amp; Magic ATT +5#\n10% Additional EXP\r\n\r\n&lt;How to Use&gt;\r\n#c1.) Right-click the Custom Title icon.\r\n2.) Drag a Title with the desired appearance to the Frame slot and a title with the desired stats to the Attributes slot. \r\n3.) Enter text for your new Title that&apos;s under 20 characters into the box.\r\n4.) Click the SAVE button, and if there are no issues, you&apos;re done!\r\n5.) After it&apos;s assembled, the Title can be double-clicked with the right mouse button to toggle it on/off.#\r\n\r\n&lt;Caution&gt;\r\n#c- When changing the Title text, you can only use letters, numbers, and spaces.#\r\n#c- You cannot place temporary Titles in the Attributes slot.#\r\n#c- After you&apos;ve assembled a Title, you must wait 30 minutes before assembling another.#\r\n#c- You can only have 1 Custom Title in your possession.##\r\n#c- Certain Titles from crossover events cannot be used with the Custom Title.#"/>
 	</imgdir>
 	<imgdir name="3018531">
 		<string name="name" value="True Guardian&apos;s Last Moment"/>
@@ -17015,5 +17023,37 @@ Keep it in your Inventory Set-up tab for 30 minutes to receive a Shiny Easter Eg
 		<string name="desc" value="A commemorative title that displays the name of your guild."/>
 		<string name="qrDefault" value="Guild Free"/>
 		<string name="nickWithQR" value="#qr65666#"/>
+	</imgdir>
+	<imgdir name="3018597">
+		<string name="name" value="Stack of Fluffy Pillows"/>
+		<string name="desc" value="The perfect place to dream peacefully.#c Restores 100 HP and 50 MP every 10 seconds.#"/>
+	</imgdir>
+	<imgdir name="3012038">
+		<string name="name" value="Couple&apos;s Special Proposal Chair"/>
+		<string name="desc" value="A Couple&apos;s Special Proposal Chair. \r\n#cRestores 100 HP and 100 MP every 10 seconds.# Designed by the MapleStory China player youyu."/>
+	</imgdir>
+	<imgdir name="3018559">
+		<string name="name" value="Dreamy Unicorn Chair"/>
+		<string name="desc" value="A Dreamy Unicorn Chair. \r\n#cRestores 100 HP and 100 MP every 10 seconds.# Designed by the MapleStory China player wenwen."/>
+	</imgdir>
+	<imgdir name="3018560">
+		<string name="name" value="Maple Nightmare Chair"/>
+		<string name="desc" value="Maple Nightmare chair. \n#cRestores 100 HP and 100 MP every 10 seconds.#"/>
+	</imgdir>
+	<imgdir name="3018561">
+		<string name="name" value="Maple Fighter Chair"/>
+		<string name="desc" value="A Maple Fighter chair. #cRestores 100 HP and 100 MP every 10 seconds.#"/>
+	</imgdir>
+	<imgdir name="3018513">
+		<string name="name" value="Luxurious Golden Carriage Chair"/>
+		<string name="desc" value="A glittering golden carriage that makes you feel like you&apos;re living in a fairytale. Steady attendance in the #c&lt;Fairy Bros&apos; Golden Giveaway&gt; event# is required to obtain it. \r\n#cRestores 100 HP and 100 MP every 10 seconds.#"/>
+	</imgdir>
+	<imgdir name="3018529">
+		<string name="name" value="Milk Tea Boba"/>
+		<string name="desc" value="Restores 100 HP and 100 MP every 10 seconds. Designed by MapleStorySEA player Calzione."/>
+	</imgdir>
+	<imgdir name="3018530">
+		<string name="name" value="Super Nanny"/>
+		<string name="desc" value="Restores 100 HP and 100 MP every 10 seconds. Designed by MapleStorySEA player MandyMiko."/>
 	</imgdir>
 </imgdir>

@@ -241,4 +241,20 @@
 			<string name="11_2" value="Arcane River"/>
 		</imgdir>
 	</imgdir>
+	<imgdir name="EquipEssence">
+		<string name="Extract_Drop_Fail" value="This item cannot be extracted."/>
+		<string name="Extract_Process_Try" value="Once essence has been extracted from this equipment, it will be irrevocably destroyed.\nProceed with the extraction?"/>
+		<string name="Confirm_Drop_Fail" value="You can only select Equipment Essence items."/>
+		<string name="Confirm_Process_Try" value="Would you like to convert the essence into the selected equipment?"/>
+		<string name="UIOpen_EventDate" value="This feature is not currently available."/>
+		<string name="UIOpen_AlreadyTransmit" value="The Equipment Transfer has already been completed."/>
+		<string name="Extract_UIOpen_Fail" value="This item&apos;s essence has already been extracted."/>
+		<string name="Confirm_UIOpen_Fail" value="You do not have an extracted essence."/>
+		<string name="Confirm_SameCharacter" value="You&apos;re attempting to transfer equipment to the character who originally extracted it. Transferred equipment may possess different attributes from the original, and your transfer will still be used up.\nAre you sure you want to proceed?"/>
+		<string name="Type_Empty" value="There is no item selected."/>
+		<string name="Extract_Process_Fail_Exchange" value="Failed to extract essence.\nPlease check your inventory."/>
+		<string name="Extract_Process_Fail_Etc" value="Failed to extract essence."/>
+		<string name="Confirm_Process_Fail_Exchange" value="Failed to convert the essence to equipment.\nPlease check your inventory."/>
+		<string name="Confirm_Process_Fail_Etc" value="Failed to convert the essence to equipment."/>
+	</imgdir>
 </imgdir>

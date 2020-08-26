@@ -4625,4 +4625,39 @@
 		<string name="desc" value="This is the Pink Whale pet."/>
 		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
 	</imgdir>
+	<imgdir name="5002176">
+		<string name="name" value="Happy Erda"/>
+		<string name="desc" value="A Happy Erda pet."/>
+		<string name="descd" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002177">
+		<string name="name" value="Raging Erda"/>
+		<string name="desc" value="A Raging Erda pet."/>
+		<string name="descd" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002178">
+		<string name="name" value="Sad Erda"/>
+		<string name="desc" value="A Sad Erda pet."/>
+		<string name="descd" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002194">
+		<string name="name" value="Happy Erda"/>
+		<string name="desc" value="A Happy Erda pet."/>
+		<string name="descd" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002195">
+		<string name="name" value="Raging Erda"/>
+		<string name="desc" value="A Raging Erda pet."/>
+		<string name="descd" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002196">
+		<string name="name" value="Sad Erda"/>
+		<string name="desc" value="A Sad Erda pet."/>
+		<string name="descd" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002146">
+		<string name="name" value="Sonara Wave"/>
+		<string name="desc" value="It&apos;s #cSonara Wave#, lover of music."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
 </imgdir>

@@ -19279,37 +19279,37 @@
 		<string name="name" value="Pixel Jr. Necki"/>
 	</imgdir>
 	<imgdir name="9833400">
-		<string name="name" value="Lord Pixrog"/>
+		<string name="name" value="Firework Raider"/>
 	</imgdir>
 	<imgdir name="9833401">
-		<string name="name" value="Mini Pixrog"/>
+		<string name="name" value="Festival Fireworks"/>
 	</imgdir>
 	<imgdir name="9833402">
-		<string name="name" value="Mini Pixrog"/>
+		<string name="name" value="Festival Fireworks"/>
 	</imgdir>
 	<imgdir name="9833403">
-		<string name="name" value="Mini Pixrog"/>
+		<string name="name" value="Festival Fireworks"/>
 	</imgdir>
 	<imgdir name="9833404">
-		<string name="name" value="Mini Pixrog"/>
+		<string name="name" value="Festival Fireworks"/>
 	</imgdir>
 	<imgdir name="9833405">
-		<string name="name" value="Mini Pixrog"/>
+		<string name="name" value="Festival Fireworks"/>
 	</imgdir>
 	<imgdir name="9833406">
-		<string name="name" value="Mini Pixrog"/>
+		<string name="name" value="Festival Fireworks"/>
 	</imgdir>
 	<imgdir name="9833407">
-		<string name="name" value="Mini Pixrog"/>
+		<string name="name" value="Festival Fireworks"/>
 	</imgdir>
 	<imgdir name="9833408">
-		<string name="name" value="Mini Pixrog"/>
+		<string name="name" value="Festival Fireworks"/>
 	</imgdir>
 	<imgdir name="9833409">
-		<string name="name" value="Mini Pixrog"/>
+		<string name="name" value="Festival Fireworks"/>
 	</imgdir>
 	<imgdir name="9833410">
-		<string name="name" value="Mini Pixrog"/>
+		<string name="name" value="Festival Fireworks"/>
 	</imgdir>
 	<imgdir name="9833411">
 		<string name="name" value="Maple World 1"/>
@@ -22576,7 +22576,7 @@
 		<string name="name" value="Crow"/>
 	</imgdir>
 	<imgdir name="9400741">
-		<string name="name" value="Coco"/>
+		<string name="name" value="Corrupted Bastille"/>
 	</imgdir>
 	<imgdir name="9400742">
 		<string name="name" value="(Script Trigger Use)"/>
@@ -27212,6 +27212,24 @@
 	<imgdir name="9601212">
 		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;"/>
 	</imgdir>
+	<imgdir name="9601216">
+		<string name="name" value="Umbral Sand Dwarf"/>
+	</imgdir>
+	<imgdir name="9601217">
+		<string name="name" value="Umbral Dark Sand Dwarf"/>
+	</imgdir>
+	<imgdir name="9601218">
+		<string name="name" value="Umbral Sand Rat"/>
+	</imgdir>
+	<imgdir name="9601219">
+		<string name="name" value="Violetta&apos;s Parade Float"/>
+	</imgdir>
+	<imgdir name="9601220">
+		<string name="name" value="Fireworks"/>
+	</imgdir>
+	<imgdir name="9601221">
+		<string name="name" value="Firework Raider"/>
+	</imgdir>
 	<imgdir name="9601181">
 		<string name="name" value="No-Flow"/>
 	</imgdir>
@@ -27220,6 +27238,39 @@
 	</imgdir>
 	<imgdir name="9601183">
 		<string name="name" value="Busted Rhymes"/>
+	</imgdir>
+	<imgdir name="9601231">
+		<string name="name" value="Festival Fireworks"/>
+	</imgdir>
+	<imgdir name="9601232">
+		<string name="name" value="Festival Fireworks"/>
+	</imgdir>
+	<imgdir name="9601233">
+		<string name="name" value="Festival Fireworks"/>
+	</imgdir>
+	<imgdir name="9601234">
+		<string name="name" value="Festival Fireworks"/>
+	</imgdir>
+	<imgdir name="9601235">
+		<string name="name" value="Festival Fireworks"/>
+	</imgdir>
+	<imgdir name="9601236">
+		<string name="name" value="Festival Fireworks"/>
+	</imgdir>
+	<imgdir name="9601237">
+		<string name="name" value="Festival Fireworks"/>
+	</imgdir>
+	<imgdir name="9601238">
+		<string name="name" value="Festival Fireworks"/>
+	</imgdir>
+	<imgdir name="9601239">
+		<string name="name" value="Festival Fireworks"/>
+	</imgdir>
+	<imgdir name="9601240">
+		<string name="name" value="Festival Fireworks"/>
+	</imgdir>
+	<imgdir name="9601241">
+		<string name="name" value="Celestial Flower"/>
 	</imgdir>
 	<imgdir name="9402445">
 		<string name="name" value="Debris Pile"/>
@@ -27241,6 +27292,9 @@
 	</imgdir>
 	<imgdir name="9402451">
 		<string name="name" value="dummy_NatureTale_Fly"/>
+	</imgdir>
+	<imgdir name="9601252">
+		<string name="name" value="Security Guard"/>
 	</imgdir>
 	<imgdir name="9601253">
 		<string name="name" value="Krakia Jungle Bug"/>

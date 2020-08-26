@@ -3541,7 +3541,7 @@ Talk to NPC Lauren at Henesys Hair Salon for Androids."/>
 		<string name="desc" value="Double-click to receive a Premium Golden Ticket that grants you access to the Golden Temple Mini Dungeon.\r\nNotice: The Premium Golden Ticket can be used for an hour from the time it is removed from the invitation."/>
 	</imgdir>
 	<imgdir name="5530014">
-		<string name="name" value="[Lv. 13] ZD Tiger 7-Day Coupon Exchange Ticket"/>
+		<string name="name" value="[Lv. 13] ZD Tiger 7-Day Coupon Voucher"/>
 		<string name="desc" value="Double-click to exchange it for a ZD Tiger 7-Day Coupon."/>
 	</imgdir>
 	<imgdir name="5530015">
@@ -3593,7 +3593,7 @@ Talk to NPC Lauren at Henesys Hair Salon for Androids."/>
 		<string name="desc" value="Double-click to exchange it for a Luminous Earth Katara."/>
 	</imgdir>
 	<imgdir name="5530031">
-		<string name="name" value="[Lv. 13]Shinjo 20-Day Coupon"/>
+		<string name="name" value="[Lv. 13] Shinjo 20-Day Coupon"/>
 		<string name="desc" value="Double-click to exchange for a Shinjo 20-Day Coupon."/>
 	</imgdir>
 	<imgdir name="5530032">
@@ -3641,7 +3641,7 @@ Talk to NPC Lauren at Henesys Hair Salon for Androids."/>
 		<string name="desc" value="Double-click to obtain an Armor Boost Scroll 20%."/>
 	</imgdir>
 	<imgdir name="5530056">
-		<string name="name" value="Orange Mushroom Riding 7-Day Coupon Exchange Ticket"/>
+		<string name="name" value="Orange Mushroom Riding 7-Day Coupon Voucher"/>
 		<string name="desc" value="Double-click to exchange it for a Orange Mushroom Mount 7-Day Coupon."/>
 	</imgdir>
 	<imgdir name="5530057">
@@ -3797,7 +3797,7 @@ Talk to NPC Lauren at Henesys Hair Salon for Androids."/>
 		<string name="desc" value="Receive a Pendent of the Spirit (15 Days) by #cdouble-clicking# this."/>
 	</imgdir>
 	<imgdir name="5530142">
-		<string name="name" value="1.5X EXP Coupon Exchange Ticket"/>
+		<string name="name" value="Triple 1.5X EXP Coupon Voucher"/>
 		<string name="desc" value="Receive three 1.5X EXP Coupons by #cdouble-clicking# this."/>
 	</imgdir>
 	<imgdir name="5530143">
@@ -4297,7 +4297,7 @@ Talk to NPC Lauren at Henesys Hair Salon for Androids."/>
 		<string name="desc" value="A reward for the first purchase event. Contains #c1 Ring#. #cDouble-click# to open."/>
 	</imgdir>
 	<imgdir name="5530385">
-		<string name="name" value="Random New Look Exchange Ticket"/>
+		<string name="name" value="Random New Look Coupon Voucher"/>
 		<string name="desc" value="A reward for the first purchase event. Contains #c1 Random New Look Coupon#. #cDouble-click# to open."/>
 	</imgdir>
 	<imgdir name="5530417">
@@ -5253,7 +5253,7 @@ Talk to NPC Lauren at Henesys Hair Salon for Androids."/>
 		<string name="desc" value="Double-click to receive a Beautiful Ice Castle Chair."/>
 	</imgdir>
 	<imgdir name="5530694">
-		<string name="name" value="[[FROZEN CONTENT]] Sven Mount 90-Day Coupon Ticket"/>
+		<string name="name" value="[[FROZEN CONTENT]] Sven Mount 90-Day Coupon Voucher"/>
 		<string name="desc" value="[[FROZEN CONTENT]] Double-click to receive a Sven Mount 90-Day Coupon."/>
 	</imgdir>
 	<imgdir name="5530695">
@@ -5281,8 +5281,8 @@ Talk to NPC Lauren at Henesys Hair Salon for Androids."/>
 		<string name="desc" value="Double-click tto receive a [30 Day] Quack Quack Word Bubble Ring Coupon."/>
 	</imgdir>
 	<imgdir name="5530704">
-		<string name="name" value="Coupon for 14 2x EXP Time Coupon Tickets"/>
-		<string name="desc" value="Double-click to receive 14 2x EXP Time Coupon Tickets."/>
+		<string name="name" value="A voucher for 14 2x EXP Time Coupon Vouchers"/>
+		<string name="desc" value="Double-click to receive 14 2x EXP Time Coupon Vouchers."/>
 	</imgdir>
 	<imgdir name="5530705">
 		<string name="name" value="[30 Day] Star Planet Word Bubble Ring Coupon"/>
@@ -5369,7 +5369,7 @@ Talk to NPC Lauren at Henesys Hair Salon for Androids."/>
 		<string name="desc" value="Double-click to receive a #cPineapple Chat Ring (30 Day) Coupon#."/>
 	</imgdir>
 	<imgdir name="5530776">
-		<string name="name" value="Mystery Mix Dye Coupon Ticket"/>
+		<string name="name" value="Mystery Mix Dye Coupon Voucher"/>
 		<string name="desc" value="Double-click to receive a #cMystery Mix Dye (14 Day) Coupon#. Use the Mystery Mix Dye Coupon to get a hair color mixed from 2 random colors out of 8. Cannot be used on Androids."/>
 	</imgdir>
 	<imgdir name="5530777">
@@ -6392,8 +6392,8 @@ Talk to NPC Lauren at Henesys Hair Salon for Androids."/>
 		<string name="desc" value="#cDouble-click# to receive a 2x Star Planet EXP Buff Duration Coupon or a Star Planet Atmospheric Effect, #cdoubling# the amount."/>
 	</imgdir>
 	<imgdir name="5680275">
-		<string name="name" value="2x EXP Time Coupon Ticket"/>
-		<string name="desc" value="#cDouble-click# to receive #c1# #c2x EXP Time Coupon Ticket# that can #cdouble# the duration of an EXP Coupon that you obtained on Star Planet."/>
+		<string name="name" value="2x EXP Time Coupon Voucher"/>
+		<string name="desc" value="#cDouble-click# to receive a #c2x EXP Time Coupon Voucher# that can #cdouble# the duration of an EXP Coupon that you obtained on Star Planet."/>
 	</imgdir>
 	<imgdir name="5680276">
 		<string name="name" value="Star Planet Damage Skin"/>
@@ -6605,7 +6605,7 @@ Talk to NPC Lauren at Henesys Hair Salon for Androids."/>
 	</imgdir>
 	<imgdir name="5680342">
 		<string name="desc" value="#cDouble-click# to obtain a 1-hr 2x EXP Coupon."/>
-		<string name="name" value="1-Hr 2x EXP Coupon Ticket"/>
+		<string name="name" value="1-Hr 2x EXP Coupon Voucher"/>
 	</imgdir>
 	<imgdir name="5680343">
 		<string name="desc" value="Applies the Star Damage Skin. \r\n#cOnce used, it will be permanently applied until another skin is applied. Disappears after one use."/>
@@ -6621,7 +6621,7 @@ Talk to NPC Lauren at Henesys Hair Salon for Androids."/>
 	</imgdir>
 	<imgdir name="5680353">
 		<string name="desc" value="#cDouble-click# to get a prepared gift. It must be used before the gift box duration ends."/>
-		<string name="name" value="Mystery Mix Dye Coupon Ticket"/>
+		<string name="name" value="Mystery Mix Dye Coupon Voucher"/>
 	</imgdir>
 	<imgdir name="5680354">
 		<string name="desc" value="#cDouble-click# to get the Gingerbread Man Label and Word Bubble Rings (30 days). It must be used before the gift box duration ends."/>
@@ -6912,7 +6912,7 @@ Talk to NPC Lauren at Henesys Hair Salon for Androids."/>
 		<string name="desc" value="#cDouble-click# on this coupon to receive #c300,000 Maple Points#."/>
 	</imgdir>
 	<imgdir name="5680443">
-		<string name="name" value="Mix Dye Coupon Ticket"/>
+		<string name="name" value="Mix Dye Coupon Voucher"/>
 		<string name="desc" value="#cDouble-click# to obtain a #cMix Dye Coupon#."/>
 	</imgdir>
 	<imgdir name="5680444">
@@ -7712,7 +7712,7 @@ Talk to NPC Lauren at Henesys Hair Salon for Androids."/>
 		<string name="desc_leftalign" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
 	</imgdir>
 	<imgdir name="5680812">
-		<string name="name" value="Simper Face Coupon Ticket"/>
+		<string name="name" value="Simper Face Coupon Voucher"/>
 		<string name="desc" value="#cDouble-click# to obtain a #cSimper Face Coupon#."/>
 	</imgdir>
 	<imgdir name="5680814">
@@ -10454,7 +10454,7 @@ ATT, MATT + 100"/>
 		<string name="desc" value="#cDouble-click# to exchange for Character Name Change Coupon."/>
 	</imgdir>
 	<imgdir name="5532786">
-		<string name="name" value="Mix Dye Coupon Ticket"/>
+		<string name="name" value="Mix Dye Coupon Voucher"/>
 		<string name="desc" value="#cDouble-click# to exchange for a Mix Dye Coupon. The new mix dye color will remain even if you acquire a new hairstyle. (Only your previous base color will be listed in the Hair Salon preview. VIP Hairstyle previews will have the mix dye base color in their name but when acquired will still have your previous base color in the name.)"/>
 	</imgdir>
 	<imgdir name="5533035">
@@ -12165,5 +12165,40 @@ ATT, MATT + 100"/>
 	<imgdir name="5240206">
 		<string name="name" value="School of Sardines"/>
 		<string name="desc" value="A school of sardines, the favorite delicacy of #cWhale# pets. Completely restores Fullness and#c increases Closeness by 100#."/>
+	</imgdir>
+	<imgdir name="5066100">
+		<string name="name" value="Magic Wagon Restock Coupon"/>
+		<string name="desc" value="You can pay to instantly restock the Magic Wagon. Only usable during the Magic Wagon event period."/>
+	</imgdir>
+	<imgdir name="5680728">
+		<string name="name" value="Magic Wagon"/>
+	</imgdir>
+	<imgdir name="5220041">
+		<string name="name" value="Autumn Surprise Box (Small)"/>
+		<string name="desc" value="Double-click to receive a #csurprising gift#!"/>
+	</imgdir>
+	<imgdir name="5220042">
+		<string name="name" value="Autumn Surprise Box (Large)"/>
+		<string name="desc" value="Double-click to receive a #csurprising gift#!"/>
+	</imgdir>
+	<imgdir name="5240207">
+		<string name="name" value="Symbol Fragment"/>
+		<string name="desc" value="A Symbol Fragment beloved by#c Erdas# pets. Recovers Fullness completely and #cincreases Closeness by 100#."/>
+	</imgdir>
+	<imgdir name="5533139">
+		<string name="name" value="Monster Backpack Outfit Random Box"/>
+		<string name="desc" value="#cDouble-click# on the box to get 1 of the Monster Backpack Outfits at #crandom#."/>
+	</imgdir>
+	<imgdir name="5152248">
+		<string name="name" value="Fairy Bros&apos; Face Selector Coupon"/>
+		<string name="desc" value="#cDouble-click# to apply the face of your choice from a carefully curated list, or talk to Lauren at the Henesys Hair Salon to change your Android&apos;s hair."/>
+	</imgdir>
+	<imgdir name="5150176">
+		<string name="name" value="Fairy Bros&apos; Hair Selector Coupon"/>
+		<string name="desc" value="#cDouble-click# to pick one of the assorted hairstyles, or talk to Lauren at Henesys Hair Salon to change your Android&apos;s hair."/>
+	</imgdir>
+	<imgdir name="5680848">
+		<string name="name" value="50 Million Mesos"/>
+		<string name="desc" value="#cDouble-click# this coin to receive #c50 million# mesos!"/>
 	</imgdir>
 </imgdir>

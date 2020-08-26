@@ -31501,9 +31501,9 @@
 		<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
 	</imgdir>
 	<imgdir name="80002858">
-		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="Halloween Ghost Mount"/>
 		<string name="desc" value="[Master Level: 1]\nAllows you to ride a Ghost of Halloween mount. Double-tap the jump key in town to use the High Altitude Flight skill."/>
-		<string name="h1" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="h1" value="DEF: +10, Speed: 170, Jump: 120"/>
 	</imgdir>
 	<imgdir name="80002859">
 		<string name="name" value="Radical Skateboard Mount"/>
@@ -35262,7 +35262,7 @@
 	</imgdir>
 	<imgdir name="164111000">
 		<string name="name" value="Heaven: Iron Fan Gale"/>
-		<string name="desc" value="#c[Heaven Skill]# Summons a giant fan to blow a gale downward.\n#cPress the forward key and the skill key again to use Iron Fan Gale (True), leaping forward. Otherwise, this skill will link into Iron Fan Gale (Clone), sending a clone to attack.#"/>
+		<string name="desc" value="#c[Heaven Skill]# Summons a giant fan to blow a gale downward.\n#cPress the forward key and the skill key again to use Iron Fan Gale (True), leaping forward. Otherwise, this skill will link into Iron Fan Gale (Clone), sending a clone to attack. This skill&apos;s attack speed cannot be increased beyond a set value.#"/>
 		<string name="h" value="MP Cost: #mpCon, Damage: #damage%, Number of Attacks: #attackCount, Max Enemies Hit: #mobCount"/>
 	</imgdir>
 	<imgdir name="164110000">
@@ -35339,7 +35339,7 @@
 	</imgdir>
 	<imgdir name="164121000">
 		<string name="name" value="Heaven: Consuming Flames"/>
-		<string name="desc" value="#c[Heaven Skill]# Fans the flames of destruction. Can only be used while airborne.\n#cPress the up arrow key and skill key again to link into Consuming Flames (True), launching yourself further into the air. If you do not link into Consuming Flames (True), it will link into Consuming Flames (Clone), sending a clone instead.#\nNot affected by cooldown reset."/>
+		<string name="desc" value="#c[Heaven Skill]# Fans the flames of destruction. Can only be used while airborne.\n#cPress the up arrow key and skill key again to link into Consuming Flames (True), launching yourself further into the air. If you do not link into Consuming Flames (True), it will link into Consuming Flames (Clone), sending a clone instead.#\nNot affected by cooldown reset. This skill&apos;s attack speed cannot be increased beyond a set value."/>
 		<string name="h" value="MP Cost: #mpCon, Max Enemies Hit: #mobCount, Damage: #damage%, Number of Attacks: #attackCount, Usage of Graceful Flight and Nimbus Cloud is reset after using this skill\n#cCooldown: #cooltime sec#"/>
 	</imgdir>
 	<imgdir name="164120000">
@@ -40291,7 +40291,7 @@
 	<imgdir name="151101013">
 		<string name="name" value="Aetherial Arms"/>
 		<string name="desc" value="Automatically creates shards when attacking.\nCan be toggled #cOn/Off# with the skill key.\nRequired Skill: #cShard Lv. 20#"/>
-		<string name="h" value="When a #cTrigger Skill hits#, create every #x sec, consume #y MP upon creation.\nShard Damage: +#damPlus%p\nCooldown: #cooltimeMS sec"/>
+		<string name="h" value="When #cTrigger Skill hits#, creates shard every #x sec, consume #y MP upon creation.\nMagic Dispatch and Aetherial Arms Damage: +#damPlus%p\nCooldown: #cooltimeMS sec"/>
 	</imgdir>
 	<imgdir name="151100014">
 		<string name="name" value="Bladecaster Control"/>
@@ -40346,7 +40346,7 @@
 	<imgdir name="151110006">
 		<string name="name" value="Ascent"/>
 		<string name="desc" value="Grow ever more powerful in the quest to improve yourself."/>
-		<string name="h" value="Attack Power: +#padX, Final Damage: +#pdR%, Critical Rate: +#cr%\nShard Damage: +#x%p\nCreation Damage: +#w%p\nImpale Damage: +#y%p\nResonance Damage: +#z%p"/>
+		<string name="h" value="Attack Power: +#padX, Final Damage: +#pdR%, Critical Rate: +#cr%\nMagic Dispatch and Aetherial Arms Damage: +#x%p\nAether Forge Damage: +#w%p\nImpale Damage: +#y%p\nResonance Rush Damage: +#z%p"/>
 	</imgdir>
 	<imgdir name="151110007">
 		<string name="name" value="Tolerance"/>
@@ -40396,7 +40396,7 @@
 	<imgdir name="151120008">
 		<string name="name" value="Perfection"/>
 		<string name="desc" value="Perfects your technique through rigorous training."/>
-		<string name="h" value="Shard Damage: +#x%p\nCreation Damage: +#u%p\nImpale Damage: +#y%p\nResonance Damage: +#z%p\nOrder Damage: +#s%p\nGathering Damage: +#w%p\nTerritory Damage: +#v%p"/>
+		<string name="h" value="Magic Dispatch and Aetherial Arms Damage: +#x%p\nAether Forge Damage: +#u%p\nImpale Damage: +#y%p\nResonance Rush Damage: +#z%p\nHunting Decree Damage: +#s%p\nNoble Summons Damage: +#w%p\nReign of Destruction Damage: +#v%p"/>
 	</imgdir>
 	<imgdir name="151120009">
 		<string name="name" value="Ruination"/>
@@ -49460,6 +49460,215 @@ Damages and freezes enemies when hit."/>
 		<string name="desc" value="[Master Level: 1]\nA special boat that only materializes during Halloween."/>
 		<string name="h" value="MP Cost: 10, DEF: 10, Speed: 120"/>
 	</imgdir>
+	<imgdir name="80011872">
+		<string name="name" value="Umbra EXP Boost I"/>
+		<string name="desc" value="Hunt foes in The Umbra, the hottest hunting zone in the desert, to receive 110% additional EXP."/>
+	</imgdir>
+	<imgdir name="80011873">
+		<string name="name" value="Umbra EXP Boost II"/>
+		<string name="desc" value="Hunt foes in The Umbra, the hottest hunting zone in the desert, to receive 120% additional EXP."/>
+	</imgdir>
+	<imgdir name="80011874">
+		<string name="name" value="Umbra EXP Boost III"/>
+		<string name="desc" value="Hunt foes in The Umbra, the hottest hunting zone in the desert, to receive 130% additional EXP."/>
+	</imgdir>
+	<imgdir name="80011875">
+		<string name="name" value="Umbra EXP Boost IV"/>
+		<string name="desc" value="Hunt foes in The Umbra, the hottest hunting zone in the desert, to receive 140% additional EXP."/>
+	</imgdir>
+	<imgdir name="80011876">
+		<string name="name" value="Celestial Power: Rank C"/>
+		<string name="desc" value="Enjoy the following privileges for reaching Celestial Rank C:"/>
+		<string name="h" value="All Stats, Attack Power, &amp; Magic ATT: +10
+Celestial Surge: +20% EXP per buff stack
+The Umbra: +110% EXP, 30 min time limit
+Unending Night: 2x Arcane River daily quest rewards"/>
+	</imgdir>
+	<imgdir name="80011877">
+		<string name="name" value="Celestial Power: Rank B"/>
+		<string name="desc" value="Enjoy the following privileges for reaching Celestial Rank B:"/>
+		<string name="h" value="All Stats, Attack Power, &amp; Magic ATT: +10
+Celestial Surge: +25% EXP per buff stack
+The Umbra: +120% EXP, 35 min time limit
+Unending Night: 2x Arcane River daily quest rewards, +5 Nodestones upon completing any of the following quests.
+ - [Daily Quest] Vanishing Journey Research
+ - [Daily Quest] Save the Morass
+ - [Daily Quest] Esfera Research Orders"/>
+	</imgdir>
+	<imgdir name="80011878">
+		<string name="name" value="Celestial Power: Rank A"/>
+		<string name="desc" value="Enjoy the following privileges for reaching Celestial Rank A:"/>
+		<string name="h" value="All Stats, Attack Power, &amp; Magic ATT: +10 (Stacks with Previous Rank)
+Celestial Surge: +30% EXP per buff stack
+The Umbra: +130% EXP, 40 min time limit
+Unending Night: 2x Arcane River daily quest rewards, +10 Nodestones upon completing any of the following quests.
+ - [Daily Quest] Vanishing Journey Research
+ - [Daily Quest] Save the Morass
+ - [Daily Quest] Esfera Research Orders"/>
+	</imgdir>
+	<imgdir name="80011879">
+		<string name="name" value="Celestial Power: Rank S"/>
+		<string name="desc" value="Enjoy the following privileges for reaching Celestial Rank S, the highest possible rank:"/>
+		<string name="h" value="All Stats, Attack Power, &amp; Magic ATT: +10 (Stacks with Previous Rank)
+Celestial Surge: +35% EXP per buff stack
+The Umbra: +140% EXP, 45 min time limit
+Unending Night: 3x Arcane River daily quest rewards, +10 Nodestones upon completing any of the following quests.
+ - [Daily Quest] Vanishing Journey Research
+ - [Daily Quest] Save the Morass
+ - [Daily Quest] Esfera Research Orders"/>
+	</imgdir>
+	<imgdir name="80011880">
+		<string name="name" value="Festival&apos;s Intrigue: Rank C"/>
+		<string name="desc" value="The swirling energies of the eclipse infuse you with energy. The higher your Celestial Rank, the greater the effect."/>
+		<string name="h" value="Reduces Combo Kill Orb creation requirement to 45 kills."/>
+	</imgdir>
+	<imgdir name="80011881">
+		<string name="name" value="Festival&apos;s Intrigue: Rank B"/>
+		<string name="desc" value="The swirling energies of the eclipse infuse you with energy. The higher your Celestial Rank, the greater the effect."/>
+		<string name="h" value="EXP Rune effect: + 100%"/>
+	</imgdir>
+	<imgdir name="80011882">
+		<string name="name" value="Festival&apos;s Intrigue: Rank A"/>
+		<string name="desc" value="The swirling energies of the eclipse infuse you with energy. The higher your Celestial Rank, the greater the effect."/>
+		<string name="h" value="Reduces Combo Kill Orb creation requirement to 40 kills."/>
+	</imgdir>
+	<imgdir name="80011883">
+		<string name="name" value="Festival&apos;s Intrigue: Rank S"/>
+		<string name="desc" value="The swirling energies of the eclipse infuse you with energy. The higher your Celestial Rank, the greater the effect."/>
+		<string name="h" value="Combo Kill Orb EXP +100%"/>
+	</imgdir>
+	<imgdir name="80011884">
+		<string name="name" value="Festival&apos;s Exhilaration: Rank C"/>
+		<string name="desc" value="The excitement of the festival washes over you. The higher your Celestial Rank, the greater the effect."/>
+		<string name="h" value="+5% EXP for defeating enemies."/>
+	</imgdir>
+	<imgdir name="80011885">
+		<string name="name" value="Festival&apos;s Exhilaration: Rank B"/>
+		<string name="desc" value="The excitement of the festival washes over you. The higher your Celestial Rank, the greater the effect."/>
+		<string name="h" value="+5% additional EXP for defeating enemies.
+(Stacks with previous rank.)"/>
+	</imgdir>
+	<imgdir name="80011886">
+		<string name="name" value="Festival&apos;s Exhilaration: Rank A"/>
+		<string name="desc" value="The excitement of the festival washes over you. The higher your Celestial Rank, the greater the effect."/>
+		<string name="h" value="+5% additional EXP for defeating enemies.
+(Stacks with previous rank.)"/>
+	</imgdir>
+	<imgdir name="80011887">
+		<string name="name" value="Festival&apos;s Exhilaration: Rank S"/>
+		<string name="desc" value="The excitement of the festival washes over you. The higher your Celestial Rank, the greater the effect."/>
+		<string name="h" value="10% additional EXP for defeating enemies.
+(Stacks with previous rank.)"/>
+	</imgdir>
+	<imgdir name="80011888">
+		<string name="name" value="Festival&apos;s Splendor: Rank C"/>
+		<string name="desc" value="The beauty of the festival fills you with enthusiasm. The higher your Celestial Rank, the greater the effect."/>
+		<string name="h" value="You&apos;ll receive an additional Arcane Symbol for completing any of the following quests.
+[Daily Quest] Vanishing Journey Research
+[Daily Quest] Save the Morass
+[Daily Quest] Esfera Research Orders
+[Daily Quest] Chu Chu&apos;s Finest Cuisine
+[Daily Quest] A Night&apos;s Peace in Lachelein
+[Daily Quest] Peace in Arcana"/>
+	</imgdir>
+	<imgdir name="80011889">
+		<string name="name" value="Festival&apos;s Splendor: Rank B"/>
+		<string name="desc" value="The beauty of the festival fills you with enthusiasm. The higher your Celestial Rank, the greater the effect."/>
+		<string name="h" value="You&apos;ll receive an additional Arcane Symbol for completing any of the following quests. (Stacks with similar buffs)
+[Daily Quest] Vanishing Journey Research
+[Daily Quest] Save the Morass
+[Daily Quest] Esfera Research Orders
+[Daily Quest] Chu Chu&apos;s Finest Cuisine
+[Daily Quest] A Night&apos;s Peace in Lachelein
+[Daily Quest] Peace in Arcana"/>
+	</imgdir>
+	<imgdir name="80011890">
+		<string name="name" value="Festival&apos;s Splendor: Rank A"/>
+		<string name="desc" value="The beauty of the festival fills you with enthusiasm. The higher your Celestial Rank, the greater the effect."/>
+		<string name="h" value="You&apos;ll receive an additional Arcane Symbol for completing any of the following quests. (Stacks with similar buffs)
+[Daily Quest] Vanishing Journey Research
+[Daily Quest] Save the Morass
+[Daily Quest] Esfera Research Orders
+[Daily Quest] Chu Chu&apos;s Finest Cuisine
+[Daily Quest] A Night&apos;s Peace in Lachelein
+[Daily Quest] Peace in Arcana"/>
+	</imgdir>
+	<imgdir name="80011891">
+		<string name="name" value="Festival&apos;s Splendor: Rank S"/>
+		<string name="desc" value="The beauty of the festival fills you with enthusiasm. The higher your Celestial Rank, the greater the effect."/>
+		<string name="h" value="Obtain the following items for free, once per character per week by speaking with Muhammad at the Festival Venue.
+ - Empress Reset Ticket x1
+ - Hard Magnus Reset Ticket x1
+ - Chaos Von Bon Reset Ticket x1
+ - Chaos Pierre Reset Ticket x1
+ - Chaos Crimson Queen Reset Ticket x1
+ - Chaos Vellum Reset Ticket x1"/>
+	</imgdir>
+	<imgdir name="80011892">
+		<string name="name" value="Celestial Surge"/>
+		<string name="desc" value="Assault nearby foes with a surge of celestial energy. Upon activation, consumes a portion of your Celestial Surge gauge, and grants a stackable EXP buff."/>
+		<string name="h" value="Maximum Stacks: 50.
+Usable 50 times per day.
+Celestial Rank C: 2% EXP per stack.
+Celestial Rank B: 3% EXP per stack.
+Celestial Rank A: 4% EXP per stack.
+Celestial Rank S: 5% EXP per stack.
+Grants 5 Celestial Points per use.
+
+Max Enemies Hit: 15, Damage: 1,000%, Number of Hits: 6"/>
+	</imgdir>
+	<imgdir name="80011893">
+		<string name="name" value="Celestial Surge"/>
+		<string name="desc" value="Celestial Rank C: 2% EXP per stack.
+Celestial Rank B: 3% EXP per stack.
+Celestial Rank A: 4% EXP per stack.
+Celestial Rank S: 5% EXP per stack."/>
+	</imgdir>
+	<imgdir name="80011894">
+		<string name="name" value="Festival&apos;s Intrigue: Pollo &amp; Fritto"/>
+		<string name="desc" value="Your enjoyment of the festival has rendered your other endeavors more fruitful."/>
+		<string name="h" value="2x EXP inside Pollo and Fritto&apos;s Bounty Hunting portals"/>
+	</imgdir>
+	<imgdir name="80011895">
+		<string name="name" value="Festival&apos;s Intrigue: Inferno Wolf"/>
+		<string name="desc" value="Your enjoyment of the festival has rendered your other endeavors more fruitful."/>
+		<string name="h" value="2x EXP inside Inferno Wolf portals"/>
+	</imgdir>
+	<imgdir name="80011896">
+		<string name="name" value="Festival&apos;s Intrigue: Elite Bosses"/>
+		<string name="desc" value="Your enjoyment of the festival has rendered your other endeavors more fruitful."/>
+		<string name="h" value="2x Elite Boss treasure chest reward"/>
+	</imgdir>
+	<imgdir name="80011897">
+		<string name="name" value="Festival&apos;s Exhilaration: Elite Monsters"/>
+		<string name="desc" value="Your excitement over the festival has rendered your other endeavors more fruitful."/>
+		<string name="h" value="+1 Elite Monster on Elite Monster Spawn"/>
+	</imgdir>
+	<imgdir name="80011898">
+		<string name="name" value="Festival&apos;s Exhilaration: Monster Slayer"/>
+		<string name="desc" value="Your excitement over the festival has rendered your other endeavors more fruitful."/>
+		<string name="h" value="Damage against normal monsters: +30%"/>
+	</imgdir>
+	<imgdir name="80011899">
+		<string name="name" value="Festival&apos;s Exhilaration: Buff Duration"/>
+		<string name="desc" value="Your excitement over the festival has rendered your other endeavors more fruitful."/>
+		<string name="h" value="Duration of all Buffs: +15%"/>
+	</imgdir>
+	<imgdir name="80011900">
+		<string name="name" value="Festival&apos;s Splendor: Monster Park"/>
+		<string name="desc" value="The splendor of the festival has rendered your other endeavors more fruitful."/>
+		<string name="h" value="2x Monster Park Clear EXP"/>
+	</imgdir>
+	<imgdir name="80011901">
+		<string name="name" value="Festival&apos;s Splendor: Boss Attack Power"/>
+		<string name="desc" value="The splendor of the festival has rendered your other endeavors more fruitful."/>
+		<string name="h" value="Attack Power when attacking Boss Monsters: +30%"/>
+	</imgdir>
+	<imgdir name="80011902">
+		<string name="name" value="Festival&apos;s Splendor: My Home"/>
+		<string name="desc" value="The splendor of the festival has rendered your other endeavors more fruitful."/>
+		<string name="h" value="100% chance to obtain furniture coin upon my home furniture shopping"/>
+	</imgdir>
 	<imgdir name="80011903">
 		<string name="name" value="Lv. 1 S&apos;more Power"/>
 		<string name="desc" value="Increases Attack Power and Magic ATT by 3."/>
@@ -49494,6 +49703,23 @@ Damages and freezes enemies when hit."/>
 		<string name="name" value="Tranquil Sage Mount"/>
 		<string name="desc" value="[Master Level: 1]\nKick back and munch some snacks as you travel!"/>
 		<string name="h" value="MP Cost: 10, DEF: 10, Speed: 120"/>
+	</imgdir>
+	<imgdir name="80011910">
+		<string name="name" value="Celestial Skills"/>
+		<string name="desc" value="View the Celestial Skills you can unlock during the Celestial Festival."/>
+	</imgdir>
+	<imgdir name="80011911">
+		<string name="name" value="Night Without Day"/>
+		<string name="desc" value="As you toil endlessly in a world of eternal night, you&apos;ll earn extra rewards for completing Arcane River daily quests."/>
+		<string name="h" value="Rewards will be increased and additional Nodestones will be gained for completing the following Arcane River daily quests:
+[Daily Quest] Vanishing Journey Research
+[Daily Quest] Save the Morass
+[Daily Quest] Esfera Research Orders
+
+ - Celestial Rank C: 2x rewards
+ -  Celestial Rank B: 2x rewards,+5 Nodestones
+ - Celestial Rank A: 2x rewards,+10 Nodestones
+ - Celestial Rank S: 3x rewards,+10 Nodestones"/>
 	</imgdir>
 	<imgdir name="400001057">
 		<string name="name" value="Princess Sakuno&apos;s Blessing"/>
@@ -49727,18 +49953,6 @@ Damages and freezes enemies when hit."/>
 		<string name="desc" value="[Master Level: 1]\nRide around on a Wolf Constellation mount that can double jump and move #cvery quickly#."/>
 		<string name="h" value="MP Cost: 10, DEF: 10, Speed: 170, Jump: 120"/>
 	</imgdir>
-	<imgdir name="80011872">
-		<string name="name" value="Solar Eclipse Zone Buff Lv. 1"/>
-		<string name="desc" value="Increases EXP gained by hunting monsters in the desert&apos;s Solar Eclipse Zone by 110%."/>
-	</imgdir>
-	<imgdir name="80011873">
-		<string name="name" value="Solar Eclipse Zone Buff Lv. 2"/>
-		<string name="desc" value="Increases EXP gained by hunting monsters in the desert&apos;s Solar Eclipse Zone by 120%."/>
-	</imgdir>
-	<imgdir name="80011874">
-		<string name="name" value="Solar Eclipse Zone Buff Lv. 3"/>
-		<string name="desc" value="Increases EXP gained by hunting monsters in the desert&apos;s Solar Eclipse Zone by 130%."/>
-	</imgdir>
 	<imgdir name="80011972">
 		<string name="name" value="Heroes of Meow Pet Lv. 1"/>
 		<string name="desc" value="The cuteness of the Heroes of Meow cats increases your Attack Power and Magic ATT by 5."/>
@@ -49788,5 +50002,39 @@ Damages and freezes enemies when hit."/>
 		<string name="name" value="Spirit Warding Charm 3"/>
 		<string name="desc" value="A Devil-Destroying Tailsman thrown while using Shikigami Haunting. It burns enemies for a short time and slows them down."/>
 		<string name="h" value="[Spirit Warding Charm]: Activation Chance: #prop%, Speed Reduction: -#x%, Duration: #dotTime sec, Damage: #dot% every sec"/>
+	</imgdir>
+	<imgdir name="80002920">
+		<string name="name" value="Thunder Horse Mount"/>
+		<string name="desc" value="[Master Level: 1]\nAllows you to ride a Thunder Horse mount. Double-tap the jump key in town to use the High Altitude Flight skill."/>
+		<string name="h1" value="DEF: +10, Speed: 170, Jump: 120"/>
+	</imgdir>
+	<imgdir name="80002921">
+		<string name="name" value="World Map Teleport (Thunder Horse)"/>
+		<string name="desc" value="You can use the World Map Teleport skill while you&apos;re riding the Thunder Horse Mount."/>
+	</imgdir>
+	<imgdir name="80012009">
+		<string name="name" value="Lv. 1 Erdas&apos; Mysterious Power"/>
+		<string name="desc" value="Increases Attack Power and Magic ATT by 3."/>
+		<string name="h" value="#cAttack Power: +#padX, Magic ATT: +#madX#"/>
+	</imgdir>
+	<imgdir name="80012010">
+		<string name="name" value="Lv. 2 Erdas&apos; Mysterious Power"/>
+		<string name="desc" value="Increases Attack Power and Magic ATT by 5."/>
+		<string name="h" value="#cAttack Power: +#padX, Magic ATT: +#madX#"/>
+	</imgdir>
+	<imgdir name="80012011">
+		<string name="name" value="Lv. 3 Erdas&apos; Mysterious Power"/>
+		<string name="desc" value="Increases Attack Power and Magic ATT by 7."/>
+		<string name="h" value="#cAttack Power: +#padX, Magic ATT: +#madX#"/>
+	</imgdir>
+	<imgdir name="80012012">
+		<string name="name" value="Meteor Roller Mount"/>
+		<string name="desc" value="[Master Level: 1]\nRide around on a Meteor Roller mount that can double jump and move #cvery quickly#."/>
+		<string name="h" value="MP Cost: 10, DEF: 10, Speed: 170, Jump: 120"/>
+	</imgdir>
+	<imgdir name="80012013">
+		<string name="name" value="Meteor Roller Mount"/>
+		<string name="desc" value="[Master Level: 1]\nRide around on a Meteor Roller mount that can double jump and move #cvery quickly#."/>
+		<string name="h" value="MP Cost: 10, DEF: 10, Speed: 170, Jump: 120"/>
 	</imgdir>
 </imgdir>
