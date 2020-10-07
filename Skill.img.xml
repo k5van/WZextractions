@@ -4802,7 +4802,7 @@
 	</imgdir>
 	<imgdir name="4120014">
 		<string name="name" value="Dark Harmony"/>
-		<string name="desc" value="Become one with the darkenss to deal more damage."/>
+		<string name="desc" value="Become one with the darkness  to deal more damage."/>
 		<string name="h" value="Attack Power: +#padX, Monster DEF Ignored: +#ignoreMobpdpR%"/>
 	</imgdir>
 	<imgdir name="4120018">
@@ -19727,7 +19727,7 @@
 	<imgdir name="51120045">
 		<string name="name" value="Enduring Spirit - Preparation"/>
 		<string name="desc" value="Increases Enduring Spirit&apos;s abnormal status and elemental resistances."/>
-		<string name="h" value="Additional Abnormal Status Resistance: +#x, Elemental Resistance: +#y%"/>
+		<string name="h" value="Additional Abnormal Status Resistance: +#z, Elemental Resistance: +#y%"/>
 	</imgdir>
 	<imgdir name="51120046">
 		<string name="name" value="Radiant Blast - Reinforce"/>
@@ -22744,10 +22744,10 @@
 	</imgdir>
 	<imgdir name="71000921">
 		<string name="name" value="Natural Genius Kinesis"/>
-		<string name="h1" value="Increases INT by 10"/>
-		<string name="h2" value="Increases INT by 20"/>
-		<string name="h3" value="Increases INT by 40"/>
-		<string name="h4" value="Increases INT by 80"/>
+		<string name="h1" value="INT + 10"/>
+		<string name="h2" value="INT + 20"/>
+		<string name="h3" value="INT + 40"/>
+		<string name="h4" value="INT + 80"/>
 		<string name="h5" value="INT +100"/>
 	</imgdir>
 	<imgdir name="71000922">
@@ -42037,7 +42037,7 @@
 	<imgdir name="112121006">
 		<string name="name" value="Meow Card"/>
 		<string name="desc" value="Draws a random card that buffs your party."/>
-		<string name="h" value="MP Cost: #mpCon, \n#cRed Card# - Damage: +#indieDamR%\n#cBlue Card# - DEF: +#pdd, Max HP/MP: +#mhpR% \n#cYellow Card# - Attack Speed: +#indieBooster, Speed: +#indieSpeed\n#cDuration:# #time sec, Cooldown: #cooltime sec"/>
+		<string name="h" value="MP Cost: #mpCon, \n#cRed Card# - Damage: +#indieDamR%\n#cBlue Card# - DEF: +#indiePdd, Max HP/MP: +#mhpR% \n#cYellow Card# - Attack Speed: +#indieBooster, Speed: +#indieSpeed\n#cDuration:# #time sec, Cooldown: #cooltime sec"/>
 	</imgdir>
 	<imgdir name="112121007">
 		<string name="name" value="Red Card"/>
@@ -44969,8 +44969,8 @@
 	</imgdir>
 	<imgdir name="4121014">
 		<string name="name" value="Dark Harmony"/>
-		<string name="desc" value="Become one with the darkenss to deal more damage."/>
-		<string name="pdesc" value="Become one with the darkenss to deal more damage."/>
+		<string name="desc" value="Become one with the darkness to deal more damage."/>
+		<string name="pdesc" value="Become one with the darkness to deal more damage."/>
 		<string name="h" value="MP Cost: #mpCon, Attack Power: +#indiePad, Duration: #time sec\n[Passive Effects - Enemy DEF Ignored: #ignoreMobpdpR%]"/>
 		<string name="ph" value="MP Cost: #mpCon, Attack Power: +#indiePad, Duration: #time sec"/>
 	</imgdir>
@@ -49480,7 +49480,7 @@ Damages and freezes enemies when hit."/>
 		<string name="name" value="Celestial Power: Rank C"/>
 		<string name="desc" value="Enjoy the following privileges for reaching Celestial Rank C:"/>
 		<string name="h" value="All Stats, Attack Power, &amp; Magic ATT: +10
-Celestial Surge: +20% EXP per buff stack
+Celestial Surge: 2% EXP per buff stack
 The Umbra: +110% EXP, 30 min time limit
 Unending Night: 2x Arcane River daily quest rewards"/>
 	</imgdir>
@@ -49488,34 +49488,43 @@ Unending Night: 2x Arcane River daily quest rewards"/>
 		<string name="name" value="Celestial Power: Rank B"/>
 		<string name="desc" value="Enjoy the following privileges for reaching Celestial Rank B:"/>
 		<string name="h" value="All Stats, Attack Power, &amp; Magic ATT: +10
-Celestial Surge: +25% EXP per buff stack
+Celestial Surge: 3% EXP per buff stack
 The Umbra: +120% EXP, 35 min time limit
 Unending Night: 2x Arcane River daily quest rewards, +5 Nodestones upon completing any of the following quests.
  - [Daily Quest] Vanishing Journey Research
  - [Daily Quest] Save the Morass
- - [Daily Quest] Esfera Research Orders"/>
+ - [Daily Quest] Esfera Research Orders
+ - [Daily Quest] Chu Chu&apos;s Finest Cuisine
+ - [Daily Quest] A Night&apos;s Peace in Lachelein
+ - [Daily Quest] Peace in Arcana"/>
 	</imgdir>
 	<imgdir name="80011878">
 		<string name="name" value="Celestial Power: Rank A"/>
 		<string name="desc" value="Enjoy the following privileges for reaching Celestial Rank A:"/>
-		<string name="h" value="All Stats, Attack Power, &amp; Magic ATT: +10 (Stacks with Previous Rank)
-Celestial Surge: +30% EXP per buff stack
-The Umbra: +130% EXP, 40 min time limit
-Unending Night: 2x Arcane River daily quest rewards, +10 Nodestones upon completing any of the following quests.
+		<string name="h" value="All Stats, Attack Power, &amp; Magic ATT: +10
+Celestial Surge: 4% EXP per buff stack
+The Umbra: 130% EXP, 40 min time limit
+Unending Night: 2x Arcane River daily quest rewards, 10 Nodestones upon completing any of the following quests.
  - [Daily Quest] Vanishing Journey Research
  - [Daily Quest] Save the Morass
- - [Daily Quest] Esfera Research Orders"/>
+ - [Daily Quest] Esfera Research Orders
+ - [Daily Quest] Chu Chu&apos;s Finest Cuisine
+ - [Daily Quest] A Night&apos;s Peace in Lachelein
+ - [Daily Quest] Peace in Arcana"/>
 	</imgdir>
 	<imgdir name="80011879">
 		<string name="name" value="Celestial Power: Rank S"/>
 		<string name="desc" value="Enjoy the following privileges for reaching Celestial Rank S, the highest possible rank:"/>
-		<string name="h" value="All Stats, Attack Power, &amp; Magic ATT: +10 (Stacks with Previous Rank)
-Celestial Surge: +35% EXP per buff stack
-The Umbra: +140% EXP, 45 min time limit
-Unending Night: 3x Arcane River daily quest rewards, +10 Nodestones upon completing any of the following quests.
+		<string name="h" value="All Stats, Attack Power, &amp; Magic ATT: +10
+Celestial Surge: 5% EXP per buff stack
+The Umbra: 140% EXP, 45 min time limit
+Unending Night: 3x Arcane River daily quest rewards, 10 Nodestones upon completing any of the following quests.
  - [Daily Quest] Vanishing Journey Research
  - [Daily Quest] Save the Morass
- - [Daily Quest] Esfera Research Orders"/>
+ - [Daily Quest] Esfera Research Orders
+ - [Daily Quest] Chu Chu&apos;s Finest Cuisine
+ - [Daily Quest] A Night&apos;s Peace in Lachelein
+ - [Daily Quest] Peace in Arcana"/>
 	</imgdir>
 	<imgdir name="80011880">
 		<string name="name" value="Festival&apos;s Intrigue: Rank C"/>
@@ -50035,6 +50044,139 @@ Celestial Rank S: 5% EXP per stack."/>
 	<imgdir name="80012013">
 		<string name="name" value="Meteor Roller Mount"/>
 		<string name="desc" value="[Master Level: 1]\nRide around on a Meteor Roller mount that can double jump and move #cvery quickly#."/>
+		<string name="h" value="MP Cost: 10, DEF: 10, Speed: 170, Jump: 120"/>
+	</imgdir>
+	<imgdir name="80012022">
+		<string name="name" value="Dawn&apos;s Bloom: Seedling I"/>
+		<string name="desc" value="Draws upon the determination of the Sengoku Warriors. Grows stronger as you collect &lt;Sengoku Ki&gt; by completing Sengoku Scroll objectives and speaking with &lt;Mouri Motonari&gt;."/>
+		<string name="h" value="Damage Against Normal Monsters: +#nbdR%\r\nAll stats: +#strX, Max HP: +#mhpX"/>
+	</imgdir>
+	<imgdir name="80012023">
+		<string name="name" value="Dawn&apos;s Bloom: Seedling II"/>
+		<string name="desc" value="Draws upon the determination of the Sengoku Warriors. Grows stronger as you collect &lt;Sengoku Ki&gt; by completing Sengoku Scroll objectives and speaking with &lt;Mouri Motonari&gt;."/>
+		<string name="h" value="Damage Against Normal Monsters: +#nbdR%\r\nAll stats: +#strX, Max HP: +#mhpX\r\nAttack Power: +#padX, Magic ATT: +#madX"/>
+	</imgdir>
+	<imgdir name="80012024">
+		<string name="name" value="Dawn&apos;s Bloom: Sprout I"/>
+		<string name="desc" value="Draws upon the determination of the Sengoku Warriors. Grows stronger as you collect &lt;Sengoku Ki&gt; by completing Sengoku Scroll objectives and speaking with &lt;Mouri Motonari&gt;."/>
+		<string name="h" value="Damage Against Normal Monsters: +#nbdR%\r\nAll stats: +#strX, Max HP: +#mhpX\r\nAttack Power: +#padX, Magic ATT: +#madX\r\nEnemy DEF Ignored: +#ignoreMobpdpR%"/>
+	</imgdir>
+	<imgdir name="80012025">
+		<string name="name" value="Dawn&apos;s Bloom: Sprout II"/>
+		<string name="desc" value="Draws upon the determination of the Sengoku Warriors. Grows stronger as you collect &lt;Sengoku Ki&gt; by completing Sengoku Scroll objectives and speaking with &lt;Mouri Motonari&gt;."/>
+		<string name="h" value="Damage Against Normal Monsters: +#nbdR%\r\nAll stats: +#strX, Max HP: +#mhpX\r\nCritical Rate: +#cr%\r\nAttack Power: +#padX, Magic ATT: +#madX\r\nEnemy DEF Ignored: +#ignoreMobpdpR%"/>
+	</imgdir>
+	<imgdir name="80012026">
+		<string name="name" value="Dawn&apos;s Bloom: Bud I"/>
+		<string name="desc" value="Draws upon the determination of the Sengoku Warriors. Grows stronger as you collect &lt;Sengoku Ki&gt; by completing Sengoku Scroll objectives and speaking with &lt;Mouri Motonari&gt;."/>
+		<string name="h" value="Damage Against Normal Monsters: +#nbdR%\r\nAll stats: +#strX, Max HP: +#mhpX\r\nCritical Rate: +#cr%\r\nAttack Power: +#padX, Magic ATT: +#madX\r\nEnemy DEF Ignored: +#ignoreMobpdpR%"/>
+	</imgdir>
+	<imgdir name="80012027">
+		<string name="name" value="Dawn&apos;s Bloom: Bud II"/>
+		<string name="desc" value="Draws upon the determination of the Sengoku Warriors. Grows stronger as you collect &lt;Sengoku Ki&gt; by completing Sengoku Scroll objectives and speaking with &lt;Mouri Motonari&gt;."/>
+		<string name="h" value="Damage Against Normal Monsters: +#nbdR%\r\nAll stats: +#strX, Max HP: +#mhpX\r\nCritical Rate: +#cr%\r\nAttack Power: +#padX, Magic ATT: +#madX\r\nEnemy DEF Ignored: +#ignoreMobpdpR%"/>
+	</imgdir>
+	<imgdir name="80012028">
+		<string name="name" value="Dawn&apos;s Bloom: Blossom I"/>
+		<string name="desc" value="Draws upon the determination of the Sengoku Warriors. Grows stronger as you collect &lt;Sengoku Ki&gt; by completing Sengoku Scroll objectives and speaking with &lt;Mouri Motonari&gt;."/>
+		<string name="h" value="Damage Against Normal Monsters: +#nbdR%\r\nAll stats: +#strX, Max HP: +#mhpX\r\nCritical Rate: +#cr%\r\nAttack Power: +#padX, Magic ATT: +#madX\r\nBoss Damage: +#bdR%\r\nEnemy DEF Ignored: +#ignoreMobpdpR%"/>
+	</imgdir>
+	<imgdir name="80012029">
+		<string name="name" value="Dawn&apos;s Bloom: Blossom II"/>
+		<string name="desc" value="Draws upon the determination of the Sengoku Warriors. Grows stronger as you collect &lt;Sengoku Ki&gt; by completing Sengoku Scroll objectives and speaking with &lt;Mouri Motonari&gt;."/>
+		<string name="h" value="Damage Against Normal Monsters: +#nbdR%\r\nAll stats: +#strX, Max HP: +#mhpX\r\nCritical Rate: +#cr%\r\nAttack Power: +#padX, Magic ATT: +#madX\r\nBoss Damage: +#bdR%\r\nEnemy DEF Ignored: +#ignoreMobpdpR%"/>
+	</imgdir>
+	<imgdir name="80012030">
+		<string name="name" value="Dawn&apos;s Bloom: Full Bloom I"/>
+		<string name="desc" value="Draws upon the determination of the Sengoku Warriors. Grows stronger as you collect &lt;Sengoku Ki&gt; by completing Sengoku Scroll objectives and speaking with &lt;Mouri Motonari&gt;."/>
+		<string name="h" value="Damage Against Normal Monsters: +#nbdR%\r\nAll stats: +#strX, Max HP: +#mhpX\r\nCritical Rate: +#cr%\r\nAttack Power: +#padX, Magic ATT: +#madX\r\nBoss Damage: +#bdR%\r\nEnemy DEF Ignored: +#ignoreMobpdpR%\r\nCritical Damage: +#criticaldamage%"/>
+	</imgdir>
+	<imgdir name="80012031">
+		<string name="name" value="Dawn&apos;s Bloom: Full Bloom II"/>
+		<string name="desc" value="Draws upon the determination of the Sengoku Warriors. Grows stronger as you collect &lt;Sengoku Ki&gt; by completing Sengoku Scroll objectives and speaking with &lt;Mouri Motonari&gt;."/>
+		<string name="h" value="Damage Against Normal Monsters: +#nbdR%\r\nAll stats: +#strX, Max HP: +#mhpX\r\nCritical Rate: +#cr%\r\nAttack Power: +#padX, Magic ATT: +#madX\r\nBoss Damage: +#bdR%\r\nEnemy DEF Ignored: +#ignoreMobpdpR%\r\nCritical Damage: +#criticaldamage%"/>
+	</imgdir>
+	<imgdir name="80012002">
+		<string name="name" value="Sengoku War Horse Mount"/>
+		<string name="desc" value="[Master Level: 1]\nMount a Sengoku War Horse that can use the Double Jump skill to move #cvery quickly#."/>
+		<string name="h1" value="DEF: +10, Speed: 170, Jump: 120"/>
+	</imgdir>
+	<imgdir name="80012003">
+		<string name="name" value="Sengoku War Horse Mount"/>
+		<string name="desc" value="[Master Level: 1]\nMount a Sengoku War Horse that can use the Double Jump skill to move #cvery quickly#."/>
+		<string name="h1" value="DEF: +10, Speed: 170, Jump: 120"/>
+	</imgdir>
+	<imgdir name="80012021">
+		<string name="name" value="Yokai Advance EXP Buff"/>
+		<string name="desc" value="Increases EXP gained by 120% when hunting Yokai Advance monsters."/>
+	</imgdir>
+	<imgdir name="80011997">
+		<string name="name" value="Sengoku War Horse"/>
+		<string name="desc" value="[Master Level: 1]\nMount a Sengoku War Horse that can use the Double Jump skill to move #cvery quickly#."/>
+	</imgdir>
+	<imgdir name="80012051">
+		<string name="name" value="Lv. 1 Petite Halloween Puppets&apos; Mysterious Power"/>
+		<string name="desc" value="Increases Attack Power and Magic ATT by 3."/>
+		<string name="h" value="#cAttack Power: +#padX, Magic ATT: +#madX#"/>
+	</imgdir>
+	<imgdir name="80012052">
+		<string name="name" value="Lv. 2 Petite Halloween Puppets&apos; Mysterious Power"/>
+		<string name="desc" value="Increases Attack Power and Magic ATT by 5."/>
+		<string name="h" value="#cAttack Power: +#padX, Magic ATT: +#madX#"/>
+	</imgdir>
+	<imgdir name="80012053">
+		<string name="name" value="Lv. 3 Petite Halloween Puppets&apos; Mysterious Power"/>
+		<string name="desc" value="Increases Attack Power and Magic ATT by 7."/>
+		<string name="h" value="#cAttack Power: +#padX, Magic ATT: +#madX#"/>
+	</imgdir>
+	<imgdir name="80012054">
+		<string name="name" value="Fluffy Bat Mount"/>
+		<string name="desc" value="[Master Level: 1]\nRide around on a Fluffy Bat mount, which can double jump and move #cvery quickly#."/>
+		<string name="h" value="MP Cost: 10, DEF: 10, Speed: 170, Jump: 120"/>
+	</imgdir>
+	<imgdir name="80012055">
+		<string name="name" value="Fluffy Bat Mount"/>
+		<string name="desc" value="[Master Level: 1]\nRide around on a Fluffy Bat mount, which can double jump and move #cvery quickly#."/>
+		<string name="h" value="MP Cost: 10, DEF: 10, Speed: 170, Jump: 120"/>
+	</imgdir>
+	<imgdir name="80000632">
+		<string name="name" value="Yakkin&apos; Dragon Lv. 1"/>
+		<string name="desc" value="The power of the baby dragon increases your Attack Power and Magic ATT by 5 each."/>
+		<string name="h" value="#cAttack Power: +#padX, Magic ATT: +#madX#"/>
+	</imgdir>
+	<imgdir name="80000633">
+		<string name="name" value="Yakkin&apos; Dragon Lv. 2"/>
+		<string name="desc" value="The power of the baby dragon increases your Attack Power and Magic ATT by 7 each."/>
+		<string name="h" value="#cAttack Power: +#padX, Magic ATT: +#madX#"/>
+	</imgdir>
+	<imgdir name="80000634">
+		<string name="name" value="Yakkin&apos; Dragon Lv. 3"/>
+		<string name="desc" value="The power of the baby dragon increases your Attack Power and Magic ATT by 9 each."/>
+		<string name="h" value="#cAttack Power: +#padX, Magic ATT: +#madX#"/>
+	</imgdir>
+	<imgdir name="80012016">
+		<string name="name" value="Lv. 1 Round Owls&apos; Mysterious Power"/>
+		<string name="desc" value="Increases Attack Power and Magic ATT by 3."/>
+		<string name="h" value="#cAttack Power: +#padX, Magic ATT: +#madX#"/>
+	</imgdir>
+	<imgdir name="80012017">
+		<string name="name" value="Lv. 2 Round Owls&apos; Mysterious Power"/>
+		<string name="desc" value="Increases Attack Power and Magic ATT by 5."/>
+		<string name="h" value="#cAttack Power: +#padX, Magic ATT: +#madX#"/>
+	</imgdir>
+	<imgdir name="80012018">
+		<string name="name" value="Lv. 3 Round Owls&apos; Mysterious Power"/>
+		<string name="desc" value="Increases Attack Power and Magic ATT by 7."/>
+		<string name="h" value="#cAttack Power: +#padX, Magic ATT: +#madX#"/>
+	</imgdir>
+	<imgdir name="80012019">
+		<string name="name" value="Hoverboard Mount"/>
+		<string name="desc" value="[Master Level: 1]\nRide around on a Hoverboard mount that can double jump and move #cvery quickly#."/>
+		<string name="h" value="MP Cost: 10, DEF: 10, Speed: 170, Jump: 120"/>
+	</imgdir>
+	<imgdir name="80012020">
+		<string name="name" value="Hoverboard Mount"/>
+		<string name="desc" value="[Master Level: 1]\nRide around on a Hoverboard mount, which can double jump and move #cvery quickly#."/>
 		<string name="h" value="MP Cost: 10, DEF: 10, Speed: 170, Jump: 120"/>
 	</imgdir>
 </imgdir>

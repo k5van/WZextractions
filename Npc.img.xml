@@ -13057,7 +13057,7 @@
 		<string name="s0" value="Pay your fees, and I will keep your items safe."/>
 	</imgdir>
 	<imgdir name="2100001">
-		<string name="name" value="Muhamad"/>
+		<string name="name" value="Muhammad"/>
 		<string name="func" value="Item Market"/>
 		<string name="n0" value="You need to be careful in treating Lidium."/>
 		<string name="n1" value="Lidium is strong, and it&apos;s also a beautiful mineral. Can you see this luster?"/>
@@ -27194,7 +27194,7 @@
 		<string name="n0" value="I remember the day I married my lady.."/>
 	</imgdir>
 	<imgdir name="9000029">
-		<string name="name" value="Winky the Fairy"/>
+		<string name="name" value="Wonky the Fairy"/>
 		<string name="n0" value="So what kind of food is being served here? I prefer steak!"/>
 	</imgdir>
 	<imgdir name="9000030">
@@ -32901,16 +32901,16 @@
 		<string name="name" value="Android"/>
 	</imgdir>
 	<imgdir name="9062271">
-		<string name="name" value="Human from Memory Data"/>
+		<string name="name" value="Human"/>
 	</imgdir>
 	<imgdir name="9062272">
-		<string name="name" value="Human from Memory Data"/>
+		<string name="name" value="Human"/>
 	</imgdir>
 	<imgdir name="9062273">
-		<string name="name" value="Human from Memory Data"/>
+		<string name="name" value="Human"/>
 	</imgdir>
 	<imgdir name="9062274">
-		<string name="name" value="Human from Memory Data"/>
+		<string name="name" value="Human"/>
 	</imgdir>
 	<imgdir name="9062275">
 		<string name="name" value="Sophelia"/>
@@ -34201,8 +34201,8 @@
 	<imgdir name="9201002">
 		<string name="name" value="High Priest John"/>
 		<string name="func" value="Cathedral Wedding Officiator"/>
-		<string name="n0" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="n1" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="n0" value="True love makes everything possible."/>
+		<string name="n1" value="For you, I will gladly officiate your wedding anytime."/>
 	</imgdir>
 	<imgdir name="9201004">
 		<string name="name" value="Ames the Wise"/>
@@ -38407,17 +38407,9 @@
 	</imgdir>
 	<imgdir name="9130133">
 		<string name="name" value="Naoe Kanetsugu"/>
-		<string name="d0" value="Love! Love makes the world go &apos;round!"/>
-		<string name="d1" value="Kenshin!"/>
-		<string name="n0" value="Love! Love makes the world go &apos;round!"/>
-		<string name="n1" value="Kenshin!"/>
 	</imgdir>
 	<imgdir name="9130134">
 		<string name="name" value="Sanada Yukimura"/>
-		<string name="d0" value="Oda&apos;s got a million soldiers and not a single MAN."/>
-		<string name="d1" value="I am the spear that pierces the darkness!"/>
-		<string name="n0" value="Oda&apos;s got a million soldiers and not a single MAN."/>
-		<string name="n1" value="I am the spear that pierces the darkness!"/>
 	</imgdir>
 	<imgdir name="9130135">
 		<string name="name" value="Mouri Supplier"/>
@@ -43243,20 +43235,10 @@
 		<string name="d0" value="I know just about all there is to know about fishin&apos;."/>
 		<string name="func" value="&lt;Fishin&apos; Guide&gt;"/>
 	</imgdir>
-	<imgdir name="9310639">
-		<string name="name" value="Cory"/>
-		<string name="func" value="&lt;Tourney Reward Keeper&gt;"/>
-		<string name="d0" value="Check out my good before you go! "/>
-	</imgdir>
 	<imgdir name="9310640">
 		<string name="name" value="Ruby"/>
 		<string name="func" value="&lt;Fishin&apos; Shopkeep&gt;"/>
 		<string name="d0" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-	</imgdir>
-	<imgdir name="9310641">
-		<string name="name" value="Lucy"/>
-		<string name="func" value="&lt;Tourney Master&gt;"/>
-		<string name="d0" value="Weekends are made for fishin&apos;. Join the fishin&apos; tourney every weekend!"/>
 	</imgdir>
 	<imgdir name="9310642">
 		<string name="name" value="Nuri"/>
@@ -48673,5 +48655,163 @@
 	</imgdir>
 	<imgdir name="9330219">
 		<string name="name" value="Suha"/>
+	</imgdir>
+	<imgdir name="9401178">
+		<string name="name" value="Sakuno"/>
+		<string name="d0" value="I will always pray for your wellbeing."/>
+		<string name="d1" value="Let us stand united against our foes."/>
+	</imgdir>
+	<imgdir name="9401179">
+		<string name="name" value="Tsuchimikado Haruaki"/>
+		<string name="d0" value="A hidden power lies within each of us."/>
+		<string name="d1" value="A hidden power lies within each of us."/>
+	</imgdir>
+	<imgdir name="9401180">
+		<string name="name" value="Takeda Shingen"/>
+		<string name="d0" value="If we maintain our momentum, victory is ours!"/>
+		<string name="d1" value="If we maintain our momentum, victory is ours!"/>
+	</imgdir>
+	<imgdir name="9401181">
+		<string name="name" value="Uesugi Kenshin"/>
+		<string name="d0" value="My blade is always ready."/>
+		<string name="d1" value="My blade is always ready."/>
+	</imgdir>
+	<imgdir name="9401182">
+		<string name="name" value="Mouri Motonari"/>
+		<string name="d0" value="Have no fear, #h0#. The #bSengoku Warriors#k are with you."/>
+		<string name="d1" value="Have no fear, #h0#. The #bSengoku Warriors#k are with you."/>
+	</imgdir>
+	<imgdir name="9401183">
+		<string name="name" value="Ayame"/>
+		<string name="d0" value="We still have a lot of work to do."/>
+		<string name="d1" value="We still have a lot of work to do."/>
+	</imgdir>
+	<imgdir name="9401184">
+		<string name="name" value="Kengo"/>
+		<string name="d0" value="...Do you have business with me?"/>
+		<string name="d1" value="...Do you have business with me?"/>
+	</imgdir>
+	<imgdir name="9401185">
+		<string name="name" value="Kino Konoko"/>
+		<string name="d0" value="Please help us, before they escape with the #bElements#k!"/>
+		<string name="d1" value="Please help us, before they escape with the #bElements#k!"/>
+	</imgdir>
+	<imgdir name="9401186">
+		<string name="name" value="Yamanaka Yukimori"/>
+		<string name="d0" value="Loyalty will never fail you, and faith will make you stronger."/>
+		<string name="d1" value="Loyalty will never fail you, and faith will make you stronger."/>
+	</imgdir>
+	<imgdir name="9401187">
+		<string name="name" value="Sanada Yukimura"/>
+		<string name="d0" value="March with the determination of Master Shingen!"/>
+		<string name="d1" value="March with the determination of Master Shingen!"/>
+	</imgdir>
+	<imgdir name="9401188">
+		<string name="name" value="Naoe Kanetsugu"/>
+		<string name="d0" value="I will stand behind Kenshin&apos;s unrivaled blade."/>
+		<string name="d1" value="I will stand behind Kenshin&apos;s unrivaled blade."/>
+	</imgdir>
+	<imgdir name="9401189">
+		<string name="name" value="Akechi Mitsuhide"/>
+	</imgdir>
+	<imgdir name="9401190">
+		<string name="name" value="Oda Nobunaga"/>
+	</imgdir>
+	<imgdir name="9401191">
+		<string name="name" value="Niwa Nagahide"/>
+	</imgdir>
+	<imgdir name="9401192">
+		<string name="name" value="Princess No"/>
+	</imgdir>
+	<imgdir name="9401193">
+		<string name="name" value="Mori Ranmaru"/>
+	</imgdir>
+	<imgdir name="9401194">
+		<string name="name" value="Taro"/>
+	</imgdir>
+	<imgdir name="9401195">
+		<string name="name" value="Ringo"/>
+	</imgdir>
+	<imgdir name="9401196">
+		<string name="name" value="Saburo"/>
+	</imgdir>
+	<imgdir name="9401197">
+		<string name="name" value="Akechi Mitsuhide"/>
+		<string name="d0" value="Have I finally met a worthy adversary?"/>
+		<string name="d1" value="I will honor my promise to your princess. Come at me!"/>
+	</imgdir>
+	<imgdir name="9401198">
+		<string name="name" value="Hashiba Hideyoshi"/>
+	</imgdir>
+	<imgdir name="9401199">
+		<string name="name" value="Tokugawa Ieyasu"/>
+	</imgdir>
+	<imgdir name="9401200">
+		<string name="name" value="Honda Tadakatsu"/>
+	</imgdir>
+	<imgdir name="9401201">
+		<string name="name" value="Mouri Takamoto"/>
+	</imgdir>
+	<imgdir name="9401202">
+		<string name="name" value="Kikkawa Motoharu"/>
+	</imgdir>
+	<imgdir name="9401203">
+		<string name="name" value="Kobayakawa Takakage"/>
+	</imgdir>
+	<imgdir name="9401204">
+		<string name="name" value="Tsuchimikado Haruaki"/>
+	</imgdir>
+	<imgdir name="9401205">
+		<string name="name" value="Takeda Shingen"/>
+	</imgdir>
+	<imgdir name="9401206">
+		<string name="name" value="Uesugi Kenshin"/>
+	</imgdir>
+	<imgdir name="9401207">
+		<string name="name" value="Oda Nobunaga"/>
+	</imgdir>
+	<imgdir name="9401208">
+		<string name="name" value="Sengoku Warrior"/>
+	</imgdir>
+	<imgdir name="9401209">
+		<string name="name" value="Asia"/>
+	</imgdir>
+	<imgdir name="9401210">
+		<string name="name" value="Oda Mecha Warrior"/>
+	</imgdir>
+	<imgdir name="9401211">
+		<string name="name" value="Oda Mecha Gunner"/>
+	</imgdir>
+	<imgdir name="9401212">
+		<string name="name" value="Oda Spirit Walker"/>
+	</imgdir>
+	<imgdir name="9401213">
+		<string name="name" value="Ayame"/>
+	</imgdir>
+	<imgdir name="9401214">
+		<string name="name" value="Captured Yokai"/>
+	</imgdir>
+	<imgdir name="9401215">
+		<string name="name" value="Sakuno"/>
+		<string name="d0" value="I&apos;m glad to see you once more, #h0#. Will you join me in enjoying this beautiful day?"/>
+		<string name="d1" value="I&apos;m glad to see you once more, #h0#. Will you join me in enjoying this beautiful day?"/>
+	</imgdir>
+	<imgdir name="9401228">
+		<string name="name" value="Akechi Mitsuhide"/>
+	</imgdir>
+	<imgdir name="9401229">
+		<string name="name" value="Mouri Motonari"/>
+		<string name="d0" value="Have no fear, #h0#. The #bSengoku Warriors#k are with you."/>
+		<string name="d1" value="Have no fear, #h0#. The #bSengoku Warriors#k are with you."/>
+	</imgdir>
+	<imgdir name="9062315">
+		<string name="name" value="So Gong"/>
+		<string name="n0" value="Hello, newcomer! Do you understand the importance of continuous, daily training?"/>
+		<string name="n1" value="Hello, newcomer! Do you understand the importance of continuous, daily training?"/>
+		<string name="d0" value="Hello, newcomer! My name is So Gong. I train at Mu Lung Dojo."/>
+		<string name="d1" value="Hello, newcomer! My name is So Gong. I train at Mu Lung Dojo."/>
+	</imgdir>
+	<imgdir name="9401230">
+		<string name="name" value="Akechi Mitsuhide"/>
 	</imgdir>
 </imgdir>

@@ -31221,27 +31221,27 @@
 			<string name="mapName" value="Stage 6: Air Battleship Area C"/>
 		</imgdir>
 		<imgdir name="954010000">
-			<string name="streetName" value="Dead Tree Forest"/>
-			<string name="mapName" value="Stage 1: Dead Tree Forest 1"/>
+			<string name="streetName" value="Forest of Dead Trees"/>
+			<string name="mapName" value="Stage 1: Forest of Dead Trees I"/>
 		</imgdir>
 		<imgdir name="954010100">
-			<string name="streetName" value="Dead Tree Forest"/>
-			<string name="mapName" value="Stage 2: Dead Tree Forest 2"/>
+			<string name="streetName" value="Forest of Dead Trees"/>
+			<string name="mapName" value="Stage 2: Forest of Dead Trees II"/>
 		</imgdir>
 		<imgdir name="954010200">
-			<string name="streetName" value="Dead Tree Forest"/>
-			<string name="mapName" value="Stage 3: Dead Tree Forest 3"/>
+			<string name="streetName" value="Forest of Dead Trees"/>
+			<string name="mapName" value="Stage 3: Forest of Dead Trees III"/>
 		</imgdir>
 		<imgdir name="954010300">
-			<string name="streetName" value="Dead Tree Forest"/>
+			<string name="streetName" value="Forest of Dead Trees"/>
 			<string name="mapName" value="Stage 4: Dead Mine 1"/>
 		</imgdir>
 		<imgdir name="954010400">
-			<string name="streetName" value="Dead Tree Forest"/>
+			<string name="streetName" value="Forest of Dead Trees"/>
 			<string name="mapName" value="Stage 5: Dead Mine 2"/>
 		</imgdir>
 		<imgdir name="954010500">
-			<string name="streetName" value="Dead Tree Forest"/>
+			<string name="streetName" value="Forest of Dead Trees"/>
 			<string name="mapName" value="Stage 6: The Cave of Trial"/>
 		</imgdir>
 		<imgdir name="954020000">
@@ -38596,7 +38596,7 @@
 		</imgdir>
 		<imgdir name="993175400">
 			<string name="streetName" value="Haunted Mansion"/>
-			<string name="mapName" value="The Center Hall"/>
+			<string name="mapName" value="Central Hall"/>
 		</imgdir>
 		<imgdir name="993175401">
 			<string name="streetName" value="Haunted Mansion"/>
@@ -39316,7 +39316,7 @@
 		</imgdir>
 		<imgdir name="993175403">
 			<string name="streetName" value="Haunted Mansion"/>
-			<string name="mapName" value="The Center Hall"/>
+			<string name="mapName" value="Central Hall"/>
 		</imgdir>
 		<imgdir name="993175491">
 			<string name="streetName" value="Haunted Mansion"/>
@@ -54126,28 +54126,6 @@
 			<string name="mapName" value="China Wedding Hall"/>
 		</imgdir>
 	</imgdir>
-	<imgdir name="Fish">
-		<imgdir name="783100000">
-			<string name="streetName" value="Angler&apos;s Rest"/>
-			<string name="mapName" value="Angler&apos;s Rest"/>
-		</imgdir>
-		<imgdir name="783100001">
-			<string name="streetName" value="Fishin&apos; Hole"/>
-			<string name="mapName" value="Tutorial"/>
-		</imgdir>
-		<imgdir name="783100011">
-			<string name="streetName" value="Fishin&apos; Hole"/>
-			<string name="mapName" value="Spirit Fishin&apos; Hole"/>
-		</imgdir>
-		<imgdir name="783100012">
-			<string name="streetName" value="Fishin&apos; Hole"/>
-			<string name="mapName" value="Dreamy Fishin&apos; Hole"/>
-		</imgdir>
-		<imgdir name="783100013">
-			<string name="streetName" value="Fishin&apos; Hole"/>
-			<string name="mapName" value="Deep Sea Fishin&apos; Hole"/>
-		</imgdir>
-	</imgdir>
 	<imgdir name="PL_HiddenTales">
 		<imgdir name="867112800">
 			<string name="streetName" value="Secret Stories"/>
@@ -61410,6 +61388,368 @@
 		<imgdir name="867139650">
 			<string name="streetName" value="Celestial Festival"/>
 			<string name="mapName" value="Festival Venue"/>
+		</imgdir>
+	</imgdir>
+	<imgdir name="PL_sengoku3">
+		<imgdir name="874000000">
+			<string name="streetName" value="Momijigaoka"/>
+			<string name="mapName" value="Momijigaoka"/>
+		</imgdir>
+		<imgdir name="874000001">
+			<string name="streetName" value="Momijigaoka"/>
+			<string name="mapName" value="Momijigaoka"/>
+		</imgdir>
+		<imgdir name="874000002">
+			<string name="streetName" value="Momijigaoka"/>
+			<string name="mapName" value="Momijigaoka"/>
+		</imgdir>
+		<imgdir name="874000003">
+			<string name="streetName" value="Zipangu"/>
+			<string name="mapName" value="Mushroom Shrine"/>
+		</imgdir>
+		<imgdir name="874000004">
+			<string name="streetName" value="Momijigaoka"/>
+			<string name="mapName" value="Momijigaoka"/>
+		</imgdir>
+		<imgdir name="874000005">
+			<string name="streetName" value="Fort Asura"/>
+			<string name="mapName" value="Fort Asura Entrance"/>
+		</imgdir>
+		<imgdir name="874000006">
+			<string name="streetName" value="Fort Asura"/>
+			<string name="mapName" value="Fort Asura Interior"/>
+		</imgdir>
+		<imgdir name="874000007">
+			<string name="streetName" value="Momijigaoka"/>
+			<string name="mapName" value="Momijigaoka"/>
+		</imgdir>
+		<imgdir name="874000008">
+			<string name="streetName" value="Fort Asura"/>
+			<string name="mapName" value="Fort Asura Interior"/>
+		</imgdir>
+		<imgdir name="874000009">
+			<string name="streetName" value="Fort Asura"/>
+			<string name="mapName" value="Fort Asura Entrance"/>
+		</imgdir>
+		<imgdir name="874000010">
+			<string name="streetName" value="Fort Asura"/>
+			<string name="mapName" value="Fort Asura Interior"/>
+		</imgdir>
+		<imgdir name="874000011">
+			<string name="streetName" value="Fort Asura"/>
+			<string name="mapName" value="Ritual Altar"/>
+		</imgdir>
+		<imgdir name="874000012">
+			<string name="streetName" value="Momijigaoka"/>
+			<string name="mapName" value="Honnou-ji"/>
+		</imgdir>
+		<imgdir name="874000013">
+			<string name="streetName" value="Honnou-ji"/>
+			<string name="mapName" value="Honnou-ji"/>
+		</imgdir>
+		<imgdir name="874000014">
+			<string name="streetName" value="Honnou-ji"/>
+			<string name="mapName" value="Honnou-ji"/>
+		</imgdir>
+		<imgdir name="874000015">
+			<string name="streetName" value="Fort Asura"/>
+			<string name="mapName" value="Ritual Altar"/>
+		</imgdir>
+		<imgdir name="874000016">
+			<string name="streetName" value="Fort Asura"/>
+			<string name="mapName" value="Ritual Altar"/>
+		</imgdir>
+		<imgdir name="874000017">
+			<string name="streetName" value="Fort Asura"/>
+			<string name="mapName" value="Ritual Altar"/>
+		</imgdir>
+		<imgdir name="874000018">
+			<string name="streetName" value="Fort Asura"/>
+			<string name="mapName" value="Ritual Altar"/>
+		</imgdir>
+		<imgdir name="874000019">
+			<string name="streetName" value="Fort Asura"/>
+			<string name="mapName" value="Fort Asura Interior"/>
+		</imgdir>
+		<imgdir name="874000020">
+			<string name="streetName" value="Fort Asura"/>
+			<string name="mapName" value="Fort Asura Interior"/>
+		</imgdir>
+		<imgdir name="874000021">
+			<string name="streetName" value="Momijigaoka"/>
+			<string name="mapName" value="Near Momijigaoka"/>
+		</imgdir>
+		<imgdir name="874000022">
+			<string name="streetName" value="Momijigaoka"/>
+			<string name="mapName" value="Honnou-ji"/>
+		</imgdir>
+		<imgdir name="874000023">
+			<string name="streetName" value="Momijigaoka"/>
+			<string name="mapName" value="Honnou-ji"/>
+		</imgdir>
+		<imgdir name="874000024">
+			<string name="streetName" value="Zipangu"/>
+			<string name="mapName" value="Kamuna"/>
+		</imgdir>
+		<imgdir name="874000025">
+			<string name="streetName" value="Honnou-ji"/>
+			<string name="mapName" value="Honnou-ji"/>
+		</imgdir>
+		<imgdir name="874000050">
+			<string name="streetName" value="Momijigaoka"/>
+			<string name="mapName" value="Momijigaoka"/>
+		</imgdir>
+		<imgdir name="874000051">
+			<string name="streetName" value="Momijigaoka"/>
+			<string name="mapName" value="Momijigaoka"/>
+		</imgdir>
+		<imgdir name="874000100">
+			<string name="streetName" value="Fort Asura"/>
+			<string name="mapName" value="Fort Asura Entrance"/>
+		</imgdir>
+		<imgdir name="874000200">
+			<string name="streetName" value="Fort Asura"/>
+			<string name="mapName" value="1F - Oda Barracks"/>
+		</imgdir>
+		<imgdir name="874000210">
+			<string name="streetName" value="Fort Asura"/>
+			<string name="mapName" value="1F - Oda Barracks"/>
+		</imgdir>
+		<imgdir name="874000300">
+			<string name="streetName" value="Fort Asura"/>
+			<string name="mapName" value="2F - Armory"/>
+		</imgdir>
+		<imgdir name="874000310">
+			<string name="streetName" value="Fort Asura"/>
+			<string name="mapName" value="2F - Armory"/>
+		</imgdir>
+		<imgdir name="874000400">
+			<string name="streetName" value="Fort Asura"/>
+			<string name="mapName" value="3F - Painted Labyrinth"/>
+		</imgdir>
+		<imgdir name="874000500">
+			<string name="streetName" value="Fort Asura"/>
+			<string name="mapName" value="4F - Painted Labyrinth"/>
+		</imgdir>
+		<imgdir name="874000600">
+			<string name="streetName" value="Fort Asura"/>
+			<string name="mapName" value="5F - Mana Repository"/>
+		</imgdir>
+		<imgdir name="874000610">
+			<string name="streetName" value="Fort Asura"/>
+			<string name="mapName" value="5F - Mana Repository"/>
+		</imgdir>
+		<imgdir name="874000700">
+			<string name="streetName" value="Fort Asura"/>
+			<string name="mapName" value="6F - Ritual Chamber"/>
+		</imgdir>
+		<imgdir name="874000710">
+			<string name="streetName" value="Fort Asura"/>
+			<string name="mapName" value="6F - Ritual Chamber"/>
+		</imgdir>
+		<imgdir name="874000900">
+			<string name="streetName" value="Hidden Mana Shrine"/>
+			<string name="mapName" value="Hidden Mana Shrine"/>
+		</imgdir>
+		<imgdir name="874000950">
+			<string name="streetName" value="Hidden Mana Shrine"/>
+			<string name="mapName" value="Hidden Mana Shrine"/>
+		</imgdir>
+		<imgdir name="874001000">
+			<string name="streetName" value="Fort Asura"/>
+			<string name="mapName" value="Yokai Advance &lt;Lobby&gt;"/>
+		</imgdir>
+		<imgdir name="874001001">
+			<string name="streetName" value="Fort Asura"/>
+			<string name="mapName" value="Yokai Advance &lt;Exit&gt;"/>
+		</imgdir>
+		<imgdir name="874001100">
+			<string name="streetName" value="Fort Asura"/>
+			<string name="mapName" value="Yokai Advance"/>
+		</imgdir>
+		<imgdir name="874002000">
+			<string name="streetName" value="Fort Asura"/>
+			<string name="mapName" value="Eliminate Oda Forces &lt;Lobby&gt;"/>
+		</imgdir>
+		<imgdir name="874002001">
+			<string name="streetName" value="Fort Asura"/>
+			<string name="mapName" value="Eliminate Oda Forces &lt;Exit&gt;"/>
+		</imgdir>
+		<imgdir name="874002100">
+			<string name="streetName" value="Fort Asura"/>
+			<string name="mapName" value="Eliminate the Oda Forces - Stage 1"/>
+		</imgdir>
+		<imgdir name="874003000">
+			<string name="streetName" value="Fort Asura"/>
+			<string name="mapName" value="Mana Battle &lt;Lobby&gt;"/>
+		</imgdir>
+		<imgdir name="874003001">
+			<string name="streetName" value="Fort Asura"/>
+			<string name="mapName" value="Mana Battle &lt;Exit&gt;"/>
+		</imgdir>
+		<imgdir name="874003100">
+			<string name="streetName" value="Fort Asura"/>
+			<string name="mapName" value="Mana Battle"/>
+		</imgdir>
+		<imgdir name="874004000">
+			<string name="streetName" value="Fort Asura"/>
+			<string name="mapName" value="Ritual Altar"/>
+		</imgdir>
+		<imgdir name="874004100">
+			<string name="streetName" value="Fort Asura"/>
+			<string name="mapName" value="Ritual Altar"/>
+		</imgdir>
+		<imgdir name="874004150">
+			<string name="streetName" value="Fort Asura"/>
+			<string name="mapName" value="Ritual Altar"/>
+		</imgdir>
+		<imgdir name="874004200">
+			<string name="streetName" value="Fort Asura"/>
+			<string name="mapName" value="Ritual Altar"/>
+		</imgdir>
+		<imgdir name="874004250">
+			<string name="streetName" value="Fort Asura"/>
+			<string name="mapName" value="Ritual Altar"/>
+		</imgdir>
+		<imgdir name="874004001">
+			<string name="streetName" value="Fort Asura"/>
+			<string name="mapName" value="Ritual Altar"/>
+		</imgdir>
+		<imgdir name="874004002">
+			<string name="streetName" value="Fort Asura"/>
+			<string name="mapName" value="Ritual Altar"/>
+		</imgdir>
+		<imgdir name="874004300">
+			<string name="streetName" value="Fort Asura"/>
+			<string name="mapName" value="Ritual Altar"/>
+		</imgdir>
+		<imgdir name="874004350">
+			<string name="streetName" value="Fort Asura"/>
+			<string name="mapName" value="Ritual Altar"/>
+		</imgdir>
+		<imgdir name="874004400">
+			<string name="streetName" value="Fort Asura"/>
+			<string name="mapName" value="Ritual Altar"/>
+		</imgdir>
+		<imgdir name="874004450">
+			<string name="streetName" value="Fort Asura"/>
+			<string name="mapName" value="Ritual Altar"/>
+		</imgdir>
+		<imgdir name="874002120">
+			<string name="streetName" value="Fort Asura"/>
+			<string name="mapName" value="Eliminate the Oda Forces - Stage 2"/>
+		</imgdir>
+		<imgdir name="874002140">
+			<string name="streetName" value="Fort Asura"/>
+			<string name="mapName" value="Eliminate the Oda Forces - Stage 3"/>
+		</imgdir>
+		<imgdir name="874002160">
+			<string name="streetName" value="Fort Asura"/>
+			<string name="mapName" value="Eliminate the Oda Forces - Stage 4"/>
+		</imgdir>
+		<imgdir name="874002180">
+			<string name="streetName" value="Fort Asura"/>
+			<string name="mapName" value="Eliminate the Oda Forces - Stage 5"/>
+		</imgdir>
+		<imgdir name="874002200">
+			<string name="streetName" value="Fort Asura"/>
+			<string name="mapName" value="Eliminate the Oda Forces - Stage 6"/>
+		</imgdir>
+		<imgdir name="874002220">
+			<string name="streetName" value="Fort Asura"/>
+			<string name="mapName" value="Eliminate the Oda Forces - Stage 7"/>
+		</imgdir>
+		<imgdir name="874002240">
+			<string name="streetName" value="Fort Asura"/>
+			<string name="mapName" value="Eliminate the Oda Forces - Stage 8"/>
+		</imgdir>
+		<imgdir name="874002260">
+			<string name="streetName" value="Fort Asura"/>
+			<string name="mapName" value="Eliminate the Oda Forces - Stage 9"/>
+		</imgdir>
+		<imgdir name="874002280">
+			<string name="streetName" value="Fort Asura"/>
+			<string name="mapName" value="Eliminate the Oda Forces - Stage 10"/>
+		</imgdir>
+		<imgdir name="874002300">
+			<string name="streetName" value="Fort Asura"/>
+			<string name="mapName" value="Eliminate the Oda Forces - Stage 11"/>
+		</imgdir>
+		<imgdir name="874002320">
+			<string name="streetName" value="Fort Asura"/>
+			<string name="mapName" value="Eliminate the Oda Forces - Stage 12"/>
+		</imgdir>
+		<imgdir name="874002340">
+			<string name="streetName" value="Fort Asura"/>
+			<string name="mapName" value="Eliminate the Oda Forces - Stage 13"/>
+		</imgdir>
+		<imgdir name="874002360">
+			<string name="streetName" value="Fort Asura"/>
+			<string name="mapName" value="Eliminate the Oda Forces - Stage 14"/>
+		</imgdir>
+		<imgdir name="874002380">
+			<string name="streetName" value="Fort Asura"/>
+			<string name="mapName" value="Eliminate the Oda Forces - Stage 15"/>
+		</imgdir>
+		<imgdir name="874002400">
+			<string name="streetName" value="Fort Asura"/>
+			<string name="mapName" value="Eliminate the Oda Forces - Stage 16"/>
+		</imgdir>
+		<imgdir name="874002420">
+			<string name="streetName" value="Fort Asura"/>
+			<string name="mapName" value="Eliminate the Oda Forces - Stage 17"/>
+		</imgdir>
+		<imgdir name="874002440">
+			<string name="streetName" value="Fort Asura"/>
+			<string name="mapName" value="Eliminate the Oda Forces - Stage 18"/>
+		</imgdir>
+		<imgdir name="874002460">
+			<string name="streetName" value="Fort Asura"/>
+			<string name="mapName" value="Eliminate the Oda Forces - Stage 19"/>
+		</imgdir>
+		<imgdir name="874002480">
+			<string name="streetName" value="Fort Asura"/>
+			<string name="mapName" value="Eliminate the Oda Forces - Stage 20"/>
+		</imgdir>
+		<imgdir name="874002500">
+			<string name="streetName" value="Fort Asura"/>
+			<string name="mapName" value="Eliminate the Oda Forces - Stage 21"/>
+		</imgdir>
+		<imgdir name="874002520">
+			<string name="streetName" value="Fort Asura"/>
+			<string name="mapName" value="Eliminate the Oda Forces - Stage 22"/>
+		</imgdir>
+		<imgdir name="874002540">
+			<string name="streetName" value="Fort Asura"/>
+			<string name="mapName" value="Eliminate the Oda Forces - Stage 23"/>
+		</imgdir>
+		<imgdir name="874002560">
+			<string name="streetName" value="Fort Asura"/>
+			<string name="mapName" value="Eliminate the Oda Forces - Stage 24"/>
+		</imgdir>
+		<imgdir name="874002580">
+			<string name="streetName" value="Fort Asura"/>
+			<string name="mapName" value="Eliminate the Oda Forces - Stage 25"/>
+		</imgdir>
+		<imgdir name="874002600">
+			<string name="streetName" value="Fort Asura"/>
+			<string name="mapName" value="Eliminate the Oda Forces - Stage 26"/>
+		</imgdir>
+		<imgdir name="874002620">
+			<string name="streetName" value="Fort Asura"/>
+			<string name="mapName" value="Eliminate the Oda Forces - Stage 27"/>
+		</imgdir>
+		<imgdir name="874002640">
+			<string name="streetName" value="Fort Asura"/>
+			<string name="mapName" value="Eliminate the Oda Forces - Stage 28"/>
+		</imgdir>
+		<imgdir name="874002660">
+			<string name="streetName" value="Fort Asura"/>
+			<string name="mapName" value="Eliminate the Oda Forces - Stage 29"/>
+		</imgdir>
+		<imgdir name="874002680">
+			<string name="streetName" value="Fort Asura"/>
+			<string name="mapName" value="Eliminate the Oda Forces - Stage 30"/>
 		</imgdir>
 	</imgdir>
 </imgdir>

@@ -12,4 +12,28 @@
 			<string name="desc" value="The Transcendent of Light&apos;s authority over the power of destruction brings about this curse. Your final damage count increases, but you also receive more damage from hits, and you cannot use consumables. You&apos;ll receive a large penalty if you&apos;re afflicted by both the Creative Curse and the Destructive Curse at the same time."/>
 		</imgdir>
 	</imgdir>
+	<imgdir name="261">
+		<imgdir name="0">
+		</imgdir>
+		<imgdir name="1">
+			<string name="name" value="Cruel Brand"/>
+			<string name="desc" value="You&apos;ve been branded by Mitsuhide."/>
+		</imgdir>
+		<imgdir name="2">
+		</imgdir>
+		<imgdir name="3">
+			<string name="name" value="Provoke"/>
+			<string name="desc" value="You&apos;ve been provoked by Mitsuhide! Your attacks against Mitsuhide deal more damage, but your defenses against him are weakened. If you don&apos;t deal enough damage within the time limit, you&apos;ll be overwhelmed by Mitsuhide&apos;s powers."/>
+		</imgdir>
+		<imgdir name="4">
+			<string name="name" value="Overwhelm"/>
+			<string name="desc" value="You&apos;ve been overwhelmed by Mitsuhide&apos;s attacks! Your attacks have been crippled, but you also take less damage. Mitsuhide&apos;s mirror images have descended upon you en masse."/>
+		</imgdir>
+	</imgdir>
+	<imgdir name="123">
+		<imgdir name="112">
+			<string name="name" value="Counterattack"/>
+			<string name="desc" value="You&apos;ve been struck by Mitsuhide&apos;s counterattack! Whenever Mitsuhide is struck with a stun or bind effect, or one of his provoked targets are defeated, your party will be temporarily immobilized by a bolt of lightning, and Mitsuhide grows in strength."/>
+		</imgdir>
+	</imgdir>
 </imgdir>

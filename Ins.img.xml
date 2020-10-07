@@ -3435,7 +3435,7 @@
 	</imgdir>
 	<imgdir name="3018418">
 		<string name="name" value="Pretty Pony Carousel"/>
-		<string name="desc" value="This carousel plays a beautiful melody, providing a chair you can sit on with the Luna pets.\r\n#cYou can command and feed the Petite Luna pets that are sitting with you.#\r\n#cRestores 100 HP and 100 MP every 10 seconds.#"/>
+		<string name="desc" value="This carousel looks like it would play a beautiful melody. It doesn&apos;t, though. You can sit on this alongside the Luna pets.\r\n#cYou can command and feed the Petite Luna pets that are sitting with you.#\r\n#cRestores 100 HP and 100 MP every 10 seconds.#"/>
 	</imgdir>
 	<imgdir name="3018428">
 		<string name="name" value="Giant Teddy Bear Chair"/>
@@ -5421,8 +5421,8 @@ If you feed #cFruit# to the Parrot, it might change color and gain a level. The 
 		<string name="desc" value="A title that&apos;s given to celebrate the Celestial Festival. Grants a powerful yet temporary stat boost.\r\n\r\n#cAttack Power &amp; Magic ATT +10\nAll Stats +30\nMax HP &amp; Max MP + 1,500\r\n\nDouble-click to turn ON/OFF.\nStats Expire: 10/22/2020 23:59 PM UTC"/>
 	</imgdir>
 	<imgdir name="3700582">
-		<string name="name" value="Fast and Furious"/>
-		<string name="desc" value="You took out 100,000 monsters in 2 weeks! How&apos;s THAT for speedy service?\r\n\r\n#cAttack Power &amp; Magic ATT +20 \nAll Stats +50 \nBoss Damage +30% \nDEF Ignored +30% \nMax HP &amp; MP +2500 \r\n\r\nClick to toggle ON/OFF. Stats will be retained until MM/DD/YYYY HH:MM AM/PM UTC.#"/>
+		<string name="name" value="Agile and Agitated"/>
+		<string name="desc" value="You took out 100,000 monsters in 2 weeks! How&apos;s THAT for speedy service?\r\n\r\n#cAttack Power &amp; Magic ATT +20 \nAll Stats +50 \nBoss Damage +30% \nDEF Ignored +30% \nMax HP &amp; MP +2500 \r\n\r\nClick to toggle ON/OFF. Stats will be retained until 12/17/2020 12:00 AM UTC.#"/>
 	</imgdir>
 	<imgdir name="3700598">
 		<string name="name" value="Master Exorcist"/>
@@ -9013,8 +9013,8 @@ If you feed #cFruit# to the Parrot, it might change color and gain a level. The 
 		<string name="desc" value="You will recover 50 HP every 10 seconds. Perhaps, as you recline, you will find the answer to many of life&apos;s questions."/>
 	</imgdir>
 	<imgdir name="3010068">
-		<string name="name" value="Lotus Leaf Chair"/>
-		<string name="desc" value="Sit in the shade of a large lotus leaf! A cute doll hangs off the edge. Recovers 200 HP and MP every 10 seconds."/>
+		<string name="name" value="Greater Teru Bozu Chair"/>
+		<string name="desc" value="Sit in the shade of a large lotus leaf! A cute doll hangs off the edge. #cRestores 200 HP and MP every 10 seconds.#"/>
 	</imgdir>
 	<imgdir name="3010069">
 		<string name="name" value="Yellow Robot Chair"/>
@@ -9747,8 +9747,8 @@ If you feed #cFruit# to the Parrot, it might change color and gain a level. The 
 		<string name="desc" value="Comfy house made with ice. Stay in it to recover HP 20 every 10 seconds."/>
 	</imgdir>
 	<imgdir name="3010336">
-		<string name="name" value="Teru Teru Chair"/>
-		<string name="desc" value="Refreshing place to rest. Recover HP and MP 50 every 10 seconds."/>
+		<string name="name" value="Teru Bozu Chair"/>
+		<string name="desc" value="A refreshing place to rest. #cRestores 50 HP and MP# every 10 seconds."/>
 	</imgdir>
 	<imgdir name="3010337">
 		<string name="name" value="Christmas Box"/>
@@ -11009,7 +11009,7 @@ If you feed #cFruit# to the Parrot, it might change color and gain a level. The 
 		<string name="desc" value="The books! The cardboard stand-up! The pillow! LOTUS IS FINALLY YOURS!! Sit and enjoy your triumph to recover 200 HP and MP every 10 seconds."/>
 	</imgdir>
 	<imgdir name="3015165">
-		<string name="name" value="Lotus Leaf Chair"/>
+		<string name="name" value="Greater Teru Bozu Chair"/>
 		<string name="desc" value="Sit in the shade of a large lotus leaf! A cute doll hangs off the edge. \r\n#cRestores 200 HP and 200 MP every 10 seconds.#"/>
 	</imgdir>
 	<imgdir name="3015166">
@@ -17055,5 +17055,81 @@ Keep it in your Inventory Set-up tab for 30 minutes to receive a Shiny Easter Eg
 	<imgdir name="3018530">
 		<string name="name" value="Super Nanny"/>
 		<string name="desc" value="Restores 100 HP and 100 MP every 10 seconds. Designed by MapleStorySEA player MandyMiko."/>
+	</imgdir>
+	<imgdir name="3700650">
+		<string name="name" value="Brave Warrior of Dawn"/>
+		<string name="desc" value="A title given to the noble hero who led the Sengoku Warriors to victory at Fort Asura.\r\n#cClick to toggle ON/OFF.#\r\n#cWhen equipped, All Stats +15\nMax HP +1000#"/>
+	</imgdir>
+	<imgdir name="3018563">
+		<string name="name" value="Sengoku Royal Guard"/>
+		<string name="desc" value="Stand beside the greatest Sengoku Warriors in defense of Princess Sakuno!\n#cRestores 150 HP and 150 MP every 10 seconds.#"/>
+	</imgdir>
+	<imgdir name="3018565">
+		<string name="name" value="Sengoku Cavalry Captain"/>
+		<string name="desc" value="Become the captain of the Sengoku Cavalry.\n#cRestores 150 HP and 150 MP every 10 seconds.#"/>
+	</imgdir>
+	<imgdir name="3018566">
+		<string name="name" value="Takeda Clan Cavalry"/>
+		<string name="desc" value="Become a dignified member of the Sengoku Cavalry.\n#cRestores 100 HP and 100 MP every 10 seconds.#"/>
+	</imgdir>
+	<imgdir name="3018567">
+		<string name="name" value="Uesugi Clan Cavalry"/>
+		<string name="desc" value="Become a dignified member of the Sengoku Cavalry.\n#cRestores 100 HP and 100 MP every 10 seconds.#"/>
+	</imgdir>
+	<imgdir name="3018568">
+		<string name="name" value="Motonari Clan Cavalry"/>
+		<string name="desc" value="Become a dignified member of the Sengoku Cavalry.\n#cRestores 100 HP and 100 MP every 10 seconds.#"/>
+	</imgdir>
+	<imgdir name="3016224">
+		<string name="name" value="Perfect Day for Laundry Chair"/>
+		<string name="desc" value="A breeze flows through the clear blue sky. A perfect day for clothes to dry. Recovers 100 HP and 100 MP every 10 seconds."/>
+	</imgdir>
+	<imgdir name="3018540">
+		<string name="name" value="Fluffy Bichon"/>
+		<string name="desc" value="You could spend all day cuddling this soft, adorable Bichon. \r\n#cRestores 100 HP and 50 MP every 10 seconds.#"/>
+	</imgdir>
+	<imgdir name="3018611">
+		<string name="name" value="Sunshine-Filled Fox House"/>
+		<string name="desc" value="Represents a place where all friends of the forest can gather and be happy together.\n#cRestores 50 HP and 50 MP every 10 seconds.#"/>
+	</imgdir>
+	<imgdir name="3018612">
+		<string name="name" value="Emerald Glass Chair"/>
+		<string name="desc" value="Both a place of rest and a work of art.\n#cRestores 50 HP and 50 MP every 10 seconds.#"/>
+	</imgdir>
+	<imgdir name="3018585">
+		<string name="name" value="Pink Muhly Chair"/>
+		<string name="desc" value="A Pink Muhly chair. #cRestores 100 HP and 100 MP every 10 seconds.#"/>
+	</imgdir>
+	<imgdir name="3018586">
+		<string name="name" value="Meditative Chair"/>
+		<string name="desc" value="A chair to chase away your restless thoughts. #cRestores 100 HP and 100 MP every 10 seconds.#"/>
+	</imgdir>
+	<imgdir name="3018587">
+		<string name="name" value="MapleStory March Chair"/>
+		<string name="desc" value="A MapleStory March chair. #cRestores 100 HP and 100 MP every 10 seconds.#"/>
+	</imgdir>
+	<imgdir name="3018588">
+		<string name="name" value="Inside the Cotton Candy Chair"/>
+		<string name="desc" value="This chair gives you the feeling of being wrapped up in sweets. #cRestores 100 HP and 100 MP every 10 seconds.#"/>
+	</imgdir>
+	<imgdir name="3996201">
+		<string name="name" value="Frozen Awakening Coin"/>
+		<string name="desc" value="So Gong has entrusted you with this coin. Keep it in your inventory for 30 minutes, and once the ice completely melts, return it to him."/>
+	</imgdir>
+	<imgdir name="3996202">
+		<string name="name" value="Awakening Coin"/>
+		<string name="desc" value="An Awakening Coin you&apos;ve earned, now with all the ice around it melted. Find So Gong and return it to him."/>
+	</imgdir>
+	<imgdir name="3018592">
+		<string name="name" value="Romantic Autumn Chair"/>
+		<string name="desc" value="You&apos;re on a bench in the park, on a cool, crisp autumn day. Feeling romantic yet?\n#cRestores 100 HP and 100 MP every 10 seconds.#"/>
+	</imgdir>
+	<imgdir name="3018593">
+		<string name="name" value="Halloween Night Chair"/>
+		<string name="desc" value="Why trick-or-treat when you can go soaring through the black Halloween night?\n#cRestores 100 HP and 100 MP every 10 seconds.# \nDesigned by the China MapleStory player wuchang."/>
+	</imgdir>
+	<imgdir name="3018594">
+		<string name="name" value="Hallowkitty&apos;s Magic Cauldron Chair"/>
+		<string name="desc" value="Hallowkitty&apos;s magic class! Hold on... Why do I have to be tied up like this?\n#cRestores 100 HP and 100 MP every 10 seconds.#"/>
 	</imgdir>
 </imgdir>

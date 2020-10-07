@@ -5450,7 +5450,7 @@
 		</imgdir>
 	</imgdir>
 	<imgdir name="5130107">
-		<string name="episode" value=" Lv. :  57\nForm : Immortal\nSpecial Trait : Resistant to Poison Attribute Attacks. Vulnerable to Sanctity Attribute Attacks.\n\nUndead monsters that can be found in the Forest of Dead Trees in El Nath. When Riche&apos;s tomb formed the Forest of Dead Trees, the trees in the forest bewitched lifeless beings, turning them into zombies. Because the Coolie Zombies became zombies to protect the forest against their will, they possess nothing but hostility and hatred towards humans. These monsters, who walk with a severe limp, are the followers of Riche and are extremely dangerous as they orally emit potent poison. "/>
+		<string name="episode" value=" Lv. :  57\nForm : Immortal\nSpecial Trait : Resistant to Poison Attribute Attacks. Vulnerable to Sanctity Attribute Attacks.\n\nUndead monsters that can be found in the Forest of Dead Trees in El Nath. When Riche&apos;s tomb formed the Forest of Dead Trees, the trees in the forest bewitched lifeless beings, turning them into zombies. Because the Coolie Zombies became zombies to protect the forest against their will, they possess nothing but hostility and hatred towards humans. These monsters, who walk with a severe limp, are the followers of Riche and are extremely dangerous as they orally emit potent poison."/>
 		<imgdir name="map">
 			<int name="0" value="211041100"/>
 			<int name="1" value="211041200"/>

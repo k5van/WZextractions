@@ -8799,7 +8799,7 @@ ATT, MATT + 100"/>
 	</imgdir>
 	<imgdir name="5222063">
 		<string name="name" value="Mark of Honor Hat Box"/>
-		<string name="desc" value="Grants one random helm from the commanders of the Japanese armies. Double-click to open it in your Cash tab after purchase."/>
+		<string name="desc" value="Grants one random helm from the commanders of the Sengoku armies. Double-click to open it in your Cash tab after purchase."/>
 	</imgdir>
 	<imgdir name="5222064">
 		<string name="name" value="Halloween Surprise Style Box"/>
@@ -9579,7 +9579,7 @@ ATT, MATT + 100"/>
 	</imgdir>
 	<imgdir name="5530146">
 		<string name="name" value="EXP Booster (4hr)"/>
-		<string name="desc" value="#cDouble-click# this item to get #bEXP Present Box x1#k, which grants your character 150% EXP for 4 hours. This effect stacks with EXP events and some EXP buff skills."/>
+		<string name="desc" value="#cDouble-click# this item to get #cEXP Present Box x1#, which grants your character 150% EXP for 4 hours. This effect stacks with EXP events and some EXP buff skills.\n\n#c* Cannot be applied to characters above Lv. 200\nCannot be stacked with another cash item that has the same effect.#"/>
 	</imgdir>
 	<imgdir name="5530147">
 		<string name="name" value="EXP Booster 11pack (4hr)"/>
@@ -12064,7 +12064,7 @@ ATT, MATT + 100"/>
 	</imgdir>
 	<imgdir name="5160041">
 		<string name="name" value="Utter Embarrassment"/>
-		<string name="desc" value="Double-click the icon or assign to a desired key in the key settings and press the corresponding key to see your character&apos;s face reflect utter and complete embarassment. Designed by the Global MapleStory player Eggy."/>
+		<string name="desc" value="Double-click the icon or assign to a desired key in the key settings and press the corresponding key to see your character&apos;s face reflect utter and complete embarassment. Designed by the Global MapleStory player Jiheo."/>
 	</imgdir>
 	<imgdir name="5010184">
 		<string name="name" value="Scion Effect"/>
@@ -12200,5 +12200,17 @@ ATT, MATT + 100"/>
 	<imgdir name="5680848">
 		<string name="name" value="50 Million Mesos"/>
 		<string name="desc" value="#cDouble-click# this coin to receive #c50 million# mesos!"/>
+	</imgdir>
+	<imgdir name="5240209">
+		<string name="name" value="Poppet Trick or Treat Candy"/>
+		<string name="desc" value="A #cPoppet&apos;s# favorite treat. Recovers Fullness completely and #cincreases Closeness by 100.#"/>
+	</imgdir>
+	<imgdir name="5240208">
+		<string name="name" value="Nutritious Worm"/>
+		<string name="desc" value="#cRound Owl# pets love these nutritious, wiggly worms! They recover Fullness completely and #cincrease Closeness by 100.#"/>
+	</imgdir>
+	<imgdir name="5533140">
+		<string name="name" value="The Asura Crisis Hat Box"/>
+		<string name="desc" value="#cDouble-click# to earn a #crandom# Asura Crisis-themed hat."/>
 	</imgdir>
 </imgdir>

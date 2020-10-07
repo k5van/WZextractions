@@ -3367,15 +3367,15 @@
 		</imgdir>
 		<imgdir name="211041100">
 			<imgdir name="1">
-				<string name="Title" value="Dead Tree&apos;s Forest II"/>
+				<string name="Title" value="Forest of Dead Trees II"/>
 			</imgdir>
 		</imgdir>
 		<imgdir name="211041200">
 			<imgdir name="1">
-				<string name="Title" value="Dead tree;s forest I"/>
+				<string name="Title" value="Forest of Dead Trees I"/>
 			</imgdir>
 			<imgdir name="2">
-				<string name="Title" value="Dead tree;s forest III"/>
+				<string name="Title" value="Forest of Dead Trees III"/>
 			</imgdir>
 		</imgdir>
 		<imgdir name="211040600">

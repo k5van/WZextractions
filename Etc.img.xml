@@ -28664,10 +28664,6 @@ Looking at this fills you with hope. It&apos;s terribly fragile, so handle with 
 			<string name="name" value="Maple Tour Coin"/>
 			<string name="desc" value="A Maple Tour Coin. You can use it to purchase some of the prized possessions Lulu Spinel has collected from her various film shoots."/>
 		</imgdir>
-		<imgdir name="4001903">
-			<string name="name" value="Maple Tour VIP Pass"/>
-			<string name="desc" value="A pass that lets you borrow access the studio to film for Maple Tour."/>
-		</imgdir>
 		<imgdir name="4310288">
 			<string name="name" value="Gollux Coin"/>
 			<string name="desc" value="A coin from Gollux."/>
@@ -28675,6 +28671,14 @@ Looking at this fills you with hope. It&apos;s terribly fragile, so handle with 
 		<imgdir name="4310289">
 			<string name="name" value="Gollux Penny"/>
 			<string name="desc" value="A coin from Gollux."/>
+		</imgdir>
+		<imgdir name="4310295">
+			<string name="name" value="Mark of the Silver Wolf"/>
+			<string name="desc" value="A mark in the shape of the Silver Wolf. Can be exchanged for a Silver Wolf Weapon."/>
+		</imgdir>
+		<imgdir name="4036673">
+			<string name="name" value="Sengoku Ki"/>
+			<string name="desc" value="#cSengoku Ki# obtained by completing Sengoku Scroll objectives. Take it to #cMouri Motonari# to use in#c increasing the level of the Dawn&apos;s Bloom skill#."/>
 		</imgdir>
 	</imgdir>
 </imgdir>
