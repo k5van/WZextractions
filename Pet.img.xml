@@ -1680,6 +1680,36 @@
 		<string name="desc" value="#cLil Boo# is cute and squishy."/>
 		<string name="descD" value="Lil Boo has turned into a doll. You can revive it with the Water of Life."/>
 	</imgdir>
+	<imgdir name="5002179">
+		<string name="name" value="Snail"/>
+		<string name="desc" value="An enigmatic snail. Once the magic duration ends, the snail will permanently and irreversibly turn into a doll."/>
+		<string name="descD" value="It was a cute snail, but it turned into a doll after its magic duration expired. You cannot revive it in any way. Double-click to find out how to get a new pet."/>
+	</imgdir>
+	<imgdir name="5002186">
+		<string name="name" value="Cherry Chick"/>
+		<string name="desc" value="The cute and lively #cCherry Chick#."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002187">
+		<string name="name" value="Blue Chick"/>
+		<string name="desc" value="The always-calm #cBlue Chick#."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002188">
+		<string name="name" value="Choke Chick"/>
+		<string name="desc" value="The mischievous #cChoke Chick#."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002189">
+		<string name="name" value="Dalsoo"/>
+		<string name="desc" value="The adorable otter #cDalsoo#."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002190">
+		<string name="name" value="Balloon Dog"/>
+		<string name="desc" value="#cBalloon Dog# is a puppy made out of balloons."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
 	<imgdir name="5000025">
 		<string name="name" value="Golden Pig"/>
 		<string name="desc" value="This designed Golden Pig will definately bring you a Good Luck!"/>
@@ -4655,11 +4685,6 @@
 		<string name="desc" value="A Sad Erda pet."/>
 		<string name="descd" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
 	</imgdir>
-	<imgdir name="5002146">
-		<string name="name" value="Sonara Wave"/>
-		<string name="desc" value="It&apos;s #cSonara Wave#, lover of music."/>
-		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
-	</imgdir>
 	<imgdir name="5002191">
 		<string name="name" value="Blue Poppet"/>
 		<string name="desc" value="A delightful blue companion."/>
@@ -4673,6 +4698,26 @@
 	<imgdir name="5002193">
 		<string name="name" value="Peach Poppet"/>
 		<string name="desc" value="A delightful peach-colored companion."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002183">
+		<string name="name" value="White Owl"/>
+		<string name="desc" value="A majestic snowy owl."/>
+		<string name="descd" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002184">
+		<string name="name" value="Sandy Owl"/>
+		<string name="desc" value="An owl with feathers like a shifting desert dune."/>
+		<string name="descd" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002185">
+		<string name="name" value="Brown Owl"/>
+		<string name="desc" value="An earth-toned bird of prey."/>
+		<string name="descd" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002146">
+		<string name="name" value="Sonara Wave"/>
+		<string name="desc" value="It&apos;s #cSonara Wave#, lover of music."/>
 		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
 	</imgdir>
 	<imgdir name="5002161">
@@ -4700,24 +4745,39 @@
 		<string name="desc" value="Three octopuses! Call them the #cOctopiii!# They&apos;re like little sea oranges!"/>
 		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
 	</imgdir>
-	<imgdir name="5002183">
-		<string name="name" value="White Owl"/>
-		<string name="desc" value="A majestic snowy owl."/>
-		<string name="descd" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
-	</imgdir>
-	<imgdir name="5002184">
-		<string name="name" value="Sandy Owl"/>
-		<string name="desc" value="An owl with feathers like a shifting desert dune."/>
-		<string name="descd" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
-	</imgdir>
-	<imgdir name="5002185">
-		<string name="name" value="Brown Owl"/>
-		<string name="desc" value="An earth-toned bird of prey."/>
-		<string name="descd" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
-	</imgdir>
 	<imgdir name="5002169">
 		<string name="name" value="So Gong"/>
 		<string name="desc" value="It&apos;s Mu Gong&apos;s student, #cSo Gong.#"/>
 		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002205">
+		<string name="name" value="White Birdie"/>
+		<string name="desc" value="A #cWhite Birdie# with white feathers."/>
+		<string name="descd" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002206">
+		<string name="name" value="Amber Birdie"/>
+		<string name="desc" value="An #cAmber Birdie# with yellow feathers."/>
+		<string name="descd" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002207">
+		<string name="name" value="Polka-Birdie"/>
+		<string name="desc" value="A #cPolka-Birdie# with spotted feathers."/>
+		<string name="descd" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002208">
+		<string name="name" value="White Owl"/>
+		<string name="desc" value="A majestic snowy owl."/>
+		<string name="descd" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002209">
+		<string name="name" value="Sandy Owl"/>
+		<string name="desc" value="An owl with feathers like a shifting desert dune."/>
+		<string name="descd" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002210">
+		<string name="name" value="Brown Owl"/>
+		<string name="desc" value="An earth-toned bird of prey."/>
+		<string name="descd" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
 	</imgdir>
 </imgdir>

@@ -4709,19 +4709,19 @@
 		</imgdir>
 		<imgdir name="4004000">
 			<string name="name" value="Power Crystal Ore"/>
-			<string name="desc" value="Crystal ore that radiates power. It can be refined to obtain rare magic powder (red)."/>
+			<string name="desc" value="Crystal ore that radiates power. It can be refined to obtain rare red magic powder."/>
 		</imgdir>
 		<imgdir name="4004001">
 			<string name="name" value="Wisdom Crystal Ore"/>
-			<string name="desc" value="Crystal ore that radiates wisdom. It can be refined to obtain rare magic powder (purple)."/>
+			<string name="desc" value="Crystal ore that radiates wisdom. It can be refined to obtain rare purple magic powder."/>
 		</imgdir>
 		<imgdir name="4004002">
 			<string name="name" value="DEX Crystal Ore"/>
-			<string name="desc" value="Crystal ore that radiates dexterity. It can be refined to obtain rare magic powder (green)."/>
+			<string name="desc" value="Crystal ore that radiates dexterity. It can be refined to obtain rare green magic powder."/>
 		</imgdir>
 		<imgdir name="4004003">
 			<string name="name" value="LUK Crystal Ore"/>
-			<string name="desc" value="Crystal ore that radiates luck. It can be refined to obtain rare magic powder (purple)."/>
+			<string name="desc" value="Crystal ore that radiates luck. It can be refined to obtain rare purple magic powder."/>
 		</imgdir>
 		<imgdir name="4004004">
 			<string name="name" value="Dark Crystal Ore"/>
@@ -5481,7 +5481,7 @@
 		</imgdir>
 		<imgdir name="4009236">
 			<string name="name" value="Orange Slime Liquid"/>
-			<string name="desc" value="A substance from an Orange Ancient Slime. Gather 10 of this stuff and drop them on the Burning Altar to summon an Orange Ancient Slime."/>
+			<string name="desc" value="A substance from an Orange Ancient Slime. To summon an Orange Ancient Slime, gather 10 of these and drop them on the Burning Altar."/>
 		</imgdir>
 		<imgdir name="4009237">
 			<string name="name" value="Ancient Blue Turtle Egg"/>
@@ -5673,19 +5673,19 @@
 		</imgdir>
 		<imgdir name="4010000">
 			<string name="name" value="Bronze Ore"/>
-			<string name="desc" value="Light, weak bronze ore. It can be refined to obtain rare magic powder (brown)."/>
+			<string name="desc" value="Light, weak bronze ore. It can be refined to obtain rare brown magic powder."/>
 		</imgdir>
 		<imgdir name="4010001">
 			<string name="name" value="Steel Ore"/>
-			<string name="desc" value="Tough steel ore. It can be refined to obtain rare magic powder (blue)."/>
+			<string name="desc" value="Tough steel ore. It can be refined to obtain rare blue magic powder."/>
 		</imgdir>
 		<imgdir name="4010002">
 			<string name="name" value="Mithril Ore"/>
-			<string name="desc" value="Light, solid mithril ore. It can be refined to obtain rare magic powder (green)."/>
+			<string name="desc" value="Light, solid mithril ore. It can be refined to obtain rare green magic powder."/>
 		</imgdir>
 		<imgdir name="4010003">
 			<string name="name" value="Adamantium Ore"/>
-			<string name="desc" value="Heavy, strong adamantium ore. It can be refined to obtain rare magic powder (brown)."/>
+			<string name="desc" value="Heavy, strong adamantium ore. It can be refined to obtain rare brown magic powder."/>
 		</imgdir>
 		<imgdir name="4010004">
 			<string name="name" value="Silver Ore"/>
@@ -5697,11 +5697,11 @@
 		</imgdir>
 		<imgdir name="4010006">
 			<string name="name" value="Gold Ore"/>
-			<string name="desc" value="Rare gold ore. It can be refined to obtain rare magic powder (yellow)."/>
+			<string name="desc" value="Rare gold ore. It can be refined to obtain rare yellow magic powder."/>
 		</imgdir>
 		<imgdir name="4010007">
 			<string name="name" value="Lidium Ore"/>
-			<string name="desc" value="Lidium Ore that is formed under the sand. It can be refined to obtain rare magic powder (purple)."/>
+			<string name="desc" value="Lidium ore that forms under the sand. It can be refined to obtain rare purple magic powder."/>
 		</imgdir>
 		<imgdir name="4010008">
 			<string name="name" value="Faded Silver Ore"/>
@@ -5753,7 +5753,7 @@
 		</imgdir>
 		<imgdir name="4020000">
 			<string name="name" value="Garnet Ore"/>
-			<string name="desc" value="Red jewel ore. It can be refined to obtain rare magic powder (red)."/>
+			<string name="desc" value="Red gem ore. It can be refined to obtain rare red magic powder."/>
 		</imgdir>
 		<imgdir name="4020001">
 			<string name="name" value="Amethyst Ore"/>
@@ -5761,11 +5761,11 @@
 		</imgdir>
 		<imgdir name="4020002">
 			<string name="name" value="AquaMarine Ore"/>
-			<string name="desc" value="Blue jewel ore. It can be refined to obtain rare magic powder (white)."/>
+			<string name="desc" value="Blue gem ore. It can be refined to obtain rare white magic powder."/>
 		</imgdir>
 		<imgdir name="4020003">
 			<string name="name" value="Emerald Ore"/>
-			<string name="desc" value="Green jewel ore. It can be refined to obtain rare magic powder (green)."/>
+			<string name="desc" value="Green gem ore. It can be refined to obtain rare green magic powder."/>
 		</imgdir>
 		<imgdir name="4020004">
 			<string name="name" value="Opal Ore"/>
@@ -5773,19 +5773,19 @@
 		</imgdir>
 		<imgdir name="4020005">
 			<string name="name" value="Sapphire Ore"/>
-			<string name="desc" value="Blue, transparent jewel ore. It can be refined to obtain rare magic powder (blue)."/>
+			<string name="desc" value="Blue, translucent gem ore. It can be refined to obtain rare blue magic powder."/>
 		</imgdir>
 		<imgdir name="4020006">
 			<string name="name" value="Topaz Ore"/>
-			<string name="desc" value="Yellow jewel ore. It can be refined to obtain rare magic powder (yellow)."/>
+			<string name="desc" value="Yellow gem ore. It can be refined to obtain rare yellow magic powder."/>
 		</imgdir>
 		<imgdir name="4020007">
 			<string name="name" value="Diamond Ore"/>
-			<string name="desc" value="Transparent jewel ore. It can be refined to obtain rare magic powder (white)."/>
+			<string name="desc" value="Transparent gem ore. It can be refined to obtain rare white magic powder."/>
 		</imgdir>
 		<imgdir name="4020008">
 			<string name="name" value="Black Crystal Ore"/>
-			<string name="desc" value="An ore of a crystal that contains dark power. It can be refined to obtain rare magic powder (black)."/>
+			<string name="desc" value="Ore of a crystal that contains dark power. It can be refined to obtain rare black magic powder."/>
 		</imgdir>
 		<imgdir name="4020009">
 			<string name="name" value="Piece of Time"/>
@@ -5875,7 +5875,7 @@
 		</imgdir>
 		<imgdir name="4021022">
 			<string name="name" value="Primal Essence"/>
-			<string name="desc" value="They say this stone dates back to the very formation of the world. Then again, they say lots of things. Occasionally found from Heartstones, Gold Flowers, Mysterious Ore Veins, Mysterious Legendary Ore Veins, Mysterious Herbs, and Mysterious Legendary Herbs."/>
+			<string name="desc" value="They say this stone dates back to the very formation of the world. Then again, they say a lot of things. Occasionally found from Heartstones, Gold Flowers, Mysterious Ore Veins, Mysterious Legendary Ore Veins, Mysterious Herbs, and Mysterious Legendary Herbs."/>
 		</imgdir>
 		<imgdir name="4021031">
 			<string name="name" value="Twisted Time"/>
@@ -5951,75 +5951,75 @@
 		</imgdir>
 		<imgdir name="4022004">
 			<string name="name" value="Rosemary Seed"/>
-			<string name="desc" value="A rosemary seed. It can be refined to obtain rare magic powder (blue)."/>
+			<string name="desc" value="A rosemary seed. It can be refined to obtain rare blue magic powder."/>
 		</imgdir>
 		<imgdir name="4022005">
 			<string name="name" value="Rosemary Flower"/>
-			<string name="desc" value="A rosemary flower. It can be refined to obtain rare magic powder (blue)."/>
+			<string name="desc" value="A rosemary flower. It can be refined to obtain rare blue magic powder."/>
 		</imgdir>
 		<imgdir name="4022006">
 			<string name="name" value="Mandarin Seed"/>
-			<string name="desc" value="A mandarin seed. It can be refined to obtain rare magic powder (brown)."/>
+			<string name="desc" value="A mandarin seed. It can be refined to obtain rare brown magic powder."/>
 		</imgdir>
 		<imgdir name="4022007">
 			<string name="name" value="Mandarin Flower"/>
-			<string name="desc" value="A mandarin flower. It can be refined to obtain rare magic powder (brown)."/>
+			<string name="desc" value="A mandarin flower. It can be refined to obtain rare brown magic powder."/>
 		</imgdir>
 		<imgdir name="4022008">
 			<string name="name" value="Lemon Balm Seed"/>
-			<string name="desc" value="A lemon balm seed. It can be refined to obtain rare magic powder (green)."/>
+			<string name="desc" value="A lemon balm seed. It can be refined to obtain rare green magic powder."/>
 		</imgdir>
 		<imgdir name="4022009">
 			<string name="name" value="Lemon Balm Flower"/>
-			<string name="desc" value="A lemon balm flower. It can be refined to obtain rare magic powder (green)."/>
+			<string name="desc" value="A lemon balm flower. It can be refined to obtain rare green magic powder."/>
 		</imgdir>
 		<imgdir name="4022010">
 			<string name="name" value="Peppermint Flower"/>
-			<string name="desc" value="A very rare peppermint flower. It can be refined to obtain rare magic powder (green)."/>
+			<string name="desc" value="A very rare peppermint flower. It can be refined to obtain rare green magic powder."/>
 		</imgdir>
 		<imgdir name="4022011">
 			<string name="name" value="Jasmine Seed"/>
-			<string name="desc" value="A jasmine seed. It can be refined to obtain rare magic powder (yellow)."/>
+			<string name="desc" value="A jasmine seed. It can be refined to obtain rare yellow magic powder."/>
 		</imgdir>
 		<imgdir name="4022012">
 			<string name="name" value="Jasmine Flower"/>
-			<string name="desc" value="A jasmine flower. It can be refined to obtain rare magic powder (yellow)."/>
+			<string name="desc" value="A jasmine flower. It can be refined to obtain rare yellow magic powder."/>
 		</imgdir>
 		<imgdir name="4022013">
 			<string name="name" value="Tea Tree Seed"/>
-			<string name="desc" value="A tea tree seed. It can be refined to obtain rare magic powder (white)."/>
+			<string name="desc" value="A tea tree seed. It can be refined to obtain rare white magic powder."/>
 		</imgdir>
 		<imgdir name="4022014">
 			<string name="name" value="Tea Tree Flower"/>
-			<string name="desc" value="A tea tree flower. It can be refined to obtain rare magic powder (white)."/>
+			<string name="desc" value="A tea tree flower. It can be refined to obtain rare white magic powder."/>
 		</imgdir>
 		<imgdir name="4022015">
 			<string name="name" value="Chamomile Seed"/>
-			<string name="desc" value="A chamomile seed. It can be refined to obtain rare magic powder (red)."/>
+			<string name="desc" value="A chamomile seed. It can be refined to obtain rare red magic powder."/>
 		</imgdir>
 		<imgdir name="4022016">
 			<string name="name" value="Chamomile Flower"/>
-			<string name="desc" value="A chamomile flower. It can be refined to obtain rare magic powder (red)."/>
+			<string name="desc" value="A chamomile flower. It can be refined to obtain rare red magic powder."/>
 		</imgdir>
 		<imgdir name="4022017">
 			<string name="name" value="Patchouli Seed"/>
-			<string name="desc" value="A patchouli seed. It can be refined to obtain rare magic powder (black)."/>
+			<string name="desc" value="A patchouli seed. It can be refined to obtain rare black magic powder."/>
 		</imgdir>
 		<imgdir name="4022018">
 			<string name="name" value="Patchouli Flower"/>
-			<string name="desc" value="A patchouli flower. It can be refined to obtain rare magic powder (black)."/>
+			<string name="desc" value="A patchouli flower. It can be refined to obtain rare black magic powder."/>
 		</imgdir>
 		<imgdir name="4022019">
 			<string name="name" value="Juniper Berry Seed"/>
-			<string name="desc" value="A juniper berry seed. It can be refined to obtain rare magic powder (purple)."/>
+			<string name="desc" value="A juniper berry seed. It can be refined to obtain rare purple magic powder."/>
 		</imgdir>
 		<imgdir name="4022020">
 			<string name="name" value="Juniper Berry Flower"/>
-			<string name="desc" value="A juniper berry flower. It can be refined to obtain rare magic powder (purple)."/>
+			<string name="desc" value="A juniper berry flower. It can be refined to obtain rare magic powder."/>
 		</imgdir>
 		<imgdir name="4022021">
 			<string name="name" value="Hyssop Flower"/>
-			<string name="desc" value="A very rare hyssop flower. It can be refined to obtain rare magic powder (purple)."/>
+			<string name="desc" value="A very rare hyssop flower. It can be refined to obtain rare magic powder."/>
 		</imgdir>
 		<imgdir name="4022022">
 			<string name="name" value="Clary Sage"/>
@@ -17678,7 +17678,7 @@
 		</imgdir>
 		<imgdir name="4310010">
 			<string name="name" value="Royal Lion King Medal"/>
-			<string name="desc" value="A medal containing Lion King&apos;s special power. It shines with a bright gold glow, as it has been purified completely."/>
+			<string name="desc" value="This purified golden medal contains Lion King&apos;s special power. Murt, in the Second Tower of Lion King&apos;s Castle, will accept it in exchange for Royal Von Leon equipment."/>
 		</imgdir>
 		<imgdir name="4310014">
 			<string name="name" value="Snowdrop Coin"/>
@@ -17726,7 +17726,7 @@
 		</imgdir>
 		<imgdir name="4310029">
 			<string name="name" value="Crusader Coins"/>
-			<string name="desc" value="A special coin used to buy Silent Crusade items."/>
+			<string name="desc" value="A special coin used to buy Silent Crusade items from Wence at the Silent Crusade Safe House. They also work as currency within the shop tab in the Silent Crusade UI."/>
 		</imgdir>
 		<imgdir name="4310030">
 			<string name="name" value="Homecoming Coin"/>
@@ -17754,11 +17754,11 @@
 		</imgdir>
 		<imgdir name="4310058">
 			<string name="name" value="Magnus Coin"/>
-			<string name="desc" value="A coin that you obtained for defeating Magnus. Talk to Shadowdealer Mayal to trade it in."/>
+			<string name="desc" value="A coin that you obtained for defeating Magnus. Talk to Mayala at Downtown Black Market to trade it in."/>
 		</imgdir>
 		<imgdir name="4310059">
 			<string name="name" value="Shadowdealer Coin"/>
-			<string name="desc" value="A secret coin obtained for helping the Shadowdealers. Talk to Shadowdealer Mayal to trade it in."/>
+			<string name="desc" value="A secret coin obtained for helping the Shadowdealers. Talk to Mayala at Downtown Black Market to trade it in."/>
 		</imgdir>
 		<imgdir name="4310060">
 			<string name="name" value="Evolving Coin"/>
@@ -17774,11 +17774,11 @@
 		</imgdir>
 		<imgdir name="4310064">
 			<string name="name" value="Yggdrasil Rune"/>
-			<string name="desc" value="An ancient stone engraved with Yggdrasil&apos;s rune. Take it to the merchant in the Root Abyss to trade for a Sealed Box."/>
+			<string name="desc" value="An ancient stone engraved with Yggdrasil&apos;s rune. Trade it to the merchant at Colossal Root in the Root Abyss for a Sealed Box."/>
 		</imgdir>
 		<imgdir name="4310065">
 			<string name="name" value="Chaos Yggdrasil Rune"/>
-			<string name="desc" value="An ancient stone engraved with Chaos Yggdrasil&apos;s rune. Take it to the merchant in the Root Abyss to trade for a Sealed Box."/>
+			<string name="desc" value="An ancient stone engraved with Chaos Yggdrasil&apos;s rune. Trade it to the merchant at Colossal Root in the Root Abyss for a Sealed Box."/>
 		</imgdir>
 		<imgdir name="4310066">
 			<string name="name" value="Unleashed Coins"/>
@@ -17810,7 +17810,7 @@
 		</imgdir>
 		<imgdir name="4310085">
 			<string name="name" value="Time Coin"/>
-			<string name="desc" value="A coin imbued with the power of time."/>
+			<string name="desc" value="A coin imbued with the power of time. Zero, from Cello in Zero&apos;s Temple, will accept it in exchange for supplies."/>
 		</imgdir>
 		<imgdir name="4310086">
 			<string name="name" value="Job Advancement Coin"/>
@@ -17822,11 +17822,11 @@
 		</imgdir>
 		<imgdir name="4310091">
 			<string name="name" value="Anheim Coin"/>
-			<string name="desc" value="A coin minted by the Anheim Magic School. Anheim Coins can be exchanged for anti-magic and other useful items."/>
+			<string name="desc" value="A coin minted by the Anheim Magic School. Keilbarren, in Kritias Marketplace, accepts these coins in exchange for anti-magic and other useful items."/>
 		</imgdir>
 		<imgdir name="4310092">
 			<string name="name" value="Kritias Commemorative Coin"/>
-			<string name="desc" value="A coin minted by the Kritias Government. It has a very high value."/>
+			<string name="desc" value="A very valuable coin minted by the Kritias Government. Keilbarren, in Kritias Marketplace, accepts these coins in exchange for special items."/>
 		</imgdir>
 		<imgdir name="4310095">
 			<string name="name" value="Silver Farm Coin"/>
@@ -17878,7 +17878,7 @@
 		</imgdir>
 		<imgdir name="4310156">
 			<string name="name" value="AbsoLab Coin"/>
-			<string name="desc" value="Exchange these coins for official AbsoLab equipment."/>
+			<string name="desc" value="Three-Hands, in Haven, accepts these coins in exchange for official AbsoLab equipment."/>
 		</imgdir>
 		<imgdir name="4310163">
 			<string name="name" value="11th Anniversary Coin"/>
@@ -17946,7 +17946,7 @@
 		</imgdir>
 		<imgdir name="4310218">
 			<string name="name" value="Phantasma Coin"/>
-			<string name="desc" value="Exchange these Phantasma coins for official Arcane Umbra equipment."/>
+			<string name="desc" value="Dimo, on Lachelein Main Street, accepts these coins in exchange for official Arcane Umbra equipment."/>
 		</imgdir>
 		<imgdir name="4310221">
 			<string name="name" value="Persimmon Coin"/>
@@ -17990,7 +17990,7 @@
 		</imgdir>
 		<imgdir name="4310249">
 			<string name="name" value="Arachno Coin"/>
-			<string name="desc" value="Exchange these Arachno Coins for official Arcane Umbra equipment."/>
+			<string name="desc" value="Dimo, at the Base Camp in Esfera, accepts these coins in exchange for official Arcane Umbra equipment."/>
 		</imgdir>
 		<imgdir name="4310253">
 			<string name="name" value="14th Street Coin"/>
@@ -18027,6 +18027,10 @@
 		<imgdir name="4310276">
 			<string name="name" value="Full Moon Buckwheat Jelly"/>
 			<string name="desc" value="Buckwheat jelly you received as a gift for collecting many Goblin Coins. A favorite of the goblins, and can be exchanged for a variety of items at Sweepy&apos;s General Store."/>
+		</imgdir>
+		<imgdir name="4310283">
+			<string name="name" value="Salon Stamp"/>
+			<string name="desc" value="Can be exchanged for various items at the Salon Stamp Shop in Rise Salon."/>
 		</imgdir>
 		<imgdir name="4320000">
 			<string name="name" value="Damage Meter"/>
@@ -18325,7 +18329,7 @@
 			<string name="desc" value="Grant&apos;s superior Strength-based abilities to Jewel Crafting Equipment. "/>
 		</imgdir>
 		<imgdir name="4440001">
-			<string name="name" value="Strong Jewel S"/>
+			<string name="name" value="Mighty Jewel S"/>
 			<string name="desc" value="Grant&apos;s superior Strength-based abilities to Jewel Crafting Equipment. "/>
 		</imgdir>
 		<imgdir name="4440100">
@@ -18560,10 +18564,6 @@
 			<string name="name" value="Shiny Dream Fragment"/>
 			<string name="desc" value="A fragment filled with dreams."/>
 		</imgdir>
-		<imgdir name="4310283">
-			<string name="name" value="Salon Stamp"/>
-			<string name="desc" value="Can be exchanged for various items at the Salon Stamp Shop in Rise Salon."/>
-		</imgdir>
 		<imgdir name="4036631">
 			<string name="name" value="Blue Rat Meat"/>
 			<string name="desc" value="It doesn&apos;t look very tasty..."/>
@@ -18597,7 +18597,7 @@
 			<string name="desc" value="It may be old, but it still works."/>
 		</imgdir>
 		<imgdir name="4036639">
-			<string name="name" value="Christmas Tree Ornament"/>
+			<string name="name" value="Maplemas Tree Ornament"/>
 			<string name="desc" value="A Christmas ornament."/>
 		</imgdir>
 		<imgdir name="4036641">
@@ -18619,6 +18619,26 @@
 		<imgdir name="4036659">
 			<string name="name" value="Small Ember"/>
 			<string name="desc" value="A weak ember that might go out at any moment."/>
+		</imgdir>
+		<imgdir name="4110007">
+			<string name="name" value="Fantastic Fabric"/>
+			<string name="desc" value="A fantastic fabric that can be used as a material when synthesizing Masterpiece items.  \r\nThe fabric located on the very top of your Etc tab will be used first."/>
+		</imgdir>
+		<imgdir name="4310291">
+			<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		</imgdir>
+		<imgdir name="4310296">
+			<string name="name" value="Awakening Coin"/>
+			<string name="desc" value="Can be used in various ways at the #cMountain of Awakening#.\n\n#cYou can earn 1 Awakening Coin for each 100 points of Awakening Aura you gather.#"/>
+		</imgdir>
+		<imgdir name="4310299">
+			<string name="name" value="AbsoLab Essence"/>
+			<string name="desc" value="Contains the essence of AbsoLab equipment. Used to upgrade Lapis/Lazuli for Zero."/>
+		</imgdir>
+		<imgdir name="4310300">
+			<string name="name" value="Arcane Umbra Essence"/>
+			<string name="desc" value="Contains the essence of Arcane Umbra equipment. Used to upgrade Lapis/Lazuli for Zero."/>
 		</imgdir>
 		<imgdir name="4000174">
 			<string name="name" value="Money Envelope"/>

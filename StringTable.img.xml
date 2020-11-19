@@ -26,4 +26,40 @@
 	<string name="SID_ADD_BLACKLIST_NICKANME_SPACE" value="Names cannot contain spaces."/>
 	<string name="SID_ADD_BLACKLIST_NICKNAME_CURSE" value="Names cannot contain profanity."/>
 	<string name="SID_ADD_FRIEND_ERROR_CURSE" value="Profanity can&apos;t be used in nicknames or memos."/>
+	<string name="SID_CASHTRADING_MSG_BLOCK_TRADE_BOXRESULT" value="\r\n#The reward from the box cannot be traded with others.#"/>
+	<string name="SID_NOTICE_OFFLINEMODE" value="In the event of server maintenance, your recent login date may be visible in the Buddy and Guild UI,\r\neven when using Invisible Login."/>
+	<string name="SID_FARM_WHISPER_BLOCKED" value="is not someone you can Message."/>
+	<string name="SID_ACCOUNT_FRIEND_TRANSFORM" value="This is a request to switch friend status to &quot;Account Friend.&quot;"/>
+	<string name="SID_FARM_SEND_PACKET_ERROR" value="Please try again later."/>
+	<string name="SID_MIXED_COLOR_NAME" value="mixedColorName"/>
+	<string name="SID_MANNEQUIN_EXCHANGE_BEFOR" value="#b#e[Character]#n\n%s#r%s#k"/>
+	<string name="SID_MANNEQUIN_EXCHANGE_DRESSUP_BEFOR" value="#b#e[Dress-Up Mode]#n\n%s#r%s#k"/>
+	<string name="SID_MANNEQUIN_EXCHANGE_AFTER" value="#b#e[Mannequin]#n\n%s#r%s#k"/>
+	<string name="SID_MQTYPE_HAIR" value="Hair"/>
+	<string name="SID_MQTYPE_FACE" value="Face"/>
+	<string name="SID_MQTYPE_SKIN" value="Skin"/>
+	<string name="SID_MQTYPE_SELECT_EX" value="#e- Enter &apos;%s&apos;:#n Stores mannequin in the %s space.\n"/>
+	<string name="SID_MANNEQUIN_SELECT_FAILED" value="Because you didn&apos;t enter the correct Beauty Room name,\nthe mannequin use was canceled."/>
+	<string name="SID_MANNEQUIN_HAIR_UNUSED_NAMETAG" value="%s can be saved."/>
+	<string name="SID_MANNEQUIN_EMPTY_NAMETAG" value="Mannequin can be stored."/>
+	<string name="SID_MQ_TOOLTIP_OVERMAX" value="You can&apos;t expand any more slots."/>
+	<string name="SID_MANNEQUIN_EXCHANGE_MSG" value="The mannequin&apos;s %s\nand your character&apos;s %s have been swapped."/>
+	<string name="SID_BEAUTY_CHOICE_COLOR_LENS" value="Select the eye color you want from the following:\n(When you click the confirmation button, your character&apos;s eye color\nwill be changed to the color you selected.)"/>
+	<string name="SID_BEAUTY_RESULT_COLOR_LENS" value="The eye color has been changed as you selected."/>
+	<string name="SID_BEAUTY_ANDROID_CHOICE_COLOR_LENS" value="Select an eye color\nthat suits your android.\n(One-Time Cosmetic Lens items will be used in the order that they are stored in your inventory.)"/>
+	<string name="SID_BEAUTY_CASH_SHOP_COLOR_LENS" value="You can change the eye color to any of the following:"/>
+	<string name="SID_BEAUTY_ROOM_SLOT_COUNT_TOOLTIP" value="&lt;Slot Expansion Status&gt;\nCurrently Expanded Slots / Max Expandable Slots"/>
+	<string name="SID_MONSTER_LIFE_INC_POINT_ERROR_MAXPOINT" value="You cannot harvest more Waru than the maximum."/>
+	<string name="SID_MONSTER_LIFE_DELETE_OBJECT_ERROR_MAXPOINT" value="You have Waru left to harvest, so you cannot relocate the building at this time."/>
+	<string name="SID_FLAG_RACE_CANNOT_JOIN_TIMEOUT" value="No further participants can join the Flag Race at this time."/>
+	<string name="SID_UI_AWAKE_TRAIN_PROGRESS" value="%s Training ( %d / %d )"/>
+	<string name="SID_MANNEQUIN_DELETE_KEY" value="Delete"/>
+	<string name="SID_MANNEQUIN_DELETE_INPUT_FAILED" value="Because you didn&apos;t enter the correct input,\nthe removal from the mannequin was canceled."/>
+	<string name="SID_MANNEQUIN_DELETE_ASK" value="#rRemove %s: %s#k\nIf you&apos;d like to delete the #b%s#k that&apos;s saved on the mannequin, please enter #b%s#k on the below entry window.\n \n"/>
+	<string name="SID_MANNEQUIN_SAVE_QUESTION_EX_KEY" value="Change"/>
+	<string name="SID_MANNEQUIN_HAIR_SAVE_QUESTION_EX" value="\n#r#e#fs15#[Caution] This &apos;hair&apos; hasn&apos;t been saved on a mannequin.#n#fs12# \n#kIf you continue, your #rcurrent %s character&apos;s hair will #edisappear.#n\n%s #fs12##n#b\nIf you&apos;d still like to use &apos;%s&apos;#k x1 to change the hair of %s, please enter #b#e%s#n#k on the box below."/>
+	<string name="SID_MANNEQUIN_FACE_SAVE_QUESTION_EX" value="\n#r#e#fs15#[Caution] This &apos;face&apos; hasn&apos;t been saved on a mannequin.#n#fs12# \n#kIf you continue, your #rcurrent %s character&apos;s face will #edisappear.#n\n%s #fs12##n#b\nIf you&apos;d still like to use &apos;%s&apos;#k x1 to change the face of %s, please enter #b#e%s#n#k on the box below."/>
+	<string name="SID_MANNEQUIN_SAVE_QUESTION_EX_FAILED" value="You didn&apos;t enter &apos;Change,&apos;\nso the item use was canceled."/>
+	<string name="SID_MANNEQUIN_SAVE_QUESTION_EX_TARGET_NOMARL" value="Character"/>
+	<string name="SID_MANNEQUIN_SKIN_SAVE_QUESTION_EX" value="\n#r#e#fs15#[Caution] This &apos;skin&apos; hasn&apos;t been saved on a mannequin.#n#fs12# \n#kIf you continue, your #rcurrent %s character&apos;s skin will #edisappear.#n\n%s #fs12##n#b\nIf you&apos;d still like to use &apos;%s&apos;#k x1 to change the skin of %s, please enter #e#b%s#k#n on the below box."/>
 </imgdir>

@@ -2354,7 +2354,7 @@
 		</imgdir>
 		<imgdir name="103050200">
 			<imgdir name="0">
-				<string name="Title" value="The Secret Garden 2nd Floor"/>
+				<string name="Title" value="Secret Garden 2nd Floor"/>
 			</imgdir>
 			<imgdir name="1">
 				<string name="Title" value="Exit"/>
@@ -6281,7 +6281,7 @@
 			</imgdir>
 			<imgdir name="1">
 				<string name="Title" value="        Caution! Falling!        "/>
-				<string name="Desc" value="I will only show you three times. It might be in your best interests to pay attention. If you&apos;re having trouble, try using the Clever Lady Hotline."/>
+				<string name="Desc" value="I will only show you three times. It might be in your best interest to pay attention. If you&apos;re having trouble, try using the Clever Lady Hotline."/>
 			</imgdir>
 			<imgdir name="2">
 				<string name="Title" value="        Caution! Falling!        "/>
@@ -6303,7 +6303,7 @@
 		<imgdir name="992026000">
 			<imgdir name="0">
 				<string name="Title" value="        Altar of Resurrection           "/>
-				<string name="Desc" value="Drop it near the altar. "/>
+				<string name="Desc" value="Drop it near the altar."/>
 			</imgdir>
 		</imgdir>
 		<imgdir name="992027000">
@@ -6320,7 +6320,7 @@
 		</imgdir>
 		<imgdir name="992029000">
 			<imgdir name="0">
-				<string name="Title" value="        Don&apos;t be confused.          "/>
+				<string name="Title" value="Don&apos;t get confused."/>
 				<string name="Desc" value="It&apos;s called a Sand Crystal, not Sand Powder! Remember that!"/>
 			</imgdir>
 			<imgdir name="1">
@@ -10006,6 +10006,16 @@
 				</imgdir>
 			</imgdir>
 		</imgdir>
+		<imgdir name="410000331">
+			<imgdir name="up00">
+				<string name="Title" value="Three Crossroads"/>
+			</imgdir>
+		</imgdir>
+		<imgdir name="410000340">
+			<imgdir name="east00">
+				<string name="Title" value="Mansion Corridor 1"/>
+			</imgdir>
+		</imgdir>
 		<imgdir name="450003000">
 			<string name="out00" value="Chu Chu Island: Muto&apos;s Descent"/>
 			<imgdir name="in01">
@@ -11054,14 +11064,34 @@
 				<string name="Title" value="Sky-Touched Land 2"/>
 			</imgdir>
 		</imgdir>
-		<imgdir name="410000331">
-			<imgdir name="up00">
-				<string name="Title" value="Three Crossroads"/>
+		<imgdir name="450007170">
+			<imgdir name="east00">
+				<string name="Title" value="Jellyfish Above Surface"/>
+				<imgdir name="Npc">
+					<string name="0" value="Shubert"/>
+					<string name="1" value="Ollie"/>
+				</imgdir>
 			</imgdir>
 		</imgdir>
-		<imgdir name="410000340">
+		<imgdir name="450016210">
 			<imgdir name="east00">
-				<string name="Title" value="Mansion Corridor 1"/>
+				<string name="Title" value="Star-Swallowing Sea 2"/>
+				<int name="barrierArc" value="670"/>
+				<imgdir name="Mob">
+					<string name="0" value="8642105"/>
+				</imgdir>
+			</imgdir>
+		</imgdir>
+		<imgdir name="450016280">
+			<imgdir name="east00">
+				<string name="Title" value="The Jellyfish"/>
+				<imgdir name="Npc">
+					<string name="0" value="Shubert"/>
+					<string name="1" value="Ollie"/>
+				</imgdir>
+			</imgdir>
+			<imgdir name="west00">
+				<string name="Title" value="Esfera: Slumbering Deep"/>
 			</imgdir>
 		</imgdir>
 		<imgdir name="100030000">
