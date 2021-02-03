@@ -12478,4 +12478,73 @@ ATT, MATT + 100"/>
 		<string name="name" value="Crystalline Damage Skin Coupon"/>
 		<string name="desc" value="#cDouble-click# to obtain the #cCrystalline Damage Skin#."/>
 	</imgdir>
+	<imgdir name="5062021">
+		<string name="name" value="Cube of Equality"/>
+		<string name="desc" value="A mysterious cube that resets the existing potentials of equipment.
+Upon using the cube, the value of all potentials #cwill become consistent with the Potential rank of the current equipment.#\r\nOnly usable on items from Rare to Legendary\r\n\r\n#cMax Result: Legendary"/>
+	</imgdir>
+	<imgdir name="5240211">
+		<string name="name" value="Happy Veggie Pet Nutrient"/>
+		<string name="desc" value="A nutrient that&apos;s only effective for #cHappy Veggie pets#. Recovers Fullness completely and #cincreases Closeness by 100#."/>
+	</imgdir>
+	<imgdir name="5010188">
+		<string name="name" value="[BTS] Onyx Swan"/>
+		<string name="desc" value="Summons the sparkling Onyx Swan.\r\nDouble-click to toggle the effect on/off, or set up a hotkey for it in your Key Config."/>
+	</imgdir>
+	<imgdir name="5204043">
+		<string name="name" value="[BTS] Castle Swan (Chair)"/>
+		<string name="desc" value="Shines with the aura of the Black Swan.\n#cRestores 613 HP and 613 MP every 10 seconds.#"/>
+	</imgdir>
+	<imgdir name="5680862">
+		<string name="name" value="[BTS] Black Swan Damage Skin (Unit)"/>
+		<string name="desc" value="Applies the Black Swan damage skin.\r\n#cOnce used, it will remain applied until replaced with another skin. Disappears after one use.#"/>
+	</imgdir>
+	<imgdir name="5680871">
+		<string name="name" value="[BTS] Black Swan Medal Coupon"/>
+		<string name="desc" value="#cDouble-click# to receive the Permanent #cBlack Swan# Medal. The obtained medal cannot be traded."/>
+	</imgdir>
+	<imgdir name="5680872">
+		<string name="name" value="[BTS] Swan Dream Title Coupon"/>
+		<string name="desc" value="#cDouble-click# to receive the Permanent #cSwan Dream# Title. The obtained title cannot be traded."/>
+	</imgdir>
+	<imgdir name="5680885">
+		<string name="name" value="[BTS] Onyx Swan Effect Coupon"/>
+		<string name="desc" value="#cDouble-click# to receive the Permanent #cOnyx Swan# Effect. The obtained effect cannot be traded."/>
+	</imgdir>
+	<imgdir name="5743006">
+		<string name="name" value="Black Familiar Card"/>
+		<string name="desc" value="A mysterious card that&apos;s said to reset a Familiar&apos;s Potential. Has a higher chance than the Red Familiar Card to increase the Familiar&apos;s rank."/>
+	</imgdir>
+	<imgdir name="5743004">
+		<string name="name" value="Familiar Rebirth Card"/>
+		<string name="desc" value="A mysterious card that&apos;s said to reset a Familiar&apos;s Potential. Has a low chance of increasing the Familiar&apos;s rank."/>
+	</imgdir>
+	<imgdir name="5743005">
+		<string name="name" value="Red Familiar Card"/>
+		<string name="desc" value="A mysterious card that&apos;s said to reset a Familiar&apos;s Potential. Has a low chance of increasing the Familiar&apos;s rank."/>
+	</imgdir>
+	<imgdir name="5742001">
+		<string name="name" value="Familiar Breakthrough Card"/>
+		<string name="desc" value="Allows a Familiar to break through its limitations, increasing its level cap.\nOnly usable on Familiars of Unique rank or higher. Each Familiar can be the subject of up to two Breakthroughs."/>
+	</imgdir>
+	<imgdir name="5742002">
+		<string name="name" value="Familiar Level-Up Card"/>
+		<string name="desc" value="A mysterious card that increases the Familiar&apos;s level by one when used."/>
+	</imgdir>
+	<imgdir name="5742003">
+		<string name="name" value="Familiar Level Reset Card"/>
+		<string name="desc" value="A mysterious card that resets a Familiar&apos;s level when used."/>
+	</imgdir>
+	<imgdir name="5742004">
+		<string name="name" value="Familiar Slot Expansion Coupon"/>
+		<string name="desc" value="Increases Familiar storage slots by 5 when used."/>
+	</imgdir>
+	<imgdir name="5010189">
+		<string name="name" value="New Year&apos;s Blessing"/>
+		<string name="desc" value="Double-click to toggle the effect, or set up a hotkey in your Key Config."/>
+	</imgdir>
+	<imgdir name="5010190">
+		<string name="name" value="More Beautiful Than Flower"/>
+		<string name="desc" value="Double-click to toggle the effect, or set up a hotkey in your Key Config."/>
+	</imgdir>
 </imgdir>

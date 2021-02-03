@@ -33616,28 +33616,28 @@
 		<string name="func" value="Dok &amp; Kaebi&apos;s Magic Batons"/>
 	</imgdir>
 	<imgdir name="9062240">
-		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="func" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="s0" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="s1" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="d0" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="d1" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="Wonky the Fairy"/>
+		<string name="func" value="Happy New Year"/>
+		<string name="s0" value="Happy New Year!"/>
+		<string name="s1" value="Make A Wish! It Just Might Come True!"/>
+		<string name="d0" value="Happy New Year!"/>
+		<string name="d1" value="Make A Wish! It Just Might Come True!"/>
 	</imgdir>
 	<imgdir name="9062241">
-		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="func" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="s0" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="s1" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="d0" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="d1" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="Wonky the Fairy"/>
+		<string name="func" value="Happy New Year"/>
+		<string name="s0" value="Oh... This place is...!"/>
+		<string name="s1" value="I think it&apos;s coming back to me!"/>
+		<string name="d0" value="Oh... This place is...!"/>
+		<string name="d1" value="I think it&apos;s coming back to me!"/>
 	</imgdir>
 	<imgdir name="9062242">
-		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="func" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="s0" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="s1" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="d0" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="d1" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="Wonky the Fairy"/>
+		<string name="func" value="Happy New Year"/>
+		<string name="s0" value="Oh... This place is...!"/>
+		<string name="s1" value="I think it&apos;s coming back to me!"/>
+		<string name="d0" value="Oh... This place is...!"/>
+		<string name="d1" value="I think it&apos;s coming back to me!"/>
 	</imgdir>
 	<imgdir name="9062243">
 		<string name="name" value="Sophelia"/>
@@ -38602,7 +38602,7 @@
 	</imgdir>
 	<imgdir name="9130030">
 		<string name="name" value="Kobayakawa Takakage"/>
-		<string name="func" value="Merchant"/>
+		<string name="func" value="Mark of the Silver Wolf Exchange"/>
 	</imgdir>
 	<imgdir name="9130031">
 		<string name="name" value="Yamanaka Yukimori"/>
@@ -49486,5 +49486,43 @@
 		<string name="s1" value="Share all kinds of emotions and expressions through chat emoticons!"/>
 		<string name="d0" value="Hello. That&apos;s my name, Hello! I&apos;m a Chat Emoticon Helper!"/>
 		<string name="d1" value="Share all kinds of emotions and expressions through chat emoticons!"/>
+	</imgdir>
+	<imgdir name="9130147">
+		<string name="name" value="Kengo"/>
+		<string name="d0" value="...Do you have business with me?"/>
+		<string name="d1" value="...Do you have business with me?"/>
+	</imgdir>
+	<imgdir name="9130148">
+		<string name="name" value="Ayame"/>
+		<string name="d0" value="We still have a lot of work to do."/>
+		<string name="d1" value="We still have a lot of work to do."/>
+	</imgdir>
+	<imgdir name="9130146">
+		<string name="name" value="Sakuno"/>
+		<string name="d0" value="I&apos;m glad to see you once more, #h0#. Will you join me in enjoying this beautiful day?"/>
+		<string name="d1" value="I&apos;m glad to see you once more, #h0#. Will you join me in enjoying this beautiful day?"/>
+	</imgdir>
+	<imgdir name="9131012">
+		<string name="name" value="Athena Pierce"/>
+	</imgdir>
+	<imgdir name="9130149">
+		<string name="name" value="Yamanaka Yukimori"/>
+		<string name="d0" value="Loyalty will never fail you, and faith will make you stronger."/>
+		<string name="d1" value="Loyalty will never fail you, and faith will make you stronger."/>
+	</imgdir>
+	<imgdir name="9130145">
+		<string name="name" value="Sanada Yukimura"/>
+		<string name="d0" value="March with the determination of Master Shingen!"/>
+		<string name="d1" value="March with the determination of Master Shingen!"/>
+	</imgdir>
+	<imgdir name="9401274">
+		<string name="n0" value="A Maple Globe Statue that belongs to /name."/>
+		<string name="n1" value="A Maple Globe Statue that belongs to /name."/>
+	</imgdir>
+	<imgdir name="9401331">
+		<string name="name" value="Maple Globe Statue Base"/>
+	</imgdir>
+	<imgdir name="9201614">
+		<string name="name" value="Suspicious Goblin"/>
 	</imgdir>
 </imgdir>

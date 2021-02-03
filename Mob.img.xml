@@ -20968,7 +20968,7 @@
 		<string name="name" value="Neinheart"/>
 	</imgdir>
 	<imgdir name="9020305">
-		<string name="name" value="Grendel the Really Old"/>
+		<string name="name" value="Grendel the Rly Old"/>
 	</imgdir>
 	<imgdir name="9020306">
 		<string name="name" value="Claudine"/>
@@ -21007,7 +21007,7 @@
 		<string name="name" value="Earth Priest"/>
 	</imgdir>
 	<imgdir name="9020318">
-		<string name="name" value="Magical Power Tower"/>
+		<string name="name" value="M. Power Tower"/>
 	</imgdir>
 	<imgdir name="9020319">
 		<string name="name" value="Stormdriver"/>
@@ -28531,5 +28531,89 @@
 	</imgdir>
 	<imgdir name="9601509">
 		<string name="name" value="Swordsman&apos;s Echo"/>
+	</imgdir>
+	<imgdir name="9601635">
+		<string name="name" value="Akechi Mitsuhide"/>
+	</imgdir>
+	<imgdir name="9601622">
+		<string name="name" value="Akechi Mitsuhide"/>
+	</imgdir>
+	<imgdir name="9601623">
+		<string name="name" value="Akechi Mitsuhide"/>
+	</imgdir>
+	<imgdir name="9601624">
+		<string name="name" value="Swordsman&apos;s Echo"/>
+	</imgdir>
+	<imgdir name="9601625">
+		<string name="name" value="Swordsman&apos;s Echo"/>
+	</imgdir>
+	<imgdir name="9601626">
+		<string name="name" value="Swordsman&apos;s Echo"/>
+	</imgdir>
+	<imgdir name="9601627">
+		<string name="name" value="Swordsman&apos;s Echo"/>
+	</imgdir>
+	<imgdir name="9601628">
+		<string name="name" value="Swordsman&apos;s Echo"/>
+	</imgdir>
+	<imgdir name="9601629">
+		<string name="name" value="Swordsman&apos;s Echo"/>
+	</imgdir>
+	<imgdir name="9601630">
+		<string name="name" value="Swordsman&apos;s Echo"/>
+	</imgdir>
+	<imgdir name="9601631">
+		<string name="name" value="Mitsuhide Pattern Assistance"/>
+	</imgdir>
+	<imgdir name="9601632">
+		<string name="name" value="Mitsuhide Pattern Assistance"/>
+	</imgdir>
+	<imgdir name="9601633">
+		<string name="name" value="Mitsuhide Pattern Assistance"/>
+	</imgdir>
+	<imgdir name="9601634">
+		<string name="name" value="Mitsuhide Pattern Assistance"/>
+	</imgdir>
+	<imgdir name="9601636">
+		<string name="name" value="Oda Mecha Ninja"/>
+	</imgdir>
+	<imgdir name="9601637">
+		<string name="name" value="Oda Mecha Warrior"/>
+	</imgdir>
+	<imgdir name="9601638">
+		<string name="name" value="Elite Oda Scout"/>
+	</imgdir>
+	<imgdir name="9601640">
+		<string name="name" value="Oda Mecha Warrior"/>
+	</imgdir>
+	<imgdir name="9601650">
+		<string name="name" value="Mecha Warrior Prototype"/>
+	</imgdir>
+	<imgdir name="9601651">
+		<string name="name" value="Mecha Ninja Prototype"/>
+	</imgdir>
+	<imgdir name="9601652">
+		<string name="name" value="Mecha Gunner Prototype"/>
+	</imgdir>
+	<imgdir name="9601671">
+		<string name="name" value="Snail"/>
+	</imgdir>
+	<imgdir name="9601672">
+		<string name="name" value="Blue Snail"/>
+	</imgdir>
+	<imgdir name="9601673">
+		<string name="name" value="Red Snail"/>
+	</imgdir>
+	<imgdir name="9601674">
+		<string name="name" value="Spore"/>
+	</imgdir>
+	<imgdir name="9601675">
+		<string name="name" value="Orange Mushroom"/>
+	</imgdir>
+	<imgdir name="9601676">
+		<string name="name" value="Stump"/>
+	</imgdir>
+	<imgdir name="9601677">
+		<string name="name" value="Slime"/>
 	</imgdir>
 </imgdir>

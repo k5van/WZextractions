@@ -20,6 +20,8 @@
 			<string name="desc" value="You&apos;ve been branded by Mitsuhide."/>
 		</imgdir>
 		<imgdir name="2">
+			<string name="name" value="Frenzy"/>
+			<string name="desc" value="Akechi Mitsuhide releases his true power as the battle grows in intensity. Mitsuhide&apos;s attack power, magic attack, and defense increases by 5% for each stage of Frenzy, up to 100%."/>
 		</imgdir>
 		<imgdir name="3">
 			<string name="name" value="Provoke"/>

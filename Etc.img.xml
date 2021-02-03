@@ -28694,7 +28694,7 @@ Looking at this fills you with hope. It&apos;s terribly fragile, so handle with 
 		</imgdir>
 		<imgdir name="4310295">
 			<string name="name" value="Mark of the Silver Wolf"/>
-			<string name="desc" value="A mark in the shape of the Silver Wolf. Can be exchanged for a Silver Wolf Weapon."/>
+			<string name="desc" value="A mark in the shape of the Silver Wolf. Can be exchanged for a Silver Wolf Weapon. Usable at the #cMark of the Silver Wolf Exchanger# in #cMomijigaoka#."/>
 		</imgdir>
 		<imgdir name="4036673">
 			<string name="name" value="Sengoku Ki"/>

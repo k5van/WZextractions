@@ -3462,8 +3462,8 @@
 		<string name="desc" value="My plan is to run at such unstoppable speed that everyone either can&apos;t catch me or has to get out of my way!\r\n#cRestores 100 HP and 100 MP every 10 seconds.#"/>
 	</imgdir>
 	<imgdir name="3018447">
-		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="Magic Lamp Chair"/>
+		<string name="desc" value="Become the genie of the lamp.\n#cRestores 1,000 HP and 1,000 MP every 10 seconds.#"/>
 	</imgdir>
 	<imgdir name="3018450">
 		<string name="name" value="Master Exorcist Chair"/>
@@ -8949,7 +8949,7 @@ If you feed #cFruit# to the Parrot, it might change color and gain a level. The 
 	</imgdir>
 	<imgdir name="3700625">
 		<string name="name" value="MVP Red"/>
-		<string name="desc" value="You&apos;ve reached MVP Red rank. \r\nWhen equipped, #cAttack Power/Magic ATT +10, All Stats +10, Max HP/MP +1000, Enemy DEF Ignored +8%\r\nCan be used until the last day of the month in which you received it.\r\n#cClick to turn ON/OFF.#"/>
+		<string name="desc" value="You&apos;ve reached the rank of MVP Red. \r\nWhen equipped, #cAttack Power/Magic ATT +10, All Stats +10, Max HP/MP +1.000, Enemy DEF Ignored +8%#\r\nUsable through the last day of the month in which you received it.\r\n#cClick to turn ON/OFF.#"/>
 	</imgdir>
 	<imgdir name="3700629">
 		<string name="name" value="The Quick and the Dead... Monsters"/>
@@ -17444,8 +17444,8 @@ Keep it in your Inventory Set-up tab for 30 minutes to receive a Shiny Easter Eg
 		<string name="desc" value="A throne befitting a Bladeweaver. \r\n#cRestores 100 HP and 100 MP every 10 seconds.#"/>
 	</imgdir>
 	<imgdir name="3700665">
-		<string name="name" value="MapleStory Fest 2020 Title "/>
-		<string name="desc" value="It&apos;s a MapleStory Fest 2020 Title.\r\n\r\n#cAttack Power &amp; Magic ATT +10\nAll Stats +30\r\n\nClick to toggle ON/OFF.\nStats Duration: 60 days after being claimed."/>
+		<string name="name" value="MapleStory Fest 2020"/>
+		<string name="desc" value="Celebrate MapleStory Fest 2020!\r\n\r\n#cAttack Power &amp; Magic ATT +10\nAll Stats +30\r\n\nClick to toggle ON/OFF.\nStats Duration: 60 days after being claimed."/>
 	</imgdir>
 	<imgdir name="3012039">
 		<string name="name" value="Crystal Lovers&apos; Tree Chair"/>
@@ -17453,11 +17453,11 @@ Keep it in your Inventory Set-up tab for 30 minutes to receive a Shiny Easter Eg
 	</imgdir>
 	<imgdir name="3018613">
 		<string name="name" value="Star&apos;s Path Chair"/>
-		<string name="desc" value="A chair on which you can observe the path of a constellation through the sky. \r\n#cRestores 100 HP and 100 MP every 10 seconds.#"/>
+		<string name="desc" value="A chair upon which you can observe the path of a constellation through the sky. \r\n#cRestores 100 HP and 100 MP every 10 seconds.#"/>
 	</imgdir>
 	<imgdir name="3018614">
 		<string name="name" value="Ice Dragon Chair"/>
-		<string name="desc" value="A chair on which you can receive the blessing of an Ice Dragon who was born from the glacier. \r\n#cRestores 100 HP and 100 MP every 10 seconds.#"/>
+		<string name="desc" value="A chair upon which you can receive the blessing of an Ice Dragon, who was born from a glacier. \r\n#cRestores 100 HP and 100 MP every 10 seconds.#"/>
 	</imgdir>
 	<imgdir name="3018625">
 		<string name="name" value="Red Rainbow Prism Chair"/>
@@ -17502,5 +17502,49 @@ Keep it in your Inventory Set-up tab for 30 minutes to receive a Shiny Easter Eg
 	<imgdir name="3018645">
 		<string name="name" value="Crystal Glacier Chair"/>
 		<string name="desc" value="Can you relax while trapped in a glacier glittering like a crystal? Recovers 50 HP and 50 MP every 10 seconds. "/>
+	</imgdir>
+	<imgdir name="3018636">
+		<string name="name" value="Milk Cafe on a Snowy Mountain"/>
+		<string name="desc" value="Enjoy a delicious glass of milk while avoiding the snow. \r\n#cRestores 100 HP and 100 MP every 10 seconds.#"/>
+	</imgdir>
+	<imgdir name="3018637">
+		<string name="name" value="Splashing Monster Can Chair"/>
+		<string name="desc" value="Enjoy a relaxing time with monsters and a cute kitty. \r\n#cRestores 100 HP and 100 MP every 10 seconds.#"/>
+	</imgdir>
+	<imgdir name="3018638">
+		<string name="name" value="Pink Bean&apos;s Adventure Stories Chair"/>
+		<string name="desc" value="Hear Pink Bean&apos;s adventure stories. \r\n#cRestores 100 HP and 100 MP every 10 seconds.#"/>
+	</imgdir>
+	<imgdir name="3018639">
+		<string name="name" value="Moonlit Antlers Chair"/>
+		<string name="desc" value="Enjoy a dreamy night sky on top of a deer&apos;s antlers. \r\n#cRestores 100 HP and 100 MP every 10 seconds.#"/>
+	</imgdir>
+	<imgdir name="3700666">
+		<string name="name" value="Swan Dream"/>
+		<string name="desc" value="#c[MAPLESTORY X BTS]\n\nEXP +10%\nAttack Power &amp; Magic ATT +15\nAll Stats +15\nBoss Damage +10% Ignore Defense +10%\nMax HP/Max MP +750\nStar Force +30\nArcane Power +50\nStats Duration: 30 Days\n\nClick to toggle ON/OFF.#"/>
+	</imgdir>
+	<imgdir name="3018622">
+		<string name="name" value="Maple Globe"/>
+		<string name="desc" value="A precious Maple Globe filled with your custom diorama. #cRestores 50 HP and 50 MP every 10 seconds.#"/>
+	</imgdir>
+	<imgdir name="3018654">
+		<string name="name" value="Fluff Ball Chair"/>
+		<string name="desc" value="Sooo fluffy!\n#cRestores 100 HP and 50 MP every 10 seconds.#"/>
+	</imgdir>
+	<imgdir name="3018655">
+		<string name="name" value="Snow Crystal Scene"/>
+		<string name="desc" value="A soft snow crystal scene featuring bunnies. \n#cRestores 100 HP and 50 MP every 10 seconds.#"/>
+	</imgdir>
+	<imgdir name="3018656">
+		<string name="name" value="Galaxy Glass Bottle"/>
+		<string name="desc" value="Represents the precious star Blae picked. \r\n#cRecovers 50 HP and MP every 10 seconds."/>
+	</imgdir>
+	<imgdir name="3996205">
+		<string name="name" value="Moonlight Bottle (Empty)"/>
+		<string name="desc" value="An empty bottle for collecting moonlight energy. \r\n\r\n#cIf you hold onto this item for 15 minutes, it&apos;ll fill up with moonlight.#"/>
+	</imgdir>
+	<imgdir name="3996206">
+		<string name="name" value="Moonlight Bottle (Full)"/>
+		<string name="desc" value="This bottle is now filled with moonlight. Take it to Wonky."/>
 	</imgdir>
 </imgdir>

@@ -16528,8 +16528,8 @@
 	</imgdir>
 	<imgdir name="31211004">
 		<string name="name" value="Diabolic Recovery"/>
-		<string name="desc" value="Rapidly recovers HP for a short time. Also lets you gradually recover HP over time."/>
-		<string name="h" value="HP Cost: #hpCon, Duration: #time sec, Max HP: +#indieMhpR%, Interval: every #w sec, HP Restored per Interval: #x%"/>
+		<string name="desc" value="Greatly increases HP for a period of time. Periodically restores HP while active."/>
+		<string name="h" value="HP Cost: #hpCon, Duration: #time sec, Max HP: +#indieMhpR%. Restores #x% HP every #w sec"/>
 	</imgdir>
 	<imgdir name="31211007">
 		<string name="name" value="Exceed: Lunar Slash"/>
@@ -26055,8 +26055,7 @@
 	<imgdir name="80001333">
 		<string name="name" value="Red Sandstorm Mount"/>
 		<string name="desc" value="[Master Level: 1]\nAllows you to ride a Red Sandstorm. Able to Glide.  "/>
-		<string name="h" value="Weapon, Magic DEF: +10, Movement Speed: 170, Jump: 120"/>
-		<string name="h1" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="h" value="Speed: 170, Jump: 120"/>
 	</imgdir>
 	<imgdir name="80001334">
 		<string name="name" value="Gold Critical"/>
@@ -40074,7 +40073,7 @@
 	<imgdir name="400041009">
 		<string name="name" value="Luck of the Draw"/>
 		<string name="desc" value="Throw a flurry of cards until you&apos;re down to your last one. Will luck be on your side as you unveil it? You can move slowly while attacking, and the cards will attack the boss monster in the area with highest max HP first. Invincible while you draw the card after the attack stops."/>
-		<string name="h" value="MP Cost: #mpCon. Can hold the key down for up to #time sec. Attack by periodically throwing multiple cards forward. Damage: #damage%. Number of Attacks: #attackCount. Damage Taken during skill: -#y%.\nWhen finished, draws a card to buff all party members for #dotInterval sec.\n#cRed Cross -# Recovers #u% Max HP/MP over time. \n#cTree of Life -# All Damage Taken: -#v%. Abnormal Status Resistance: +#s2\n#cHourglass -# Active Cooldowns shortened by #u2% (except skills that ignore cooldown resets).\n#cThree Swords -# Final Damage +#v2%.\n#cCrescent Moon -# Gain all card buffs simultaneously.\nCooldown: #cooltime sec."/>
+		<string name="h" value="MP Cost: #mpCon. Can hold the key down for up to #time sec. Attack by periodically throwing multiple cards forward. Damage: #damage%. Number of Attacks: #attackCount. Damage Taken during skill: -#y%.\nWhen finished, draws a card to buff all party members for #dotInterval sec.\n#cRed Cross -# Recovers #u% Max HP/MP over time. \n#cTree of Life -# All Damage Taken: -#v%. Abnormal Status Resistance: +#s2\n#cHourglass -# Active Cooldowns shortened by #u2% (except skills that ignore cooldown resets).\n#cThree Swords -# Final Damage +#v2%.\n#cLuck of the Draw -# Gain all card buffs simultaneously.\nCooldown: #cooltime sec."/>
 	</imgdir>
 	<imgdir name="400041010">
 		<string name="name" value="Luck of the Draw"/>
@@ -40720,32 +40719,32 @@
 	<imgdir name="80002966">
 		<string name="name" value="Chun Gong&apos;s Sword"/>
 		<string name="desc" value="A sword that carries Chun Gong&apos;s energy. As you proceed with hunting, you can fill up the #cSword Energy# to obtain #c&lt;Awakening Coins&gt;#.\n\nIf you&apos;ve exceeded the number of #c&lt;Awakening Coins&gt;# you can obtain for the day, the training will end for that day.\n\n#cRight-click to turn ON/OFF.#"/>
-		<string name="h" value="Eliminate #cmonsters near your level# to fill up the #cSword Energy# 10 times, and a #cGiant Training Dummy# will be summoned. \r\nIf you elimniate #cthree# Giant Training Dummies, Chun Gong will perform his #csword dance#, allowing you to obtain many &lt;Awakening Coins&gt; at once. \r\n\r\n#c- Upon eliminating each Giant Training Dummy, you&apos;ll earn &lt;Awakening Coin&gt; x10.\r\n#c- When Chun Gong performs his sword dance, you&apos;ll randomly obtain &lt;Awakening Coin&gt; x #w, #v, or #y."/>
+		<string name="h" value="Eliminate #cmonsters near your level# to fill up the #cSword Energy# 10 times, and a #cGiant Training Dummy# will be summoned. \r\nIf you eliminate #cthree# Giant Training Dummies, Chun Gong will perform his #csword dance#, allowing you to obtain many &lt;Awakening Coins&gt; at once. \r\n\r\n#c- Upon eliminating each Giant Training Dummy, you&apos;ll earn &lt;Awakening Coin&gt; x10.\r\n#c- When Chun Gong performs his sword dance, you&apos;ll randomly obtain &lt;Awakening Coin&gt; x #w, #v, or #y."/>
 	</imgdir>
 	<imgdir name="80002967">
 		<string name="name" value="Chun Gong&apos;s Sword"/>
 		<string name="desc" value="A sword that carries Chun Gong&apos;s energy. As you proceed with hunting, you can fill up the #cSword Energy# to obtain #c&lt;Awakening Coins&gt;#.\n\nIf you&apos;ve exceeded the number of #c&lt;Awakening Coins&gt;# you can obtain for the day, the training will end for that day.\n\n#cRight-click to turn ON/OFF.#"/>
-		<string name="h" value="Eliminate #cmonsters near your level# to fill up the #cSword Energy# 10 times, and a #cGiant Training Dummy# will be summoned. \r\nIf you elimniate #cthree# Giant Training Dummies, Chun Gong will perform his #csword dance#, allowing you to obtain many &lt;Awakening Coins&gt; at once. \r\n\r\n#c- Upon eliminating each Giant Training Dummy, you&apos;ll earn &lt;Awakening Coin&gt; x10.\r\n#c- When Chun Gong performs his sword dance, you&apos;ll randomly obtain &lt;Awakening Coin&gt; x #w, #v, or #y."/>
+		<string name="h" value="Eliminate #cmonsters near your level# to fill up the #cSword Energy# 10 times, and a #cGiant Training Dummy# will be summoned. \r\nIf you eliminate #cthree# Giant Training Dummies, Chun Gong will perform his #csword dance#, allowing you to obtain many &lt;Awakening Coins&gt; at once. \r\n\r\n#c- Upon eliminating each Giant Training Dummy, you&apos;ll earn &lt;Awakening Coin&gt; x10.\r\n#c- When Chun Gong performs his sword dance, you&apos;ll randomly obtain &lt;Awakening Coin&gt; x #w, #v, or #y."/>
 	</imgdir>
 	<imgdir name="80002968">
 		<string name="name" value="Chun Gong&apos;s Sword"/>
 		<string name="desc" value="A sword that carries Chun Gong&apos;s energy. As you proceed with hunting, you can fill up the #cSword Energy# to obtain #c&lt;Awakening Coins&gt;#.\n\nIf you&apos;ve exceeded the number of #c&lt;Awakening Coins&gt;# you can obtain for the day, the training will end for that day.\n\n#cRight-click to turn ON/OFF.#"/>
-		<string name="h" value="Eliminate #cmonsters near your level# to fill up the #cSword Energy# 10 times, and a #cGiant Training Dummy# will be summoned. \r\nIf you elimniate #cthree# Giant Training Dummies, Chun Gong will perform his #csword dance#, allowing you to obtain many &lt;Awakening Coins&gt; at once. \r\n\r\n#c- Upon eliminating each Giant Training Dummy, you&apos;ll earn &lt;Awakening Coin&gt; x10.\r\n#c- When Chun Gong performs his sword dance, you&apos;ll randomly obtain &lt;Awakening Coin&gt; x #w, #v, or #y."/>
+		<string name="h" value="Eliminate #cmonsters near your level# to fill up the #cSword Energy# 10 times, and a #cGiant Training Dummy# will be summoned. \r\nIf you eliminate #cthree# Giant Training Dummies, Chun Gong will perform his #csword dance#, allowing you to obtain many &lt;Awakening Coins&gt; at once. \r\n\r\n#c- Upon eliminating each Giant Training Dummy, you&apos;ll earn &lt;Awakening Coin&gt; x10.\r\n#c- When Chun Gong performs his sword dance, you&apos;ll randomly obtain &lt;Awakening Coin&gt; x #w, #v, or #y."/>
 	</imgdir>
 	<imgdir name="80002969">
 		<string name="name" value="Chun Gong&apos;s Sword"/>
 		<string name="desc" value="A sword that carries Chun Gong&apos;s energy. As you proceed with hunting, you can fill up the #cSword Energy# to obtain #c&lt;Awakening Coins&gt;#.\n\nIf you&apos;ve exceeded the number of #c&lt;Awakening Coins&gt;# you can obtain for the day, the training will end for that day.\n\n#cRight-click to turn ON/OFF.#"/>
-		<string name="h" value="Eliminate #cmonsters near your level# to fill up the #cSword Energy# 10 times, and a #cGiant Training Dummy# will be summoned. \r\nIf you elimniate #cthree# Giant Training Dummies, Chun Gong will perform his #csword dance#, allowing you to obtain many &lt;Awakening Coins&gt; at once. \r\n\r\n#c- Upon eliminating each Giant Training Dummy, you&apos;ll earn &lt;Awakening Coin&gt; x10.\r\n#c- When Chun Gong performs his sword dance, you&apos;ll randomly obtain &lt;Awakening Coin&gt; x #w, #v, or #y."/>
+		<string name="h" value="Eliminate #cmonsters near your level# to fill up the #cSword Energy# 10 times, and a #cGiant Training Dummy# will be summoned. \r\nIf you eliminate #cthree# Giant Training Dummies, Chun Gong will perform his #csword dance#, allowing you to obtain many &lt;Awakening Coins&gt; at once. \r\n\r\n#c- Upon eliminating each Giant Training Dummy, you&apos;ll earn &lt;Awakening Coin&gt; x10.\r\n#c- When Chun Gong performs his sword dance, you&apos;ll randomly obtain &lt;Awakening Coin&gt; x #w, #v, or #y."/>
 	</imgdir>
 	<imgdir name="80002977">
 		<string name="name" value="Man Gong&apos;s Jewel"/>
 		<string name="desc" value="A jewel that contains Man Gong&apos;s energy. If you eliminate #cmonsters near your level#, you&apos;ll be able to gather #cAwakening Aura#, thereby earning #c&lt;Awakening Coins&gt;#.\n\nIf you&apos;ve exceeded the number of #c&lt;Awakening Coins&gt;# you can obtain for the day, the training will end for that day.\n\n#cRight-click to turn ON/OFF.#"/>
-		<string name="h" value="If you eliminate monsters near your level, #cMan Gong&apos;s Teaching# will be activated, and you&apos;ll be able to earn a lot of &lt;Awakening Coins&gt; at once.\r\n\r\n#c- When Man Gong grants his teaching, you&apos;ll randomly obtain &lt;Awakening Coin&gt; x20 or 40."/>
+		<string name="h" value="If you eliminate monsters near your level, #cMan Gong&apos;s Teachings# will be activated, and you&apos;ll be able to earn a lot of &lt;Awakening Coins&gt; at once.\r\n\r\n#c- When Man Gong grants his teachings, you&apos;ll randomly obtain &lt;Awakening Coin&gt; x20 or 40."/>
 	</imgdir>
 	<imgdir name="80002978">
 		<string name="name" value="Man Gong&apos;s Jewel"/>
 		<string name="desc" value="A jewel that contains Man Gong&apos;s energy. If you eliminate #cmonsters near your level#, you&apos;ll be able to gather #cAwakening Aura#, thereby earning #c&lt;Awakening Coins&gt;#.\n\nIf you&apos;ve exceeded the number of #c&lt;Awakening Coins&gt;# you can obtain for the day, the training will end for that day.\n\n#cRight-click to turn ON/OFF.#"/>
-		<string name="h" value="If you eliminate monsters near your level, #cMan Gong&apos;s Teaching# will be activated, and you&apos;ll be able to earn a lot of &lt;Awakening Coins&gt; at once.\r\n\r\n#c- When Man Gong grants his teaching, you&apos;ll randomly obtain &lt;Awakening Coin&gt; x20 or 40."/>
+		<string name="h" value="If you eliminate monsters near your level, #cMan Gong&apos;s Teachings# will be activated, and you&apos;ll be able to earn a lot of &lt;Awakening Coins&gt; at once.\r\n\r\n#c- When Man Gong grants his teachings, you&apos;ll randomly obtain &lt;Awakening Coin&gt; x20 or 40."/>
 	</imgdir>
 	<imgdir name="80002979">
 		<string name="name" value="Arena Drone Mount: Season 1"/>
@@ -50952,5 +50951,43 @@ Celestial Rank S: 5% EXP per stack."/>
 	</imgdir>
 	<imgdir name="400011137">
 		<string name="name" value="Demon Bane"/>
+	</imgdir>
+	<imgdir name="80012068">
+		<string name="name" value="Lv. 1 Happy Veggies&apos; Mysterious Power"/>
+		<string name="desc" value="Increases Attack Power and Magic ATT by 3."/>
+		<string name="h" value="#cAttack Power: +#padX, Magic ATT: +#madX#"/>
+	</imgdir>
+	<imgdir name="80012069">
+		<string name="name" value="Lv. 2 Happy Veggies&apos; Mysterious Power"/>
+		<string name="desc" value="Increases Attack Power and Magic ATT by 5."/>
+		<string name="h" value="#cAttack Power: +#padX, Magic ATT: +#madX#"/>
+	</imgdir>
+	<imgdir name="80012070">
+		<string name="name" value="Lv. 3 Happy Veggies&apos; Mysterious Power"/>
+		<string name="desc" value="Increases Attack Power and Magic ATT by 7."/>
+		<string name="h" value="#cAttack Power: +#padX, Magic ATT: +#madX#"/>
+	</imgdir>
+	<imgdir name="80012071">
+		<string name="name" value="Big Crow-Tit Mount"/>
+		<string name="desc" value="[Master Level: 1]\nRide around on a Big Crow-Tit mount, which can double jump and move #cvery quickly#."/>
+		<string name="h" value="MP Cost: 10, Weapon &amp; Magic DEF: +10, Speed: 170, Jump: 120"/>
+	</imgdir>
+	<imgdir name="80012072">
+		<string name="name" value="Big Crow-Tit Mount"/>
+		<string name="desc" value="[Master Level: 1]\nRide around on a Big Crow-Tit mount, which can double jump and move #cvery quickly#."/>
+		<string name="h" value="MP Cost: 10, Weapon &amp; Magic DEF: +10, Speed: 170, Jump: 120"/>
+	</imgdir>
+	<imgdir name="80000653">
+		<string name="name" value="Swan Dream (Title)"/>
+	</imgdir>
+	<imgdir name="80012065">
+		<string name="name" value="Magic Lamp Magic Carpet Mount"/>
+		<string name="desc" value="[Master Level: 1]\nAllows you to ride a Magic Lamp Magic Carpet mount. Double-tap the jump key in town to use the High Altitude Flight skill."/>
+		<string name="h1" value="DEF: +10, Speed: 170, Jump: 120"/>
+	</imgdir>
+	<imgdir name="80012058">
+		<string name="name" value="Boss Party Buff"/>
+		<string name="desc" value="Damage against this specific boss +#x%."/>
+		<string name="h" value="#c[Target Boss: Akechi Mitsuhide]#\nA buff for players who choose to use auto party matching.\n\n#cDamage against this specific boss +#x%.#"/>
 	</imgdir>
 </imgdir>

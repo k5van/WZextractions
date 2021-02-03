@@ -4780,4 +4780,29 @@
 		<string name="desc" value="An earth-toned bird of prey."/>
 		<string name="descd" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
 	</imgdir>
+	<imgdir name="5002211">
+		<string name="name" value="Happy Beet"/>
+		<string name="desc" value="A Happy Beet pet."/>
+		<string name="descD" value="It was a cute Happy Beet pet, but it turned into a doll after its magic duration expired. You cannot revive it in any way. Double-click to find out how to get a new pet."/>
+	</imgdir>
+	<imgdir name="5002212">
+		<string name="name" value="Happy Carrot"/>
+		<string name="desc" value="A Happy Carrot pet."/>
+		<string name="descD" value="It was a cute Happy Carrot pet, but it turned into a doll after its magic duration expired. You cannot revive it in any way. Double-click to find out how to get a new pet."/>
+	</imgdir>
+	<imgdir name="5002213">
+		<string name="name" value="Happy Leek"/>
+		<string name="desc" value="A Happy Leek pet."/>
+		<string name="descD" value="It was a cute Happy Leek pet, but it turned into a doll after its magic duration expired. You cannot revive it in any way. Double-click to find out how to get a new pet."/>
+	</imgdir>
+	<imgdir name="5002217">
+		<string name="name" value="Cookie Bear"/>
+		<string name="desc" value="Live deliciously with #cCookie Bear#, never seen without its prized possession: a large almond."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002218">
+		<string name="name" value="Omelette Pup"/>
+		<string name="desc" value="The ever-lovable#c Omelette Pup# covers itself with a fluffy egg blanket, giving it both warmth and an ever-present snacking source."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
 </imgdir>

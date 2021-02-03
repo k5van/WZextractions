@@ -62427,5 +62427,249 @@
 			<string name="streetName" value="Fort Asura"/>
 			<string name="mapName" value="Eliminate the Oda Forces - Stage 30"/>
 		</imgdir>
+		<imgdir name="874004500">
+			<string name="streetName" value="Fort Asura"/>
+			<string name="mapName" value="Ritual Altar"/>
+		</imgdir>
+		<imgdir name="874004550">
+			<string name="streetName" value="Fort Asura"/>
+			<string name="mapName" value="Ritual Altar"/>
+		</imgdir>
+		<imgdir name="874004600">
+			<string name="streetName" value="Fort Asura"/>
+			<string name="mapName" value="Ritual Altar"/>
+		</imgdir>
+		<imgdir name="874004650">
+			<string name="streetName" value="Fort Asura"/>
+			<string name="mapName" value="Ritual Altar"/>
+		</imgdir>
+	</imgdir>
+	<imgdir name="PL_sengoku3_Always">
+		<imgdir name="807000010">
+			<string name="streetName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="mapName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		</imgdir>
+		<imgdir name="874004820">
+			<string name="streetName" value="Mushroom Shrine"/>
+			<string name="mapName" value="Mushroom Shrine"/>
+		</imgdir>
+		<imgdir name="874004840">
+			<string name="streetName" value="Mushroom Shrine"/>
+			<string name="mapName" value="Mushroom Shrine"/>
+		</imgdir>
+		<imgdir name="874004860">
+			<string name="streetName" value="Mushroom Shrine"/>
+			<string name="mapName" value="Mushroom Shrine"/>
+		</imgdir>
+		<imgdir name="874004880">
+			<string name="streetName" value="Fort Asura"/>
+			<string name="mapName" value="Fort Asura"/>
+		</imgdir>
+		<imgdir name="874004900">
+			<string name="streetName" value="Fort Asura"/>
+			<string name="mapName" value="Fort Asura"/>
+		</imgdir>
+		<imgdir name="874004920">
+			<string name="streetName" value="Fort Asura"/>
+			<string name="mapName" value="Fort Asura"/>
+		</imgdir>
+		<imgdir name="874004940">
+			<string name="streetName" value="Fort Asura"/>
+			<string name="mapName" value="Fort Asura"/>
+		</imgdir>
+		<imgdir name="874004960">
+			<string name="streetName" value="Fort Asura"/>
+			<string name="mapName" value="Fort Asura"/>
+		</imgdir>
+	</imgdir>
+	<imgdir name="magicLamp">
+		<imgdir name="867154400">
+			<string name="streetName" value="Snowdrift Lodge"/>
+			<string name="mapName" value="Silver Mountain Slopes"/>
+		</imgdir>
+		<imgdir name="867154401">
+			<string name="streetName" value="Snowdrift Lodge"/>
+			<string name="mapName" value="Silver Mountain Slopes"/>
+		</imgdir>
+		<imgdir name="867154402">
+			<string name="streetName" value="Snowdrift Lodge"/>
+			<string name="mapName" value="Silver Mountain Slopes"/>
+		</imgdir>
+		<imgdir name="867154403">
+			<string name="streetName" value="Snowdrift Lodge"/>
+			<string name="mapName" value="Silver Mountain Slopes"/>
+		</imgdir>
+		<imgdir name="867154404">
+			<string name="streetName" value="Snowdrift Lodge"/>
+			<string name="mapName" value="Silver Mountain Slopes"/>
+		</imgdir>
+		<imgdir name="867154405">
+			<string name="streetName" value="Snowdrift Lodge"/>
+			<string name="mapName" value="Silver Mountain Slopes"/>
+		</imgdir>
+		<imgdir name="867154406">
+			<string name="streetName" value="Snowdrift Lodge"/>
+			<string name="mapName" value="Silver Mountain Slopes"/>
+		</imgdir>
+		<imgdir name="867154407">
+			<string name="streetName" value="Snowdrift Lodge"/>
+			<string name="mapName" value="Silver Mountain Slopes"/>
+		</imgdir>
+		<imgdir name="867154408">
+			<string name="streetName" value="Snowdrift Lodge"/>
+			<string name="mapName" value="Silver Mountain Slopes"/>
+		</imgdir>
+		<imgdir name="867154409">
+			<string name="streetName" value="Snowdrift Lodge"/>
+			<string name="mapName" value="Silver Mountain Slopes"/>
+		</imgdir>
+		<imgdir name="867154410">
+			<string name="streetName" value="Snowdrift Lodge"/>
+			<string name="mapName" value="Lobby"/>
+		</imgdir>
+		<imgdir name="867154411">
+			<string name="streetName" value="Goblin Full Moon Night Market"/>
+			<string name="mapName" value="Goblin Full Moon Night Market"/>
+		</imgdir>
+		<imgdir name="867154412">
+			<string name="streetName" value="Goblin Full Moon Night Market"/>
+			<string name="mapName" value="Goblin Full Moon Night Market"/>
+		</imgdir>
+		<imgdir name="867154413">
+			<string name="streetName" value="Celestial Festival"/>
+			<string name="mapName" value="Firework Storage"/>
+		</imgdir>
+		<imgdir name="867154417">
+			<string name="streetName" value="Pixel Kingdom"/>
+			<string name="mapName" value="Maximum Impulse"/>
+		</imgdir>
+		<imgdir name="867154418">
+			<string name="streetName" value="Rise Battlefield of Honor"/>
+			<string name="mapName" value="Battlefield of Honor Exit"/>
+		</imgdir>
+		<imgdir name="867154419">
+			<string name="streetName" value="Celestial Festival"/>
+			<string name="mapName" value="Firework Storage"/>
+		</imgdir>
+		<imgdir name="867154420">
+			<string name="streetName" value="Pixel Kingdom"/>
+			<string name="mapName" value="Watchtower Construction Site"/>
+		</imgdir>
+		<imgdir name="867154421">
+			<string name="streetName" value="Pixel Kingdom"/>
+			<string name="mapName" value="Watchtower Construction Site"/>
+		</imgdir>
+		<imgdir name="867154422">
+			<string name="streetName" value="Pixel Kingdom"/>
+			<string name="mapName" value="Watchtower Construction Site"/>
+		</imgdir>
+		<imgdir name="867154423">
+			<string name="streetName" value="Pixel Kingdom"/>
+			<string name="mapName" value="Watchtower Construction Site"/>
+		</imgdir>
+		<imgdir name="867154424">
+			<string name="streetName" value="Pixel Kingdom"/>
+			<string name="mapName" value="Watchtower Construction Site"/>
+		</imgdir>
+		<imgdir name="867154425">
+			<string name="streetName" value="Pixel Kingdom"/>
+			<string name="mapName" value="Watchtower Construction Site"/>
+		</imgdir>
+		<imgdir name="867154426">
+			<string name="streetName" value="Pixel Kingdom"/>
+			<string name="mapName" value="Watchtower Construction Site"/>
+		</imgdir>
+		<imgdir name="867154427">
+			<string name="streetName" value="Pixel Kingdom"/>
+			<string name="mapName" value="Watchtower Construction Site"/>
+		</imgdir>
+		<imgdir name="867154428">
+			<string name="streetName" value="Pixel Kingdom"/>
+			<string name="mapName" value="Watchtower Construction Site"/>
+		</imgdir>
+		<imgdir name="867154429">
+			<string name="streetName" value="Pixel Kingdom"/>
+			<string name="mapName" value="Watchtower Construction Site"/>
+		</imgdir>
+		<imgdir name="867154430">
+			<string name="streetName" value="Rise Battlefield of Honor"/>
+			<string name="mapName" value="Battlefield of Honor - Tournament"/>
+		</imgdir>
+		<imgdir name="867154431">
+			<string name="streetName" value="Rise Battlefield of Honor"/>
+			<string name="mapName" value="Battlefield of Honor - Tournament"/>
+		</imgdir>
+		<imgdir name="867154432">
+			<string name="streetName" value="Rise Battlefield of Honor"/>
+			<string name="mapName" value="Battlefield of Honor - Tournament"/>
+		</imgdir>
+		<imgdir name="867154433">
+			<string name="streetName" value="Rise Battlefield of Honor"/>
+			<string name="mapName" value="Battlefield of Honor - Tournament"/>
+		</imgdir>
+		<imgdir name="867154434">
+			<string name="streetName" value="Rise Battlefield of Honor"/>
+			<string name="mapName" value="Battlefield of Honor - Tournament"/>
+		</imgdir>
+		<imgdir name="867154435">
+			<string name="streetName" value="Rise Battlefield of Honor"/>
+			<string name="mapName" value="Battlefield of Honor - Tournament"/>
+		</imgdir>
+		<imgdir name="867154436">
+			<string name="streetName" value="Rise Battlefield of Honor"/>
+			<string name="mapName" value="Battlefield of Honor - Tournament"/>
+		</imgdir>
+		<imgdir name="867154437">
+			<string name="streetName" value="Rise Battlefield of Honor"/>
+			<string name="mapName" value="Battlefield of Honor - Tournament"/>
+		</imgdir>
+		<imgdir name="867154438">
+			<string name="streetName" value="Rise Battlefield of Honor"/>
+			<string name="mapName" value="Battlefield of Honor - Tournament"/>
+		</imgdir>
+		<imgdir name="867154439">
+			<string name="streetName" value="Rise Battlefield of Honor"/>
+			<string name="mapName" value="Battlefield of Honor - Tournament"/>
+		</imgdir>
+		<imgdir name="867154440">
+			<string name="streetName" value="Celestial Festival"/>
+			<string name="mapName" value="Firework Storage"/>
+		</imgdir>
+		<imgdir name="867154441">
+			<string name="streetName" value="Celestial Festival"/>
+			<string name="mapName" value="Firework Storage"/>
+		</imgdir>
+		<imgdir name="867154442">
+			<string name="streetName" value="Celestial Festival"/>
+			<string name="mapName" value="Firework Storage"/>
+		</imgdir>
+		<imgdir name="867154443">
+			<string name="streetName" value="Celestial Festival"/>
+			<string name="mapName" value="Firework Storage"/>
+		</imgdir>
+		<imgdir name="867154444">
+			<string name="streetName" value="Celestial Festival"/>
+			<string name="mapName" value="Firework Storage"/>
+		</imgdir>
+		<imgdir name="867154445">
+			<string name="streetName" value="Celestial Festival"/>
+			<string name="mapName" value="Firework Storage"/>
+		</imgdir>
+		<imgdir name="867154446">
+			<string name="streetName" value="Celestial Festival"/>
+			<string name="mapName" value="Firework Storage"/>
+		</imgdir>
+		<imgdir name="867154447">
+			<string name="streetName" value="Celestial Festival"/>
+			<string name="mapName" value="Firework Storage"/>
+		</imgdir>
+		<imgdir name="867154448">
+			<string name="streetName" value="Celestial Festival"/>
+			<string name="mapName" value="Firework Storage"/>
+		</imgdir>
+		<imgdir name="867154449">
+			<string name="streetName" value="Celestial Festival"/>
+			<string name="mapName" value="Firework Storage"/>
+		</imgdir>
 	</imgdir>
 </imgdir>
