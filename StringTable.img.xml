@@ -27,7 +27,7 @@
 	<string name="SID_ADD_BLACKLIST_NICKNAME_CURSE" value="Names cannot contain profanity."/>
 	<string name="SID_ADD_FRIEND_ERROR_CURSE" value="Profanity can&apos;t be used in nicknames or memos."/>
 	<string name="SID_CASHTRADING_MSG_BLOCK_TRADE_BOXRESULT" value="\r\n#The reward from the box cannot be traded with others.#"/>
-	<string name="SID_NOTICE_OFFLINEMODE" value="In the event of server maintenance, your recent login date may be visible in the Buddy and Guild UI,\r\neven when using Invisible Login."/>
+	<string name="SID_NOTICE_OFFLINEMODE" value="In the event of server maintenance, your recent login date may be\r\nvisible in the Buddy and Guild UI, even when using Invisible Login."/>
 	<string name="SID_FARM_WHISPER_BLOCKED" value="is not someone you can Message."/>
 	<string name="SID_ACCOUNT_FRIEND_TRANSFORM" value="This is a request to switch friend status to &quot;Account Friend.&quot;"/>
 	<string name="SID_FARM_SEND_PACKET_ERROR" value="Please try again later."/>

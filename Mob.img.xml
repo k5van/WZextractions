@@ -4545,6 +4545,9 @@
 	<imgdir name="8220042">
 		<string name="name" value="[*] Chief Oblivion Guardian"/>
 	</imgdir>
+	<imgdir name="8220043">
+		<string name="name" value="Riddle Mimic"/>
+	</imgdir>
 	<imgdir name="8220100">
 		<string name="name" value="Black Crescendo Slime"/>
 	</imgdir>
@@ -5866,7 +5869,7 @@
 		<string name="name" value="Burning Anxiety"/>
 	</imgdir>
 	<imgdir name="8630029">
-		<string name="name" value="Burning Vain"/>
+		<string name="name" value="Burning Vanity"/>
 	</imgdir>
 	<imgdir name="8630030">
 		<string name="name" value="Permeating Solitude"/>
@@ -5875,7 +5878,7 @@
 		<string name="name" value="Permeating Terror"/>
 	</imgdir>
 	<imgdir name="8630032">
-		<string name="name" value="Permeating Anger"/>
+		<string name="name" value="Permeating Rage"/>
 	</imgdir>
 	<imgdir name="8630033">
 		<string name="name" value="Permeating Anxiety"/>
@@ -21150,6 +21153,111 @@
 	<imgdir name="9833841">
 		<string name="name" value="Sage Rock"/>
 	</imgdir>
+	<imgdir name="9833843">
+		<string name="name" value="Unicorn Star Balloon"/>
+	</imgdir>
+	<imgdir name="9833844">
+		<string name="name" value="Unicorn Star Balloon"/>
+	</imgdir>
+	<imgdir name="9833845">
+		<string name="name" value="Unicorn Star Balloon"/>
+	</imgdir>
+	<imgdir name="9833846">
+		<string name="name" value="Unicorn Star Balloon"/>
+	</imgdir>
+	<imgdir name="9833847">
+		<string name="name" value="Unicorn Star Balloon"/>
+	</imgdir>
+	<imgdir name="9833848">
+		<string name="name" value="Unicorn Star Balloon"/>
+	</imgdir>
+	<imgdir name="9833849">
+		<string name="name" value="Unicorn Star Balloon"/>
+	</imgdir>
+	<imgdir name="9833850">
+		<string name="name" value="Unicorn Star Balloon"/>
+	</imgdir>
+	<imgdir name="9833851">
+		<string name="name" value="Unicorn Star Balloon"/>
+	</imgdir>
+	<imgdir name="9833852">
+		<string name="name" value="Unicorn Star Balloon"/>
+	</imgdir>
+	<imgdir name="9833853">
+		<string name="name" value="Unicorn Star Balloon"/>
+	</imgdir>
+	<imgdir name="9833854">
+		<string name="name" value="Star Balloon"/>
+	</imgdir>
+	<imgdir name="9833855">
+		<string name="name" value="Star Balloon"/>
+	</imgdir>
+	<imgdir name="9833856">
+		<string name="name" value="Star Balloon"/>
+	</imgdir>
+	<imgdir name="9833857">
+		<string name="name" value="Star Balloon"/>
+	</imgdir>
+	<imgdir name="9833858">
+		<string name="name" value="Star Balloon"/>
+	</imgdir>
+	<imgdir name="9833859">
+		<string name="name" value="Star Balloon"/>
+	</imgdir>
+	<imgdir name="9833860">
+		<string name="name" value="Star Balloon"/>
+	</imgdir>
+	<imgdir name="9833861">
+		<string name="name" value="Star Balloon"/>
+	</imgdir>
+	<imgdir name="9833862">
+		<string name="name" value="Star Balloon"/>
+	</imgdir>
+	<imgdir name="9833863">
+		<string name="name" value="Star Balloon"/>
+	</imgdir>
+	<imgdir name="9833864">
+		<string name="name" value="Star Balloon"/>
+	</imgdir>
+	<imgdir name="9833865">
+		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+	</imgdir>
+	<imgdir name="9833867">
+		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+	</imgdir>
+	<imgdir name="9833869">
+		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+	</imgdir>
+	<imgdir name="9833871">
+		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+	</imgdir>
+	<imgdir name="9833872">
+		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+	</imgdir>
+	<imgdir name="9833873">
+		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+	</imgdir>
+	<imgdir name="9833874">
+		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+	</imgdir>
+	<imgdir name="9833875">
+		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+	</imgdir>
+	<imgdir name="9833876">
+		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+	</imgdir>
+	<imgdir name="9833877">
+		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+	</imgdir>
+	<imgdir name="9833878">
+		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+	</imgdir>
+	<imgdir name="9833879">
+		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+	</imgdir>
+	<imgdir name="9833880">
+		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+	</imgdir>
 	<imgdir name="9990025">
 		<string name="name" value="Lucid Type"/>
 	</imgdir>
@@ -21178,40 +21286,40 @@
 		<string name="name" value="Flaming Raccoon"/>
 	</imgdir>
 	<imgdir name="9400100">
-		<string name="name" value="Extra A"/>
+		<string name="name" value="Yakuza Soldier"/>
 	</imgdir>
 	<imgdir name="9400101">
-		<string name="name" value="Extra B"/>
+		<string name="name" value="Yakuza Grunt"/>
 	</imgdir>
 	<imgdir name="9400102">
-		<string name="name" value="Extra C"/>
+		<string name="name" value="Yakuza Bruiser"/>
 	</imgdir>
 	<imgdir name="9400103">
-		<string name="name" value="Extra D"/>
+		<string name="name" value="Yakuza Enforcer"/>
 	</imgdir>
 	<imgdir name="9400110">
-		<string name="name" value="Leader A"/>
+		<string name="name" value="Yakuza Lieutenant"/>
 	</imgdir>
 	<imgdir name="9400111">
-		<string name="name" value="Leader B"/>
+		<string name="name" value="Yakuza Shotcaller"/>
 	</imgdir>
 	<imgdir name="9400112">
-		<string name="name" value="Bodyguard A"/>
+		<string name="name" value="Yakuza Bodyguard"/>
 	</imgdir>
 	<imgdir name="9400113">
-		<string name="name" value="Bodyguard B"/>
+		<string name="name" value="Yakuza Protector"/>
 	</imgdir>
 	<imgdir name="9400114">
 		<string name="name" value="Slot Machine"/>
 	</imgdir>
 	<imgdir name="9400120">
-		<string name="name" value="Male Boss A"/>
+		<string name="name" value="Yakuza Executive"/>
 	</imgdir>
 	<imgdir name="9400121">
-		<string name="name" value="Female Boss"/>
+		<string name="name" value="Yakuza Underboss"/>
 	</imgdir>
 	<imgdir name="9400122">
-		<string name="name" value="Male Boss B"/>
+		<string name="name" value="Yakuza Officer"/>
 	</imgdir>
 	<imgdir name="9400200">
 		<string name="name" value="Malady"/>
@@ -21232,7 +21340,7 @@
 		<string name="name" value="Red Slime"/>
 	</imgdir>
 	<imgdir name="9400300">
-		<string name="name" value="The Boss"/>
+		<string name="name" value="Yakuza Boss"/>
 	</imgdir>
 	<imgdir name="9400310">
 		<string name="name" value="Tic (Easy)"/>
@@ -22612,7 +22720,7 @@
 		<string name="name" value="False Daimyo"/>
 	</imgdir>
 	<imgdir name="9400409">
-		<string name="name" value="Emperor Toad"/>
+		<string name="name" value="Gigatoad"/>
 	</imgdir>
 	<imgdir name="9400410">
 		<string name="name" value="Rock"/>
@@ -24531,37 +24639,37 @@
 		<string name="name" value="Furious Scarlion Boss"/>
 	</imgdir>
 	<imgdir name="9480072">
-		<string name="name" value="Extra A"/>
+		<string name="name" value="Yakuza Soldier"/>
 	</imgdir>
 	<imgdir name="9480073">
-		<string name="name" value="Extra B"/>
+		<string name="name" value="Yakuza Grunt"/>
 	</imgdir>
 	<imgdir name="9480074">
-		<string name="name" value="Extra C"/>
+		<string name="name" value="Yakuza Bruiser"/>
 	</imgdir>
 	<imgdir name="9480075">
-		<string name="name" value="Extra D"/>
+		<string name="name" value="Yakuza Enforcer"/>
 	</imgdir>
 	<imgdir name="9480076">
-		<string name="name" value="Leader A"/>
+		<string name="name" value="Yakuza Lieutenant"/>
 	</imgdir>
 	<imgdir name="9480077">
-		<string name="name" value="Leader B"/>
+		<string name="name" value="Yakuza Shotcaller"/>
 	</imgdir>
 	<imgdir name="9480078">
-		<string name="name" value="Bodyguard A"/>
+		<string name="name" value="Yakuza Bodyguard"/>
 	</imgdir>
 	<imgdir name="9480079">
-		<string name="name" value="Bodyguard B"/>
+		<string name="name" value="Yakuza Protector"/>
 	</imgdir>
 	<imgdir name="9480080">
-		<string name="name" value="Male Boss A"/>
+		<string name="name" value="Yakuza Executive"/>
 	</imgdir>
 	<imgdir name="9480081">
-		<string name="name" value="Female Boss"/>
+		<string name="name" value="Yakuza Underboss"/>
 	</imgdir>
 	<imgdir name="9480082">
-		<string name="name" value="The Boss"/>
+		<string name="name" value="Yakuza Boss"/>
 	</imgdir>
 	<imgdir name="9480083">
 		<string name="name" value="Giant Tomato"/>
@@ -27990,7 +28098,7 @@
 		<string name="name" value="Crow"/>
 	</imgdir>
 	<imgdir name="9601402">
-		<string name="name" value="The Boss"/>
+		<string name="name" value="Yakuza Boss"/>
 	</imgdir>
 	<imgdir name="9601403">
 		<string name="name" value="Tengu&apos;s Shadow"/>
@@ -28011,34 +28119,34 @@
 		<string name="name" value="Black Boogie"/>
 	</imgdir>
 	<imgdir name="9601409">
-		<string name="name" value="Extra A"/>
+		<string name="name" value="Yakuza Soldier"/>
 	</imgdir>
 	<imgdir name="9601410">
-		<string name="name" value="Extra B"/>
+		<string name="name" value="Yakuza Grunt"/>
 	</imgdir>
 	<imgdir name="9601411">
-		<string name="name" value="Extra C"/>
+		<string name="name" value="Yakuza Bruiser"/>
 	</imgdir>
 	<imgdir name="9601412">
-		<string name="name" value="Leader A"/>
+		<string name="name" value="Yakuza Lieutenant"/>
 	</imgdir>
 	<imgdir name="9601413">
-		<string name="name" value="Leader B"/>
+		<string name="name" value="Yakuza Shotcaller"/>
 	</imgdir>
 	<imgdir name="9601414">
-		<string name="name" value="Male Boss A"/>
+		<string name="name" value="Yakuza Executive"/>
 	</imgdir>
 	<imgdir name="9601415">
-		<string name="name" value="Extra D"/>
+		<string name="name" value="Yakuza Enforcer"/>
 	</imgdir>
 	<imgdir name="9601416">
-		<string name="name" value="Female Boss"/>
+		<string name="name" value="Yakuza Underboss"/>
 	</imgdir>
 	<imgdir name="9601417">
 		<string name="name" value="Dusk Viper"/>
 	</imgdir>
 	<imgdir name="9601418">
-		<string name="name" value="Male Boss B"/>
+		<string name="name" value="Yakuza Officer"/>
 	</imgdir>
 	<imgdir name="9601419">
 		<string name="name" value="Cerberusian Gigantic Drill"/>
@@ -28122,16 +28230,16 @@
 		<string name="name" value="Tengu&apos;s Shadow"/>
 	</imgdir>
 	<imgdir name="9601446">
-		<string name="name" value="Bodyguard A"/>
+		<string name="name" value="Yakuza Bodyguard"/>
 	</imgdir>
 	<imgdir name="9601447">
-		<string name="name" value="Bodyguard B"/>
+		<string name="name" value="Yakuza Protector"/>
 	</imgdir>
 	<imgdir name="9601448">
-		<string name="name" value="Male Boss A"/>
+		<string name="name" value="Yakuza Executive"/>
 	</imgdir>
 	<imgdir name="9601449">
-		<string name="name" value="Female Boss"/>
+		<string name="name" value="Yakuza Underboss"/>
 	</imgdir>
 	<imgdir name="9601450">
 		<string name="name" value="Alien Miner"/>
@@ -28615,5 +28723,50 @@
 	</imgdir>
 	<imgdir name="9601677">
 		<string name="name" value="Slime"/>
+	</imgdir>
+	<imgdir name="9440900">
+		<string name="name" value="Lotus"/>
+	</imgdir>
+	<imgdir name="9440901">
+		<string name="name" value="Lotus"/>
+	</imgdir>
+	<imgdir name="9440902">
+		<string name="name" value="Lucid"/>
+	</imgdir>
+	<imgdir name="9440903">
+		<string name="name" value="Curse Eye"/>
+	</imgdir>
+	<imgdir name="9440904">
+		<string name="name" value="Super Slime"/>
+	</imgdir>
+	<imgdir name="9440907">
+		<string name="name" value="Zombie Mushmom"/>
+	</imgdir>
+	<imgdir name="9440908">
+		<string name="name" value="Nightmare Butterfly"/>
+	</imgdir>
+	<imgdir name="9440909">
+		<string name="name" value="Blue Mushmom"/>
+	</imgdir>
+	<imgdir name="9440910">
+		<string name="name" value="Xerxes"/>
+	</imgdir>
+	<imgdir name="9440911">
+		<string name="name" value="Mystic Mushmom"/>
+	</imgdir>
+	<imgdir name="9440912">
+		<string name="name" value="Smiling Ghost Stump"/>
+	</imgdir>
+	<imgdir name="9440913">
+		<string name="name" value="Spirit of Rock"/>
+	</imgdir>
+	<imgdir name="9440914">
+		<string name="name" value="Cygnus"/>
+	</imgdir>
+	<imgdir name="9440915">
+		<string name="name" value="Vellum"/>
+	</imgdir>
+	<imgdir name="9601670">
+		<string name="name" value="Lucky Year of the Ox Sack"/>
 	</imgdir>
 </imgdir>

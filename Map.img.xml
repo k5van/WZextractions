@@ -2038,7 +2038,7 @@
 		<imgdir name="104020000">
 			<string name="streetName" value="Port Road"/>
 			<string name="mapName" value="Six Path Crossway"/>
-			<string name="mapDesc" value="A place located in the middle of Victoria Island. The hidden path in the large tree trunk here leads to Sleepywood. You can move to different areas by riding the Airship that launches from the Tree Platform. \n\n#cConnected areas\n - Orbis\n - Erev\n - Edelstein"/>
+			<string name="mapDesc" value="A place located in the middle of Victoria Island. The hidden path in the large tree trunk here leads to Sleepywood. You can move to different areas by riding the Airship that launches from the Tree Platform. \n\n#cConnected areas\n - Orbis\n - Ereve\n - Edelstein"/>
 		</imgdir>
 		<imgdir name="104020100">
 			<string name="streetName" value="Port Road"/>
@@ -4846,6 +4846,14 @@
 			<string name="streetName" value="Hidden Street"/>
 			<string name="mapName" value="Colossal Root"/>
 		</imgdir>
+		<imgdir name="180000107">
+			<string name="streetName" value="Victoria Road"/>
+			<string name="mapName" value="Ellinia"/>
+		</imgdir>
+		<imgdir name="180000108">
+			<string name="streetName" value="Victoria Road"/>
+			<string name="mapName" value="Ellinia"/>
+		</imgdir>
 		<imgdir name="180010000">
 			<string name="streetName" value="Victoria Road"/>
 			<string name="mapName" value="Ellinia"/>
@@ -4863,6 +4871,10 @@
 			<string name="mapName" value="Ellinia"/>
 		</imgdir>
 		<imgdir name="180010004">
+			<string name="streetName" value="Victoria Road"/>
+			<string name="mapName" value="Ellinia"/>
+		</imgdir>
+		<imgdir name="180010005">
 			<string name="streetName" value="Victoria Road"/>
 			<string name="mapName" value="Ellinia"/>
 		</imgdir>
@@ -4986,15 +4998,7 @@
 			<string name="streetName" value="Partem"/>
 			<string name="mapName" value="Eerie Ruins Depths"/>
 		</imgdir>
-		<imgdir name="180000107">
-			<string name="streetName" value="Victoria Road"/>
-			<string name="mapName" value="Ellinia"/>
-		</imgdir>
-		<imgdir name="180000108">
-			<string name="streetName" value="Victoria Road"/>
-			<string name="mapName" value="Ellinia"/>
-		</imgdir>
-		<imgdir name="180010005">
+		<imgdir name="180000109">
 			<string name="streetName" value="Victoria Road"/>
 			<string name="mapName" value="Ellinia"/>
 		</imgdir>
@@ -38436,16 +38440,16 @@
 			<string name="streetName" value="Trooth Booth"/>
 		</imgdir>
 		<imgdir name="993074000">
-			<string name="mapName" value="Sticky Sweet Choco Slime Entry"/>
-			<string name="streetName" value="Sticky Sweet Choco Slime"/>
+			<string name="mapName" value="Uni-phoria Lobby"/>
+			<string name="streetName" value="Uni-phoria"/>
 		</imgdir>
 		<imgdir name="993074001">
-			<string name="mapName" value="Sticky Sweet Choco Slime"/>
-			<string name="streetName" value="Sticky Sweet Choco Slime"/>
+			<string name="mapName" value="Uni-phoria"/>
+			<string name="streetName" value="Uni-phoria"/>
 		</imgdir>
 		<imgdir name="993074800">
-			<string name="mapName" value="Sticky Sweet Choco Slime Exit"/>
-			<string name="streetName" value="Sticky Sweet Choco Slime"/>
+			<string name="mapName" value="Uni-phoria Exit"/>
+			<string name="streetName" value="Uni-phoria"/>
 		</imgdir>
 		<imgdir name="993080000">
 			<string name="streetName" value="Adventure Island"/>
@@ -41345,6 +41349,174 @@
 		<imgdir name="993184300">
 			<string name="streetName" value="Mountain of Awakening"/>
 			<string name="mapName" value="Sage Rock Training Grounds"/>
+		</imgdir>
+		<imgdir name="993186000">
+			<string name="streetName" value="Full Moon Party Venue"/>
+			<string name="mapName" value="Under the Full Moon"/>
+		</imgdir>
+		<imgdir name="993186001">
+			<string name="streetName" value="Full Moon Party Venue"/>
+			<string name="mapName" value="Under the Full Moon"/>
+		</imgdir>
+		<imgdir name="993186100">
+			<string name="streetName" value="Full Moon Party Venue"/>
+			<string name="mapName" value="Star Balloon Pop Entrance"/>
+		</imgdir>
+		<imgdir name="993186101">
+			<string name="streetName" value="Full Moon Party Venue"/>
+			<string name="mapName" value="Star Balloon Pop Exit"/>
+		</imgdir>
+		<imgdir name="993186200">
+			<string name="streetName" value="Full Moon Party Venue"/>
+			<string name="mapName" value="Star Balloon Pop"/>
+		</imgdir>
+		<imgdir name="993186300">
+			<string name="streetName" value="Full Moon Party Venue"/>
+			<string name="mapName" value="Potion Pyramid Lobby"/>
+		</imgdir>
+		<imgdir name="993186400">
+			<string name="streetName" value="Full Moon Party Venue"/>
+			<string name="mapName" value="Potion Pyramid Arena"/>
+		</imgdir>
+		<imgdir name="993186500">
+			<string name="streetName" value="Full Moon Party Venue"/>
+			<string name="mapName" value="Potion Pyramid Exit"/>
+		</imgdir>
+		<imgdir name="993186600">
+			<string name="streetName" value="Full Moon Party Venue"/>
+			<string name="mapName" value="Celestial Cookie Flip Lobby"/>
+		</imgdir>
+		<imgdir name="993186700">
+			<string name="streetName" value="Full Moon Party Venue"/>
+			<string name="mapName" value="Celestial Cookie Flip Arena"/>
+		</imgdir>
+		<imgdir name="993186800">
+			<string name="streetName" value="Full Moon Party Venue"/>
+			<string name="mapName" value="Celestial Cookie Flip Exit"/>
+		</imgdir>
+		<imgdir name="993186900">
+			<string name="streetName" value="Full Moon Party Venue"/>
+			<string name="mapName" value="Under the Full Moon"/>
+		</imgdir>
+		<imgdir name="993187300">
+			<string name="streetName" value="Wisp Wallop"/>
+			<string name="mapName" value="Deployment Ready"/>
+		</imgdir>
+		<imgdir name="993187400">
+			<string name="streetName" value="Wisp Wallop"/>
+			<string name="mapName" value="Wisp Wallop"/>
+		</imgdir>
+		<imgdir name="993187500">
+			<string name="streetName" value="Wisp Wallop"/>
+			<string name="mapName" value="Safe Return"/>
+		</imgdir>
+		<imgdir name="993188000">
+			<string name="streetName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="mapName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		</imgdir>
+		<imgdir name="993188001">
+			<string name="streetName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="mapName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		</imgdir>
+		<imgdir name="993188002">
+			<string name="streetName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="mapName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		</imgdir>
+		<imgdir name="993188003">
+			<string name="streetName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="mapName" value="&#43690;&#43690;&#43690;"/>
+		</imgdir>
+		<imgdir name="993188010">
+			<string name="streetName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="mapName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		</imgdir>
+		<imgdir name="993188020">
+			<string name="streetName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="mapName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		</imgdir>
+		<imgdir name="993188030">
+			<string name="streetName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="mapName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		</imgdir>
+		<imgdir name="993188040">
+			<string name="streetName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="mapName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		</imgdir>
+		<imgdir name="993188050">
+			<string name="streetName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="mapName" value="&#43690;&#43690;&#43690;"/>
+		</imgdir>
+		<imgdir name="993188060">
+			<string name="streetName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="mapName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		</imgdir>
+		<imgdir name="993188070">
+			<string name="streetName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="mapName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		</imgdir>
+		<imgdir name="993188080">
+			<string name="streetName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="mapName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		</imgdir>
+		<imgdir name="993188100">
+			<string name="streetName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="mapName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		</imgdir>
+		<imgdir name="993188110">
+			<string name="streetName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="mapName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		</imgdir>
+		<imgdir name="993188130">
+			<string name="streetName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="mapName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		</imgdir>
+		<imgdir name="993188140">
+			<string name="streetName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="mapName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		</imgdir>
+		<imgdir name="993188150">
+			<string name="streetName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="mapName" value="&#43690;&#43690;&#43690;&#43690;"/>
+		</imgdir>
+		<imgdir name="993188160">
+			<string name="streetName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="mapName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		</imgdir>
+		<imgdir name="993188200">
+			<string name="streetName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="mapName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		</imgdir>
+		<imgdir name="993188300">
+			<string name="streetName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="mapName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		</imgdir>
+		<imgdir name="993188400">
+			<string name="streetName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="mapName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		</imgdir>
+		<imgdir name="993188500">
+			<string name="streetName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="mapName" value="&#43690;&#43690;&#43690;&#43690;"/>
+		</imgdir>
+		<imgdir name="993188600">
+			<string name="streetName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="mapName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		</imgdir>
+		<imgdir name="993188700">
+			<string name="streetName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="mapName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		</imgdir>
+		<imgdir name="993188800">
+			<string name="streetName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="mapName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		</imgdir>
+		<imgdir name="993188900">
+			<string name="streetName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="mapName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		</imgdir>
+		<imgdir name="993189000">
+			<string name="streetName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="mapName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
 		</imgdir>
 		<imgdir name="931060042">
 			<string name="streetName" value="Hidden Street"/>
@@ -46326,6 +46498,7 @@
 		<imgdir name="800000000">
 			<string name="streetName" value="Zipangu"/>
 			<string name="mapName" value="Mushroom Shrine"/>
+			<string name="mapDesc" value="A floating island that has been transferred from the Other World to Maple World. With the Kamuna, which holds a mysterious power, in the center, different places from different time periods from the Other World are gathered around like a group of islands. Use the ferry located at Mushroom Shrine to move to other islands and Victoria Island. \n\n#cOther connected regions\n - Momijigaoka \n - Showa Town \n - Ninja Castle \n - Victoria Island Six Path Crossway"/>
 		</imgdir>
 		<imgdir name="800010000">
 			<string name="streetName" value="Zipangu"/>
@@ -46577,78 +46750,78 @@
 		</imgdir>
 		<imgdir name="801040100">
 			<string name="streetName" value="Zipangu"/>
-			<string name="mapName" value="The Nightmarish Last Days"/>
+			<string name="mapName" value="Nightmare&apos;s End"/>
 		</imgdir>
 		<imgdir name="801040101">
 			<string name="streetName" value="Zipangu"/>
 			<string name="mapName" value="Near the Hideout (Beautiful Sky)"/>
 		</imgdir>
 		<imgdir name="807000000">
-			<string name="streetName" value="Momijigaoka"/>
+			<string name="streetName" value="Zipangu"/>
 			<string name="mapName" value="Momijigaoka"/>
 		</imgdir>
 		<imgdir name="807000001">
-			<string name="streetName" value="Momijigaoka"/>
+			<string name="streetName" value="Zipangu"/>
 			<string name="mapName" value="Somewhere in Momijigaoka"/>
 		</imgdir>
 		<imgdir name="807010000">
-			<string name="streetName" value="Momijigaoka"/>
+			<string name="streetName" value="Zipangu"/>
 			<string name="mapName" value="Maple Hill Road 1"/>
 		</imgdir>
 		<imgdir name="807010100">
-			<string name="streetName" value="Momijigaoka"/>
+			<string name="streetName" value="Zipangu"/>
 			<string name="mapName" value="Maple Hill Road 2"/>
 		</imgdir>
 		<imgdir name="807020000">
-			<string name="streetName" value="Momijigaoka"/>
+			<string name="streetName" value="Zipangu"/>
 			<string name="mapName" value="Momijigahara 1"/>
 		</imgdir>
 		<imgdir name="807020100">
-			<string name="streetName" value="Momijigaoka"/>
+			<string name="streetName" value="Zipangu"/>
 			<string name="mapName" value="Momijigahara 2"/>
 		</imgdir>
 		<imgdir name="807020101">
-			<string name="streetName" value="Momijigaoka"/>
+			<string name="streetName" value="Zipangu"/>
 			<string name="mapName" value="Battleground"/>
 		</imgdir>
 		<imgdir name="807020102">
-			<string name="streetName" value="Momijigaoka"/>
+			<string name="streetName" value="Zipangu"/>
 			<string name="mapName" value="Battleground"/>
 		</imgdir>
 		<imgdir name="807020103">
-			<string name="streetName" value="Momijigaoka"/>
+			<string name="streetName" value="Zipangu"/>
 			<string name="mapName" value="Battleground"/>
 		</imgdir>
 		<imgdir name="807020104">
-			<string name="streetName" value="Momijigaoka"/>
+			<string name="streetName" value="Zipangu"/>
 			<string name="mapName" value="Honnou-ji Outer Wall"/>
 		</imgdir>
 		<imgdir name="807020105">
-			<string name="streetName" value="Momijigaoka"/>
+			<string name="streetName" value="Zipangu"/>
 			<string name="mapName" value="Honnou-ji Outer Wall"/>
 		</imgdir>
 		<imgdir name="807020106">
-			<string name="streetName" value="Momijigaoka"/>
+			<string name="streetName" value="Zipangu"/>
 			<string name="mapName" value="Honnou-ji Outer Wall"/>
 		</imgdir>
 		<imgdir name="807030000">
-			<string name="streetName" value="Momijigaoka"/>
+			<string name="streetName" value="Zipangu"/>
 			<string name="mapName" value="Training Dojo 1"/>
 		</imgdir>
 		<imgdir name="807030100">
-			<string name="streetName" value="Momijigaoka"/>
+			<string name="streetName" value="Zipangu"/>
 			<string name="mapName" value="Training Dojo 2"/>
 		</imgdir>
 		<imgdir name="807030200">
-			<string name="streetName" value="Momijigaoka"/>
+			<string name="streetName" value="Zipangu"/>
 			<string name="mapName" value="Training Dojo 3"/>
 		</imgdir>
 		<imgdir name="807040000">
-			<string name="streetName" value="Momijigaoka"/>
+			<string name="streetName" value="Zipangu"/>
 			<string name="mapName" value="Unfamiliar Hillside"/>
 		</imgdir>
 		<imgdir name="807040100">
-			<string name="streetName" value="Momijigaoka"/>
+			<string name="streetName" value="Zipangu"/>
 			<string name="mapName" value="Momijigaoka Entrance"/>
 		</imgdir>
 		<imgdir name="807050000">
@@ -46764,7 +46937,7 @@
 			<string name="mapName" value="Conference Pavilion"/>
 		</imgdir>
 		<imgdir name="807100121">
-			<string name="streetName" value="Momijigaoka"/>
+			<string name="streetName" value="Zipangu"/>
 			<string name="mapName" value="Momijigaoka"/>
 		</imgdir>
 		<imgdir name="807100122">
@@ -48080,11 +48253,11 @@
 			<string name="mapName" value="Entrance to Slot Machine Arcade"/>
 		</imgdir>
 		<imgdir name="811001000">
-			<string name="streetName" value="Momijigaoka"/>
+			<string name="streetName" value="Zipangu"/>
 			<string name="mapName" value="Momijigaoka"/>
 		</imgdir>
 		<imgdir name="811001001">
-			<string name="streetName" value="Momijigaoka"/>
+			<string name="streetName" value="Zipangu"/>
 			<string name="mapName" value="Somewhere in Momijigaoka"/>
 		</imgdir>
 		<imgdir name="814040000">
@@ -53507,19 +53680,19 @@
 		</imgdir>
 		<imgdir name="867111008">
 			<string name="mapName" value="Momijigaoka"/>
-			<string name="streetName" value="Momijigaoka"/>
+			<string name="streetName" value="Zipangu"/>
 		</imgdir>
 		<imgdir name="867111009">
 			<string name="mapName" value="Momijigaoka"/>
-			<string name="streetName" value="Momijigaoka"/>
+			<string name="streetName" value="Zipangu"/>
 		</imgdir>
 		<imgdir name="867111010">
 			<string name="mapName" value="Momijigaoka"/>
-			<string name="streetName" value="Momijigaoka"/>
+			<string name="streetName" value="Zipangu"/>
 		</imgdir>
 		<imgdir name="867111011">
 			<string name="mapName" value="Momijigaoka"/>
-			<string name="streetName" value="Momijigaoka"/>
+			<string name="streetName" value="Zipangu"/>
 		</imgdir>
 		<imgdir name="867111012">
 			<string name="mapName" value="Henesys"/>
@@ -62068,15 +62241,15 @@
 	</imgdir>
 	<imgdir name="PL_sengoku3">
 		<imgdir name="874000000">
-			<string name="streetName" value="Momijigaoka"/>
+			<string name="streetName" value="Zipangu"/>
 			<string name="mapName" value="Momijigaoka"/>
 		</imgdir>
 		<imgdir name="874000001">
-			<string name="streetName" value="Momijigaoka"/>
+			<string name="streetName" value="Zipangu"/>
 			<string name="mapName" value="Momijigaoka"/>
 		</imgdir>
 		<imgdir name="874000002">
-			<string name="streetName" value="Momijigaoka"/>
+			<string name="streetName" value="Zipangu"/>
 			<string name="mapName" value="Momijigaoka"/>
 		</imgdir>
 		<imgdir name="874000003">
@@ -62084,7 +62257,7 @@
 			<string name="mapName" value="Mushroom Shrine"/>
 		</imgdir>
 		<imgdir name="874000004">
-			<string name="streetName" value="Momijigaoka"/>
+			<string name="streetName" value="Zipangu"/>
 			<string name="mapName" value="Momijigaoka"/>
 		</imgdir>
 		<imgdir name="874000005">
@@ -62096,7 +62269,7 @@
 			<string name="mapName" value="Fort Asura Interior"/>
 		</imgdir>
 		<imgdir name="874000007">
-			<string name="streetName" value="Momijigaoka"/>
+			<string name="streetName" value="Zipangu"/>
 			<string name="mapName" value="Momijigaoka"/>
 		</imgdir>
 		<imgdir name="874000008">
@@ -62116,7 +62289,7 @@
 			<string name="mapName" value="Ritual Altar"/>
 		</imgdir>
 		<imgdir name="874000012">
-			<string name="streetName" value="Momijigaoka"/>
+			<string name="streetName" value="Zipangu"/>
 			<string name="mapName" value="Honnou-ji"/>
 		</imgdir>
 		<imgdir name="874000013">
@@ -62152,15 +62325,15 @@
 			<string name="mapName" value="Fort Asura Interior"/>
 		</imgdir>
 		<imgdir name="874000021">
-			<string name="streetName" value="Momijigaoka"/>
+			<string name="streetName" value="Zipangu"/>
 			<string name="mapName" value="Near Momijigaoka"/>
 		</imgdir>
 		<imgdir name="874000022">
-			<string name="streetName" value="Momijigaoka"/>
+			<string name="streetName" value="Zipangu"/>
 			<string name="mapName" value="Honnou-ji"/>
 		</imgdir>
 		<imgdir name="874000023">
-			<string name="streetName" value="Momijigaoka"/>
+			<string name="streetName" value="Zipangu"/>
 			<string name="mapName" value="Honnou-ji"/>
 		</imgdir>
 		<imgdir name="874000024">
@@ -62172,11 +62345,11 @@
 			<string name="mapName" value="Honnou-ji"/>
 		</imgdir>
 		<imgdir name="874000050">
-			<string name="streetName" value="Momijigaoka"/>
+			<string name="streetName" value="Zipangu"/>
 			<string name="mapName" value="Momijigaoka"/>
 		</imgdir>
 		<imgdir name="874000051">
-			<string name="streetName" value="Momijigaoka"/>
+			<string name="streetName" value="Zipangu"/>
 			<string name="mapName" value="Momijigaoka"/>
 		</imgdir>
 		<imgdir name="874000100">

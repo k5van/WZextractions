@@ -2419,6 +2419,22 @@ Talk to NPC Lauren at Henesys Hair Salon for Androids."/>
 		<string name="name" value="Foggy Glimmering Ripple Hair Coupon"/>
 		<string name="desc" value="#cDouble-click# to change your hair to the selected hairstyle. Can only be used on female characters."/>
 	</imgdir>
+	<imgdir name="5157026">
+		<string name="name" value="Puzzle King Hair Coupon"/>
+		<string name="desc" value="#cDouble-click# to change your hair to the selected hairstyle. Can only be used on male characters."/>
+	</imgdir>
+	<imgdir name="5157027">
+		<string name="name" value="Silky Puzzle King Hair Coupon"/>
+		<string name="desc" value="#cDouble-click# to change your hair to the selected hairstyle. Can only be used on male characters."/>
+	</imgdir>
+	<imgdir name="5157028">
+		<string name="name" value="Clue Queen Hair Coupon"/>
+		<string name="desc" value="#cDouble-click# to change your hair to the selected hairstyle. Can only be used on female characters."/>
+	</imgdir>
+	<imgdir name="5157029">
+		<string name="name" value="Silky Clue Queen Hair Coupon"/>
+		<string name="desc" value="#cDouble-click# to change your hair to the selected hairstyle. Can only be used on female characters."/>
+	</imgdir>
 	<imgdir name="5158000">
 		<string name="name" value="Piercing Gaze (M) Coupon"/>
 		<string name="desc" value="Double-click to change your face to Piercing Gaze (Male). Can only be used on male characters."/>
@@ -7740,6 +7756,10 @@ Talk to NPC Lauren at Henesys Hair Salon for Androids."/>
 		<string name="name" value="Fairy Bros&apos; Hair Selector Coupon"/>
 		<string name="desc" value="#cDouble-click# to pick one of the assorted hairstyles, or talk to Lauren at Henesys Hair Salon to change your Android&apos;s hair."/>
 	</imgdir>
+	<imgdir name="5150185">
+		<string name="name" value="2019 Beauty Awards Hair Coupon"/>
+		<string name="desc" value="#cDouble-click# to exchange this coupon for a#c random# 2019 Beauty Awards Hair, or talk to Lauren at the Henesys Hair Salon to change your Android&apos;s hair. #cAll hairstyles have the same chance to be obtained. (Check out the Beauty Awards results announcement on the homepage for the list of can be obtained.)#"/>
+	</imgdir>
 	<imgdir name="5152111">
 		<string name="name" value="One-Time Cosmetic Lens"/>
 		<string name="desc" value="#cDouble-click# to #crecolor your eyes as you like.#\r\n#c(Warning! Some monster faces, like the Pepe and Pink Bean Faces, cannot have their eyes re-colored.)#"/>
@@ -7747,6 +7767,10 @@ Talk to NPC Lauren at Henesys Hair Salon for Androids."/>
 	<imgdir name="5152248">
 		<string name="name" value="Fairy Bros&apos; Face Selector Coupon"/>
 		<string name="desc" value="#cDouble-click# to apply the face of your choice from a carefully curated list, or talk to Lauren at the Henesys Hair Salon to change your Android&apos;s hair."/>
+	</imgdir>
+	<imgdir name="5152254">
+		<string name="name" value="2019 Beauty Awards Face Coupon"/>
+		<string name="desc" value="#cDouble-click# to exchange this coupon for a#c random# 2019 Beauty Awards Face, or talk to Lauren at the Henesys Hair Salon to change your Android&apos;s face. #cAll faces have the same chance to be obtained. (Check out the Beauty Awards results announcement on the homepage for the list of can be obtained.)#"/>
 	</imgdir>
 	<imgdir name="5204041">
 		<string name="name" value="A Taste of Spring"/>
@@ -7759,6 +7783,10 @@ Talk to NPC Lauren at Henesys Hair Salon for Androids."/>
 	<imgdir name="5530882">
 		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
 		<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+	</imgdir>
+	<imgdir name="5530883">
+		<string name="name" value="Full Moon Ticket x1 Coupon"/>
+		<string name="desc" value="Double-click and use to obtain #cFull Moon Ticket x1#, which can be exchanged for various rewards."/>
 	</imgdir>
 	<imgdir name="5533136">
 		<string name="name" value="Peculiar Thermal Top Box"/>
@@ -7787,6 +7815,18 @@ Talk to NPC Lauren at Henesys Hair Salon for Androids."/>
 	<imgdir name="5680832">
 		<string name="name" value="Grape Chat Ring (30 Day) Coupon"/>
 		<string name="desc" value="#cDouble-click# this coupon to receive a Grape Chat Ring (30 Day)."/>
+	</imgdir>
+	<imgdir name="5680851">
+		<string name="name" value="Puzzle King Hair Selection Coupon (M)"/>
+		<string name="desc" value="#cDouble-click# to select either the Puzzle King Hair Coupon or Silky Puzzle King Hair Coupon."/>
+	</imgdir>
+	<imgdir name="5680852">
+		<string name="name" value="Clue Queen Hair Selection Coupon (F)"/>
+		<string name="desc" value="#cDouble-click# to select either the Clue Queen Hair Coupon or Silky Clue Queen Hair Coupon."/>
+	</imgdir>
+	<imgdir name="5680873">
+		<string name="desc" value="It&apos;s a #cMaple Special Gift# box! #cDouble-click# to open it."/>
+		<string name="name" value="Maple Special Gift"/>
 	</imgdir>
 	<imgdir name="5680830">
 		<string name="desc" value="It&apos;s a #cMaple Special Gift# box! \r\n#cDouble-click# to open it."/>
@@ -12546,5 +12586,21 @@ Upon using the cube, the value of all potentials #cwill become consistent with t
 	<imgdir name="5010190">
 		<string name="name" value="More Beautiful Than Flower"/>
 		<string name="desc" value="Double-click to toggle the effect, or set up a hotkey in your Key Config."/>
+	</imgdir>
+	<imgdir name="5390039">
+		<string name="name" value="Year of the Ox Megaphone"/>
+		<string name="desc" value="This year is the #cYear of the Ox!#\nUse this item to display your character image along with a message to the #centire world#."/>
+	</imgdir>
+	<imgdir name="5240212">
+		<string name="name" value="Lil Milk Bottle"/>
+		<string name="desc" value="A nutritious milk bottle specially prepared for the #cOxlet# pets. Recovers Fullness completely and#c increases Closeness by 100.#"/>
+	</imgdir>
+	<imgdir name="5158012">
+		<string name="name" value="Pumpkin Face Coupon (M)"/>
+		<string name="desc" value="Double-click to change your face to Pumpkin Face (M). Can only be used on male characters."/>
+	</imgdir>
+	<imgdir name="5158013">
+		<string name="name" value="Pumpkin Face Coupon (F)"/>
+		<string name="desc" value="Double-click to change your face to Pumpkin Face (F). Can only be used on female characters."/>
 	</imgdir>
 </imgdir>

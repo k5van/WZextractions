@@ -1710,6 +1710,46 @@
 		<string name="desc" value="#cBalloon Dog# is a puppy made out of balloons."/>
 		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
 	</imgdir>
+	<imgdir name="5002197">
+		<string name="name" value="Dusk"/>
+		<string name="desc" value="#cDusk# watches over the butterflies of Butterfly Garden. He&apos;s always kind and friendly.\nEquip Lil Glowy Butterfly pets to get the #cButterfly Garden Light# skill, which grows stronger as you equip more Lil Glowy Butterfly pets.\r\nChanneling the power of moonlight, #cLil Glowy Butterfly# pets can collect items across a larger area than most other pets.  "/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002198">
+		<string name="name" value="Dawn"/>
+		<string name="desc" value="#cDawn# takes care of the flowers of Butterfly Garden. She&apos;s always prudent and quiet.\nEquip Lil Glowy Butterfly pets to get the #cButterfly Garden Light# skill, which grows stronger as you equip more Lil Glowy Butterfly pets.\r\nChanneling the power of moonlight, #cLil Glowy Butterfly# pets can collect items across a larger area than most other pets.  "/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002199">
+		<string name="name" value="Lil Glowy"/>
+		<string name="desc" value="#cLil Glowy# was born in Butterfly Garden. It always shines brightly.\nEquip Lil Glowy Butterfly pets to get the #cButterfly Garden Light# skill, which grows stronger as you equip more Lil Glowy Butterfly pets.\r\nChanneling the power of moonlight, #cLil Glowy Butterfly# pets can collect items across a larger area than most other pets.  "/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002200">
+		<string name="name" value="Galaxie"/>
+		<string name="desc" value="Meet #cGalaxie#, the purple fox of dreams."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002201">
+		<string name="name" value="Novie"/>
+		<string name="desc" value="Meet #cNovie#, the pink fox of dreams."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002202">
+		<string name="name" value="Lunarie"/>
+		<string name="desc" value="Meet #cLunarie#, the sapphire fox of dreams."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002203">
+		<string name="name" value="Tubby Tiger"/>
+		<string name="desc" value="This #cTubby Tiger# jumped straight out of a scroll."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002204">
+		<string name="name" value="Odette Peeps"/>
+		<string name="desc" value="It&apos;s #cOdette Peeps#, the indomitable chick!"/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
 	<imgdir name="5000025">
 		<string name="name" value="Golden Pig"/>
 		<string name="desc" value="This designed Golden Pig will definately bring you a Good Luck!"/>
@@ -4803,6 +4843,36 @@
 	<imgdir name="5002218">
 		<string name="name" value="Omelette Pup"/>
 		<string name="desc" value="The ever-lovable#c Omelette Pup# covers itself with a fluffy egg blanket, giving it both warmth and an ever-present snacking source."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002219">
+		<string name="name" value="Yellow Oxlet"/>
+		<string name="desc" value="It&apos;s a shiny #cYellow Oxlet#."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002220">
+		<string name="name" value="White Oxlet"/>
+		<string name="desc" value="It&apos;s a glossy #cWhite Oxlet#."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002221">
+		<string name="name" value="Patchy Oxlet"/>
+		<string name="desc" value="It&apos;s a neatly patterned #cPatchy Oxlet#."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002214">
+		<string name="name" value="Yellow Oxlet"/>
+		<string name="desc" value="It&apos;s a shiny #cYellow Oxlet#."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002215">
+		<string name="name" value="White Oxlet"/>
+		<string name="desc" value="It&apos;s a glossy #cWhite Oxlet#."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002216">
+		<string name="name" value="Patchy Oxlet"/>
+		<string name="desc" value="It&apos;s a neatly patterned #cPatchy Oxlet#."/>
 		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
 	</imgdir>
 </imgdir>

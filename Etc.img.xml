@@ -358,24 +358,24 @@
 			<string name="desc" value="One of Jr. Pepe&apos;s favorite snacks: live, fresh fish."/>
 		</imgdir>
 		<imgdir name="4000089">
-			<string name="name" value="Littleman A&apos;s Badge"/>
-			<string name="desc" value="The badge of Littleman A"/>
+			<string name="name" value="Yakuza Soldier&apos;s Pin"/>
+			<string name="desc" value="A pin marking an individual as a Yakuza Soldier."/>
 		</imgdir>
 		<imgdir name="4000090">
-			<string name="name" value="Littleman B&apos;s Name Plate"/>
-			<string name="desc" value="The name plate of Littleman B"/>
+			<string name="name" value="Yakuza Grunt&apos;s Name Badge"/>
+			<string name="desc" value="A name badge distinguishing one Yakuza Grunt from the next."/>
 		</imgdir>
 		<imgdir name="4000091">
-			<string name="name" value="Littleman C&apos;s Necklace"/>
-			<string name="desc" value="The necklace of Littleman C."/>
+			<string name="name" value="Yakuza Bruiser&apos;s Necklace"/>
+			<string name="desc" value="The necklace of a Yakuza Bruiser."/>
 		</imgdir>
 		<imgdir name="4000092">
-			<string name="name" value="Leader A&apos;s Shades"/>
-			<string name="desc" value="The shades of leader A"/>
+			<string name="name" value="Yakuza Lieutenant&apos;s Shades"/>
+			<string name="desc" value="A pair of sunglasses belonging to a Yakuza Lieutenant."/>
 		</imgdir>
 		<imgdir name="4000093">
-			<string name="name" value="Leader B&apos;s Charm"/>
-			<string name="desc" value="The charm of Leader B."/>
+			<string name="name" value="Yakuza Shotcaller&apos;s Charm"/>
+			<string name="desc" value="A charm belonging to a Yakuza Shotcaller."/>
 		</imgdir>
 		<imgdir name="4000094">
 			<string name="name" value="Boss&apos;s Pomade"/>
@@ -550,24 +550,24 @@
 			<string name="desc" value="A fresh coconut made in Florina Beach."/>
 		</imgdir>
 		<imgdir name="4000137">
-			<string name="name" value="Subordinate D Fingernail"/>
-			<string name="desc" value="Looks like a fingernail of a Subordinate D."/>
+			<string name="name" value="Yakuza Enforcer&apos;s Nail."/>
+			<string name="desc" value="A false nail belonging to a Yakuza Enforcer."/>
 		</imgdir>
 		<imgdir name="4000138">
-			<string name="name" value="Lady Boss&apos;s Comb"/>
-			<string name="desc" value="A comb that the lady boss always carries with."/>
+			<string name="name" value="Yakuza Underboss&apos;s Comb"/>
+			<string name="desc" value="A comb that the Yakuza Underboss is always carrying around."/>
 		</imgdir>
 		<imgdir name="4000139">
-			<string name="name" value="Bodyguard A&apos;s Tie Pin"/>
-			<string name="desc" value="A pin stuck on the tie of Bodyguard A."/>
+			<string name="name" value="Yakuza Bodyguard&apos;s Tie Clip"/>
+			<string name="desc" value="A tie clip belonging to a Yakuza Bodyguard."/>
 		</imgdir>
 		<imgdir name="4000140">
-			<string name="name" value="Bodyguard B&apos;s Bullet Shell"/>
-			<string name="desc" value="A bullet shell of the gun that Bodyguard B used."/>
+			<string name="name" value="Yakuza Protector&apos;s Bullet Shell"/>
+			<string name="desc" value="The shell of a bullet from a Yakuza Protector&apos;s gun."/>
 		</imgdir>
 		<imgdir name="4000141">
-			<string name="name" value="Big Boss Flashlight"/>
-			<string name="desc" value="Maybe the Big Boss uses it as a secret weapon..."/>
+			<string name="name" value="Yakuza Boss&apos;s Lantern"/>
+			<string name="desc" value="Maybe the Yakuza Boss uses it as a secret weapon...?"/>
 		</imgdir>
 		<imgdir name="4000142">
 			<string name="name" value="Jr. Sentinel Shellpiece"/>
@@ -2126,7 +2126,7 @@
 			<string name="desc" value="A decorative crest from a samurai helmet."/>
 		</imgdir>
 		<imgdir name="4000703">
-			<string name="name" value="Gigatoad Coin Purse"/>
+			<string name="name" value="Gigatoad&apos;s Coin Purse"/>
 			<string name="desc" value="The Daimyo&apos;s lost coin purse. It weighs a ton!"/>
 		</imgdir>
 		<imgdir name="4000704">
@@ -13282,7 +13282,7 @@
 		</imgdir>
 		<imgdir name="4033834">
 			<string name="name" value="Do Gong&apos;s Medicine"/>
-			<string name="desc" value="Mr. Do made this medicine to help put the Master to sleep. Give it to Do Gong."/>
+			<string name="desc" value="Mr. Do made this medicine to help put the Master to sleep. Give it to Wu Gong."/>
 		</imgdir>
 		<imgdir name="4033835">
 			<string name="name" value="Do Gong&apos;s Medicine"/>
@@ -15846,31 +15846,31 @@
 		</imgdir>
 		<imgdir name="4036458">
 			<string name="name" value="Black Mage Remnant"/>
-			<string name="desc" value="A piece of the Black Mage. There is a way to draw dark powers from this fragment, the same powers that the Black Mage wields..."/>
+			<string name="desc" value="A piece of the Black Mage. There is a way to draw dark powers from this fragment, the same powers that the Black Mage wields... Required for the #c[Genesis Weapon] Traces of Arkarium, the Guardian of Time# quest."/>
 		</imgdir>
 		<imgdir name="4036460">
 			<string name="name" value="Black Mage Remnant"/>
-			<string name="desc" value="A piece of the Black Mage. There is a way to draw dark powers from this fragment, the same powers that the Black Mage wields..."/>
+			<string name="desc" value="A piece of the Black Mage. There is a way to draw dark powers from this fragment, the same powers that the Black Mage wields... Required for the #c[Genesis Weapon] Traces of the Tyrant Magnus# quest."/>
 		</imgdir>
 		<imgdir name="4036461">
 			<string name="name" value="Black Mage Remnant"/>
-			<string name="desc" value="A piece of the Black Mage. There is a way to draw dark powers from this fragment, the same powers that the Black Mage wields..."/>
+			<string name="desc" value="A piece of the Black Mage. There is a way to draw dark powers from this fragment, the same powers that the Black Mage wields... Required for the #c[Genesis Weapon] Traces of Lotus, the Wing Master# quest."/>
 		</imgdir>
 		<imgdir name="4036462">
 			<string name="name" value="Black Mage Remnant"/>
-			<string name="desc" value="A piece of the Black Mage. There is a way to draw dark powers from this fragment, the same powers that the Black Mage wields..."/>
+			<string name="desc" value="A piece of the Black Mage. There is a way to draw dark powers from this fragment, the same powers that the Black Mage wields... Required for the #c[Genesis Weapon] Traces of Damien, the Sword of Destruction# quest."/>
 		</imgdir>
 		<imgdir name="4036463">
 			<string name="name" value="Black Mage Remnant"/>
-			<string name="desc" value="A piece of the Black Mage. There is a way to draw dark powers from this fragment, the same powers that the Black Mage wields..."/>
+			<string name="desc" value="A piece of the Black Mage. There is a way to draw dark powers from this fragment, the same powers that the Black Mage wields... Required for the #c[Genesis Weapon] Traces of Will, the King of Spiders# quest."/>
 		</imgdir>
 		<imgdir name="4036464">
 			<string name="name" value="Black Mage Remnant"/>
-			<string name="desc" value="A piece of the Black Mage. There is a way to draw dark powers from this fragment, the same powers that the Black Mage wields..."/>
+			<string name="desc" value="A piece of the Black Mage. There is a way to draw dark powers from this fragment, the same powers that the Black Mage wields... Required for the #c[Genesis Weapon] Traces of Lucid, Keeper of Nightmares# quest."/>
 		</imgdir>
 		<imgdir name="4036465">
 			<string name="name" value="Black Mage Remnant"/>
-			<string name="desc" value="A piece of the Black Mage. There is a way to draw dark powers from this fragment, the same powers that the Black Mage wields..."/>
+			<string name="desc" value="A piece of the Black Mage. There is a way to draw dark powers from this fragment, the same powers that the Black Mage wields... Required for the #c[Genesis Weapon] Traces of Verus Hilla the Red Witch# quest."/>
 		</imgdir>
 		<imgdir name="4036474">
 			<string name="name" value="Detective Office Pass: Episode 1"/>
@@ -16119,6 +16119,10 @@
 		<imgdir name="4110006">
 			<string name="name" value="Fantastic Fabric"/>
 			<string name="desc" value="It&apos;s a fantastic fabric that can be used as a material when synthesizing Masterpiece items.  \r\nThe fabric located on the very top of your Etc tab will be used first."/>
+		</imgdir>
+		<imgdir name="4110007">
+			<string name="name" value="Fantastic Fabric"/>
+			<string name="desc" value="A fantastic fabric that can be used as a material when synthesizing Masterpiece items.  \r\nThe fabric located on the very top of your Etc tab will be used first."/>
 		</imgdir>
 		<imgdir name="4130000">
 			<string name="name" value="Gloves Production Stimulator"/>
@@ -18032,6 +18036,22 @@
 			<string name="name" value="Salon Stamp"/>
 			<string name="desc" value="Can be exchanged for various items at the Salon Stamp Shop in Rise Salon."/>
 		</imgdir>
+		<imgdir name="4310291">
+			<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		</imgdir>
+		<imgdir name="4310296">
+			<string name="name" value="Awakening Coin"/>
+			<string name="desc" value="Can be used in various ways at the #cMountain of Awakening#.\n\n#cYou can earn 1 Awakening Coin for each 100 points of Awakening Aura you gather.#"/>
+		</imgdir>
+		<imgdir name="4310299">
+			<string name="name" value="AbsoLab Essence"/>
+			<string name="desc" value="Contains the essence of AbsoLab equipment. Used to upgrade Lapis/Lazuli for Zero."/>
+		</imgdir>
+		<imgdir name="4310300">
+			<string name="name" value="Arcane Umbra Essence"/>
+			<string name="desc" value="Contains the essence of Arcane Umbra equipment. Used to upgrade Lapis/Lazuli for Zero."/>
+		</imgdir>
 		<imgdir name="4320000">
 			<string name="name" value="Damage Meter"/>
 			<string name="desc" value="A meter that can measure damage."/>
@@ -18620,25 +18640,137 @@
 			<string name="name" value="Small Ember"/>
 			<string name="desc" value="A weak ember that might go out at any moment."/>
 		</imgdir>
-		<imgdir name="4110007">
-			<string name="name" value="Fantastic Fabric"/>
-			<string name="desc" value="A fantastic fabric that can be used as a material when synthesizing Masterpiece items.  \r\nThe fabric located on the very top of your Etc tab will be used first."/>
+		<imgdir name="4310301">
+			<string name="name" value="Moon Candy"/>
+			<string name="desc" value="Used in the #cMoonlight Enhancement Shop# at the #cFull Moon Party#."/>
 		</imgdir>
-		<imgdir name="4310291">
-			<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-			<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<imgdir name="4310302">
+			<string name="name" value="Star Candy"/>
+			<string name="desc" value="Obtained by playing #cStar Balloon Pop# at the #cFull Moon Party#.\r\n Gather #c2,000# and talk to #cTosh the Fairy# to select #c1 of 4 available Ellinel Growth Potions#.#"/>
 		</imgdir>
-		<imgdir name="4310296">
-			<string name="name" value="Awakening Coin"/>
-			<string name="desc" value="Can be used in various ways at the #cMountain of Awakening#.\n\n#cYou can earn 1 Awakening Coin for each 100 points of Awakening Aura you gather.#"/>
+		<imgdir name="4310303">
+			<string name="name" value="Cotton Candy"/>
+			<string name="desc" value="Used in the #cCotton Candy Workshop# at the #cFull Moon Party#."/>
 		</imgdir>
-		<imgdir name="4310299">
-			<string name="name" value="AbsoLab Essence"/>
-			<string name="desc" value="Contains the essence of AbsoLab equipment. Used to upgrade Lapis/Lazuli for Zero."/>
+		<imgdir name="4036679">
+			<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
 		</imgdir>
-		<imgdir name="4310300">
-			<string name="name" value="Arcane Umbra Essence"/>
-			<string name="desc" value="Contains the essence of Arcane Umbra equipment. Used to upgrade Lapis/Lazuli for Zero."/>
+		<imgdir name="4036680">
+			<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		</imgdir>
+		<imgdir name="4036681">
+			<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		</imgdir>
+		<imgdir name="4036682">
+			<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		</imgdir>
+		<imgdir name="4036683">
+			<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		</imgdir>
+		<imgdir name="4036684">
+			<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		</imgdir>
+		<imgdir name="4036685">
+			<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		</imgdir>
+		<imgdir name="4036686">
+			<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		</imgdir>
+		<imgdir name="4036687">
+			<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		</imgdir>
+		<imgdir name="4036688">
+			<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		</imgdir>
+		<imgdir name="4036689">
+			<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		</imgdir>
+		<imgdir name="4036690">
+			<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		</imgdir>
+		<imgdir name="4036691">
+			<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		</imgdir>
+		<imgdir name="4036692">
+			<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		</imgdir>
+		<imgdir name="4036693">
+			<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		</imgdir>
+		<imgdir name="4036694">
+			<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		</imgdir>
+		<imgdir name="4036695">
+			<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		</imgdir>
+		<imgdir name="4036696">
+			<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		</imgdir>
+		<imgdir name="4036697">
+			<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		</imgdir>
+		<imgdir name="4036698">
+			<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		</imgdir>
+		<imgdir name="4036699">
+			<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		</imgdir>
+		<imgdir name="4036700">
+			<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		</imgdir>
+		<imgdir name="4036701">
+			<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		</imgdir>
+		<imgdir name="4036702">
+			<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		</imgdir>
+		<imgdir name="4036703">
+			<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		</imgdir>
+		<imgdir name="4036704">
+			<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		</imgdir>
+		<imgdir name="4036705">
+			<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		</imgdir>
+		<imgdir name="4036706">
+			<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		</imgdir>
+		<imgdir name="4036707">
+			<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		</imgdir>
+		<imgdir name="4036708">
+			<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
 		</imgdir>
 		<imgdir name="4000174">
 			<string name="name" value="Money Envelope"/>
@@ -18709,8 +18841,8 @@
 			<string name="desc" value="An armrest that has the word &quot;Hamadaya&quot; stitched on it for some reason."/>
 		</imgdir>
 		<imgdir name="4000346">
-			<string name="name" value="Emperor Toad Wallet"/>
-			<string name="desc" value="A wallet that belonged to Emperor Toad. It&apos;s bursting with riches."/>
+			<string name="name" value="Gigatoad&apos;s Coin Wallet"/>
+			<string name="desc" value="A wallet that belonged to Gigatoad. It&apos;s bursting with riches."/>
 		</imgdir>
 		<imgdir name="4000366">
 			<string name="name" value="Waste Paper"/>
