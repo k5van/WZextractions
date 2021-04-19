@@ -4890,7 +4890,7 @@
 	</imgdir>
 	<imgdir name="1401000">
 		<string name="name" value="Gaston"/>
-		<string name="func" value="Manservant"/>
+		<string name="func" value="Steward"/>
 		<string name="n0" value="You will never find a speck of dust upon the Lumiere, thanks to our wonderful maids."/>
 		<string name="n1" value="Shall I bring you some tea, master?"/>
 		<string name="d0" value="A true butler knows his master&apos;s needs before he does."/>
@@ -4938,7 +4938,7 @@
 	</imgdir>
 	<imgdir name="1402000">
 		<string name="name" value="Gaston"/>
-		<string name="func" value="Manservant"/>
+		<string name="func" value="Steward"/>
 		<string name="n0" value="The time is almost here."/>
 		<string name="n1" value="All preparations complete."/>
 		<string name="d0" value="All preparations complete. The only thing left is to carry out your plan. I bid you good luck, master."/>
@@ -13735,7 +13735,7 @@
 		<string name="name" value="Nameless Maid"/>
 	</imgdir>
 	<imgdir name="2120030">
-		<string name="name" value="Manservant"/>
+		<string name="name" value="Steward"/>
 	</imgdir>
 	<imgdir name="2120031">
 		<string name="name" value="Jonas"/>
@@ -29253,7 +29253,7 @@
 		<string name="name" value="Frank Burton"/>
 		<string name="func" value="Farm Owner"/>
 		<string name="d0" value="My farm is just a regular ol&apos; goose farm. Well, we are special in one way."/>
-		<string name="d1" value="A chance to hit the jackpot doesn&apos;t come everyday!"/>
+		<string name="d1" value="A chance to hit the jackpot doesn&apos;t come every day!"/>
 	</imgdir>
 	<imgdir name="9000207">
 		<string name="name" value="Spiegelmann"/>
@@ -34158,130 +34158,130 @@
 		<string name="d1" value="Hey, Teach! I&apos;ve learned something big!"/>
 	</imgdir>
 	<imgdir name="9062291">
-		<string name="name" value="&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="d0" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="d1" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="n0" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="n1" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="Ralphio"/>
+		<string name="d0" value="Challenge the &lt;Maple Punch King&gt;!"/>
+		<string name="d1" value="How about a round of the &lt;Maple Punch King&gt; game I made?"/>
+		<string name="n0" value="Challenge the &lt;Maple Punch King&gt;!"/>
+		<string name="n1" value="How about a round of the &lt;Maple Punch King&gt; game I made?"/>
 	</imgdir>
 	<imgdir name="9062292">
-		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="Scuba Pepe"/>
 	</imgdir>
 	<imgdir name="9062293">
-		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="Jr. Seal"/>
 	</imgdir>
 	<imgdir name="9062294">
-		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="func" value="&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="d0" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="d1" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="Gold Richie"/>
+		<string name="func" value="Meso Shop"/>
+		<string name="d0" value="Haha! This hotel is awesome, isn&apos;t it?"/>
+		<string name="d1" value="Amazing, isn&apos;t it?"/>
 	</imgdir>
 	<imgdir name="9062295">
-		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="func" value="&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="d0" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="d1" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="Gold Richie"/>
+		<string name="func" value="Meso Shop"/>
+		<string name="d0" value="Haha! This hotel is awesome, isn&apos;t it?"/>
+		<string name="d1" value="Amazing, isn&apos;t it?"/>
 	</imgdir>
 	<imgdir name="9062296">
-		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="func" value="&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="d0" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="d1" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="Little Richie"/>
+		<string name="func" value="Mini-Game"/>
+		<string name="d0" value="You can find things here that you can&apos;t find anywhere else. I love this place."/>
+		<string name="d1" value="You can find things here that you can&apos;t find anywhere else. I love this place."/>
 	</imgdir>
 	<imgdir name="9062297">
-		<string name="name" value="&#43690;&#43690;&#43690;"/>
-		<string name="func" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="d0" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="d1" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="Swanson"/>
+		<string name="func" value="VIP Membership"/>
+		<string name="d0" value="Nothing but the best for our VIPs!"/>
+		<string name="d1" value="Nothing but the best for our VIPs!"/>
 	</imgdir>
 	<imgdir name="9062298">
-		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="VIP Coupon Book"/>
 	</imgdir>
 	<imgdir name="9062299">
-		<string name="name" value="&#43690;&#43690;&#43690;"/>
-		<string name="func" value="&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="d0" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="d1" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="Nicole"/>
+		<string name="func" value="Member Services"/>
+		<string name="d0" value="A special, Hotel Maple-exclusive service shop."/>
+		<string name="d1" value="A special, Hotel Maple-exclusive service shop."/>
 	</imgdir>
 	<imgdir name="9062300">
-		<string name="name" value="&#43690;&#43690;&#43690;"/>
-		<string name="func" value="&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="d0" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="d1" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="Nicole"/>
+		<string name="func" value="Member Services"/>
+		<string name="d0" value="This is a special, Hotel Maple-exclusive service."/>
+		<string name="d1" value="This is a special, Hotel Maple-exclusive service."/>
 	</imgdir>
 	<imgdir name="9062301">
-		<string name="name" value="&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="func" value="&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="d0" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="d1" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="Mason"/>
+		<string name="func" value="Personal Shop"/>
+		<string name="d0" value="A customized service shop just for you!"/>
+		<string name="d1" value="A customized service shop just for you!"/>
 	</imgdir>
 	<imgdir name="9062302">
-		<string name="name" value="&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="func" value="&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="d0" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="d1" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="Mason"/>
+		<string name="func" value="Personal Shop"/>
+		<string name="d0" value="A customized service shop just for you!"/>
+		<string name="d1" value="A customized service shop just for you!"/>
 	</imgdir>
 	<imgdir name="9062303">
-		<string name="name" value="&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="func" value="&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="d0" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="d1" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="Lois"/>
+		<string name="func" value="Jewelry Shop"/>
+		<string name="d0" value="These rings are more than just pretty."/>
+		<string name="d1" value="These rings are more than just pretty."/>
 	</imgdir>
 	<imgdir name="9062304">
-		<string name="name" value="&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="func" value="&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="d0" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="d1" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="Lois"/>
+		<string name="func" value="Jewelry Shop"/>
+		<string name="d0" value="These rings are more than just pretty."/>
+		<string name="d1" value="These rings are more than just pretty."/>
 	</imgdir>
 	<imgdir name="9062305">
-		<string name="name" value="&#43690;&#43690;&#43690;"/>
-		<string name="func" value="&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="d0" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="d1" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="Tofu"/>
+		<string name="func" value="Boutique"/>
+		<string name="d0" value="Cool shades, huh?"/>
+		<string name="d1" value="Cool shades, huh?"/>
 	</imgdir>
 	<imgdir name="9062306">
-		<string name="name" value="&#43690;&#43690;&#43690;"/>
-		<string name="func" value="&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="d0" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="d1" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="Tofu"/>
+		<string name="func" value="Boutique"/>
+		<string name="d0" value="Cool shades, huh?"/>
+		<string name="d1" value="Cool shades, huh?"/>
 	</imgdir>
 	<imgdir name="9062307">
-		<string name="name" value="&#43690;&#43690;&#43690;"/>
-		<string name="func" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="Swanson"/>
+		<string name="func" value="VIP Hunter Club"/>
 	</imgdir>
 	<imgdir name="9062308">
-		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="func" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="n0" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="n1" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="d0" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="d1" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="Ms. Appropriation"/>
+		<string name="func" value="Maple Infinity Pool"/>
+		<string name="n0" value="Swim in the Infinity Pool for a relaxing level-up experience!"/>
+		<string name="n1" value="Welcome to the world&apos;s most luxurious pool, another Hotel Maple exclusive."/>
+		<string name="d0" value="Swim in the Infinity Pool for a relaxing level-up experience!"/>
+		<string name="d1" value="Welcome to the world&apos;s most luxurious pool, another Hotel Maple exclusive."/>
 	</imgdir>
 	<imgdir name="9062309">
-		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="func" value="&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="Little Richie"/>
+		<string name="func" value="Mini-Game"/>
 	</imgdir>
 	<imgdir name="9062310">
-		<string name="name" value="&#43690;&#43690;&#43690;"/>
-		<string name="func" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="Swanson"/>
+		<string name="func" value="VIP Hunter Club"/>
 	</imgdir>
 	<imgdir name="9062311">
-		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="VIP Coupon Book"/>
 	</imgdir>
 	<imgdir name="9062312">
-		<string name="name" value="&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="d0" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="d1" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="n0" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="n1" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="Ralphio"/>
+		<string name="d0" value="Challenge the &lt;Maple Punch King&gt;!"/>
+		<string name="d1" value="How about a round of the &lt;Maple Punch King&gt; game I made?"/>
+		<string name="n0" value="Challenge the &lt;Maple Punch King&gt;!"/>
+		<string name="n1" value="How about a round of the &lt;Maple Punch King&gt; game I made?"/>
 	</imgdir>
 	<imgdir name="9062313">
-		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="func" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="Little Richie"/>
+		<string name="func" value="Monster Pyramid"/>
 	</imgdir>
 	<imgdir name="9062314">
-		<string name="name" value="&#43690;&#43690;&#43690;"/>
-		<string name="func" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="Swanson"/>
+		<string name="func" value="VIP Hunter Club"/>
 	</imgdir>
 	<imgdir name="9062315">
 		<string name="name" value="So Gong"/>
@@ -35617,9 +35617,10 @@
 	</imgdir>
 	<imgdir name="9120001">
 		<string name="name" value="Hanako"/>
-		<string name="n0" value="Defense is the offense. Hahaha!"/>
+		<string name="func" value="Armor Seller"/>
+		<string name="n0" value="My Kimono is as stylish as my armors are strong. Hahaha!"/>
 		<string name="n1" value="How about this? This looks tailor-made for you. Hahaha."/>
-		<string name="d0" value="Defense is the offense. Hahaha!"/>
+		<string name="d0" value="Defense is the best offense. Hahaha!"/>
 		<string name="d1" value="How about this? This looks tailor-made for you. Hahaha."/>
 	</imgdir>
 	<imgdir name="9120002">
@@ -35660,7 +35661,7 @@
 	</imgdir>
 	<imgdir name="9120008">
 		<string name="name" value="Tsuri"/>
-		<string name="n0" value="This was fished out by yours truly."/>
+		<string name="n0" value="This wonderful catch was fished up by yours truly."/>
 		<string name="n1" value="Fishing is the best!"/>
 	</imgdir>
 	<imgdir name="9120009">
@@ -35695,7 +35696,7 @@
 		<string name="n1" value="Hsss!"/>
 	</imgdir>
 	<imgdir name="9120014">
-		<string name="name" value="Popo"/>
+		<string name="name" value="Pipopa"/>
 		<string name="n0" value="It&apos;s windy..."/>
 		<string name="n1" value="We shall protect this town with our all!"/>
 		<string name="d0" value="Are you here about Mariwaka&apos;s purse? Well..."/>
@@ -38627,7 +38628,7 @@
 		<string name="name" value="Manstein"/>
 	</imgdir>
 	<imgdir name="9120023">
-		<string name="name" value="YokoYoko"/>
+		<string name="name" value="Yokoyoko"/>
 		<string name="n0" value="Lasers shooting from my eyes!"/>
 		<string name="n1" value="One meal a day!"/>
 	</imgdir>
@@ -38635,6 +38636,8 @@
 		<string name="name" value="Ueriba"/>
 		<string name="n0" value="Thank you, thank you."/>
 		<string name="n1" value="Thank you for everything!"/>
+		<string name="d0" value="Thank you, thank you."/>
+		<string name="d1" value="Thank you for everything!"/>
 	</imgdir>
 	<imgdir name="9120026">
 		<string name="name" value="Crystal"/>
@@ -49932,5 +49935,50 @@
 	</imgdir>
 	<imgdir name="9201614">
 		<string name="name" value="Suspicious Goblin"/>
+	</imgdir>
+	<imgdir name="9100031">
+		<string name="name" value="Trolley Driver"/>
+	</imgdir>
+	<imgdir name="9100032">
+		<string name="name" value="Showa Resident 1"/>
+	</imgdir>
+	<imgdir name="9100033">
+		<string name="name" value="Showa Resident 2"/>
+	</imgdir>
+	<imgdir name="9100034">
+		<string name="name" value="Showa Resident 3"/>
+	</imgdir>
+	<imgdir name="9100035">
+		<string name="name" value="Showa Resident 4"/>
+	</imgdir>
+	<imgdir name="9100036">
+		<string name="name" value="Mailbox"/>
+	</imgdir>
+	<imgdir name="9100037">
+		<string name="name" value="Baetan"/>
+	</imgdir>
+	<imgdir name="9401386">
+		<string name="name" value="Cayne"/>
+	</imgdir>
+	<imgdir name="9401387">
+		<string name="name" value="Kenshin"/>
+	</imgdir>
+	<imgdir name="9401388">
+		<string name="name" value="Shingen"/>
+	</imgdir>
+	<imgdir name="9401389">
+		<string name="name" value="Alika"/>
+	</imgdir>
+	<imgdir name="9401390">
+		<string name="name" value="Gillie"/>
+	</imgdir>
+	<imgdir name="9401391">
+		<string name="name" value="Haruaki"/>
+	</imgdir>
+	<imgdir name="9401392">
+		<string name="name" value="Becky"/>
+	</imgdir>
+	<imgdir name="9401393">
+		<string name="name" value="Dr. Jang"/>
 	</imgdir>
 </imgdir>

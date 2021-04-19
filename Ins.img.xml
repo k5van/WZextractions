@@ -3590,19 +3590,19 @@
 		<string name="desc" value="Both a place of rest and a work of art.\n#cRestores 50 HP and 50 MP every 10 seconds.#"/>
 	</imgdir>
 	<imgdir name="3018542">
-		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="desc_leftalign" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="Hotel Tour Chair: Photographer"/>
+		<string name="desc" value="Take a photo in front of the super-luxurious hotel. \r\nIf you use this chair outside Hotel Maple, you&apos;ll earn EXP periodically. \r\n#cRestores 50 HP and 50 MP every 10 seconds.#"/>
+		<string name="desc_leftalign" value="\r\n#cThis unique chair earns you a fixed amount of EXP every 10 seconds.#"/>
 	</imgdir>
 	<imgdir name="3018543">
-		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="desc_leftalign" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="Hotel Shuttle Chair: Sports Car"/>
+		<string name="desc" value="Receive hotel shuttle service in a cool sports car. \r\nIf you use it outside Hotel Maple, you&apos;ll earn Sweet 16 Points periodically. \r\n#cRestores 50 HP and 50 MP every 10 seconds.#"/>
+		<string name="desc_leftalign" value="\r\n#cThis unique chair earns you 3 Sweet 16 Points every 10 seconds.#"/>
 	</imgdir>
 	<imgdir name="3018544">
-		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="desc_leftalign" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="Hotel Shuttle Chair: Premium Limousine"/>
+		<string name="desc" value="Receive hotel shuttle service in a luxurious premium limousine.\r\nIf you use it outside Hotel Maple, you&apos;ll earn Sweet 16 Points periodically.\r\n#cRestores 50 HP and 50 MP every 10 seconds.#"/>
+		<string name="desc_leftalign" value="\r\n#cThis unique chair earns you 6 Sweet 16 Points every 10 seconds.#"/>
 	</imgdir>
 	<imgdir name="3018545">
 		<string name="name" value="Vacation Selfie Chair"/>
@@ -3621,8 +3621,8 @@
 		<string name="desc" value="It&apos;s just like at the carnival. Sit and enjoy your ride on the merry-go-round. Whee! Recovers 50 HP and MP every 10 seconds. "/>
 	</imgdir>
 	<imgdir name="3018549">
-		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="Master of 16 Billion Mesos Chair"/>
+		<string name="desc" value="A 16th-anniversary Hotel Maple commemorative banknote. \r\nEngraved with the face of the VIP member.\r\n#cRestores 170 HP and 170 MP every 10 seconds.#\r\n\r\n"/>
 	</imgdir>
 	<imgdir name="3018556">
 		<string name="name" value="Dreaming Traveler&apos;s Rest"/>
@@ -9173,7 +9173,7 @@ If you feed #cFruit# to the Parrot, it might change color and gain a level. The 
 	</imgdir>
 	<imgdir name="3700660">
 		<string name="name" value="Hasty is Tasty"/>
-		<string name="desc" value="You eliminated 100,000 monsters in 2 weeks! You&apos;ve shown us the meaning of haste!\r\n\r\n#cAttack Power &amp; Magic ATT +20\nAll Stats +50\nBoss Damage +30%, DEF Ignored +30% \nMax HP &amp; MP +2500\r\n\nClick to turn ON/OFF. Stat bonuses will remain in effect until MM/DD/YYYY HH:MM AM/PM UTC.#"/>
+		<string name="desc" value="You eliminated 100,000 monsters in 2 weeks! You&apos;ve shown us the meaning of haste!\r\n\r\n#cAttack Power &amp; Magic ATT +20\nAll Stats +50\nBoss Damage +30%, DEF Ignored +30% \nMax HP &amp; MP +2500\r\n\nClick to turn ON/OFF. Stat bonuses will remain in effect until 4/20/2021 11:59 PM UTC.#"/>
 	</imgdir>
 	<imgdir name="3700661">
 		<string name="name" value="2021 &lt;The Legends Return!&gt; Legend"/>
@@ -17305,7 +17305,7 @@ Keep it in your Inventory Set-up tab for 30 minutes to receive a Shiny Easter Eg
 	</imgdir>
 	<imgdir name="3700623">
 		<string name="name" value="Custom Title"/>
-		<string name="desc" value="Combine two Titles to assemble a customized Title with the frame, stats, and text of your choice!\r\n#cClick to toggle ON/OFF.# \r\n#c&lt;Effects&gt;\nAttack Power &amp; Magic ATT +5#\n10% Additional EXP\r\n\r\n&lt;How to Use&gt;\r\n#c1.) Right-click the Custom Title icon.\r\n2.) Drag a Title with the desired appearance to the Frame slot and a title with the desired stats to the Attributes slot. \r\n3.) In the box, enter a name under 20 characters.\r\n4.) Click the SAVE button.\r\n5.) After it&apos;s assembled, double-click the Title with the right mouse button to toggle it on/off.#\r\n\r\n&lt;Caution&gt;\r\n#c- When changing the Title text, you can only use letters, numbers, and spaces.#\r\n#c- You cannot place temporary Titles in the Attributes slot.#\r\n#c- After you&apos;ve assembled a Title, you must wait 30 minutes before assembling another.#\r\n#c- You can only have 1 Custom Title.##\r\n#c- Not compatible with certain Titles from crossover events.#"/>
+		<string name="desc" value="Combine two Titles to assemble a customized Title with the frame, stats, and text of your choice!\r\n#cClick to toggle ON/OFF.# \r\n&lt;Effects&gt;\n#cAttack Power &amp; Magic ATT +5#\n#c10% Additional EXP#\r\n\r\n&lt;How to Use&gt;\r\n#c1.) Right-click the Custom Title icon.\r\n2.) Drag a Title with the desired appearance to the Frame slot and a title with the desired stats to the Attributes slot. \r\n3.) In the box, enter a name under 20 characters.\r\n4.) Click the SAVE button.\r\n5.) After it&apos;s assembled, double-click the Title with the right mouse button to toggle it on/off.#\r\n\r\n&lt;Caution&gt;\r\n#c- When changing the Title text, you can only use letters, numbers, and spaces.#\r\n#c- You cannot place temporary Titles in the Attributes slot.#\r\n#c- After you&apos;ve assembled a Title, you must wait 30 minutes before assembling another.#\r\n#c- You can only have 1 Custom Title.#\r\n#c- Not compatible with certain Titles from crossover events.#"/>
 	</imgdir>
 	<imgdir name="3018531">
 		<string name="name" value="True Guardian&apos;s Last Moment"/>
@@ -17648,5 +17648,85 @@ Keep it in your Inventory Set-up tab for 30 minutes to receive a Shiny Easter Eg
 	<imgdir name="3018669">
 		<string name="name" value="Crown Fitness Star"/>
 		<string name="desc" value="Who&apos;s the strongest of them all? You are! #cRestores 100 HP and 50 MP every 10 seconds.#"/>
+	</imgdir>
+	<imgdir name="3700601">
+		<string name="name" value="Bathhouse Maniac"/>
+		<string name="desc" value="A title for a regular of the Showa Town Bathhouse.\r\n\r\nDouble-click to turn ON/OFF."/>
+	</imgdir>
+	<imgdir name="3018480">
+		<string name="name" value="Antique TV Chair"/>
+		<string name="desc" value="Enter a world of nostalgia by appearing inside an old television.\r\n\r\n#cPeriodically restores 100 HP and 100 MP.#"/>
+	</imgdir>
+	<imgdir name="3014036">
+		<string name="name" value="Missive Chair"/>
+		<string name="desc" value="A beautifully addressed envelope. Who knows what&apos;s written inside? #cDouble-click# to display a custom framed message while you shake the envelope!\n#cRestores 100 HP and 100 MP every 10 seconds.#"/>
+	</imgdir>
+	<imgdir name="3700679">
+		<string name="name" value="Maple Cafe on a Spring Day Manager"/>
+		<string name="desc" value="A title given to the manager who came to visit Maple Cafe on a spring day.\n\nAttack Power &amp; Magic ATT +10\nAll Stats +15\nBoss Damage +5%, Ignore Defense +5% \nMax HP/Max MP+500\n\nClick to toggle ON/OFF.#"/>
+	</imgdir>
+	<imgdir name="3018681">
+		<string name="name" value="Maple Cafe on a Spring Day Chair"/>
+		<string name="desc" value="A Maple Cafe chair that gives off the warm energy of a spring day.#c Restores 100 HP and 100 MP every 10 seconds.#"/>
+	</imgdir>
+	<imgdir name="3018684">
+		<string name="name" value="Enchanted Workshop"/>
+		<string name="desc" value="This tailoring workshop is where the magic is made. #cRestores 50 HP and 50 MP every 10 seconds.#"/>
+	</imgdir>
+	<imgdir name="3018623">
+		<string name="name" value="A Taste of Spring"/>
+		<string name="desc" value="Recalls the fresh spring ambiance of a nice cafe.\n#cRestores 100 HP and 50 MP every 10 seconds.#"/>
+	</imgdir>
+	<imgdir name="3018685">
+		<string name="name" value="Spring Rain Chair"/>
+		<string name="desc" value="Listen to the relaxing pitter patter of a spring rain. \n#cRestores 50 HP and 50 MP every 10 seconds.#"/>
+	</imgdir>
+	<imgdir name="3012040">
+		<string name="name" value="Dreams of Love Cloud Couples Chair"/>
+		<string name="desc" value="If you sit close to a friend who&apos;s sitting on the Dreams of Love Cloud Couples&apos; Chair, you&apos;ll see a heart-shaped cloud.\n\n#cRestores 100 HP and 100 MP every 10 seconds.\n#"/>
+	</imgdir>
+	<imgdir name="3016226">
+		<string name="name" value="Doll&apos;s Day Chair"/>
+		<string name="desc" value="Celebrate Doll&apos;s Day with a friend. #cRight-click another player to invite them to sit with you.#\n\n#cRestores 100 HP and 100 MP every 10 seconds.\n#"/>
+	</imgdir>
+	<imgdir name="3018670">
+		<string name="name" value="Squirrel Friends Chair"/>
+		<string name="desc" value="Sit in a tree with your squirrel friends. \n\n#cRestores 100 HP and 100 MP every 10 seconds.\n#"/>
+	</imgdir>
+	<imgdir name="3018671">
+		<string name="name" value="Manna From Heaven"/>
+		<string name="desc" value="Sends food down from a UFO. \n\n#cRestores 100 HP and 100 MP every 10 seconds.\n#"/>
+	</imgdir>
+	<imgdir name="3996006">
+		<string name="name" value="Fire Raccoon Finance&apos;s Secret Ledger"/>
+		<string name="desc" value="A secret ledger filled with Fire Raccoon Finance&apos;s financial secrets. Deliver it to Pipopa."/>
+	</imgdir>
+	<imgdir name="3996002">
+		<string name="name" value="Yakuza Soldier&apos;s Shoes"/>
+		<string name="desc" value="The black shoes of a Yakuza Soldier. They&apos;re quite worn."/>
+	</imgdir>
+	<imgdir name="3996003">
+		<string name="name" value="Yakuza Grunt&apos;s Girdle"/>
+		<string name="desc" value="A green girdle used by Yakuza Grunts in the vain hope of blocking knives to the gut."/>
+	</imgdir>
+	<imgdir name="3996004">
+		<string name="name" value="Yakuza Bruiser&apos;s Baseball Bat"/>
+		<string name="desc" value="Yakuza Bruiser&apos;s baseball bat covered in dents and red splotches. It doesn&apos;t seem like it&apos;s been used for baseball."/>
+	</imgdir>
+	<imgdir name="3996005">
+		<string name="name" value="Yakuza Enforcer&apos;s Jacket"/>
+		<string name="desc" value="A Yakuza Enforcer&apos;s sleek black jacket."/>
+	</imgdir>
+	<imgdir name="3994111">
+		<string name="name" value="Fire Raccoon Map Fragment"/>
+		<string name="desc" value="A fragment of a map marking the location of Fire Raccoon Finance&apos;s hidden wealth. What if you placed this alongside the other fragments?"/>
+	</imgdir>
+	<imgdir name="3994112">
+		<string name="name" value="Fire Raccoon Map Fragment"/>
+		<string name="desc" value="A fragment of a map marking the location of Fire Raccoon Finance&apos;s hidden wealth. What if you placed this alongside the other fragments?"/>
+	</imgdir>
+	<imgdir name="3994113">
+		<string name="name" value="Fire Raccoon Map Fragment"/>
+		<string name="desc" value="A fragment of a map marking the location of Fire Raccoon Finance&apos;s hidden wealth. What if you placed this alongside the other fragments?"/>
 	</imgdir>
 </imgdir>

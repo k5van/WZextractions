@@ -146,8 +146,8 @@
 			<string name="desc" value="A tablecloth donned by Jr. Wraith."/>
 		</imgdir>
 		<imgdir name="4000036">
-			<string name="name" value="Medicine With Weird Vibes"/>
-			<string name="desc" value="A medicine with weird vibes left by Wraith"/>
+			<string name="name" value="Strange Medicine"/>
+			<string name="desc" value="This medicine is far out, man."/>
 		</imgdir>
 		<imgdir name="4000037">
 			<string name="name" value="Bubbling&apos;s Huge Bubble"/>
@@ -266,8 +266,8 @@
 			<string name="desc" value="Raccoon&apos;s firewood."/>
 		</imgdir>
 		<imgdir name="4000066">
-			<string name="name" value="Cloud Foxtail"/>
-			<string name="desc" value="Cloud Fox&apos;s tail."/>
+			<string name="name" value="Fox Tail"/>
+			<string name="desc" value="It&apos;s the tail of a fox."/>
 		</imgdir>
 		<imgdir name="4000067">
 			<string name="name" value="Jr. Boogie Horn"/>
@@ -378,8 +378,8 @@
 			<string name="desc" value="A charm belonging to a Yakuza Shotcaller."/>
 		</imgdir>
 		<imgdir name="4000094">
-			<string name="name" value="Boss&apos;s Pomade"/>
-			<string name="desc" value="Boss&apos;s pomade."/>
+			<string name="name" value="Bigshot Pomade"/>
+			<string name="desc" value="Bigshot Pomade."/>
 		</imgdir>
 		<imgdir name="4000095">
 			<string name="name" value="Rat Trap"/>
@@ -883,15 +883,15 @@
 		</imgdir>
 		<imgdir name="4000222">
 			<string name="name" value="Worn Paper Lantern"/>
-			<string name="desc" value="Worn paper lantern from Purple ghost."/>
+			<string name="desc" value="It&apos;s a paper lantern."/>
 		</imgdir>
 		<imgdir name="4000223">
 			<string name="name" value="Cucumber"/>
-			<string name="desc" value="A delicious looking cucumber that Hadong Dropped."/>
+			<string name="desc" value="A cool, refreshing cucumber liberated from a Kappa."/>
 		</imgdir>
 		<imgdir name="4000224">
-			<string name="name" value="Sabots"/>
-			<string name="desc" value="A pair of Sabots that Black Crow was wearing."/>
+			<string name="name" value="Kimono Shoes"/>
+			<string name="desc" value="A pair of Kimono Shoes perfect for a rainy day."/>
 		</imgdir>
 		<imgdir name="4000225">
 			<string name="name" value="Kimono Piece"/>
@@ -4084,7 +4084,7 @@
 			<string name="desc" value="A ticket that allows you to enter Spiegelmann&apos;s Monster Park. Only grants access to dungeons between level 105-114 are only admitted. "/>
 		</imgdir>
 		<imgdir name="4001515">
-			<string name="name" value="Leopard Stripe Ticket Piece"/>
+			<string name="name" value="Leopard Spot Ticket Piece"/>
 			<string name="desc" value="A portion of a ticket needed to enter the Monster Park. Collect 10 and you can exchange them for 1 Leopard Spot Ticket."/>
 		</imgdir>
 		<imgdir name="4001516">
@@ -6651,7 +6651,7 @@
 		</imgdir>
 		<imgdir name="4031064">
 			<string name="name" value="Orange Marble"/>
-			<string name="desc" value="Orange marble that Boss kitty has stolen from Sakura."/>
+			<string name="desc" value="An orange marble that Boss Kitty stole from Sakura."/>
 		</imgdir>
 		<imgdir name="4031065">
 			<string name="name" value="Excellent Luck Fortune Cookie Message"/>
@@ -18037,8 +18037,8 @@
 			<string name="desc" value="Can be exchanged for various items at the Salon Stamp Shop in Rise Salon."/>
 		</imgdir>
 		<imgdir name="4310291">
-			<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-			<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="name" value="Sweet 16 Coin"/>
+			<string name="desc" value="Can be used in various ways at #cHotel Maple#.\n\n#cYou can earn 1 Sweet 16 Coin for every 100 Sweet 16 Points you gather.#"/>
 		</imgdir>
 		<imgdir name="4310296">
 			<string name="name" value="Awakening Coin"/>
@@ -23500,7 +23500,7 @@ Looking at this fills you with hope. It&apos;s terribly fragile, so handle with 
 		</imgdir>
 		<imgdir name="4033667">
 			<string name="name" value="Tinkerer&apos;s Chest"/>
-			<string name="desc" value="This box grants one piece of Tinkerer&apos;s equipment."/>
+			<string name="desc" value="A sealed box containing a piece of Tinkerer&apos;s equipment."/>
 		</imgdir>
 		<imgdir name="4033720">
 			<string name="name" value="Cash Shop 10% Discount Coupon"/>
@@ -27732,7 +27732,7 @@ Looking at this fills you with hope. It&apos;s terribly fragile, so handle with 
 		</imgdir>
 		<imgdir name="4310230">
 			<string name="name" value="Aspire Commemorative Coin"/>
-			<string name="desc" value="A commemorative coin issued by Aspire. You can trade it to #cAlec# in exchange for various items."/>
+			<string name="desc" value="A commemorative coin issued by Aspire. You can trade it to #cAlec# and #cKhun# in exchange for various items."/>
 		</imgdir>
 		<imgdir name="4310232">
 			<string name="name" value="Dragon Boat Festival Coin"/>
@@ -28831,6 +28831,18 @@ Looking at this fills you with hope. It&apos;s terribly fragile, so handle with 
 		<imgdir name="4036673">
 			<string name="name" value="Sengoku Ki"/>
 			<string name="desc" value="#cSengoku Ki# obtained by completing Sengoku Scroll objectives. Take it to #cMouri Motonari# to use in#c increasing the level of the Dawn&apos;s Bloom skill#."/>
+		</imgdir>
+		<imgdir name="4036640">
+			<string name="name" value="Pipopa&apos;s Case Notes"/>
+			<string name="desc" value="An investigation journal where Pipopa&apos;s keeps his case notes."/>
+		</imgdir>
+		<imgdir name="4001902">
+			<string name="name" value="Golden Toad Sculpture"/>
+			<string name="desc" value="An intricately carved golden toad sculpture. It looks very valuable."/>
+		</imgdir>
+		<imgdir name="4000984">
+			<string name="name" value="Kimono Fragment"/>
+			<string name="desc" value="A piece of cloth torn from someone&apos;s garment."/>
 		</imgdir>
 	</imgdir>
 </imgdir>

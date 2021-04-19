@@ -85,7 +85,7 @@
 		<string name="desc" value="A number of twinkling stars surrounds the character in this special effect."/>
 	</imgdir>
 	<imgdir name="5010023">
-		<string name="name" value="Pumping Heart"/>
+		<string name="name" value="Pit-a-Pat Heart"/>
 		<string name="desc" value="A special effect that captures the feeling of wanting to express the feeling of love to someone special. Double-click on the item or on the Key Config, configure this on a button of your choice to turn the effect on/off."/>
 	</imgdir>
 	<imgdir name="5010024">
@@ -1757,7 +1757,7 @@
 		<string name="desc" value="#cDouble-click# to apply a#c random# hairstyle, or talk to Lauren at Henesys Hair Salon to change your Android&apos;s hair. Double-click it in the Cash Shop for a#c preview#!"/>
 	</imgdir>
 	<imgdir name="5150061">
-		<string name="name" value="All-Star Hair Coupon"/>
+		<string name="name" value="VIP Royal Hair Coupon"/>
 		<string name="desc" value="#cDouble-click# to apply a#c random# hairstyle, or talk to Lauren at Henesys Hair Salon to change your Android&apos;s hair. Double-click it in the Cash Shop for a#c preview#!"/>
 	</imgdir>
 	<imgdir name="5150062">
@@ -1927,7 +1927,7 @@
 Talk to NPC Lauren at Henesys Hair Salon for Androids."/>
 	</imgdir>
 	<imgdir name="5150159">
-		<string name="name" value="All-Star Hair Choice Coupon"/>
+		<string name="name" value="VIP Royal Hair Choice Coupon"/>
 		<string name="desc" value="#cDouble-click# to pick one of the assorted hairstyles, or talk to Lauren at Henesys Hair Salon to change your Android&apos;s hair."/>
 	</imgdir>
 	<imgdir name="5150165">
@@ -2087,7 +2087,7 @@ Talk to NPC Lauren at Henesys Hair Salon for Androids."/>
 		<string name="desc" value="#cDouble-click# to apply the face#c of your choice#, or talk to Lauren at Henesys Hair Salon to change your Android&apos;s face. Usable once."/>
 	</imgdir>
 	<imgdir name="5152058">
-		<string name="name" value="All-Star Face Coupon"/>
+		<string name="name" value="VIP Royal Face Coupon"/>
 		<string name="desc" value="#cDouble-click# to change your face to one selected at#c random#, or talk to Lauren at Henesys Hair Salon to change your Android&apos;s face. Double-click it in the Cash Shop for a#c preview#!"/>
 	</imgdir>
 	<imgdir name="5152059">
@@ -2147,7 +2147,7 @@ Talk to NPC Lauren at Henesys Hair Salon for Androids."/>
 		<string name="desc" value="#cDouble-click# to change your face to one selected at#c random#, or talk to Lauren at Henesys Hair Salon to change your Android&apos;s face. Double-click it in the Cash Shop for a#c preview#!"/>
 	</imgdir>
 	<imgdir name="5152085">
-		<string name="name" value="All-Star Face Coupon"/>
+		<string name="name" value="VIP Royal Face Coupon"/>
 		<string name="desc" value="#cDouble-click# to change your face to one selected at#c random#, or talk to Lauren at Henesys Hair Salon to change your Android&apos;s face. Double-click it in the Cash Shop for a#c preview#!"/>
 	</imgdir>
 	<imgdir name="5152086">
@@ -2224,7 +2224,7 @@ Talk to NPC Lauren at Henesys Hair Salon for Androids."/>
 Talk to NPC Lauren at Henesys Hair Salon for Androids."/>
 	</imgdir>
 	<imgdir name="5152228">
-		<string name="name" value="All-Star Face Choice Coupon"/>
+		<string name="name" value="VIP Royal Face Choice Coupon"/>
 		<string name="desc" value="#cDouble-click# to pick one of the assorted faces, or talk to Lauren at Henesys Hair Salon to change your Android&apos;s face."/>
 	</imgdir>
 	<imgdir name="5152235">
@@ -3449,23 +3449,23 @@ Talk to NPC Lauren at Henesys Hair Salon for Androids."/>
 		<string name="desc" value="Can control the Hired Merchant anywhere, as long as the merchant is on the same channel."/>
 	</imgdir>
 	<imgdir name="5500000">
-		<string name="name" value="Hourglass"/>
+		<string name="name" value="Magical Hourglass"/>
 		<string name="desc" value="Drag and drop this on an equipped item with an expiration to extend the expiration by #c1 day#. #cCannot be used on Cash Items and cannot be extended beyond 365 days from the current date.#"/>
 	</imgdir>
 	<imgdir name="5500001">
-		<string name="name" value="[7days] Hourglass"/>
+		<string name="name" value="[7days] Magical Hourglass"/>
 		<string name="desc" value="Drag and drop this on an equipped item with an expiration to extend the expiration by #c7 days#. #cCannot be used on Cash Items and cannot be extended beyond 365 days from the current date.#"/>
 	</imgdir>
 	<imgdir name="5500002">
-		<string name="name" value="[20days] Hourglass"/>
+		<string name="name" value="[20days] Magical Hourglass"/>
 		<string name="desc" value="Drag and drop this on an equipped item with an expiration to extend the expiration by #c20 days#. #cCannot be used on Cash Items and cannot be extended beyond 365 days from the current date.#"/>
 	</imgdir>
 	<imgdir name="5500005">
-		<string name="name" value="[50days] Hourglass"/>
+		<string name="name" value="[50days] Magical Hourglass"/>
 		<string name="desc" value="Drag and drop this on an equipped item with an expiration to extend the expiration by #c50 days#. #cCannot be used on Cash Items and cannot be extended beyond 365 days from the current date.#"/>
 	</imgdir>
 	<imgdir name="5500006">
-		<string name="name" value="[99days] Hourglass"/>
+		<string name="name" value="[99days] Magical Hourglass"/>
 		<string name="desc" value="Drag and drop this on an equipped item with an expiration to extend the expiration by #c99 days#. #cCannot be used on Cash Items and cannot be extended beyond 365 days from the current date.#"/>
 	</imgdir>
 	<imgdir name="5501001">
@@ -5233,7 +5233,7 @@ Talk to NPC Lauren at Henesys Hair Salon for Androids."/>
 		<string name="desc" value="Double-click to receive a Pendant of the Spirit (7 Days)."/>
 	</imgdir>
 	<imgdir name="5530666">
-		<string name="name" value="Spell Trace 300 Coupon"/>
+		<string name="name" value="300 Spell Trace Coupon"/>
 		<string name="desc" value="Double-click to receive 300 Spell Traces."/>
 	</imgdir>
 	<imgdir name="5530667">
@@ -5729,8 +5729,8 @@ Talk to NPC Lauren at Henesys Hair Salon for Androids."/>
 		<string name="desc" value="This Pixel Everyday Fashion Box was specially curated to commemorate the 15th Anniversary. Contains #c1 of the 11 random fashion items#.\r\n(You have an equal chance to obtain any of the items in the Pixel Everyday Fashion Box.)"/>
 	</imgdir>
 	<imgdir name="5533129">
-		<string name="name" value="Victoria Island Flower Crown Box"/>
-		<string name="desc" value="Celebratory flower crowns fashioned by the 6 towns of Victoria Island. You can earn 1 of the 6 types of hats. \r\n(You have an equal chance to obtain any of the items in the Victoria Island Flower Crown Box.)"/>
+		<string name="name" value="Victoria Island Floral Crown Box"/>
+		<string name="desc" value="Celebratory floral crowns fashioned by the 6 towns of Victoria Island. You can earn 1 of the 6 types of hats. \r\n(You have an equal chance to obtain any of the items in the Victoria Island Floral Crown Box.)"/>
 	</imgdir>
 	<imgdir name="5533130">
 		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
@@ -6163,19 +6163,19 @@ Talk to NPC Lauren at Henesys Hair Salon for Androids."/>
 		<string name="desc" value="A reward box for the Summer&apos;s Comin&apos; event! #cDouble-click# to receive a prize from the list below.  \n\n- Horntail Chair\n- Philosopher&apos;s Book\n- Shielding Ward\n- 3 Chaos Scroll of Goodness 50%"/>
 	</imgdir>
 	<imgdir name="5680148">
-		<string name="name" value="5K Maple Point Coupon"/>
+		<string name="name" value="5,000-Maple-Point Coupon"/>
 		<string name="desc" value="#cDouble-click# on this coupon to receive #c5000 Maple Points#."/>
 	</imgdir>
 	<imgdir name="5680149">
-		<string name="name" value="10K Maple Point Coupon"/>
+		<string name="name" value="10,000-Maple-Point Coupon"/>
 		<string name="desc" value="#cDouble-click# on this coupon to receive #c10,000 Maple Points#."/>
 	</imgdir>
 	<imgdir name="5680150">
-		<string name="name" value="30K Maple Point Coupon"/>
+		<string name="name" value="30,000-Maple-Point Coupon"/>
 		<string name="desc" value="#cDouble-click# on this coupon to receive #c30,000 Maple Points#. Cannot be traded."/>
 	</imgdir>
 	<imgdir name="5680151">
-		<string name="name" value="1K Maple Point Coupon"/>
+		<string name="name" value="1,000-Maple-Point Coupon"/>
 		<string name="desc" value="#cDouble-click# on this coupon to receive #c1000 Maple Points#."/>
 	</imgdir>
 	<imgdir name="5680154">
@@ -6216,7 +6216,7 @@ Talk to NPC Lauren at Henesys Hair Salon for Androids."/>
 	</imgdir>
 	<imgdir name="5680180">
 		<string name="name" value="9th Anniversary Event Participant Box"/>
-		<string name="desc" value="An important gift you got for participating in the 9th Anniversary Event. Double-click to get a Black Buckle and a 10,000 Maple Points Coupon."/>
+		<string name="desc" value="An important gift you got for participating in the 9th Anniversary Event. Double-click to get a Black Buckle and a 10,000-Maple-Point Coupon."/>
 	</imgdir>
 	<imgdir name="5680181">
 		<string name="name" value="9th Anniversary Me and My Buddy Box"/>
@@ -6251,11 +6251,11 @@ Talk to NPC Lauren at Henesys Hair Salon for Androids."/>
 		<string name="name" value="Blue Ribbon Label Ring Gift Certificate"/>
 	</imgdir>
 	<imgdir name="5680193">
-		<string name="name" value="50K Maple Point Coupon"/>
+		<string name="name" value="50,000-Maple-Point Coupon"/>
 		<string name="desc" value="#cDouble-click# this coupon to receive #c50,000 Maple Points#."/>
 	</imgdir>
 	<imgdir name="5680194">
-		<string name="name" value="100K Maple Point Coupon"/>
+		<string name="name" value="100,000-Maple-Point Coupon"/>
 		<string name="desc" value="#cDouble-click# on this coupon to receive #c100,000 Maple Points#."/>
 	</imgdir>
 	<imgdir name="5680196">
@@ -6660,7 +6660,7 @@ Talk to NPC Lauren at Henesys Hair Salon for Androids."/>
 		<string name="desc" value="#cDouble-click# to obtain a random hairstyle for your gender from a set of five styles."/>
 	</imgdir>
 	<imgdir name="5680335">
-		<string name="name" value="1M Maple Point Coupon"/>
+		<string name="name" value="1-Million-Maple-Point Coupon"/>
 		<string name="desc" value="#cDouble-click# on this coupon to receive #c1,000,000 Maple Points#."/>
 	</imgdir>
 	<imgdir name="5680336">
@@ -6848,12 +6848,12 @@ Talk to NPC Lauren at Henesys Hair Salon for Androids."/>
 		<string name="desc" value="A magical item that allows you to #csave# the equipped damage skin or #capply# damage skins you saved.\n#cThe damage skin storage scrolls will share the information with other damage skin storage scrolls, so the damage skin that was saved last will be applied to all scrolls.#"/>
 	</imgdir>
 	<imgdir name="5680397">
-		<string name="name" value="200K Maple Point Coupon"/>
+		<string name="name" value="200,000-Maple-Point Coupon"/>
 		<string name="desc" value="#cDouble-Click# to acquire #c200,000 Maple Points#."/>
 	</imgdir>
 	<imgdir name="5680398">
 		<string name="desc" value="#cDouble-Click# to acquire #c500,000 Maple Points#."/>
-		<string name="name" value="500K Maple Point Coupon"/>
+		<string name="name" value="500,000-Maple-Point Coupon"/>
 	</imgdir>
 	<imgdir name="5680399">
 		<string name="desc" value="#cDouble-click# to select and acquire one AbsoLab weapon with #cEpic Potential#."/>
@@ -6896,31 +6896,31 @@ Talk to NPC Lauren at Henesys Hair Salon for Androids."/>
 		<string name="desc" value="#cDouble-click# this coin to receive #c390 million# mesos."/>
 	</imgdir>
 	<imgdir name="5680409">
-		<string name="name" value="3000 Maple Point Coupon"/>
+		<string name="name" value="3,000-Maple-Point Coupon"/>
 		<string name="desc" value="#cDouble-click# to acquire #c3,000 Maple Points#. This coupon can be used until TKTKTK."/>
 	</imgdir>
 	<imgdir name="5680410">
-		<string name="name" value="5000 Maple Point Coupon"/>
+		<string name="name" value="5,000-Maple-Point Coupon"/>
 		<string name="desc" value="#cDouble-click# to acquire #c5,000 Maple Points#. This coupon can be used until TKTKTK."/>
 	</imgdir>
 	<imgdir name="5680411">
-		<string name="name" value="7000 Maple Point Coupon"/>
+		<string name="name" value="7,000-Maple-Point Coupon"/>
 		<string name="desc" value="#cDouble-click# to acquire #c7,000 Maple Points#. This coupon can be used until TKTKTK."/>
 	</imgdir>
 	<imgdir name="5680412">
-		<string name="name" value="10000 Maple Point Coupon"/>
+		<string name="name" value="10,000-Maple-Point Coupon"/>
 		<string name="desc" value="#cDouble-click# to acquire #c10,000 Maple Points#. This coupon can be used until TKTKTK."/>
 	</imgdir>
 	<imgdir name="5680413">
-		<string name="name" value="15000 Maple Point Coupon"/>
+		<string name="name" value="15,000-Maple-Point Coupon"/>
 		<string name="desc" value="#cDouble-click# to acquire #c15,000 Maple Points#. This coupon can be used until TKTKTK."/>
 	</imgdir>
 	<imgdir name="5680414">
-		<string name="name" value="20000 Maple Point Coupon"/>
+		<string name="name" value="20,000-Maple-Point Coupon"/>
 		<string name="desc" value="#cDouble-click# to acquire #c20,000 Maple Points#. This coupon can be used until TKTKTK."/>
 	</imgdir>
 	<imgdir name="5680415">
-		<string name="name" value="25000 Maple Point Coupon"/>
+		<string name="name" value="25,000-Maple-Point Coupon"/>
 		<string name="desc" value="#cDouble-click# to acquire #c25,000 Maple Points#. This coupon can be used until TKTKTK."/>
 	</imgdir>
 	<imgdir name="5680416">
@@ -6988,11 +6988,11 @@ Talk to NPC Lauren at Henesys Hair Salon for Androids."/>
 		<string name="desc" value="#cDouble-click# to receive a #cAliciaroid + New Gold Heart (30 Day)#."/>
 	</imgdir>
 	<imgdir name="5680440">
-		<string name="name" value="30K Maple Point Coupon"/>
+		<string name="name" value="30,000-Maple-Point Coupon"/>
 		<string name="desc" value="#cDouble-click# on this coupon to receive #c30,000 Maple Points#."/>
 	</imgdir>
 	<imgdir name="5680441">
-		<string name="name" value="300K Maple Point Coupon"/>
+		<string name="name" value="300,000-Maple-Point Coupon"/>
 		<string name="desc" value="#cDouble-click# on this coupon to receive #c300,000 Maple Points#."/>
 	</imgdir>
 	<imgdir name="5680443">
@@ -7009,19 +7009,19 @@ Talk to NPC Lauren at Henesys Hair Salon for Androids."/>
 	</imgdir>
 	<imgdir name="5680446">
 		<string name="name" value="10 Power Elixirs"/>
-		<string name="desc" value="This package includes #c10 Power Elixirs# and a #c1K Maple Point Coupon# as a big, fat BONUS!"/>
+		<string name="desc" value="This package includes #c10 Power Elixirs# and a #c1,000-Maple-Point Coupon# as a big, fat BONUS!"/>
 	</imgdir>
 	<imgdir name="5680447">
 		<string name="name" value="50 Power Elixirs"/>
-		<string name="desc" value="This package includes #c50 Power Elixirs# and a #c5K Maple Point Coupon# as a big, fat BONUS!"/>
+		<string name="desc" value="This package includes#c Power Elixir# x50 and a #c5,000-Maple-Point Coupon# as a big, fat BONUS!"/>
 	</imgdir>
 	<imgdir name="5680448">
 		<string name="name" value="100 Power Elixirs"/>
-		<string name="desc" value="This package includes #c100 Power Elixirs# and a #c10K Maple Point Coupon# as a big, fat BONUS!"/>
+		<string name="desc" value="This package includes#c Power Elixir# x100 and a #c10,000-Maple-Point Coupon# as a big, fat BONUS!"/>
 	</imgdir>
 	<imgdir name="5680449">
 		<string name="name" value="300 Power Elixirs"/>
-		<string name="desc" value="This package includes #c300 Power Elixirs# and a #c30K Maple Point Coupon# as a big, fat BONUS!"/>
+		<string name="desc" value="This package includes#c Power Elixir# x300 and a #c30,000-Maple-Point Coupon# as a big, fat BONUS!"/>
 	</imgdir>
 	<imgdir name="5680450">
 		<string name="name" value="Red Cube Six Pack"/>
@@ -7032,19 +7032,19 @@ Talk to NPC Lauren at Henesys Hair Salon for Androids."/>
 		<string name="desc" value="A set of 6 Black Cubes. Also contains a Silver Awakening Stamp as a bonus, which has a 50% chance to add one Potential to items with 2 or less potentials."/>
 	</imgdir>
 	<imgdir name="5680452">
-		<string name="name" value="5000 Maple Point Coupon"/>
+		<string name="name" value="5,000-Maple-Point Coupon"/>
 		<string name="desc" value="#cDouble-Click# to acquire #c5,000 Maple Points#."/>
 	</imgdir>
 	<imgdir name="5680453">
-		<string name="name" value="10000 Maple Point Coupon"/>
+		<string name="name" value="10,000-Maple-Point Coupon"/>
 		<string name="desc" value="#cDouble-Click# to acquire #c10,000 Maple Points#."/>
 	</imgdir>
 	<imgdir name="5680454">
-		<string name="name" value="20000 Maple Point Coupon"/>
+		<string name="name" value="20,000-Maple-Point Coupon"/>
 		<string name="desc" value="#cDouble-Click# to acquire #c20,000 Maple Points#."/>
 	</imgdir>
 	<imgdir name="5680455">
-		<string name="name" value="30000 Maple Point Coupon"/>
+		<string name="name" value="30,000-Maple-Point Coupon"/>
 		<string name="desc" value="#cDouble-Click# to acquire #c30,000 Maple Points#."/>
 	</imgdir>
 	<imgdir name="5680456">
@@ -7205,15 +7205,15 @@ Talk to NPC Lauren at Henesys Hair Salon for Androids."/>
 		<string name="desc" value="Double-click to receive a [30 Day] Camellia&apos;s Sword Chat Ring."/>
 	</imgdir>
 	<imgdir name="5680517">
-		<string name="name" value="6,500 Maple Point Coupon"/>
+		<string name="name" value="6,500-Maple-Point Coupon"/>
 		<string name="desc" value="#cDouble-Click# to acquire #c6,500 Maple Points#."/>
 	</imgdir>
 	<imgdir name="5680518">
-		<string name="name" value="20,000 Maple Point Coupon"/>
+		<string name="name" value="20,000-Maple-Point Coupon"/>
 		<string name="desc" value="#cDouble-Click# to acquire #c20,000 Maple Points#."/>
 	</imgdir>
 	<imgdir name="5680519">
-		<string name="name" value="2,500 Maple Point Coupon"/>
+		<string name="name" value="2,500-Maple-Point Coupon"/>
 		<string name="desc" value="#cDouble-Click# to acquire #c2,500 Maple Points#."/>
 	</imgdir>
 	<imgdir name="5680520">
@@ -7229,7 +7229,7 @@ Talk to NPC Lauren at Henesys Hair Salon for Androids."/>
 		<string name="desc" value="Double-click to receive a [30 Day] Mustache Chat Ring."/>
 	</imgdir>
 	<imgdir name="5680525">
-		<string name="name" value="50,000 Maple Point Coupon"/>
+		<string name="name" value="50,000-Maple-Point Coupon"/>
 		<string name="desc" value="#cDouble-click# this coupon to receive #c50,000 Maple Points#."/>
 	</imgdir>
 	<imgdir name="5680527">
@@ -7297,23 +7297,23 @@ Talk to NPC Lauren at Henesys Hair Salon for Androids."/>
 		<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
 	</imgdir>
 	<imgdir name="5680547">
-		<string name="name" value="1000 Maple Point Coupon"/>
+		<string name="name" value="1,000-Maple-Point Coupon"/>
 		<string name="desc" value="#cDouble-click# to acquire #c1,000 Maple Points#."/>
 	</imgdir>
 	<imgdir name="5680548">
-		<string name="name" value="3,000 Maple Point Coupon"/>
+		<string name="name" value="3,000-Maple-Point Coupon"/>
 		<string name="desc" value="#cDouble-click# to acquire #c3,000 Maple Points#."/>
 	</imgdir>
 	<imgdir name="5680549">
-		<string name="name" value="5,000 Maple Point Coupon"/>
+		<string name="name" value="5,000-Maple-Point Coupon"/>
 		<string name="desc" value="#cDouble-click# to acquire #c5,000 Maple Points#."/>
 	</imgdir>
 	<imgdir name="5680550">
-		<string name="name" value="10,000 Maple Point Coupon"/>
+		<string name="name" value="10,000-Maple-Point Coupon"/>
 		<string name="desc" value="#cDouble-click# to acquire #c10,000 Maple Points#."/>
 	</imgdir>
 	<imgdir name="5680551">
-		<string name="name" value="20,000 Maple Point Coupon"/>
+		<string name="name" value="20,000-Maple-Point Coupon"/>
 		<string name="desc" value="#cDouble-click# to acquire #c20,000 Maple Points#."/>
 	</imgdir>
 	<imgdir name="5680552">
@@ -7374,18 +7374,18 @@ Talk to NPC Lauren at Henesys Hair Salon for Androids."/>
 	</imgdir>
 	<imgdir name="5680575">
 		<string name="name" value="100 Power Elixirs"/>
-		<string name="desc" value="This package includes #c100 Power Elixirs# and a #c10K Maple Point Coupon# as a big, fat BONUS!"/>
+		<string name="desc" value="This package includes#c Power Elixir# x100 and a #c10,000-Maple-Point Coupon# as a big, fat BONUS!"/>
 	</imgdir>
 	<imgdir name="5680576">
 		<string name="name" value="50x Power Elixir Package"/>
-		<string name="desc" value="This package includes #c50 Power Elixirs# and a #c5K Maple Point Coupon# as a big, fat BONUS!"/>
+		<string name="desc" value="This package includes#c Power Elixir# x50 and a #c5,000-Maple-Point Coupon# as a big, fat BONUS!"/>
 	</imgdir>
 	<imgdir name="5680578">
-		<string name="name" value="5K Maple Point Coupon"/>
+		<string name="name" value="5,000-Maple-Point Coupon"/>
 		<string name="desc" value="#cDouble-click# on this coupon to receive #c5,000 Maple Points#."/>
 	</imgdir>
 	<imgdir name="5680577">
-		<string name="name" value="10K Maple Point Coupon"/>
+		<string name="name" value="10,000-Maple-Point Coupon"/>
 		<string name="desc" value="#cDouble-click# on this coupon to receive #c10,000 Maple Points#."/>
 	</imgdir>
 	<imgdir name="5680579">
@@ -7398,7 +7398,7 @@ Talk to NPC Lauren at Henesys Hair Salon for Androids."/>
 	</imgdir>
 	<imgdir name="5680581">
 		<string name="name" value="100 Sweet N&apos; Sour Power Elixirs"/>
-		<string name="desc" value="On top of the #c100 Power Elixirs#, this package includes #c10K Maple Point Coupon# and #cSweet Sugar Chair# as a big, fat BONUS!"/>
+		<string name="desc" value="On top of the #c100 Power Elixirs#, this package includes #c10,000-Maple-Point Coupon# and #cSweet Sugar Chair# as a big, fat BONUS!"/>
 	</imgdir>
 	<imgdir name="5680582">
 		<string name="name" value="Power M-Point Charger"/>
@@ -7453,7 +7453,7 @@ Talk to NPC Lauren at Henesys Hair Salon for Androids."/>
 		<string name="desc" value="Double-click to receive a Clockwork Knight Chat Ring (30 Day)."/>
 	</imgdir>
 	<imgdir name="5680618">
-		<string name="name" value="5,000 Maple Point Coupon"/>
+		<string name="name" value="5,000-Maple-Point Coupon"/>
 		<string name="desc" value="#cDouble-click# to acquire #c5,000 Maple Points#."/>
 	</imgdir>
 	<imgdir name="5680620">
@@ -7486,19 +7486,19 @@ Talk to NPC Lauren at Henesys Hair Salon for Androids."/>
 	</imgdir>
 	<imgdir name="5680630">
 		<string name="name" value="Power Elixir x50"/>
-		<string name="desc" value="This package includes#c Power Elixir# x50 and a #c5K Maple Point Coupon# as a big, fat BONUS!"/>
+		<string name="desc" value="This package includes#c Power Elixir# x50 and a #c5,000-Maple-Point Coupon# as a big, fat BONUS!"/>
 	</imgdir>
 	<imgdir name="5680631">
 		<string name="name" value="Power Elixirs x100"/>
-		<string name="desc" value="This package includes#c Power Elixir# x100 and a #c10K Maple Point Coupon# as a big, fat BONUS!"/>
+		<string name="desc" value="This package includes#c Power Elixir# x100 and a #c10,000-Maple-Point Coupon# as a big, fat BONUS!"/>
 	</imgdir>
 	<imgdir name="5680632">
 		<string name="name" value="Power Elixirs x300"/>
-		<string name="desc" value="This package includes#c Power Elixir# x300 and a #c30K Maple Point Coupon# as a big, fat BONUS!"/>
+		<string name="desc" value="This package includes#c Power Elixir# x300 and a #c30,000-Maple-Point Coupon# as a big, fat BONUS!"/>
 	</imgdir>
 	<imgdir name="5680633">
 		<string name="name" value="Power Elixir x500"/>
-		<string name="desc" value="This package includes#c Power Elixir# x500 and a #c50K Maple Point Coupon# as a big, fat BONUS!"/>
+		<string name="desc" value="This package includes#c Power Elixir# x500 and a #c50,000-Maple-Point Coupon# as a big, fat BONUS!"/>
 	</imgdir>
 	<imgdir name="5680634">
 		<string name="name" value="Summer Gift Box"/>
@@ -7590,7 +7590,7 @@ Talk to NPC Lauren at Henesys Hair Salon for Androids."/>
 		<string name="name" value="Power M-Point Charger"/>
 	</imgdir>
 	<imgdir name="5680751">
-		<string name="name" value="100,000 Maple Points Coupon"/>
+		<string name="name" value="100,000-Maple-Point Coupon"/>
 		<string name="desc" value="#cDouble-click# to get #c100,000 Maple Points#."/>
 	</imgdir>
 	<imgdir name="5680752">
@@ -7602,8 +7602,8 @@ Talk to NPC Lauren at Henesys Hair Salon for Androids."/>
 		<string name="desc" value="#cDouble-click# to get #cGlory Coin x1 and Coupon x1000#."/>
 	</imgdir>
 	<imgdir name="5680760">
-		<string name="name" value="Victoria Island Flower Crown Box"/>
-		<string name="desc" value="Celebratory flower crowns fashioned by the 6 towns of Victoria Island. You can earn 1 of the 6 types of hats. \r\n(You have an equal chance to obtain any of the items in the Victoria Island Flower Crown Box.)"/>
+		<string name="name" value="Victoria Island Floral Crown Box"/>
+		<string name="desc" value="Celebratory floral crowns fashioned by the 6 towns of Victoria Island. You can earn 1 of the 6 types of hats. \r\n(You have an equal chance to obtain any of the items in the Victoria Island Floral Crown Box.)"/>
 	</imgdir>
 	<imgdir name="5680795">
 		<string name="desc" value="It&apos;s a #cMapleStory Gift# box! \r\n#cDouble-click# to open it."/>
@@ -7781,8 +7781,8 @@ Talk to NPC Lauren at Henesys Hair Salon for Androids."/>
 		<string name="desc" value="Sooo fluffy!\n#cRestores 100 HP and 50 MP every 10 seconds.#"/>
 	</imgdir>
 	<imgdir name="5530882">
-		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="FLEX Voucher x1 Coupon"/>
+		<string name="desc" value="Double-click and use to obtain #cFLEX Voucher x1#, which can be exchanged for various rewards."/>
 	</imgdir>
 	<imgdir name="5530883">
 		<string name="name" value="Full Moon Ticket x1 Coupon"/>
@@ -7797,8 +7797,8 @@ Talk to NPC Lauren at Henesys Hair Salon for Androids."/>
 		<string name="desc" value="A box containing a thermal bottom of peculiar color. You can earn 1 of the 6 types of tops.\r\n(You have an equal chance to obtain any of the items in the Peculiar Thermal Bottom Box.)"/>
 	</imgdir>
 	<imgdir name="5533138">
-		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="Hotel Maple Party Hat Box"/>
+		<string name="desc" value="A box containing a Hotel Maple Party Hat. Contains 1 of the 6 types of hat.\r\n(Each Hotel Maple Party Hat Box has an equal chance to contain any of the 6 types.)"/>
 	</imgdir>
 	<imgdir name="5680824">
 		<string name="name" value="Fluff Ball Label Ring (30 Day) Coupon"/>
@@ -8568,43 +8568,43 @@ ATT, MATT + 100"/>
 		<string name="desc" value="Double click on this to obtain Maple Points."/>
 	</imgdir>
 	<imgdir name="5205003">
-		<string name="name" value="1K Maple Point Coupon"/>
+		<string name="name" value="1,000-Maple-Point Coupon"/>
 		<string name="desc" value="Gives you 1,000 Maple Points.\n#cAfter you use this coupon, these Maple Points must be spent before the May 14 maintenance, or they will disappear.#"/>
 	</imgdir>
 	<imgdir name="5205004">
-		<string name="name" value="5K Maple Point Coupon"/>
+		<string name="name" value="5,000-Maple-Point Coupon"/>
 		<string name="desc" value="Gives you 5,000 Maple Points."/>
 	</imgdir>
 	<imgdir name="5205005">
-		<string name="name" value="10K Maple Point Coupon"/>
+		<string name="name" value="10,000-Maple-Point Coupon"/>
 		<string name="desc" value="Gives you 10,000 Maple Points.\n#cRedeemable until 4/30. Maple Points must be spent by 5/13 (they can be removed on the 5/14 maintenance)#"/>
 	</imgdir>
 	<imgdir name="5205006">
-		<string name="name" value="10K Maple Point Coupon"/>
+		<string name="name" value="10,000-Maple-Point Coupon"/>
 		<string name="desc" value="Gives you 10,000 Maple Points.\n#cRedeemable until 6/5. Maple Points must be spent by 6/23. (Unused Maple Points will be removed during the 6/24 maintenance.)#"/>
 	</imgdir>
 	<imgdir name="5205007">
-		<string name="name" value="20K Maple Point Coupon"/>
+		<string name="name" value="20,000-Maple-Point Coupon"/>
 		<string name="desc" value="Gives you 20,000 Maple Points.\n#cRedeemable until 6/5. Maple Points must be spent by 6/23. (Unused Maple Points will be removed during the 6/24 maintenance.)#"/>
 	</imgdir>
 	<imgdir name="5205008">
-		<string name="name" value="500 Maple Point Coupon"/>
+		<string name="name" value="500-Maple-Point Coupon"/>
 		<string name="desc" value="Gives you 500 Maple Points.\r\nDouble click on this to obtain Maple Points."/>
 	</imgdir>
 	<imgdir name="5205009">
-		<string name="name" value="1,000 Maple Point Coupon"/>
+		<string name="name" value="1,000-Maple-Point Coupon"/>
 		<string name="desc" value="Gives you 1,000 Maple Points.\r\nDouble click on this to obtain Maple Points."/>
 	</imgdir>
 	<imgdir name="5205010">
-		<string name="name" value="25K Maple Point Coupon"/>
+		<string name="name" value="25,000-Maple-Point Coupon"/>
 		<string name="desc" value="Gives you 25,000 Maple Points."/>
 	</imgdir>
 	<imgdir name="5205011">
-		<string name="name" value="50K Maple Point Coupon"/>
+		<string name="name" value="50,000-Maple-Point Coupon"/>
 		<string name="desc" value="Gives you 50,000 Maple Points."/>
 	</imgdir>
 	<imgdir name="5205012">
-		<string name="name" value="100K Maple Point Coupon"/>
+		<string name="name" value="100,000-Maple-Point Coupon"/>
 		<string name="desc" value="Gives you 100,000 Maple Points."/>
 	</imgdir>
 	<imgdir name="5210000">
@@ -8908,7 +8908,7 @@ ATT, MATT + 100"/>
 	</imgdir>
 	<imgdir name="5222060">
 		<string name="name" value="Premium Surprise Style Box"/>
-		<string name="desc" value="The box will give you one random Equip item. The box contains only permanent items and can be traded to other players (excluding Reboot server characters). The box must be opened from Cash Shop inventory."/>
+		<string name="desc" value="This box grants one random Equip item. The box contains only permanent items and can be traded to other players (excluding Reboot server characters). The box must be opened from the Cash Shop inventory."/>
 	</imgdir>
 	<imgdir name="5222063">
 		<string name="name" value="Mark of Honor Hat Box"/>
@@ -8916,7 +8916,7 @@ ATT, MATT + 100"/>
 	</imgdir>
 	<imgdir name="5222064">
 		<string name="name" value="Halloween Surprise Style Box"/>
-		<string name="desc" value="This box will give you one random equip with a Halloween theme. You can trade the item to someone else if you haven&apos;t equipped it."/>
+		<string name="desc" value="This box grants one random Equip item. The box contains only permanent items and can be traded to other players (excluding Reboot server characters). The box must be opened from the Cash Shop inventory."/>
 	</imgdir>
 	<imgdir name="5222074">
 		<string name="name" value="New Year Lucky Box"/>
@@ -8960,7 +8960,7 @@ ATT, MATT + 100"/>
 	</imgdir>
 	<imgdir name="5222102">
 		<string name="name" value="Winter Surprise Style Box"/>
-		<string name="desc" value="This box will give you one random winter-themed Equip item. These items are permanent, and they can be traded to other players until they are equipped."/>
+		<string name="desc" value="This box grants one random Equip item. The box contains only permanent items and can be traded to other players (excluding Reboot server characters). The box must be opened from the Cash Shop inventory."/>
 	</imgdir>
 	<imgdir name="5222103">
 		<string name="name" value="Winter Weather Box"/>
@@ -8972,11 +8972,11 @@ ATT, MATT + 100"/>
 	</imgdir>
 	<imgdir name="5222108">
 		<string name="name" value="Valentine Surprise Style Box"/>
-		<string name="desc" value="This box will give you one random Equip item. This box contains only permanent items that can be traded to other players as long as you haven&apos;t equipped them."/>
+		<string name="desc" value="This box grants one random Equip item. The box contains only permanent items and can be traded to other players (excluding Reboot server characters). The box must be opened from the Cash Shop inventory."/>
 	</imgdir>
 	<imgdir name="5222109">
 		<string name="name" value="St.Patrick&apos;s Day Surprise Style Box"/>
-		<string name="desc" value="This box will give you one random equip item. This box contains only permanent items that can be traded to other players as long as you haven&apos;t equipped them."/>
+		<string name="desc" value="This box grants one random Equip item. The box contains only permanent items and can be traded to other players (excluding Reboot server characters). The box must be opened from the Cash Shop inventory."/>
 	</imgdir>
 	<imgdir name="5222110">
 		<string name="name" value="Special Effect Box"/>
@@ -8984,15 +8984,15 @@ ATT, MATT + 100"/>
 	</imgdir>
 	<imgdir name="5222111">
 		<string name="name" value="Spring Surprise Style Box"/>
-		<string name="desc" value="This box will give you one random Equip item. This box contains only permanent items that can be traded to other players as long as you haven&apos;t equipped them."/>
+		<string name="desc" value="This box grants one random Equip item. The box contains only permanent items and can be traded to other players (excluding Reboot server characters). The box must be opened from the Cash Shop inventory."/>
 	</imgdir>
 	<imgdir name="5222112">
 		<string name="name" value="Anniversary Surprise Style Box"/>
-		<string name="desc" value="This box will give you one random Equip item. This box contains only permanent items that can be traded to other players as long as you haven&apos;t equipped them."/>
+		<string name="desc" value="This box grants one random Equip item. The box contains only permanent items and can be traded to other players (excluding Reboot server characters). The box must be opened from the Cash Shop inventory."/>
 	</imgdir>
 	<imgdir name="5222116">
 		<string name="name" value="Summer Surprise Style Box"/>
-		<string name="desc" value="This box will give you one random Equip item. This box contains only permanent items that can be traded to other players as long as you haven&apos;t equipped them."/>
+		<string name="desc" value="This box grants one random Equip item. The box contains only permanent items and can be traded to other players (excluding Reboot server characters). The box must be opened from the Cash Shop inventory."/>
 	</imgdir>
 	<imgdir name="5222119">
 		<string name="name" value="Sword Art Online Style Box"/>
@@ -9000,7 +9000,7 @@ ATT, MATT + 100"/>
 	</imgdir>
 	<imgdir name="5222120">
 		<string name="name" value="Autumn Surprise Style Box"/>
-		<string name="desc" value="This box will give you one random equip with an Autumn theme. You can trade the item to someone else if you haven&apos;t equipped it."/>
+		<string name="desc" value="This box grants one random Equip item. The box contains only permanent items and can be traded to other players (excluding Reboot server characters). The box must be opened from the Cash Shop inventory."/>
 	</imgdir>
 	<imgdir name="5222124">
 		<string name="name" value="Attack on Titan Surprise Style Box A"/>
@@ -9037,7 +9037,7 @@ ATT, MATT + 100"/>
 	</imgdir>
 	<imgdir name="5222145">
 		<string name="name" value="Black Friday Surprise Style Box"/>
-		<string name="desc" value="A special style box just for Black Friday. The box will give you one random permanent Equip item that can be traded to other players. The box must be opened from your Cash Shop Inventory."/>
+		<string name="desc" value="This box grants one random Equip item. The box contains only permanent items and can be traded to other players (excluding Reboot server characters). The box must be opened from the Cash Shop inventory."/>
 	</imgdir>
 	<imgdir name="5222146">
 		<string name="name" value="Black Friday Lucky Box (Tuesday)"/>
@@ -9093,7 +9093,7 @@ ATT, MATT + 100"/>
 	</imgdir>
 	<imgdir name="5222178">
 		<string name="name" value="MVP Surprise Style Box"/>
-		<string name="desc" value="The box will give you one random Equip item. The box contains only permanent items and can be traded to other players. The box must be opened from Cash Shop inventory."/>
+		<string name="desc" value="This box grants one random Equip item. The box contains only permanent items and can be traded to other players (excluding Reboot server characters). The box must be opened from the Cash Shop inventory."/>
 	</imgdir>
 	<imgdir name="5222154">
 		<string name="name" value="Reward Style Box"/>
@@ -9125,7 +9125,7 @@ ATT, MATT + 100"/>
 	</imgdir>
 	<imgdir name="5222169">
 		<string name="name" value="Harvest Surprise Style Box"/>
-		<string name="desc" value="The box will give you one random Equip item. The box contains only permanent items and can be traded to other players. The box must be opened from Cash Shop inventory."/>
+		<string name="desc" value="This box grants one random Equip item. The box contains only permanent items and can be traded to other players (excluding Reboot server characters). The box must be opened from the Cash Shop inventory."/>
 	</imgdir>
 	<imgdir name="5240012">
 		<string name="name" value="Dragon Marble Candy"/>
@@ -10911,7 +10911,7 @@ ATT, MATT + 100"/>
 	</imgdir>
 	<imgdir name="5222179">
 		<string name="name" value="Heroes Surprise Style Box"/>
-		<string name="desc" value="The box will give you one random Equip item. The box contains only permanent items and can be traded to other players. The box must be opened from Cash Shop inventory."/>
+		<string name="desc" value="This box grants one random Equip item. The box contains only permanent items and can be traded to other players (excluding Reboot server characters). The box must be opened from the Cash Shop inventory."/>
 	</imgdir>
 	<imgdir name="5121069">
 		<string name="name" value="Fruits of Labor"/>
@@ -10974,11 +10974,11 @@ ATT, MATT + 100"/>
 	</imgdir>
 	<imgdir name="5222181">
 		<string name="name" value="Lunar Premium Surprise Style Box"/>
-		<string name="desc" value="The box will give you one random Equip item. The box contains only permanent items and can be traded to other players. The box must be opened from Cash Shop inventory."/>
+		<string name="desc" value="This box grants one random Equip item. The box contains only permanent items and can be traded to other players. The box must be opened from Cash Shop inventory."/>
 	</imgdir>
 	<imgdir name="5222182">
 		<string name="name" value="April Fools&apos; Surprise Style Box"/>
-		<string name="desc" value="The box will give you one random Equip item. The box contains only permanent items and can be traded to other players. The box must be opened from Cash Shop inventory."/>
+		<string name="desc" value="This box grants one random Equip item. The box contains only permanent items and can be traded to other players (excluding Reboot server characters). The box must be opened from the Cash Shop inventory."/>
 	</imgdir>
 	<imgdir name="5240159">
 		<string name="name" value="Vampire Chow"/>
@@ -11864,7 +11864,7 @@ ATT, MATT + 100"/>
 		<string name="desc" value="#cDouble-click# to get Special Medal of Honor x3."/>
 	</imgdir>
 	<imgdir name="5680765">
-		<string name="name" value="Spell Trace x100 Coupon"/>
+		<string name="name" value="100 Spell Trace Coupon"/>
 		<string name="desc" value="#cDouble-click# to get Spell Trace x100."/>
 	</imgdir>
 	<imgdir name="5680766">
@@ -11884,8 +11884,8 @@ ATT, MATT + 100"/>
 		<string name="desc" value="#cDouble-click# to get Nodestone x1."/>
 	</imgdir>
 	<imgdir name="5680770">
-		<string name="name" value="Arcane Symbol Selection Coupon x1 Voucher"/>
-		<string name="desc" value="#cDouble-click# to get Arcane Symbol Selection Coupon x1."/>
+		<string name="name" value="Arcane Symbol Selector Coupon x1 Voucher"/>
+		<string name="desc" value="#cDouble-click# to get Arcane Symbol Selector Coupon x1."/>
 	</imgdir>
 	<imgdir name="5680771">
 		<string name="name" value="500 Reward Points"/>
@@ -12000,11 +12000,11 @@ ATT, MATT + 100"/>
 		<string name="desc" value="A fish treat that&apos;s a favorite of the #cBoxcat# pets, especially if they don&apos;t have to leave their boxes to get one. Recovers Fullness completely and #cincreases Closeness by 100.#"/>
 	</imgdir>
 	<imgdir name="5205013">
-		<string name="name" value="1 Million Maple Points Chip"/>
+		<string name="name" value="1-Million-Maple-Point Chip"/>
 		<string name="desc" value="#cDouble-click# to get 1 Million Maple Points."/>
 	</imgdir>
 	<imgdir name="5205014">
-		<string name="name" value="10,000 Maple Points Chip"/>
+		<string name="name" value="10,000-Maple-Point Chip"/>
 		<string name="desc" value="#cDouble-click# to get 10,000 Maple Points."/>
 	</imgdir>
 	<imgdir name="5538157">
@@ -12602,5 +12602,17 @@ Upon using the cube, the value of all potentials #cwill become consistent with t
 	<imgdir name="5158013">
 		<string name="name" value="Pumpkin Face Coupon (F)"/>
 		<string name="desc" value="Double-click to change your face to Pumpkin Face (F). Can only be used on female characters."/>
+	</imgdir>
+	<imgdir name="5680896">
+		<string name="name" value="Pit-a-Pat Pass Coupon"/>
+		<string name="desc" value="#cDouble-click# for the #cPit-a-Pat Pass#, which allows you to invoke #cspecial privileges as [Maple Cafe on a Spring Day]&apos;s manager#. Once you activate the Pit-a-Pat Pass, you&apos;ll #cearn 50% more Chat Points with the employees, with a 50% increase to the daily Chat Point maximum. You can also earn special rewards, including My Beating Heart Weapon and My Beating Heart Cape#."/>
+	</imgdir>
+	<imgdir name="5533143">
+		<string name="name" value="Emoticon Face Accessory Box"/>
+		<string name="desc" value="Contains 1 of the 6 Emoticon Face Accessories at random."/>
+	</imgdir>
+	<imgdir name="5240213">
+		<string name="name" value="Suncloud Cotton Candy"/>
+		<string name="desc" value="#cCloud and Sun pets# go crazy for this sweet cotton candy. Recovers Fullness completely and #cincreases Closeness by 100#."/>
 	</imgdir>
 </imgdir>
