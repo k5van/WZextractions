@@ -16581,8 +16581,8 @@
 			<string name="desc" value="A guide that has all the commands for the Shining Star pet.\n#cDouble-click on the item to open the guide.#"/>
 		</imgdir>
 		<imgdir name="4160138">
-			<string name="name" value="Pet Command Guide: Lil&apos; Bobble"/>
-			<string name="desc" value="A guide that has all the commands for Lil&apos; Bobble.\n#cDouble-click on the item to open the guide.#"/>
+			<string name="name" value="Pet Command Guide: Lil Bobble"/>
+			<string name="desc" value="A guide that has all the commands for Lil Bobble.\n#cDouble-click on the item to open the guide.#"/>
 		</imgdir>
 		<imgdir name="4160139">
 			<string name="name" value="Pet Command Guide: Black Heaven Pets"/>
@@ -17918,7 +17918,7 @@
 		</imgdir>
 		<imgdir name="4310201">
 			<string name="name" value="Broken Gold Fragment"/>
-			<string name="desc" value="A fragment broken off of a golden statue. You can exchange it for items from Lil&apos; Murgoth."/>
+			<string name="desc" value="A fragment broken off of a golden statue. You can exchange it for items from Lil Murgoth."/>
 		</imgdir>
 		<imgdir name="4310206">
 			<string name="name" value="12th Anniversary Coin"/>
@@ -20690,11 +20690,11 @@ Looking at this fills you with hope. It&apos;s terribly fragile, so handle with 
 		</imgdir>
 		<imgdir name="4009397">
 			<string name="name" value="Three-leaf Clover"/>
-			<string name="desc" value="A three-leaf clover commonly found in Maple World. It represents happiness in the world of flowers. You can exchange them for an Otherworld Clover Pouch from Lil&apos; Murgoth the Cloverologist in town."/>
+			<string name="desc" value="A three-leaf clover commonly found in Maple World. It represents happiness in the world of flowers. You can exchange them for an Otherworld Clover Pouch from Lil Murgoth the Cloverologist in town."/>
 		</imgdir>
 		<imgdir name="4009398">
 			<string name="name" value="Four-leaf Clover"/>
-			<string name="desc" value="A four-leaf clover commonly found in Maple World. It represents luck in the world of flowers. You can exchange them for a Chaotic Otherworld Clover Pouch from Lil&apos; Murgoth the Cloverologist in town."/>
+			<string name="desc" value="A four-leaf clover commonly found in Maple World. It represents luck in the world of flowers. You can exchange them for a Chaotic Otherworld Clover Pouch from Lil Murgoth the Cloverologist in town."/>
 		</imgdir>
 		<imgdir name="4009399">
 			<string name="name" value="Spirit Ring"/>
@@ -26728,8 +26728,8 @@ Looking at this fills you with hope. It&apos;s terribly fragile, so handle with 
 			<string name="desc" value="Guide instruction word is able to instruct the pet Lesser is written. \ You can see the contents when you double-click the item n # c. #"/>
 		</imgdir>
 		<imgdir name="4160043">
-			<string name="name" value="Pet Command Guide: Lil&apos; Ninja"/>
-			<string name="desc" value="A guide that has all the commands for Lil&apos; Ninja.\n#cDouble-click on the item to open the guide.#"/>
+			<string name="name" value="Pet Command Guide: Lil Ninja"/>
+			<string name="desc" value="A guide that has all the commands for Lil Ninja.\n#cDouble-click on the item to open the guide.#"/>
 		</imgdir>
 		<imgdir name="4160044">
 			<string name="name" value="Pet Command Guide: Baby Tiger"/>
@@ -26846,16 +26846,16 @@ Looking at this fills you with hope. It&apos;s terribly fragile, so handle with 
 			<string name="desc" value="A guide that has all the commands for the RED Penguin.\n#cDouble-click on the item to open the guide.#"/>
 		</imgdir>
 		<imgdir name="4160121">
-			<string name="name" value="Pet Command Guide: Li&apos;l Lai"/>
-			<string name="desc" value="A guide that has all the commands for Li&apos;l Lai.\n#cDouble-click on the item to open the guide.#"/>
+			<string name="name" value="Pet Command Guide: Lil Lai"/>
+			<string name="desc" value="A guide that has all the commands for Lil Lai.\n#cDouble-click on the item to open the guide.#"/>
 		</imgdir>
 		<imgdir name="4160122">
-			<string name="name" value="Pet Command Guide: Li&apos;l Fort"/>
-			<string name="desc" value="A guide that has all the commands for Li&apos;l Fort.\n#cDouble-click on the item to open the guide.#"/>
+			<string name="name" value="Pet Command Guide: Lil Fort"/>
+			<string name="desc" value="A guide that has all the commands for Lil Fort.\n#cDouble-click on the item to open the guide.#"/>
 		</imgdir>
 		<imgdir name="4160123">
-			<string name="name" value="Pet Command Guide: Li&apos;l Arby"/>
-			<string name="desc" value="A guide that has all the commands for Li&apos;l Arby.\n#cDouble-click on the item to open the guide.#"/>
+			<string name="name" value="Pet Command Guide: Lil Arby"/>
+			<string name="desc" value="A guide that has all the commands for Lil Arby.\n#cDouble-click on the item to open the guide.#"/>
 		</imgdir>
 		<imgdir name="4160127">
 			<string name="name" value="Pet Command Guide: Frankie"/>

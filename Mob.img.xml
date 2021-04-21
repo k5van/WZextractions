@@ -3493,10 +3493,10 @@
 		<string name="name" value="Flaming Mixed Golem"/>
 	</imgdir>
 	<imgdir name="5160000">
-		<string name="name" value="Gerbil"/>
+		<string name="name" value="Rabbit"/>
 	</imgdir>
 	<imgdir name="5160001">
-		<string name="name" value="Golden Gerbil"/>
+		<string name="name" value="Golden Rabbit"/>
 	</imgdir>
 	<imgdir name="5160002">
 		<string name="name" value="Scorpie"/>
@@ -10066,10 +10066,10 @@
 		<string name="name" value="Stump"/>
 	</imgdir>
 	<imgdir name="9100046">
-		<string name="name" value="Gerbil"/>
+		<string name="name" value="Rabbit"/>
 	</imgdir>
 	<imgdir name="9100047">
-		<string name="name" value="Gerbil"/>
+		<string name="name" value="Rabbit"/>
 	</imgdir>
 	<imgdir name="9100048">
 		<string name="name" value="Xerxes"/>
@@ -13915,25 +13915,25 @@
 		<string name="name" value="Tauromacis"/>
 	</imgdir>
 	<imgdir name="9303070">
-		<string name="name" value="Warrior Lil&apos; Murgoth"/>
+		<string name="name" value="Warrior Lil Murgoth"/>
 	</imgdir>
 	<imgdir name="9303071">
-		<string name="name" value="Mage Lil&apos; Murgoth"/>
+		<string name="name" value="Mage Lil Murgoth"/>
 	</imgdir>
 	<imgdir name="9303072">
-		<string name="name" value="Bowman Lil&apos; Murgoth"/>
+		<string name="name" value="Bowman Lil Murgoth"/>
 	</imgdir>
 	<imgdir name="9303073">
-		<string name="name" value="Thief Lil&apos; Murgoth"/>
+		<string name="name" value="Thief Lil Murgoth"/>
 	</imgdir>
 	<imgdir name="9303074">
-		<string name="name" value="Pirate Lil&apos; Murgoth"/>
+		<string name="name" value="Pirate Lil Murgoth"/>
 	</imgdir>
 	<imgdir name="9303075">
-		<string name="name" value="Cunning Lil&apos; Murgoth"/>
+		<string name="name" value="Cunning Lil Murgoth"/>
 	</imgdir>
 	<imgdir name="9303076">
-		<string name="name" value="Cunning Lil&apos; Murgoth"/>
+		<string name="name" value="Cunning Lil Murgoth"/>
 	</imgdir>
 	<imgdir name="9303077">
 		<string name="name" value="Spirit of Rock"/>
@@ -14017,19 +14017,19 @@
 		<string name="name" value="Magnificent Murgoth"/>
 	</imgdir>
 	<imgdir name="9303104">
-		<string name="name" value="Warrior Lil&apos; Murgoth"/>
+		<string name="name" value="Warrior Lil Murgoth"/>
 	</imgdir>
 	<imgdir name="9303105">
-		<string name="name" value="Mage Lil&apos; Murgoth"/>
+		<string name="name" value="Mage Lil Murgoth"/>
 	</imgdir>
 	<imgdir name="9303106">
-		<string name="name" value="Bowman Lil&apos; Murgoth"/>
+		<string name="name" value="Bowman Lil Murgoth"/>
 	</imgdir>
 	<imgdir name="9303107">
-		<string name="name" value="Thief Lil&apos; Murgoth"/>
+		<string name="name" value="Thief Lil Murgoth"/>
 	</imgdir>
 	<imgdir name="9303108">
-		<string name="name" value="Pirate Lil&apos; Murgoth"/>
+		<string name="name" value="Pirate Lil Murgoth"/>
 	</imgdir>
 	<imgdir name="9303110">
 		<string name="name" value="Elementary School Student Moon Bunny"/>
@@ -14125,7 +14125,7 @@
 		<string name="name" value="Xerxes In Love"/>
 	</imgdir>
 	<imgdir name="9303141">
-		<string name="name" value="Lil&apos; Murgoth On The Run"/>
+		<string name="name" value="Lil Murgoth On The Run"/>
 	</imgdir>
 	<imgdir name="9303142">
 		<string name="name" value="Black Mushroom Gang"/>
@@ -21580,13 +21580,13 @@
 		<string name="name" value="Shoulder Boss AoE Attack Dummy"/>
 	</imgdir>
 	<imgdir name="9390620">
-		<string name="name" value="Corrupted Veilstone"/>
+		<string name="name" value="Corrupted Veilstone Alpha"/>
 	</imgdir>
 	<imgdir name="9390621">
-		<string name="name" value="Corrupted Veilstone"/>
+		<string name="name" value="Corrupted Veilstone Beta"/>
 	</imgdir>
 	<imgdir name="9390622">
-		<string name="name" value="Corrupted Veilstone"/>
+		<string name="name" value="Corrupted Veilstone Gamma"/>
 	</imgdir>
 	<imgdir name="9390600">
 		<string name="name" value="Gollux: Head"/>
@@ -21622,7 +21622,7 @@
 		<string name="name" value="Field AoE Attack Dummy"/>
 	</imgdir>
 	<imgdir name="9390623">
-		<string name="name" value="Corrupted Veilstone"/>
+		<string name="name" value="Corrupted Veilstone Delta"/>
 	</imgdir>
 	<imgdir name="9390624">
 		<string name="name" value="Conjured Veilprey"/>

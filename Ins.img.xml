@@ -3622,7 +3622,7 @@
 	</imgdir>
 	<imgdir name="3018549">
 		<string name="name" value="Master of 16 Billion Mesos Chair"/>
-		<string name="desc" value="A 16th-anniversary Hotel Maple commemorative banknote. \r\nEngraved with the face of the VIP member.\r\n#cRestores 170 HP and 170 MP every 10 seconds.#\r\n\r\n"/>
+		<string name="desc" value="A 16th-anniversary Hotel Maple commemorative banknote engraved with the face of the VIP member.\r\n#cRestores 160 HP and 160 MP every 10 seconds.#\r\n\r\n"/>
 	</imgdir>
 	<imgdir name="3018556">
 		<string name="name" value="Dreaming Traveler&apos;s Rest"/>
@@ -9177,21 +9177,21 @@ If you feed #cFruit# to the Parrot, it might change color and gain a level. The 
 	</imgdir>
 	<imgdir name="3700661">
 		<string name="name" value="2021 &lt;The Legends Return!&gt; Legend"/>
-		<string name="desc" value="A title given to those who place 1st-100th] in the 2021 &lt;The Legends Return!&gt; event.\r\n\r\n#c30% Additional EXP\r\nArcane Power +50\r\nStar Force +30\r\n\nClick to toggle ON/OFF."/>
+		<string name="desc" value="A title given to those who rank 1st-100th place in the 2021 &lt;The Legends Return!&gt; event.\r\n\r\n#c30% Additional EXP\r\nArcane Power +50\r\nStar Force +30\r\n\nClick to toggle ON/OFF."/>
 		<string name="nickWithQR" value="2021 &lt;The Legends Return!&gt; Legend Rank #qr501167#"/>
 		<string name="qrDefault" value="100"/>
 	</imgdir>
 	<imgdir name="3700662">
 		<string name="name" value="2021 &lt;The Legends Return!&gt; Diamond"/>
-		<string name="desc" value="A title given to those who place 101st-1,000th place in the 2021 &lt;The Legends Return!&gt; event.\r\n\r\n#c20% Additional EXP\r\nArcane Power +40\r\nStar Force +30\r\n\nClick to toggle ON/OFF."/>
+		<string name="desc" value="A title given to those who rank 101st-300th place in the 2021 &lt;The Legends Return!&gt; event.\r\n\r\n#c20% Additional EXP\r\nArcane Power +40\r\nStar Force +30\r\n\nClick to toggle ON/OFF."/>
 	</imgdir>
 	<imgdir name="3700663">
 		<string name="name" value="2021 &lt;The Legends Return!&gt; Gold"/>
-		<string name="desc" value="A title given to those who place 1,001st-10,000th place in the 2021 &lt;The Legends Return!&gt; event.\r\n\r\n#c15% Additional EXP\r\nArcane Power +30\r\nStar Force +20\r\n\nClick to toggle ON/OFF."/>
+		<string name="desc" value="A title given to those who rank 301st-3,000th place in the 2021 &lt;The Legends Return!&gt; event.\r\n\r\n#c15% Additional EXP\r\nArcane Power +30\r\nStar Force +20\r\n\nClick to toggle ON/OFF."/>
 	</imgdir>
 	<imgdir name="3700664">
 		<string name="name" value="2021 &lt;The Legends Return!&gt; Silver"/>
-		<string name="desc" value="A title given to those who place 10,001st-30,000th place in the 2021 &lt;The Legends Return!&gt; event.\r\n\r\n#c10% Additional EXP\r\nArcane Power +20\r\nStar Force +20\r\n\nClick to toggle ON/OFF."/>
+		<string name="desc" value="A title given to those who rank 3,001st-7,000th place in the 2021 &lt;The Legends Return!&gt; event.\r\n\r\n#c10% Additional EXP\r\nArcane Power +20\r\nStar Force +20\r\n\nClick to toggle ON/OFF."/>
 	</imgdir>
 	<imgdir name="3018604">
 		<string name="name" value="Primrose Face Chair"/>
@@ -17711,7 +17711,7 @@ Keep it in your Inventory Set-up tab for 30 minutes to receive a Shiny Easter Eg
 	</imgdir>
 	<imgdir name="3996004">
 		<string name="name" value="Yakuza Bruiser&apos;s Baseball Bat"/>
-		<string name="desc" value="Yakuza Bruiser&apos;s baseball bat covered in dents and red splotches. It doesn&apos;t seem like it&apos;s been used for baseball."/>
+		<string name="desc" value="A Yakuza Bruiser&apos;s baseball bat covered in dents and red splotches. It doesn&apos;t seem like it&apos;s been used for baseball."/>
 	</imgdir>
 	<imgdir name="3996005">
 		<string name="name" value="Yakuza Enforcer&apos;s Jacket"/>
@@ -17728,5 +17728,53 @@ Keep it in your Inventory Set-up tab for 30 minutes to receive a Shiny Easter Eg
 	<imgdir name="3994113">
 		<string name="name" value="Fire Raccoon Map Fragment"/>
 		<string name="desc" value="A fragment of a map marking the location of Fire Raccoon Finance&apos;s hidden wealth. What if you placed this alongside the other fragments?"/>
+	</imgdir>
+	<imgdir name="3018646">
+		<string name="name" value="Pining for Magnus"/>
+		<string name="desc" value="Magnus is so cool. You can&apos;t help but fall for him. \r\n#cRestores 100 HP and 100 MP every 10 seconds."/>
+	</imgdir>
+	<imgdir name="3018647">
+		<string name="name" value="Pining for Monsters"/>
+		<string name="desc" value="These monsters are so cool. It&apos;s like I&apos;ll fall for them. \r\n#cRestores 100 HP and 100 MP every 10 seconds."/>
+	</imgdir>
+	<imgdir name="3018648">
+		<string name="name" value="Pining for Neinheart"/>
+		<string name="desc" value="Neinheart is so cool. You can&apos;t help but fall for him. \r\n#cRestores 100 HP and 100 MP every 10 seconds."/>
+	</imgdir>
+	<imgdir name="3018649">
+		<string name="name" value="Pining for Orchid"/>
+		<string name="desc" value="Orchid is so cool. You can&apos;t help but fall for her. \r\n#cRestores 100 HP and 100 MP every 10 seconds."/>
+	</imgdir>
+	<imgdir name="3018650">
+		<string name="name" value="Pining for Cygnus"/>
+		<string name="desc" value="Cygnus is so cool. You can&apos;t help but fall for her. \r\n#cRestores 100 HP and 100 MP every 10 seconds."/>
+	</imgdir>
+	<imgdir name="3018689">
+		<string name="name" value="Dreaming Traveler&apos;s Rest"/>
+		<string name="desc" value="Take a load off and enjoy the gentle breeze at this scenic vista. #cRestores 50 HP and 50 MP every 10 seconds.#"/>
+	</imgdir>
+	<imgdir name="3018690">
+		<string name="name" value="Fresh Flower Swing Chair"/>
+		<string name="desc" value="Take a break from your morning walk with a refreshing swing on a Fresh Flower Swing.\n#cRestores 50 HP and 50 MP every 10 seconds.#"/>
+	</imgdir>
+	<imgdir name="3018691">
+		<string name="name" value="Mushroom Land Hammock"/>
+		<string name="desc" value="Enjoy the sunlight and spend a peaceful day among mushroom friends.\n#cRestores 100 HP and 100 MP every 10 seconds.#"/>
+	</imgdir>
+	<imgdir name="3018676">
+		<string name="name" value="Star and Moon Collection Chair"/>
+		<string name="desc" value="Collect your own star and moon. \n\n#cRestores 100 HP and 100 MP every 10 seconds.\n#"/>
+	</imgdir>
+	<imgdir name="3018677">
+		<string name="name" value="Easter Picnic Chair"/>
+		<string name="desc" value="Have a nice picnic out on a grassy field. \n\n#cRestores 100 HP and 100 MP every 10 seconds.\n#"/>
+	</imgdir>
+	<imgdir name="3018678">
+		<string name="name" value="Fairytale Castle Chair"/>
+		<string name="desc" value="Sit on a castle straight out of a fairytale. \n\n#cRestores 100 HP and 100 MP every 10 seconds.\n#"/>
+	</imgdir>
+	<imgdir name="3018679">
+		<string name="name" value="Love Sprinkled From a Cloud Chair"/>
+		<string name="desc" value="Sit on a cloud and sprinkle some love. \n\n#cRestores 100 HP and 100 MP every 10 seconds.\n#"/>
 	</imgdir>
 </imgdir>

@@ -691,9 +691,9 @@
 		<string name="descD" value="Lil Ryan has turned into a doll. You cannot revive a Shining Star pet with the Water of Life."/>
 	</imgdir>
 	<imgdir name="5000414">
-		<string name="name" value="Lil&apos; Bobble"/>
-		<string name="desc" value="The mascot of Star Planet! Lil&apos; Bobble is all the tour guide you&apos;ll ever need.\n#cWarning! This pet&apos;s duration cannot be extended.#c The pet&apos;s skills will disappear once the magic duration ends."/>
-		<string name="descD" value="Lil&apos; Bobble has turned into a doll. You cannot revive a Lil&apos; Bobble pet with the Water of Life."/>
+		<string name="name" value="Lil Bobble"/>
+		<string name="desc" value="The mascot of Star Planet! Lil Bobble is all the tour guide you&apos;ll ever need.\n#cWarning! This pet&apos;s duration cannot be extended.#c The pet&apos;s skills will disappear once the magic duration ends."/>
+		<string name="descD" value="Lil Bobble has turned into a doll. You cannot revive a Lil Bobble pet with the Water of Life."/>
 	</imgdir>
 	<imgdir name="5000415">
 		<string name="name" value="Lil Lotus"/>
@@ -1351,8 +1351,8 @@
 		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
 	</imgdir>
 	<imgdir name="5000939">
-		<string name="name" value="Lil&apos; Loafer"/>
-		<string name="desc" value="It&apos;s Lil&apos; Loafer! He looks so squishy and soft!"/>
+		<string name="name" value="Lil Loafer"/>
+		<string name="desc" value="It&apos;s Lil Loafer! He looks so squishy and soft!"/>
 		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
 	</imgdir>
 	<imgdir name="5000940">
@@ -2404,19 +2404,19 @@
 		<string name="descD" value="Your RED Penguin has turned into a doll. You can revive it with the Water of Life."/>
 	</imgdir>
 	<imgdir name="5000369">
-		<string name="name" value="Li&apos;l Lai"/>
-		<string name="desc" value="This adorable Li&apos;l Lai pet just wants a friend! \nEquip Li&apos;l Beast pets to get the #cMighty Beast# skill, which grows stronger as you equip more Li&apos;l Beast pets (max 3)."/>
-		<string name="descD" value="Li&apos;l Lai has turned into a doll. You can revive it with the Water of Life."/>
+		<string name="name" value="Lil Lai"/>
+		<string name="desc" value="This adorable Lil Lai pet just wants a friend! \nEquip to obtain the #cMighty Beast skill#, which grows stronger as you equip more Li&apos;l Beast pets (Max 3)."/>
+		<string name="descD" value="Lil Lai has turned into a doll. You can revive it with the Water of Life."/>
 	</imgdir>
 	<imgdir name="5000370">
-		<string name="name" value="Li&apos;l Fort"/>
-		<string name="desc" value="Li&apos;l Fort is a cute pet that loves cuddles and food.\nEquip Li&apos;l Beast pets to get the #cMighty Beast# skill, which grows stronger as you equip more Li&apos;l Beast pets (max 3)."/>
-		<string name="descD" value="Li&apos;l Fort has turned into a doll. You can revive it with the Water of Life."/>
+		<string name="name" value="Lil Fort"/>
+		<string name="desc" value="Lil Fort is a cute pet that loves cuddles and food. \nEquip to obtain the #cMighty Beast skill#, which grows stronger as you equip more Li&apos;l Beast pets (Max 3)."/>
+		<string name="descD" value="Lil Fort has turned into a doll. You can revive it with the Water of Life."/>
 	</imgdir>
 	<imgdir name="5000371">
-		<string name="name" value="Li&apos;l Arby"/>
-		<string name="desc" value="A cute Li&apos;l Arby.\nEquip Li&apos;l Beast pets to get the #cMighty Beast# skill, which grows stronger as you equip more Li&apos;l Beast pets (max 3)."/>
-		<string name="descD" value="Li&apos;l Arby has turned into a doll. You can revive it with the Water of Life."/>
+		<string name="name" value="Lil Arby"/>
+		<string name="desc" value="A cute Lil Arby. \nEquip to obtain the #cMighty Beast skill#, which grows stronger as you equip more Li&apos;l Beast pets (Max 3)."/>
+		<string name="descD" value="Lil Arby has turned into a doll. You can revive it with the Water of Life."/>
 	</imgdir>
 	<imgdir name="5000382">
 		<string name="name" value="Frankie"/>
@@ -2587,9 +2587,9 @@
 		<string name="descD" value="It was once a calm Hekaton A, but with the &quot;Water of Life&quot; all dried up, it turned back into a doll. A little magic can bring it back to life..."/>
 	</imgdir>
 	<imgdir name="5000521">
-		<string name="name" value="Lil&apos; Ninja"/>
+		<string name="name" value="Lil Ninja"/>
 		<string name="desc" value="A royal ninja who loves to drink green tea."/>
-		<string name="descD" value="It was a cute Lil&apos; Ninja, but with the &quot;Water of Life&quot; all dried up, it turned back into a doll. A little magic can bring it back to life, however..."/>
+		<string name="descD" value="It was a cute Lil Ninja, but with the &quot;Water of Life&quot; all dried up, it turned back into a doll. A little magic can bring it back to life, however..."/>
 	</imgdir>
 	<imgdir name="5000522">
 		<string name="name" value="Toucan"/>
@@ -3316,9 +3316,9 @@
 		<string name="descD" value=" Your pet has turned into a doll. You can revive it with the Water of Life."/>
 	</imgdir>
 	<imgdir name="5000716">
-		<string name="name" value="Lil&apos; Ninja"/>
+		<string name="name" value="Lil Ninja"/>
 		<string name="desc" value="A royal ninja who loves to drink green tea."/>
-		<string name="descD" value="It was a cute Lil&apos; Ninja, but with the &quot;Water of Life&quot; all dried up, it turned back into a doll. A little magic can bring it back to life, however..."/>
+		<string name="descD" value="It was a cute Lil Ninja, but with the &quot;Water of Life&quot; all dried up, it turned back into a doll. A little magic can bring it back to life, however..."/>
 	</imgdir>
 	<imgdir name="5000717">
 		<string name="name" value="Royal Thumpy"/>
@@ -3381,19 +3381,19 @@
 		<string name="descD" value="Lil Lingling has turned into a doll. You can revive it with the Water of Life."/>
 	</imgdir>
 	<imgdir name="5000730">
-		<string name="name" value="Li&apos;l Lai"/>
-		<string name="desc" value="This adorable Li&apos;l Lai pet just wants a friend!"/>
-		<string name="descD" value="Li&apos;l Lai has turned into a doll. You can revive it with the Water of Life."/>
+		<string name="name" value="Lil Lai"/>
+		<string name="desc" value="This adorable Lil Lai pet just wants a friend!\n#cSkill: Meso Magnet, Item Pouch#"/>
+		<string name="descD" value="Lil Lai has turned into a doll. You can revive it with the Water of Life."/>
 	</imgdir>
 	<imgdir name="5000731">
-		<string name="name" value="Li&apos;l Fort"/>
-		<string name="desc" value="Li&apos;l Fort is a cute pet that loves cuddles and food."/>
-		<string name="descD" value="Li&apos;l Fort has turned into a doll. You can revive it with the Water of Life."/>
+		<string name="name" value="Lil Fort"/>
+		<string name="desc" value="Lil Fort is a cute pet that loves cuddles and food.\n#cSkill: Meso Magnet, Item Pouch#"/>
+		<string name="descD" value="Lil Fort has turned into a doll. You can revive it with the Water of Life."/>
 	</imgdir>
 	<imgdir name="5000732">
-		<string name="name" value="Li&apos;l Arby"/>
-		<string name="desc" value="A cute Li&apos;l Arby."/>
-		<string name="descD" value="Li&apos;l Arby has turned into a doll. You can revive it with the Water of Life."/>
+		<string name="name" value="Lil Arby"/>
+		<string name="desc" value="A cute Lil Arby.\n#cSkill: Meso Magnet, Item Pouch#"/>
+		<string name="descD" value="Lil Arby has turned into a doll. You can revive it with the Water of Life."/>
 	</imgdir>
 	<imgdir name="5000739">
 		<string name="name" value="Ebony Lucid"/>
@@ -4067,32 +4067,32 @@
 	</imgdir>
 	<imgdir name="5002011">
 		<string name="name" value="Hefty Kitty"/>
-		<string name="desc" value="The Li&apos;l Chonker Kitty pet. \nEquip a Li&apos;l Chonker pet to get the #cChonky Tonk Power# skill, which grows stronger as you equip more Li&apos;l Chonker pets (max 3)."/>
+		<string name="desc" value="The Lil Chonker Kitty pet. \nEquip a Lil Chonker pet to get the #cChonky Tonk Power# skill, which grows stronger as you equip more Lil Chonker pets (max 3)."/>
 		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
 	</imgdir>
 	<imgdir name="5002012">
 		<string name="name" value="Tubby Bird"/>
-		<string name="desc" value="The Li&apos;l Chonker Bird pet. \nEquip a Li&apos;l Chonker pet to get the #cChonky Tonk Power# skill, which grows stronger as you equip more Li&apos;l Chonker pets (max 3)."/>
+		<string name="desc" value="The Lil Chonker Bird pet. \nEquip a Lil Chonker pet to get the #cChonky Tonk Power# skill, which grows stronger as you equip more Lil Chonker pets (max 3)."/>
 		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
 	</imgdir>
 	<imgdir name="5002013">
 		<string name="name" value="Pudgy Puppy"/>
-		<string name="desc" value="The Li&apos;l Chonker Puppy pet. \nEquip a Li&apos;l Chonker pet to get the #cChonky Tonk Power# skill, which grows stronger as you equip more Li&apos;l Chonker pets (max 3)."/>
+		<string name="desc" value="The Lil Chonker Puppy pet. \nEquip a Lil Chonker pet to get the #cChonky Tonk Power# skill, which grows stronger as you equip more Lil Chonker pets (max 3)."/>
 		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
 	</imgdir>
 	<imgdir name="5002014">
 		<string name="name" value="Hefty Kitty"/>
-		<string name="desc" value="A Li&apos;l Chonker Kitty pet."/>
+		<string name="desc" value="A Lil Chonker Kitty pet."/>
 		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
 	</imgdir>
 	<imgdir name="5002015">
 		<string name="name" value="Tubby Bird"/>
-		<string name="desc" value="A Li&apos;l Chonker Bird pet."/>
+		<string name="desc" value="A Lil Chonker Bird pet."/>
 		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
 	</imgdir>
 	<imgdir name="5002016">
 		<string name="name" value="Pudgy Puppy"/>
-		<string name="desc" value="A Li&apos;l Chonker Puppy pet."/>
+		<string name="desc" value="A Lil Chonker Puppy pet."/>
 		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
 	</imgdir>
 	<imgdir name="5002021">
@@ -4241,19 +4241,19 @@
 		<string name="descD" value="A formerly adorable orange mushroom that turned into an inanimate doll due to severe dehydration from Life Water. Breathe new life into the doll using a special kind of magic!"/>
 	</imgdir>
 	<imgdir name="5002063">
-		<string name="name" value="Li&apos;l Lai"/>
-		<string name="desc" value="This adorable Li&apos;l Lai pet just wants a friend!"/>
-		<string name="descD" value="Li&apos;l Lai has turned into a doll. You can revive it with the Water of Life."/>
+		<string name="name" value="Lil Lai"/>
+		<string name="desc" value="This adorable Lil Lai pet just wants a friend! \nEquip Lil Beast pets to get the #cMighty Beast# skill, which grows stronger as you equip more Lil Beast pets (max 3)."/>
+		<string name="descD" value="Lil Lai has turned into a doll. You can revive it with the Water of Life."/>
 	</imgdir>
 	<imgdir name="5002064">
-		<string name="name" value="Li&apos;l Fort"/>
-		<string name="desc" value="Li&apos;l Fort is a cute pet that loves cuddles and food."/>
-		<string name="descD" value="Li&apos;l Fort has turned into a doll. You can revive it with the Water of Life."/>
+		<string name="name" value="Lil Fort"/>
+		<string name="desc" value="Lil Fort is a cute pet that loves cuddles and food.\nEquip Lil Beast pets to get the #cMighty Beast# skill, which grows stronger as you equip more Lil Beast pets (max 3)."/>
+		<string name="descD" value="Lil Fort has turned into a doll. You can revive it with the Water of Life."/>
 	</imgdir>
 	<imgdir name="5002065">
-		<string name="name" value="Li&apos;l Arby"/>
-		<string name="desc" value="A cute Li&apos;l Arby."/>
-		<string name="descD" value="Li&apos;l Arby has turned into a doll. You can revive it with the Water of Life."/>
+		<string name="name" value="Lil Arby"/>
+		<string name="desc" value="A cute Lil Arby.\nEquip Lil Beast pets to get the #cMighty Beast# skill, which grows stronger as you equip more Lil Beast pets (max 3)."/>
+		<string name="descD" value="Lil Arby has turned into a doll. You can revive it with the Water of Life."/>
 	</imgdir>
 	<imgdir name="5002066">
 		<string name="name" value="Small Spirit"/>
@@ -4911,8 +4911,38 @@
 		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
 	</imgdir>
 	<imgdir name="5002239">
-		<string name="name" value="&#43690;&#43690;&#43690;"/>
-		<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="descD" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="Sherbet"/>
+		<string name="desc" value="A sweet, precious kitty named #cSherbet#.\r\nBlessed by the power of moonlight, #cSherbet can pick up items from a greater distance.#\r\nSherbet cannot equip any of the pet equipment.\n\n#cCaution! This pet cannot have its magic duration extended after it ends.#"/>
+		<string name="descD" value="Your pet has turned into a doll."/>
+	</imgdir>
+	<imgdir name="5002232">
+		<string name="name" value="Red Glimfox"/>
+		<string name="desc" value="It&apos;s a small, adorable #cRed Glimfox# pet."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002233">
+		<string name="name" value="Blue Glimfox"/>
+		<string name="desc" value="It&apos;s a small, adorable #cBlue Glimfox# pet."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002234">
+		<string name="name" value="Baby Birdie"/>
+		<string name="desc" value="A plump and adorable #cBaby Birdie#."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002240">
+		<string name="name" value="Red Glimfox"/>
+		<string name="desc" value="It&apos;s a small, adorable #cRed Glimfox# pet."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002241">
+		<string name="name" value="Blue Glimfox"/>
+		<string name="desc" value="It&apos;s a small, adorable #cBlue Glimfox# pet."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002242">
+		<string name="name" value="Baby Birdie"/>
+		<string name="desc" value="A plump and adorable #cBaby Birdie#."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
 	</imgdir>
 </imgdir>

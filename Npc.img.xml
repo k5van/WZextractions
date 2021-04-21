@@ -16850,7 +16850,7 @@
 		<string name="d1" value="It&apos;s the hair-raising Gyro Drop!"/>
 	</imgdir>
 	<imgdir name="2192027">
-		<string name="name" value="Li&apos;l Lady"/>
+		<string name="name" value="Lil Lady"/>
 		<string name="n0" value="I want to ride that too!"/>
 		<string name="n1" value="I&apos;m going to ask for that bubble toy!"/>
 		<string name="d0" value="Have you seen my mommy?"/>
@@ -29292,10 +29292,10 @@
 		<string name="d1" value="Your soul is radiant!"/>
 	</imgdir>
 	<imgdir name="9000214">
-		<string name="name" value="Lil&apos; Murgoth"/>
+		<string name="name" value="Lil Murgoth"/>
 		<string name="func" value="Otherworld Storage Manager"/>
 		<string name="n0" value="Did you enjoy exploring the dungeon?"/>
-		<string name="n1" value="I&apos;m Lil&apos; Murgoth, and I always take care of my duties!"/>
+		<string name="n1" value="I&apos;m Lil Murgoth, and I always take care of my duties!"/>
 		<string name="d0" value="Do you need help?"/>
 		<string name="d1" value="Your soul is radiant!"/>
 	</imgdir>
@@ -29328,7 +29328,7 @@
 		<string name="d1" value="Your soul is radiant!"/>
 	</imgdir>
 	<imgdir name="9000219">
-		<string name="name" value="Lil&apos; Murgoth"/>
+		<string name="name" value="Lil Murgoth"/>
 		<string name="func" value="Otherworld Storage Manager"/>
 		<string name="n0" value="Do you want to know about the Otherworld?"/>
 		<string name="n1" value="Murgoth is my idol!"/>
@@ -29336,31 +29336,31 @@
 		<string name="d1" value="Your soul is radiant!"/>
 	</imgdir>
 	<imgdir name="9000220">
-		<string name="name" value="Warrior Lil&apos; Murgoth"/>
+		<string name="name" value="Warrior Lil Murgoth"/>
 		<string name="func" value="Otherworld Knight"/>
 		<string name="n0" value="Curious about the knights of the Otherworld?"/>
 		<string name="n1" value="Bravery is the chief virtue of the knights!"/>
 	</imgdir>
 	<imgdir name="9000221">
-		<string name="name" value="Mage Lil&apos; Murgoth"/>
+		<string name="name" value="Mage Lil Murgoth"/>
 		<string name="func" value="Otherworld Mage"/>
 		<string name="n0" value="Curious about the magicians of the Otherworld?"/>
 		<string name="n1" value="Murgoth is the best at magic!"/>
 	</imgdir>
 	<imgdir name="9000222">
-		<string name="name" value="Bowman Lil&apos; Murgoth"/>
+		<string name="name" value="Bowman Lil Murgoth"/>
 		<string name="func" value="Otherworld Bowman"/>
 		<string name="n0" value="Curious about the bowmen of Otherworld?"/>
 		<string name="n1" value="Bowmen should be more careful than most."/>
 	</imgdir>
 	<imgdir name="9000223">
-		<string name="name" value="Thief Lil&apos; Murgoth"/>
+		<string name="name" value="Thief Lil Murgoth"/>
 		<string name="func" value="Otherworld Thief"/>
 		<string name="n0" value="Want to know about the thieves of Otherworld?"/>
 		<string name="n1" value="Don&apos;t get too comfy around a thief!"/>
 	</imgdir>
 	<imgdir name="9000224">
-		<string name="name" value="Pirate Lil&apos; Murgoth"/>
+		<string name="name" value="Pirate Lil Murgoth"/>
 		<string name="func" value="Otherworld Pirate"/>
 		<string name="n0" value="Yarr, I be a pirate of the Otherworld!"/>
 		<string name="n1" value="For pirates, it&apos;s results what matter, mate."/>
@@ -31180,11 +31180,11 @@
 		<string name="n1" value="YO! Ready to play some games?"/>
 	</imgdir>
 	<imgdir name="9001134">
-		<string name="name" value="Lil&apos; Murgoth"/>
+		<string name="name" value="Lil Murgoth"/>
 		<string name="n0" value="Love? Human emotions are so odd..."/>
 		<string name="n1" value="I&apos;m going to gather materials and make myself a heart. No one will give me theirs. "/>
 		<string name="d0" value="The standard of beauty in the Otherworld is a bit different from here."/>
-		<string name="func" value="Lil&apos; Murgoth Coin Shop"/>
+		<string name="func" value="Lil Murgoth Coin Shop"/>
 	</imgdir>
 	<imgdir name="9001135">
 		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
@@ -34185,8 +34185,8 @@
 	<imgdir name="9062296">
 		<string name="name" value="Little Richie"/>
 		<string name="func" value="Mini-Game"/>
-		<string name="d0" value="You can find things here that you can&apos;t find anywhere else. I love this place."/>
-		<string name="d1" value="You can find things here that you can&apos;t find anywhere else. I love this place."/>
+		<string name="d0" value="What we have here, you can&apos;t find anywhere else. I love this place."/>
+		<string name="d1" value="What we have here, you can&apos;t find anywhere else. I love this place."/>
 	</imgdir>
 	<imgdir name="9062297">
 		<string name="name" value="Swanson"/>
@@ -34206,8 +34206,8 @@
 	<imgdir name="9062300">
 		<string name="name" value="Nicole"/>
 		<string name="func" value="Member Services"/>
-		<string name="d0" value="This is a special, Hotel Maple-exclusive service."/>
-		<string name="d1" value="This is a special, Hotel Maple-exclusive service."/>
+		<string name="d0" value="A special, Hotel Maple-exclusive service shop."/>
+		<string name="d1" value="A special, Hotel Maple-exclusive service shop."/>
 	</imgdir>
 	<imgdir name="9062301">
 		<string name="name" value="Mason"/>
@@ -46004,7 +46004,7 @@
 		<string name="n1" value="I... can&apos;t figure out what they are up to."/>
 	</imgdir>
 	<imgdir name="9400025">
-		<string name="name" value="Lil&apos; Murgoth"/>
+		<string name="name" value="Lil Murgoth"/>
 		<string name="n0" value="The four-leaf clovers in Maple World are lucky? Weird!"/>
 		<string name="n1" value="Bring me clovers so I can research them."/>
 		<string name="func" value="Cloverologist"/>
@@ -49980,5 +49980,14 @@
 	</imgdir>
 	<imgdir name="9401393">
 		<string name="name" value="Dr. Jang"/>
+	</imgdir>
+	<imgdir name="9201420">
+		<string name="name" value="Strawberry Cream Cake"/>
+	</imgdir>
+	<imgdir name="9201421">
+		<string name="name" value="Honey Apple Pie"/>
+	</imgdir>
+	<imgdir name="9201423">
+		<string name="name" value="Pie &amp; Cake"/>
 	</imgdir>
 </imgdir>

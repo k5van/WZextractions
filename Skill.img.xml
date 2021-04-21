@@ -150,7 +150,7 @@
 	</imgdir>
 	<imgdir name="0000265">
 		<string name="name" value="Pirate Blessing (Corsair)"/>
-		<string name="desc" value="Your piratical tenacity instills you with the boons of damage reduction and improved stats.\nThis Link Skill can be stacked up to 3 times, once for each unique Exporer Pirate job character you have on this world. While this skill is active, the STR and DEX values for your equipment will be swapped. (Excludes stats for weapon, secondary weapon, Arcane Symbol, and pet equipment slots.)"/>
+		<string name="desc" value="Your piratical tenacity instills you with the boons of damage reduction and improved stats.\nThis Link Skill can be stacked up to 3 times, once for each unique Explorer Pirate job character you have on this world. While this skill is active, the STR and DEX values for your equipment will be swapped. (Excludes stats for weapon, secondary weapon, Arcane Symbol, and pet equipment slots.)"/>
 		<string name="h" value="STR: +#strX, DEX: +#dexX, INT: +#intX, LUK: +#lukX, Max HP: +#mhpX, Max MP: +#mmpX\nDamage Taken: -#damAbsorbShieldR%\nCooldown: #cooltime sec"/>
 	</imgdir>
 	<imgdir name="110">
@@ -17886,7 +17886,7 @@
 	</imgdir>
 	<imgdir name="35001006">
 		<string name="name" value="Rocket Booster"/>
-		<string name="desc" value="Use rocket power to jump. Upon landing, deal damage to enemies in range. This skill consumes MP both when you launch and when you land,.Can also be used by pressing the up arrow key and jump key together."/>
+		<string name="desc" value="Use rocket power to jump. Upon landing, deal damage to enemies in range. This skill consumes MP both when you launch and when you land. Can also be used by pressing the up arrow key and jump key together."/>
 		<string name="h" value="MP Cost: #mpCon each (launch and land), Damage: #damage%, Max Enemies Hit (upon landing): #mobCount"/>
 	</imgdir>
 	<imgdir name="35100000">
@@ -23244,7 +23244,7 @@
 	</imgdir>
 	<imgdir name="80000000">
 		<string name="name" value="Pirate Blessing (Cannoneer)"/>
-		<string name="desc" value="Your piratical tenacity instills you with the boons of damage reduction and improved stats.\nThis Link Skill can be stacked up to 3 times, once for each unique Exporer Pirate job character you have on this world."/>
+		<string name="desc" value="Your piratical tenacity instills you with the boons of damage reduction and improved stats.\nThis Link Skill can be stacked up to 3 times, once for each unique Explorer Pirate job character you have on this world."/>
 		<string name="h" value="STR: +#x, DEX: +#y, INT: +#z, LUK: +#w, Max HP: +#q, Max MP: +#s, Damage Taken: -#q2%"/>
 	</imgdir>
 	<imgdir name="80000001">
@@ -31321,17 +31321,17 @@
 	</imgdir>
 	<imgdir name="80002774">
 		<string name="name" value="Pirate Blessing"/>
-		<string name="desc" value="Your piratical tenacity instills you with the boons of damage reduction and improved stats.\nThis Link Skill can be stacked up to 3 times, once for each unique Exporer Pirate job character you have on this world."/>
+		<string name="desc" value="Your piratical tenacity instills you with the boons of damage reduction and improved stats.\nThis Link Skill can be stacked up to 3 times, once for each unique Explorer Pirate job character you have on this world."/>
 		<string name="h" value="STR: +#strX, DEX: +#dexX, INT: +#intX, LUK: +#lukX, Max HP: +#mhpX, Max MP: +#mmpX, Damage Taken: -#damAbsorbShieldR%"/>
 	</imgdir>
 	<imgdir name="80002775">
 		<string name="name" value="Pirate Blessing (Buccaneer)"/>
-		<string name="desc" value="Your piratical tenacity instills you with the boons of damage reduction and improved stats.\nThis Link Skill can be stacked up to 3 times, once for each unique Exporer Pirate job character you have on this world."/>
+		<string name="desc" value="Your piratical tenacity instills you with the boons of damage reduction and improved stats.\nThis Link Skill can be stacked up to 3 times, once for each unique Explorer Pirate job character you have on this world."/>
 		<string name="h" value="STR: +#x, DEX: +#y, INT: +#z, LUK: +#w, Max HP: +#q, Max MP: +#s, Damage Taken: -#q2%"/>
 	</imgdir>
 	<imgdir name="80002776">
 		<string name="name" value="Pirate Blessing (Corsair)"/>
-		<string name="desc" value="Your piratical tenacity instills you with the boons of damage reduction and improved stats.\nThis Link Skill can be stacked up to 3 times, once for each unique Exporer Pirate job character you have on this world."/>
+		<string name="desc" value="Your piratical tenacity instills you with the boons of damage reduction and improved stats.\nThis Link Skill can be stacked up to 3 times, once for each unique Explorer Pirate job character you have on this world."/>
 		<string name="h" value="STR: +#x, DEX: +#y, INT: +#z, LUK: +#w, Max HP: +#q, Max MP: +#s, Damage Taken: -#q2%"/>
 	</imgdir>
 	<imgdir name="80002777">
@@ -31788,13 +31788,13 @@
 	</imgdir>
 	<imgdir name="80002924">
 		<string name="name" value="7-Star Catered Buffet"/>
-		<string name="desc" value="A VIP Premium service!\nA #c7-Star Catered Buffet#, just\nfor patrons out on the hunt.\nAs you enjoy the chef&apos;s banquet,\nyou&apos;ll earn #c&lt;Sweet 16 Points&gt;# just for eating!\n\nIf you&apos;ve already exceeded your daily limit\nfor #c&lt;Sweet 16 Coins&gt;#,\nthe #c7-Star Catered Buffet# service\nwill end for that day.\n\n#cRight-click to turn ON/OFF#"/>
-		<string name="h" value="For each #cmonster near your level# that you defeat,\nyou&apos;ll earn #c5&lt;Sweet 16 Points&gt;#.\nIf you defeat #c200# monsters near your level,\nthe #c7-Star Catered Buffet# will arrive.\nYou&apos;ll get a delicoius meal, plus 100 #c&lt;Sweet 16 Points&gt;#\njust for eating it!"/>
+		<string name="desc" value="A VIP Premium service! A #c7-Star Catered Buffet#, just for patrons out on the hunt. As you enjoy the chef&apos;s banquet, you&apos;ll earn #c&lt;Sweet 16 Points&gt;# just for eating!\n\nIf you&apos;ve already exceeded your daily limit for #c&lt;Sweet 16 Coins&gt;#,\nthe #c7-Star Catered Buffet# service will end for that day.\n\n#cRight-click to turn ON/OFF#"/>
+		<string name="h" value="For each #cmonster near your level# that you defeat, you&apos;ll earn #c5 &lt;Sweet 16 Points&gt;#. If you defeat #c200# monsters near your level, the #c7-Star Catered Buffet# will arrive.\n\n\n\nYou&apos;ll get a delicious meal, plus 100 #c&lt;Sweet 16 Points&gt;# just for eating it!"/>
 	</imgdir>
 	<imgdir name="80002925">
 		<string name="name" value="7-Star Catered Buffet"/>
-		<string name="desc" value="A VIP Premium service!\nA #c7-Star Catered Buffet#, just\nfor patrons out on the hunt.\nAs you enjoy the chef&apos;s banquet,\nyou&apos;ll earn #c&lt;Sweet 16 Points&gt;# just for eating!\n\nIf you&apos;ve already exceeded your daily limit\nfor #c&lt;Sweet 16 Coins&gt;#,\nthe #c7-Star Catered Buffet# service\nwill end for that day.\n\n#cRight-click to turn ON/OFF#"/>
-		<string name="h" value="For each #cmonster near your level# that you defeat,\nyou&apos;ll earn #c5&lt;Sweet 16 Points&gt;#.\nIf you defeat #c200# monsters near your level,\nthe #c7-Star Catered Buffet# will arrive.\nYou&apos;ll get a delicoius meal, plus 100 #c&lt;Sweet 16 Points&gt;#\njust for eating it!"/>
+		<string name="desc" value="A VIP Premium service! A #c7-Star Catered Buffet#, just for patrons out on the hunt. As you enjoy the chef&apos;s banquet, you&apos;ll earn #c&lt;Sweet 16 Points&gt;# just for eating!\n\nIf you&apos;ve already exceeded your daily limit for #c&lt;Sweet 16 Coins&gt;#,\nthe #c7-Star Catered Buffet# service will end for that day.\n\n#cRight-click to turn ON/OFF#"/>
+		<string name="h" value="For each #cmonster near your level# that you defeat,\nyou&apos;ll earn #c5 &lt;Sweet 16 Points&gt;#.\nIf you defeat #c200# monsters near your level,\nthe #c7-Star Catered Buffet# will arrive.\nYou&apos;ll get a delicoius meal, plus 100\n#c&lt;Sweet 16 Points&gt;# just for eating it!"/>
 	</imgdir>
 	<imgdir name="80002926">
 		<string name="name" value="VIP Skill"/>
@@ -31857,13 +31857,13 @@
 	</imgdir>
 	<imgdir name="80002939">
 		<string name="name" value="Special Therapy"/>
-		<string name="desc" value="A service for VIP Prestige members!\n#cTherapist Swanson# will come straight to you and rid you of your hunting fatigue.\nAs you hunt, the #caroma candle# will grow brighter and brighter, until it&apos;s #cTherapy Time#. Not only will it help you unwind, but you&apos;ll earn #c&lt;Sweet 16 Points&gt;# just for relaxing!\n\nIf you&apos;ve already exceeded your daily limit\nfor #c&lt;Sweet 16 Coins&gt;#,\nthe #cSpecial Therapy# service\nwill end for that day.\n\n#cRight-click to turn ON/OFF#"/>
-		<string name="h" value="For every 20 #cmonsters near your level# that you defeat, you&apos;ll earn #c&lt;Sweet 16 Points&gt;# based on the candle gauge.\n  #c- Lv. 1: 40 points#\n  #c- Lv. 2: 60 points#\n  #c- Lv. 3: 100 points#\nUpon defeating 300 monsters near your level, Therapy Time will start, and you&apos;ll earn many more #c&lt;Sweet 16 Points&gt;#.\n\n#cYou can earn 800 points in Therapy Time, up to 5 times per day."/>
+		<string name="desc" value="A service for VIP Prestige members! #cTherapist Swanson# will come straight to you and rid you of your hunting fatigue.\n\nAs you hunt, the #caroma candle# will grow brighter and brighter, until it&apos;s #cTherapy Time#. Not only will it help you unwind, but you&apos;ll earn #c&lt;Sweet 16 Points&gt;# just for relaxing!\n\nIf you&apos;ve already exceeded your daily limit for #c&lt;Sweet 16 Coins&gt;#, the #cSpecial Therapy# service will end for that day.\n\n#cRight-click to turn ON/OFF#"/>
+		<string name="h" value="For every 20 #cmonsters near your level# that you defeat, you&apos;ll earn #c&lt;Sweet 16 Points&gt;# based on the candle gauge.\n  #c- Lv. 1: 40 points#\n  #c- Lv. 2: 60 points#\n  #c- Lv. 3: 100 points#\n\nUpon defeating 300 monsters near your level, Therapy Time will start, and you&apos;ll earn many more #c&lt;Sweet 16 Points&gt;#. \n\n#cYou can earn 800 points in Therapy Time, up to 5 times per day."/>
 	</imgdir>
 	<imgdir name="80002940">
 		<string name="name" value="Special Therapy"/>
-		<string name="desc" value="A service for VIP Prestige members!\n#cTherapist Swanson# will come straight to you and rid you of your hunting fatigue.\nAs you hunt, the #caroma candle# will grow brighter and brighter, until it&apos;s #cTherapy Time#. Not only will it help you unwind, but you&apos;ll earn #c&lt;Sweet 16 Points&gt;# just for relaxing!\n\nIf you&apos;ve already exceeded your daily limit\nfor #c&lt;Sweet 16 Coins&gt;#,\nthe #cSpecial Therapy# service\nwill end for that day.\n\n#cRight-click to turn ON/OFF#"/>
-		<string name="h" value="For every 20 #cmonsters near your level# that you defeat, you&apos;ll earn #c&lt;Sweet 16 Points&gt;# based on the candle gauge.\n  #c- Lv. 1: 40 points#\n  #c- Lv. 2: 60 points#\n  #c- Lv. 3: 100 points#\nUpon defeating 300 monsters near your level, Therapy Time will start, and you&apos;ll earn many more #c&lt;Sweet 16 Points&gt;#.\n\n#cYou can earn 800 points in Therapy Time, up to 5 times per day."/>
+		<string name="desc" value="A service for VIP Prestige members! #cTherapist Swanson# will come straight to you and rid you of your hunting fatigue.\n\nAs you hunt, the #caroma candle# will grow brighter and brighter, until it&apos;s #cTherapy Time#. Not only will it help you unwind, but you&apos;ll earn #c&lt;Sweet 16 Points&gt;# just for relaxing!\n\nIf you&apos;ve already exceeded your daily limit for #c&lt;Sweet 16 Coins&gt;#, the #cSpecial Therapy# service will end for that day.\n\n#cRight-click to turn ON/OFF#"/>
+		<string name="h" value="For every 20 #cmonsters near your level# that you defeat, you&apos;ll earn #c&lt;Sweet 16 Points&gt;# based on the candle gauge.\n  #c- Lv. 1: 40 points#\n  #c- Lv. 2: 60 points#\n  #c- Lv. 3: 100 points#\n\nUpon defeating 300 monsters near your level, Therapy Time will start, and you&apos;ll earn many more #c&lt;Sweet 16 Points&gt;#. \n\n#cYou can earn 800 points in Therapy Time, up to 5 times per day."/>
 	</imgdir>
 	<imgdir name="80002943">
 		<string name="name" value="Baek Gong&apos;s Flute"/>
@@ -42419,7 +42419,7 @@
 	</imgdir>
 	<imgdir name="112000015">
 		<string name="name" value="Fort Follow-Up"/>
-		<string name="desc" value="Li&apos;l Fort appears after every 4th attack to deal an additional attack.\n[Command]: Attack 4 times with a #cBear Mode Active Skill#"/>
+		<string name="desc" value="Lil Fort appears after every 4th attack to deal an additional attack.\n[Command]: Attack 4 times with a #cBear Mode Active Skill#"/>
 		<string name="h" value="Additional Damage: #damage%, Number of Attacks: #attackCount"/>
 	</imgdir>
 	<imgdir name="112000016">
@@ -42451,7 +42451,7 @@
 		<string name="h" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Hit: #mobCount, Duration: #time sec."/>
 	</imgdir>
 	<imgdir name="112001007">
-		<string name="name" value="Li&apos;l Fort"/>
+		<string name="name" value="Lil Fort"/>
 		<string name="desc" value="Summons a toy bear to just go nuts on the enemy."/>
 		<string name="h" value="MP Cost: #mpCon \n- Bear Damage: #damage%, Number of Attacks: #attackCount\n- Bear Duration: #time sec."/>
 	</imgdir>
@@ -44570,9 +44570,9 @@
 		<string name="h" value="Really Deep Breath Final Damage: +#damR_5th%"/>
 	</imgdir>
 	<imgdir name="400004534">
-		<string name="name" value="Li&apos;l Fort Boost"/>
-		<string name="desc" value="Boosts Li&apos;l Fort.\n\n#cLv. 20 - Max Targets: +1\nLv. 40 - Enemy Defense Ignored: +20%#"/>
-		<string name="h" value="Li&apos;l Fort Final Damage: +#damR_5th%"/>
+		<string name="name" value="Lil Fort Boost"/>
+		<string name="desc" value="Boosts Lil Fort.\n\n#cLv. 20 - Max Targets: +1\nLv. 40 - Enemy Defense Ignored: +20%#"/>
+		<string name="h" value="Lil Fort Final Damage: +#damR_5th%"/>
 	</imgdir>
 	<imgdir name="400004535">
 		<string name="name" value="Fishy Slap Boost"/>
@@ -45946,7 +45946,7 @@
 	<imgdir name="42120003">
 		<string name="name" value="Nightghost Guide"/>
 		<string name="desc" value="#c[Shikigami Skill]#\nGrants the chance to invoke a spirit when attacking that deals damage to enemies and curses them. Enemies cursed by the spirit yield additional EXP and have a greater chance of dropping higher quality equipment upon defeat.\nRequired Skill: #cKishin Shoukan Lv. 20#"/>
-		<string name="h" value="Attack Chance: #u%, Max Enemies Hit: #mobCount, Damage: #damage%, Attack Count: #attackCount. Attacked Targets have a #prop% chance to yield #expR% additional EXP for #subTime sec, and have an increased chance to drop equipment with potential. Also, when this effect is activated, the installed Kishin Shoukan&apos;s duration is increased by #y sec.\n[Passive Effect: Kishin Shoukan Damage: +#damPlus%p]"/>
+		<string name="h" value="Attack Chance: #u%, Max Enemies Hit: #mobCount, Damage: #damage%, Attack Count: #attackCount. Attacked Targets have a #prop% chance to yield #expR% additional EXP for #subTime sec, and any equipment they drop has an increased chance of potential. Also, when this effect is activated, the installed Kishin Shoukan&apos;s duration is increased by #y sec.\n[Passive Effect: Kishin Shoukan Damage: +#damPlus%p]"/>
 	</imgdir>
 	<imgdir name="42120009">
 		<string name="name" value="Kasen"/>
@@ -48224,7 +48224,7 @@ Damages and freezes enemies when hit."/>
 	<imgdir name="80011262">
 		<string name="name" value="High Quality Single Passenger Classic Car Mount"/>
 		<string name="desc" value="[Master Level: 1]\nCruise around in a High Quality Single Passenger Classic Car mount that can double jump."/>
-		<string name="h1" value="MP Cost: 10, Weapon &amp; Magic DEF: +10, Speed: 170, Jump: 120"/>
+		<string name="h1" value="DEF: +10, Speed: +170, Jump: +120"/>
 	</imgdir>
 	<imgdir name="80011263">
 		<string name="name" value="Demon Mask Mount"/>
@@ -48507,7 +48507,7 @@ Damages and freezes enemies when hit."/>
 	</imgdir>
 	<imgdir name="80011381">
 		<string name="name" value="Water Tank"/>
-		<string name="desc" value="Summons Checky equipped with Water Tank to blast enemies with a hose. #cPress and hold the key to summon Checky&apos;s Water Tank.Change directions by holding the skill key and pressing the Up or Down keys#. "/>
+		<string name="desc" value="Summons Checky equipped with Water Tank to blast enemies with a hose. #cPress and hold the key to summon Checky&apos;s Water Tank. Change directions by holding the skill key and pressing the Up or Down keys#."/>
 		<string name="h" value="Water Pellets Consumed: #mpCon, Max Enemies Attacked: #mobCount, Number of Attacks: 8, Cooldown: #cooltime sec.  #cChange directions by holding the skill key and pressing the Up or Down keys.#"/>
 	</imgdir>
 	<imgdir name="80011382">
@@ -48915,22 +48915,22 @@ Damages and freezes enemies when hit."/>
 	<imgdir name="80011451">
 		<string name="name" value="Floral Music Note Mount (90 Day)"/>
 		<string name="desc" value="[Master Level: 1]\nRide around on a floral musical note! Double-tap the jump key to use the High Altitude Flight skill."/>
-		<string name="h1" value="Weapon and Magic DEF: +10, Speed: 170, Jump: 120"/>
+		<string name="h1" value="DEF: +10, Speed: +170, Jump: +120"/>
 	</imgdir>
 	<imgdir name="80011452">
 		<string name="name" value="Floral Music Note Mount (Permanent)"/>
 		<string name="desc" value="[Master Level: 1]\nRide around on a floral musical note! Double-tap the jump key to use the High Altitude Flight skill."/>
-		<string name="h1" value="MP Cost: 10, Weapon &amp; Magic DEF: +10, Speed: 170, Jump: 120"/>
+		<string name="h1" value="DEF: +10, Speed: +170, Jump: +120"/>
 	</imgdir>
 	<imgdir name="80011453">
 		<string name="name" value="Alpaca Mount (90 Day)"/>
 		<string name="desc" value="[Master Level: 1]\nThis Alpaca can Double Jump. It&apos;s not your ordinary adorable alpaca!"/>
-		<string name="h1" value="Weapon and Magic DEF: +10, Speed: 170, Jump: 120"/>
+		<string name="h1" value="DEF: +10, Speed: +170, Jump: +120"/>
 	</imgdir>
 	<imgdir name="80011454">
 		<string name="name" value="Alpaca Mount (Permanent)"/>
 		<string name="desc" value="[Master Level: 1]\nThis Alpaca can Double Jump. It&apos;s not your ordinary adorable alpaca!"/>
-		<string name="h1" value="MP Cost: 10, Weapon &amp; Magic DEF: +10, Speed: 170, Jump: 120"/>
+		<string name="h1" value="DEF: +10, Speed: +170, Jump: +120"/>
 	</imgdir>
 	<imgdir name="80011455">
 		<string name="name" value="Teleport"/>
@@ -49106,22 +49106,22 @@ Damages and freezes enemies when hit."/>
 	<imgdir name="80011486">
 		<string name="name" value="Confession Teddy Mount (90 Day)"/>
 		<string name="desc" value="[Master Level: 1]\nZip along to confess your love with this Confession Teddy Mount that can double jump and move #cvery quickly#."/>
-		<string name="h1" value="Weapon &amp; Magic DEF: +10, Speed: 170, Jump: 120"/>
+		<string name="h1" value="DEF: +10, Speed: +170, Jump: +120"/>
 	</imgdir>
 	<imgdir name="80011487">
 		<string name="name" value="Permanent Confession Teddy Mount"/>
 		<string name="desc" value="[Master Level: 1]\nZip along to confess your love with this Confession Teddy Mount that can double jump and move #cvery quickly#."/>
-		<string name="h1" value="Weapon &amp; Magic DEF: +10, Speed: 170, Jump: 120"/>
+		<string name="h1" value="DEF: +10, Speed: +170, Jump: +120"/>
 	</imgdir>
 	<imgdir name="80011488">
 		<string name="name" value="Puffer Submersible (90 Day)"/>
 		<string name="desc" value="[Master Level: 1]\nPuff along in your very own Puffer Submersible mount."/>
-		<string name="h1" value="Weapon &amp; Magic DEF: +10, Speed: 170, Jump: 120"/>
+		<string name="h1" value="DEF: +10, Speed: +170, Jump: +120"/>
 	</imgdir>
 	<imgdir name="80011489">
 		<string name="name" value="Puffer Submersible (Permanent)"/>
 		<string name="desc" value="[Master Level: 1]\nPuff along in your very own Puffer Submersible mount."/>
-		<string name="h1" value="Weapon &amp; Magic DEF: +10, Speed: 170, Jump: 120"/>
+		<string name="h1" value="DEF: +10, Speed: +170, Jump: +120"/>
 	</imgdir>
 	<imgdir name="80011493">
 		<string name="name" value="Lv. 1 Fish Man Power"/>
@@ -49176,12 +49176,12 @@ Damages and freezes enemies when hit."/>
 	<imgdir name="80011500">
 		<string name="name" value="Capybara Mount (90 Day)"/>
 		<string name="desc" value="[Master Level: 1]\ Go for a ride on the cuddliest rodent in the wilderness, the capybara!"/>
-		<string name="h" value="MP Cost: 10, Weapon &amp; Magic DEF: +10, Speed: 170, Jump: 120"/>
+		<string name="h" value="MP Cost: 10, DEF: +10, Speed: +170, Jump: +120"/>
 	</imgdir>
 	<imgdir name="80011501">
 		<string name="name" value="Capybara Mount (Permanent)"/>
 		<string name="desc" value="[Master Level: 1]\ Go for a ride on the cuddliest rodent in the forest, the capybara!"/>
-		<string name="h" value="MP Cost: 10, Weapon &amp; Magic DEF: +10, Speed: 170, Jump: 120"/>
+		<string name="h" value="MP Cost: 10, DEF: +10, Speed: +170, Jump: +120"/>
 	</imgdir>
 	<imgdir name="80011512">
 		<string name="name" value="Santa Sled"/>
@@ -49221,12 +49221,12 @@ Damages and freezes enemies when hit."/>
 	<imgdir name="80011502">
 		<string name="name" value="Maple Leaf Mount (90 Day)"/>
 		<string name="desc" value="[Master Level: 1]\ Let&apos;s celebrate the season by riding atop a Maple Leaf!"/>
-		<string name="h" value="MP Cost: 10, Weapon &amp; Magic DEF: +10, Speed: 170, Jump: 120"/>
+		<string name="h" value="MP Cost: 10, DEF: +10, Speed: 170, Jump: 120"/>
 	</imgdir>
 	<imgdir name="80011503">
 		<string name="name" value="Maple Leaf Mount (Permanent)"/>
 		<string name="desc" value="[Master Level: 1]\ Let&apos;s celebrate the season by riding atop a Maple Leaf!"/>
-		<string name="h" value="MP Cost: 10, Weapon &amp; Magic DEF: +10, Speed: 170, Jump: 120"/>
+		<string name="h" value="MP Cost: 10, DEF: +10, Speed: 170, Jump: 120"/>
 	</imgdir>
 	<imgdir name="80011504">
 		<string name="name" value="Custom Kitty"/>
@@ -49274,12 +49274,12 @@ Damages and freezes enemies when hit."/>
 	<imgdir name="80011506">
 		<string name="name" value="Tireless Elf Mount (90 Day)"/>
 		<string name="desc" value="[Master Level: 1]\r\nZoom around on a Gift Box the tireless Elf is carrying."/>
-		<string name="h" value="MP Cost: 10, Weapon &amp; Magic DEF: +10, Speed: 170, Jump: 120"/>
+		<string name="h" value="MP Cost: 10, DEF: +10, Speed: 170, Jump: 120"/>
 	</imgdir>
 	<imgdir name="80011507">
 		<string name="name" value="Permanent Tireless Elf Mount"/>
 		<string name="desc" value="[Master Level: 1]\r\nZoom around on a Gift Box the tireless Elf is carrying."/>
-		<string name="h" value="MP Cost: 10, Weapon &amp; Magic DEF: +10, Speed: 170, Jump: 120"/>
+		<string name="h" value="MP Cost: 10, DEF: +10, Speed: 170, Jump: 120"/>
 	</imgdir>
 	<imgdir name="80011505">
 		<string name="name" value="Polar Cub Buff"/>
@@ -49289,12 +49289,12 @@ Damages and freezes enemies when hit."/>
 	<imgdir name="80011524">
 		<string name="name" value="St. Bernard Mount (90 Day)"/>
 		<string name="desc" value="[Master Level: 1]\nRide a wagon led by a St. Bernard!"/>
-		<string name="h" value="MP Cost: 10, Weapon &amp; Magic DEF: +10, Speed: 170, Jump: 120"/>
+		<string name="h" value="MP Cost: 10, DEF: +10, Speed: 170, Jump: 120"/>
 	</imgdir>
 	<imgdir name="80011525">
 		<string name="name" value="St. Bernard Mount (Permanent)"/>
 		<string name="desc" value="[Master Level: 1]\nRide a wagon led by a St. Bernard!"/>
-		<string name="h" value="MP Cost: 10, Weapon &amp; Magic DEF: +10, Speed: 170, Jump: 120"/>
+		<string name="h" value="MP Cost: 10, DEF: +10, Speed: 170, Jump: 120"/>
 	</imgdir>
 	<imgdir name="80011526">
 		<string name="name" value="Boston Buff"/>
@@ -49367,12 +49367,12 @@ Damages and freezes enemies when hit."/>
 	<imgdir name="80011541">
 		<string name="name" value="Kangaroo Mount"/>
 		<string name="desc" value="[Master Level: 1]\nAllows you to ride a kangaroo."/>
-		<string name="h1" value="MP Cost: 10, Weapon &amp; Magic DEF: +10, Speed: 170, Jump: 120"/>
+		<string name="h1" value="MP Cost: 10, DEF: +10, Speed: 170, Jump: 120"/>
 	</imgdir>
 	<imgdir name="80011542">
 		<string name="name" value="Kangaroo Mount"/>
 		<string name="desc" value="[Master Level: 1]\nAllows you to ride a kangaroo."/>
-		<string name="h1" value="MP Cost: 10, Weapon &amp; Magic DEF: +10, Speed: 170, Jump: 120"/>
+		<string name="h1" value="MP Cost: 10, DEF: +10, Speed: 170, Jump: 120"/>
 	</imgdir>
 	<imgdir name="80011543">
 		<string name="name" value="Cuddle Pup Pet Buff"/>
@@ -49422,12 +49422,12 @@ Damages and freezes enemies when hit."/>
 	<imgdir name="80011572">
 		<string name="name" value="Summer Water Festival Mount (Permanent)"/>
 		<string name="desc" value="[Master Level: 1]\A special mount made for the summer festival."/>
-		<string name="h1" value="MP Cost: 10, Weapon &amp; Magic DEF: +10, Speed: 170, Jump: 120"/>
+		<string name="h1" value="MP Cost: 10, DEF: +10, Speed: +170, Jump: +120"/>
 	</imgdir>
 	<imgdir name="80011571">
 		<string name="name" value="Summer Water Festival Mount (90 Day)"/>
 		<string name="desc" value="[Master Level: 1]\A special mount made for the summer festival."/>
-		<string name="h1" value="MP Cost: 10, Weapon &amp; Magic DEF: +10, Speed: 170, Jump: 120"/>
+		<string name="h1" value="MP Cost: 10, DEF: +10, Speed: +170, Jump: +120"/>
 	</imgdir>
 	<imgdir name="80011584">
 		<string name="name" value="Bloodthorn Mount"/>
@@ -49452,12 +49452,12 @@ Damages and freezes enemies when hit."/>
 	<imgdir name="80011580">
 		<string name="name" value="Dandelion Puff Mount (90 Day)"/>
 		<string name="desc" value="[Master Level: 1]\nAllows you to ride a Dandelion Puff. Double-tap the jump key in town to use the High Altitude Flight skill."/>
-		<string name="h1" value="MP Cost: 10, Weapon &amp; Magic DEF: +10, Speed: 170, Jump: 120"/>
+		<string name="h1" value="MP Cost: 10, DEF: +10, Speed: +170, Jump: +120"/>
 	</imgdir>
 	<imgdir name="80011581">
 		<string name="name" value="Permanent Dandelion Puff Mount"/>
 		<string name="desc" value="[Master Level: 1]\nAllows you to ride a Dandelion Puff. Double-tap the jump key in town to use the High Altitude Flight skill."/>
-		<string name="h1" value="MP Cost: 10, Weapon &amp; Magic DEF: +10, Speed: 170, Jump: 120"/>
+		<string name="h1" value="MP Cost: 10, DEF: +10, Speed: +170, Jump: +120"/>
 	</imgdir>
 	<imgdir name="80011594">
 		<string name="name" value="Vanishing Journey Premium Pass"/>
@@ -49493,22 +49493,22 @@ Damages and freezes enemies when hit."/>
 	<imgdir name="80011639">
 		<string name="name" value="Paper Airplane Mount (90 Day)"/>
 		<string name="desc" value="[Master Level: 1]\nRide around on a Paper Airplane mount. Double-tap the jump key in town to use the High Altitude Flight skill."/>
-		<string name="h1" value="MP Cost: 10, Weapon &amp; Magic DEF: +10, Speed: 170, Jump: 120"/>
+		<string name="h1" value="MP Cost: 10, DEF: +10, Speed: +170, Jump: +120"/>
 	</imgdir>
 	<imgdir name="80011640">
 		<string name="name" value="Permanent Paper Airplane Mount"/>
 		<string name="desc" value="[Master Level: 1]\nRide around on a Paper Airplane mount. Double-tap the jump key in town to use the High Altitude Flight skill."/>
-		<string name="h1" value="MP Cost: 10, Weapon &amp; Magic DEF: +10, Speed: 170, Jump: 120"/>
+		<string name="h1" value="MP Cost: 10, DEF: +10, Speed: +170, Jump: +120"/>
 	</imgdir>
 	<imgdir name="80011646">
 		<string name="name" value="Pink Bean Tube Mount (90 Day)"/>
 		<string name="desc" value="[Master Level: 1]\nRide on a tube with Pink Bean!"/>
-		<string name="h1" value="MP Cost: 10, Weapon &amp; Magic DEF: +10, Speed: 170, Jump: 120"/>
+		<string name="h1" value="MP Cost: 10, DEF: +10, Speed: +170, Jump: +120"/>
 	</imgdir>
 	<imgdir name="80011647">
 		<string name="name" value="Permanent Pink Bean Tube Mount"/>
 		<string name="desc" value="[Master Level: 1]\nRide on a tube with Pink Bean!"/>
-		<string name="h1" value="MP Cost: 10, Weapon &amp; Magic DEF: +10, Speed: 170, Jump: 120"/>
+		<string name="h1" value="MP Cost: 10, DEF: +10, Speed: +170, Jump: +120"/>
 	</imgdir>
 	<imgdir name="80011554">
 		<string name="name" value="Shrelephant Mount"/>
@@ -49572,12 +49572,12 @@ Damages and freezes enemies when hit."/>
 	<imgdir name="80011698">
 		<string name="name" value="Baby Suitcase Mount"/>
 		<string name="desc" value="[Master Level: 1]\nEnjoy a childhood throwback and take a ride on the monster train! Choo-choo!"/>
-		<string name="h1" value="MP Cost: 10, Weapon &amp; Magic DEF: +10, Speed: 170, Jump: 120"/>
+		<string name="h1" value="MP Cost: 10, DEF: +10, Speed: +170, Jump: +120"/>
 	</imgdir>
 	<imgdir name="80011699">
 		<string name="name" value="Baby Suitcase Mount"/>
 		<string name="desc" value="[Master Level: 1]\nEnjoy a childhood throwback and take a ride on the monster train! Choo-choo!"/>
-		<string name="h1" value="MP Cost: 10, Weapon &amp; Magic DEF: +10, Speed: 170, Jump: 120"/>
+		<string name="h1" value="MP Cost: 10, DEF: +10, Speed: +170, Jump: +120"/>
 	</imgdir>
 	<imgdir name="71009002">
 		<string name="name" value="Lab Server Legion Block"/>
@@ -49624,12 +49624,12 @@ Damages and freezes enemies when hit."/>
 	<imgdir name="80011706">
 		<string name="name" value="Hamster Baller Mount"/>
 		<string name="desc" value="[Master Level: 1]\nIt&apos;s just like a hamster that rolls around everywhere."/>
-		<string name="h" value="MP Cost: 10, Weapon &amp; Magic DEF: +10, Speed: 170, Jump: 120"/>
+		<string name="h" value="MP Cost: 10, DEF: +10, Speed: +170, Jump: +120"/>
 	</imgdir>
 	<imgdir name="80011707">
 		<string name="name" value="Hamster Baller Mount"/>
 		<string name="desc" value="[Master Level: 1]\nIt&apos;s just like a hamster that rolls around everywhere."/>
-		<string name="h" value="MP Cost: 10, Weapon &amp; Magic DEF: +10, Speed: 170, Jump: 120"/>
+		<string name="h" value="MP Cost: 10, DEF: +10, Speed: +170, Jump: +120"/>
 	</imgdir>
 	<imgdir name="80011708">
 		<string name="name" value="[Level: 1] Baby Dino Stomp"/>
@@ -49694,22 +49694,22 @@ Damages and freezes enemies when hit."/>
 	<imgdir name="80011721">
 		<string name="name" value="Halloween Raven Mount"/>
 		<string name="desc" value="[Master Level: 1]\nThe Halloween Raven is here to announce the coming of Halloween."/>
-		<string name="h" value="MP Cost: 10, Weapon &amp; Magic DEF: +10, Speed: 170, Jump: 120"/>
+		<string name="h" value="MP Cost: 10, DEF: +10, Speed: +170, Jump: +120"/>
 	</imgdir>
 	<imgdir name="80011722">
 		<string name="name" value="Halloween Raven Mount"/>
 		<string name="desc" value="[Master Level: 1]\nThe Halloween Raven is here to announce the coming of Halloween. Can use the High Altitude Flight skill to move. Double-tap the jump key to use the High Altitude Flight skill."/>
-		<string name="h" value="MP Cost: 10, Weapon &amp; Magic DEF: +10, Speed: 170, Jump: 120"/>
+		<string name="h" value="MP Cost: 10, DEF: +10, Speed: +170, Jump: +120"/>
 	</imgdir>
 	<imgdir name="80011733">
 		<string name="name" value="Rallying Knights Mount"/>
 		<string name="desc" value="[Master Level: 1]\nRide around on a Rallying Knights mount that can double jump and move #cvery quickly.#"/>
-		<string name="h" value="MP Cost: 10, Weapon &amp; Magic DEF: +10, Speed: 120, Jump: 100"/>
+		<string name="h" value="MP Cost: 10, DEF: +10, Speed: +120, Jump: +100"/>
 	</imgdir>
 	<imgdir name="80011734">
 		<string name="name" value="Rallying Knights Mount"/>
 		<string name="desc" value="[Master Level: 1]\nRide around on a Rallying Knights mount that can double jump and move #cvery quickly.#"/>
-		<string name="h" value="MP Cost: 10, Weapon &amp; Magic DEF: +10, Speed: 120, Jump: 100"/>
+		<string name="h" value="MP Cost: 10, DEF: +10, Speed: +120, Jump: +100"/>
 	</imgdir>
 	<imgdir name="80011749">
 		<string name="name" value="Ayame&apos;s Trust"/>
@@ -49766,12 +49766,12 @@ Damages and freezes enemies when hit."/>
 	<imgdir name="80011743">
 		<string name="name" value="Teatime Bunny Mount"/>
 		<string name="desc" value="[Master Level: 1]\nRide around on a Teatime Bunny mount that can double jump and move very quickly."/>
-		<string name="h" value="MP Cost: 10, Weapon &amp; Magic DEF: +10, Speed: 120, Jump: 100"/>
+		<string name="h" value="MP Cost: 10, DEF: +10, Speed: +120, Jump: +100"/>
 	</imgdir>
 	<imgdir name="80011744">
 		<string name="name" value="Teatime Bunny Mount"/>
 		<string name="desc" value="[Master Level: 1]\nRide around on a Teatime Bunny mount that can double jump and move very quickly."/>
-		<string name="h" value="MP Cost: 10, Weapon &amp; Magic DEF: +10, Speed: 120, Jump: 100"/>
+		<string name="h" value="MP Cost: 10, DEF: +10, Speed: +120, Jump: +100"/>
 	</imgdir>
 	<imgdir name="80011740">
 		<string name="name" value="Rescued Sengoku Warrior"/>
@@ -49807,22 +49807,22 @@ Damages and freezes enemies when hit."/>
 	<imgdir name="80011758">
 		<string name="name" value="Starry Jellyfish"/>
 		<string name="desc" value="[Master Level: 1]\nRide the Starry Jellyfish mount! Double-tap the jump key in town to use the High Altitude Flight skill."/>
-		<string name="h" value="MP Cost: 10, Weapon &amp; Magic DEF: +10, Speed: 170, Jump: 120"/>
+		<string name="h" value="MP Cost: 10, DEF: +10, Speed: +170, Jump: +120"/>
 	</imgdir>
 	<imgdir name="80011759">
 		<string name="name" value="Starry Jellyfish"/>
 		<string name="desc" value="[Master Level: 1]\nRide the Starry Jellyfish mount! Double-tap the jump key in town to use the High Altitude Flight skill."/>
-		<string name="h" value="MP Cost: 10, Weapon &amp; Magic DEF: +10, Speed: 170, Jump: 120"/>
+		<string name="h" value="MP Cost: 10, DEF: +10, Speed: +170, Jump: +120"/>
 	</imgdir>
 	<imgdir name="80011760">
 		<string name="name" value="Tiptoe Piggy"/>
 		<string name="desc" value="[Master Level: 1]\nRide the Tiptoe Piggy mount and take advantage of its Double Jump skill."/>
-		<string name="h" value="MP Cost: 10, Weapon &amp; Magic DEF: +10, Speed: 120, Jump: 100"/>
+		<string name="h" value="MP Cost: 10, DEF: +10, Speed: 120, Jump: 100"/>
 	</imgdir>
 	<imgdir name="80011761">
 		<string name="name" value="Tiptoe Piggy"/>
 		<string name="desc" value="[Master Level: 1]\nRide the Tiptoe Piggy mount and take advantage of its Double Jump skill."/>
-		<string name="h" value="MP Cost: 10, Weapon &amp; Magic DEF: +10, Speed: 120, Jump: 100"/>
+		<string name="h" value="MP Cost: 10, DEF: +10, Speed: 120, Jump: 100"/>
 	</imgdir>
 	<imgdir name="80011750">
 		<string name="name" value="Lv. 1 Piggy Power"/>
@@ -50216,12 +50216,12 @@ Damages and freezes enemies when hit."/>
 	<imgdir name="80011825">
 		<string name="name" value="Giant Yeti Mount"/>
 		<string name="desc" value="[Master Level: 1]\nRide around on a Giant Yeti mount that can double jump and move very quickly."/>
-		<string name="h" value="MP Cost: 10, Weapon &amp; Magic DEF: +10, Speed: 170, Jump: 120"/>
+		<string name="h" value="MP Cost: 10, DEF: +10, Speed: +170, Jump: +120"/>
 	</imgdir>
 	<imgdir name="80011826">
 		<string name="name" value="Giant Yeti Mount"/>
 		<string name="desc" value="[Master Level: 1]\nRide around on a Giant Yeti mount that can double jump and move very quickly."/>
-		<string name="h" value="MP Cost: 10, Weapon &amp; Magic DEF: +10, Speed: 170, Jump: 120"/>
+		<string name="h" value="MP Cost: 10, DEF: +10, Speed: +170, Jump: +120"/>
 	</imgdir>
 	<imgdir name="80011841">
 		<string name="name" value="Lv. 1 Attitude Adjustment"/>
@@ -50241,12 +50241,12 @@ Damages and freezes enemies when hit."/>
 	<imgdir name="80011844">
 		<string name="name" value="Surfin&apos; Safari Mount"/>
 		<string name="desc" value="[Master Level: 1]\nRide around on a Surfin&apos; Safari mount that can double jump and move very quickly."/>
-		<string name="h" value="MP Cost: 10, Weapon &amp; Magic DEF: +10, Speed: 170, Jump: 120"/>
+		<string name="h" value="MP Cost: 10, DEF: +10, Speed: +170, Jump: +120"/>
 	</imgdir>
 	<imgdir name="80011845">
 		<string name="name" value="Surfin&apos; Safari Mount"/>
 		<string name="desc" value="[Master Level: 1]\nRide around on a Surfin&apos; Safari mount that can double jump and move very quickly."/>
-		<string name="h" value="MP Cost: 10, Weapon &amp; Magic DEF: +10, Speed: 170, Jump: 120"/>
+		<string name="h" value="MP Cost: 10, DEF: +10, Speed: +170, Jump: +120"/>
 	</imgdir>
 	<imgdir name="80011772">
 		<string name="name" value="Galaxy Echo Mount"/>
@@ -50271,12 +50271,12 @@ Damages and freezes enemies when hit."/>
 	<imgdir name="80011850">
 		<string name="name" value="Great Golden Dragon Mount"/>
 		<string name="desc" value="[Master Level: 1]\n This is the Great Golden Dragon mount."/>
-		<string name="h" value="MP Cost: 10, Weapon &amp; Magic DEF: +10, Speed: 170, Jump: 120"/>
+		<string name="h" value="MP Cost: 10, DEF: +10, Speed: +170, Jump: +120"/>
 	</imgdir>
 	<imgdir name="80011851">
 		<string name="name" value="Great Golden Dragon Mount"/>
 		<string name="desc" value="[Master Level: 1]\n This is the Great Golden Dragon mount."/>
-		<string name="h" value="MP Cost: 10, Weapon &amp; Magic DEF: +10, Speed: 170, Jump: 120"/>
+		<string name="h" value="MP Cost: 10, DEF: +10, Speed: +170, Jump: +120"/>
 	</imgdir>
 	<imgdir name="80011787">
 		<string name="name" value="Nature&apos;s Roar"/>
@@ -50291,7 +50291,7 @@ Damages and freezes enemies when hit."/>
 	<imgdir name="80011791">
 		<string name="name" value="Cruising with Cloudie Mount"/>
 		<string name="desc" value="[Master Level: 1]\nLets you ride on a cloud with Cloudie."/>
-		<string name="h" value="MP Cost: 10, Weapon &amp; Magic DEF: +10, Speed: 170, Jump: 120"/>
+		<string name="h" value="MP Cost: 10, DEF: +10, Speed: +170, Jump: +120"/>
 	</imgdir>
 	<imgdir name="80011853">
 		<string name="name" value="Lv. 1 Happy Haunting"/>
@@ -51086,12 +51086,12 @@ Celestial Rank S: 5% EXP per stack."/>
 	<imgdir name="80012062">
 		<string name="name" value="Ice Skating Mount"/>
 		<string name="desc" value="[Master Level: 1]\nRide around on a Ice Skating mount, which can double jump and move #cvery quickly#."/>
-		<string name="h" value="MP Cost: 10, Weapon &amp; Magic DEF: +10, Speed: 170, Jump: 120"/>
+		<string name="h" value="MP Cost: 10, DEF: +10, Speed: +170, Jump: +120"/>
 	</imgdir>
 	<imgdir name="80012063">
 		<string name="name" value="Ice Skating Mount"/>
 		<string name="desc" value="[Master Level: 1]\nRide around on a Ice Skating mount, which can double jump and move #cvery quickly#."/>
-		<string name="h" value="MP Cost: 10, Weapon &amp; Magic DEF: +10, Speed: 170, Jump: 120"/>
+		<string name="h" value="MP Cost: 10, DEF: +10, Speed: +170, Jump: +120"/>
 	</imgdir>
 	<imgdir name="5721055">
 		<string name="name" value="Singularity Shock"/>
@@ -51116,12 +51116,12 @@ Celestial Rank S: 5% EXP per stack."/>
 	<imgdir name="80012071">
 		<string name="name" value="Big Crow-Tit Mount"/>
 		<string name="desc" value="[Master Level: 1]\nRide around on a Big Crow-Tit mount, which can double jump and move #cvery quickly#."/>
-		<string name="h" value="MP Cost: 10, Weapon &amp; Magic DEF: +10, Speed: 170, Jump: 120"/>
+		<string name="h" value="MP Cost: 10, DEF: +10, Speed: +170, Jump: +120"/>
 	</imgdir>
 	<imgdir name="80012072">
 		<string name="name" value="Big Crow-Tit Mount"/>
 		<string name="desc" value="[Master Level: 1]\nRide around on a Big Crow-Tit mount, which can double jump and move #cvery quickly#."/>
-		<string name="h" value="MP Cost: 10, Weapon &amp; Magic DEF: +10, Speed: 170, Jump: 120"/>
+		<string name="h" value="MP Cost: 10, DEF: +10, Speed: +170, Jump: +120"/>
 	</imgdir>
 	<imgdir name="80000653">
 		<string name="name" value="Swan Dream (Title)"/>
@@ -51139,12 +51139,12 @@ Celestial Rank S: 5% EXP per stack."/>
 	<imgdir name="80012079">
 		<string name="name" value="Cosmic Bull Mount"/>
 		<string name="desc" value="[Master Level: 1]\nRide around on a Cosmic Bull mount which can double jump and move #cvery quickly#."/>
-		<string name="h" value="MP Cost: 10, Weapon &amp; Magic DEF: +10, Speed: 170, Jump: 120"/>
+		<string name="h" value="MP Cost: 10, DEF: +10, Speed: +170, Jump: +120"/>
 	</imgdir>
 	<imgdir name="80012080">
 		<string name="name" value="Cosmic Bull Mount"/>
 		<string name="desc" value="[Master Level: 1]\nRide around on a Cosmic Bull mount which can double jump and move #cvery quickly#."/>
-		<string name="h" value="MP Cost: 10, Weapon &amp; Magic DEF: +10, Speed: 170, Jump: 120"/>
+		<string name="h" value="MP Cost: 10, DEF: +10, Speed: +170, Jump: +120"/>
 	</imgdir>
 	<imgdir name="80012081">
 		<string name="name" value="Oxlet Pet Lv. 1"/>
@@ -51187,11 +51187,36 @@ Celestial Rank S: 5% EXP per stack."/>
 	<imgdir name="80012089">
 		<string name="name" value="Dazzling Sunlight Mount"/>
 		<string name="desc" value="[Master Level: 1]\nAllows you to ride a Dazzling Sunlight mount. Double-tap the Jump key in town to use the High Altitude Flight skill."/>
-		<string name="h" value="MP Cost: 10, Weapon &amp; Magic DEF: +10, Speed: 170, Jump: 120"/>
+		<string name="h" value="MP Cost: 10, DEF: +10, Speed: +170, Jump: +120"/>
 	</imgdir>
 	<imgdir name="80012090">
 		<string name="name" value="Dazzling Sunlight Mount"/>
 		<string name="desc" value="[Master Level: 1]\nAllows you to ride a Dazzling Sunlight mount. Double-tap the Jump key in town to use the High Altitude Flight skill."/>
-		<string name="h" value="MP Cost: 10, Weapon &amp; Magic DEF: +10, Speed: 170, Jump: 120"/>
+		<string name="h" value="MP Cost: 10, DEF: +10, Speed: +170, Jump: +120"/>
+	</imgdir>
+	<imgdir name="80012097">
+		<string name="name" value="Elodin Guardian Pet Lv. 1"/>
+		<string name="desc" value="The cuteness of the Elodin Guardian pets increases your Attack Power and Magic ATT by 3."/>
+		<string name="h" value="#cAttack Power: +#padX, Magic ATT: +#madX#"/>
+	</imgdir>
+	<imgdir name="80012098">
+		<string name="name" value="Elodin Guardian Pet Lv. 2"/>
+		<string name="desc" value="The cuteness of the Elodin Guardian pets increases your Attack Power and Magic ATT by 5."/>
+		<string name="h" value="#cAttack Power: +#padX, Magic ATT: +#madX#"/>
+	</imgdir>
+	<imgdir name="80012099">
+		<string name="name" value="Elodin Guardian Pet Lv. 3"/>
+		<string name="desc" value="The cuteness of the Elodin Guardian pets increases your Attack Power and Magic ATT by 7."/>
+		<string name="h" value="#cAttack Power: +#padX, Magic ATT: +#madX#"/>
+	</imgdir>
+	<imgdir name="80012103">
+		<string name="name" value="Ryan of Justice Mount"/>
+		<string name="desc" value="[Master Level: 1]\nRide around on a Ryan of Justice mount which can double jump and move #cvery quickly#."/>
+		<string name="h" value="MP Cost: 10, DEF: +10, Speed: +170, Jump: +120"/>
+	</imgdir>
+	<imgdir name="80012104">
+		<string name="name" value="Ryan of Justice Mount"/>
+		<string name="desc" value="[Master Level: 1]\nRide around on a Ryan of Justice mount which can double jump and move #cvery quickly#."/>
+		<string name="h" value="MP Cost: 10, DEF: +10, Speed: +170, Jump: +120"/>
 	</imgdir>
 </imgdir>

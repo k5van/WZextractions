@@ -881,7 +881,7 @@
 	</imgdir>
 	<imgdir name="5062010">
 		<string name="name" value="Black Cube"/>
-		<string name="desc" value="An elegant cube that randomly configures the Potential on a piece of equipment. The Black Cube offers you the chance to decide whether or not to #capply the new Potential to your item#. However, it does not influence Bonus Potentials. \n#cOnly usable on items from Rare to Legendary.# \n#cMax Result: Legendary# Black Cubes have a higher chance to raise your Potential rank than Red Cubes do. "/>
+		<string name="desc" value="An elegant cube that randomly configures the Potential on a piece of equipment. The Black Cube offers you the chance to decide whether or not to #capply the new Potential to your item#. However, it does not influence Bonus Potentials. \n#cOnly usable on items from Rare to Legendary.# \n#cMax Result: Legendary# Black Cubes have a higher chance to raise your Potential rank than Red Cubes do."/>
 	</imgdir>
 	<imgdir name="5062090">
 		<string name="name" value="Memory Cube"/>
@@ -1757,7 +1757,7 @@
 		<string name="desc" value="#cDouble-click# to apply a#c random# hairstyle, or talk to Lauren at Henesys Hair Salon to change your Android&apos;s hair. Double-click it in the Cash Shop for a#c preview#!"/>
 	</imgdir>
 	<imgdir name="5150061">
-		<string name="name" value="VIP Royal Hair Coupon"/>
+		<string name="name" value="All-Star Hair Coupon"/>
 		<string name="desc" value="#cDouble-click# to apply a#c random# hairstyle, or talk to Lauren at Henesys Hair Salon to change your Android&apos;s hair. Double-click it in the Cash Shop for a#c preview#!"/>
 	</imgdir>
 	<imgdir name="5150062">
@@ -1927,7 +1927,7 @@
 Talk to NPC Lauren at Henesys Hair Salon for Androids."/>
 	</imgdir>
 	<imgdir name="5150159">
-		<string name="name" value="VIP Royal Hair Choice Coupon"/>
+		<string name="name" value="All-Star Hair Choice Coupon"/>
 		<string name="desc" value="#cDouble-click# to pick one of the assorted hairstyles, or talk to Lauren at Henesys Hair Salon to change your Android&apos;s hair."/>
 	</imgdir>
 	<imgdir name="5150165">
@@ -1939,8 +1939,8 @@ Talk to NPC Lauren at Henesys Hair Salon for Androids."/>
 		<string name="desc" value="#cDouble-click# to apply the hairstyle of your choice from a carefully curated list, or talk to Lauren at the Henesys Hair Salon to change your Android&apos;s hair."/>
 	</imgdir>
 	<imgdir name="5150171">
-		<string name="name" value="Beauty Awards Hair Coupon"/>
-		<string name="desc" value="#cDouble-click# to exchange this coupon for a#c random# Beauty Awards Hair, or talk to Lauren at the Henesys Hair Salon to change your Android&apos;s hair.\nDouble-click it in the Cash Shop for a#c preview#! #cAll hairstyles have the same chance to be obtained.# "/>
+		<string name="name" value="Pixel Pick Royal Hair Coupon"/>
+		<string name="desc" value="#cDouble-click# to exchange this coupon for a#c random# Pixel Pick Royal Hair, or talk to Lauren at the Henesys Hair Salon to change your Android&apos;s hair. Double-click it in the Cash Shop for a#c preview#!"/>
 	</imgdir>
 	<imgdir name="5150172">
 		<string name="name" value="Reboot Beauty Awards Hair Coupon"/>
@@ -2020,7 +2020,7 @@ Talk to NPC Lauren at Henesys Hair Salon for Androids."/>
 	</imgdir>
 	<imgdir name="5152000">
 		<string name="name" value="Henesys Face Coupon (REG)"/>
-		<string name="desc" value="#cDouble-click# to change your face to one selected at#c random#, or talk to Lauren at Henesys Hair Salon to change your Android&apos;s face. Usable once."/>
+		<string name="desc" value="#cDouble-click# to change your face to one selected at\r\n#crandom#, or talk to Lauren at Henesys Hair Salon to change your Android&apos;s face. Usable once."/>
 	</imgdir>
 	<imgdir name="5152001">
 		<string name="name" value="Henesys Face Coupon (VIP)"/>
@@ -2028,7 +2028,7 @@ Talk to NPC Lauren at Henesys Hair Salon for Androids."/>
 	</imgdir>
 	<imgdir name="5152002">
 		<string name="name" value="Kerning City Face Coupon (REG)"/>
-		<string name="desc" value="#cDouble-click# to change your face to one selected at#c random#, or talk to Lauren at Henesys Hair Salon to change your Android&apos;s face. Usable once."/>
+		<string name="desc" value="#cDouble-click# to change your face to one selected at\r\n#crandom#, or talk to Lauren at Henesys Hair Salon to change your Android&apos;s face. Usable once."/>
 	</imgdir>
 	<imgdir name="5152003">
 		<string name="name" value="Kerning City Face Coupon (VIP)"/>
@@ -2036,7 +2036,7 @@ Talk to NPC Lauren at Henesys Hair Salon for Androids."/>
 	</imgdir>
 	<imgdir name="5152004">
 		<string name="name" value="Orbis Face Coupon (REG)"/>
-		<string name="desc" value="#cDouble-click# to change your face to one selected at#c random#, or talk to Lauren at Henesys Hair Salon to change your Android&apos;s face. Usable once."/>
+		<string name="desc" value="#cDouble-click# to change your face to one selected at\r\n#crandom#, or talk to Lauren at Henesys Hair Salon to change your Android&apos;s face. Usable once."/>
 	</imgdir>
 	<imgdir name="5152005">
 		<string name="name" value="Orbis Face Coupon (VIP)"/>
@@ -2044,7 +2044,7 @@ Talk to NPC Lauren at Henesys Hair Salon for Androids."/>
 	</imgdir>
 	<imgdir name="5152006">
 		<string name="name" value="Ludibrium Face Coupon (REG)"/>
-		<string name="desc" value="#cDouble-click# to change your face to one selected at#c random#, or talk to Lauren at Henesys Hair Salon to change your Android&apos;s face. Usable once."/>
+		<string name="desc" value="#cDouble-click# to change your face to one selected at\r\n#c random#, or talk to Lauren at Henesys Hair Salon to change your Android&apos;s face. Usable once."/>
 	</imgdir>
 	<imgdir name="5152007">
 		<string name="name" value="Ludibrium Face Coupon (VIP)"/>
@@ -2056,7 +2056,7 @@ Talk to NPC Lauren at Henesys Hair Salon for Androids."/>
 	</imgdir>
 	<imgdir name="5152023">
 		<string name="name" value="Night Market Face Coupon (REG)"/>
-		<string name="desc" value="#cDouble-click# to change your face to one selected at#c random#, or talk to Lauren at Henesys Hair Salon to change your Android&apos;s face. Usable once."/>
+		<string name="desc" value="#cDouble-click# to change your face to one selected at\r\n#c random#, or talk to Lauren at Henesys Hair Salon to change your Android&apos;s face. Usable once."/>
 	</imgdir>
 	<imgdir name="5152024">
 		<string name="name" value="Night Market Face Coupon (VIP)"/>
@@ -2064,7 +2064,7 @@ Talk to NPC Lauren at Henesys Hair Salon for Androids."/>
 	</imgdir>
 	<imgdir name="5152027">
 		<string name="name" value="Mu Lung Plastic Surgery Coupon (REG)"/>
-		<string name="desc" value="#cDouble-click# to change your face to one selected at#c random#, or talk to Lauren at Henesys Hair Salon to change your Android&apos;s face. Usable once."/>
+		<string name="desc" value="#cDouble-click# to change your face to one selected at\r\n#crandom#, or talk to Lauren at Henesys Hair Salon to change your Android&apos;s face. Usable once."/>
 	</imgdir>
 	<imgdir name="5152028">
 		<string name="name" value="Mu Lung Plastic Surgery Coupon (VIP)"/>
@@ -2072,7 +2072,7 @@ Talk to NPC Lauren at Henesys Hair Salon for Androids."/>
 	</imgdir>
 	<imgdir name="5152029">
 		<string name="name" value="Ariant Face Coupon (REG)"/>
-		<string name="desc" value="#cDouble-click# to change your face to one selected at#c random#, or talk to Lauren at Henesys Hair Salon to change your Android&apos;s face. Usable once."/>
+		<string name="desc" value="#cDouble-click# to change your face to one selected at\r\n#c random#, or talk to Lauren at Henesys Hair Salon to change your Android&apos;s face. Usable once."/>
 	</imgdir>
 	<imgdir name="5152030">
 		<string name="name" value="Ariant Face Coupon (VIP)"/>
@@ -2088,7 +2088,7 @@ Talk to NPC Lauren at Henesys Hair Salon for Androids."/>
 	</imgdir>
 	<imgdir name="5152058">
 		<string name="name" value="VIP Royal Face Coupon"/>
-		<string name="desc" value="#cDouble-click# to change your face to one selected at#c random#, or talk to Lauren at Henesys Hair Salon to change your Android&apos;s face. Double-click it in the Cash Shop for a#c preview#!"/>
+		<string name="desc" value="#cDouble-click# to change your face to one selected at\r\n#crandom#, or talk to Lauren at Henesys Hair Salon to change your Android&apos;s face. Double-click it in the Cash Shop for a#c preview#!"/>
 	</imgdir>
 	<imgdir name="5152059">
 		<string name="name" value="Rookie Face Coupon"/>
@@ -2096,79 +2096,79 @@ Talk to NPC Lauren at Henesys Hair Salon for Androids."/>
 	</imgdir>
 	<imgdir name="5152064">
 		<string name="name" value="Legends Royal Plastic Surgery Coupon"/>
-		<string name="desc" value="#cDouble-click# to change your face to one selected at#c random#, or talk to Lauren at Henesys Hair Salon to change your Android&apos;s face. Double-click it in the Cash Shop for a#c preview#!"/>
+		<string name="desc" value="#cDouble-click# to change your face to one selected at\r\n#crandom#, or talk to Lauren at Henesys Hair Salon to change your Android&apos;s face. Double-click it in the Cash Shop for a#c preview#!"/>
 	</imgdir>
 	<imgdir name="5152065">
 		<string name="name" value="F/W Royal Face Coupon"/>
-		<string name="desc" value="#cDouble-click# to change your face to one selected at#c random#, or talk to Lauren at Henesys Hair Salon to change your Android&apos;s face. Double-click it in the Cash Shop for a#c preview#!"/>
+		<string name="desc" value="#cDouble-click# to change your face to one selected at\r\n#crandom#, or talk to Lauren at Henesys Hair Salon to change your Android&apos;s face. Double-click it in the Cash Shop for a#c preview#!"/>
 	</imgdir>
 	<imgdir name="5152066">
 		<string name="name" value="Winter Royal Face Coupon"/>
-		<string name="desc" value="#cDouble-click# to change your face to one selected at#c random#, or talk to Lauren at Henesys Hair Salon to change your Android&apos;s face. Double-click it in the Cash Shop for a#c preview#!"/>
+		<string name="desc" value="#cDouble-click# to change your face to one selected at\r\n#crandom#, or talk to Lauren at Henesys Hair Salon to change your Android&apos;s face. Double-click it in the Cash Shop for a#c preview#!"/>
 	</imgdir>
 	<imgdir name="5152068">
 		<string name="name" value="Styling Royal Face Coupon"/>
-		<string name="desc" value="#cDouble-click# to change your face to one selected at#c random#, or talk to Lauren at Henesys Hair Salon to change your Android&apos;s face. Double-click it in the Cash Shop for a#c preview#!"/>
+		<string name="desc" value="#cDouble-click# to change your face to one selected at\r\n#crandom#, or talk to Lauren at Henesys Hair Salon to change your Android&apos;s face. Double-click it in the Cash Shop for a#c preview#!"/>
 	</imgdir>
 	<imgdir name="5152069">
 		<string name="name" value="2012 Royal Face Coupon"/>
-		<string name="desc" value="#cDouble-click# to change your face to one selected at#c random#, or talk to Lauren at Henesys Hair Salon to change your Android&apos;s face. Double-click it in the Cash Shop for a#c preview#!"/>
+		<string name="desc" value="#cDouble-click# to change your face to one selected at\r\n#crandom#, or talk to Lauren at Henesys Hair Salon to change your Android&apos;s face. Double-click it in the Cash Shop for a#c preview#!"/>
 	</imgdir>
 	<imgdir name="5152072">
 		<string name="name" value="8th Anniversary Royal Face Coupon"/>
-		<string name="desc" value="#cDouble-click# to change your face to one selected at#c random#, or talk to Lauren at Henesys Hair Salon to change your Android&apos;s face. Double-click it in the Cash Shop for a#c preview#!"/>
+		<string name="desc" value="#cDouble-click# to change your face to one selected at\r\n#crandom#, or talk to Lauren at Henesys Hair Salon to change your Android&apos;s face. Double-click it in the Cash Shop for a#c preview#!"/>
 	</imgdir>
 	<imgdir name="5152074">
 		<string name="name" value="Vacation Royal Face Coupon"/>
-		<string name="desc" value="#cDouble-click# to change your face to one selected at#c random#, or talk to Lauren at Henesys Hair Salon to change your Android&apos;s face. Double-click it in the Cash Shop for a#c preview#!"/>
+		<string name="desc" value="#cDouble-click# to change your face to one selected at\r\n#crandom#, or talk to Lauren at Henesys Hair Salon to change your Android&apos;s face. Double-click it in the Cash Shop for a#c preview#!"/>
 	</imgdir>
 	<imgdir name="5152075">
 		<string name="name" value="Summer Royal Face Coupon"/>
-		<string name="desc" value="#cDouble-click# to change your face to one selected at#c random#, or talk to Lauren at Henesys Hair Salon to change your Android&apos;s face. Double-click it in the Cash Shop for a#c preview#!"/>
+		<string name="desc" value="#cDouble-click# to change your face to one selected at\r\n#crandom#, or talk to Lauren at Henesys Hair Salon to change your Android&apos;s face. Double-click it in the Cash Shop for a#c preview#!"/>
 	</imgdir>
 	<imgdir name="5152076">
 		<string name="name" value="Angelic Royal Face Coupon"/>
-		<string name="desc" value="#cDouble-click# to change your face to one selected at#c random#, or talk to Lauren at Henesys Hair Salon to change your Android&apos;s face. Only usable by#c female characters and female androids#. Double-click it in the Cash Shop for a#c preview#!"/>
+		<string name="desc" value="#cDouble-click# to change your face to one selected at\r\n#crandom#, or talk to Lauren at Henesys Hair Salon to change your Android&apos;s face. Only usable by#c female characters and female androids#. Double-click it in the Cash Shop for a#c preview#!"/>
 	</imgdir>
 	<imgdir name="5152078">
 		<string name="name" value="Extra Glam Royal Face Coupon"/>
-		<string name="desc" value="#cDouble-click# to change your face to one selected at#c random#, or talk to Lauren at Henesys Hair Salon to change your Android&apos;s face. Double-click it in the Cash Shop for a#c preview#!"/>
+		<string name="desc" value="#cDouble-click# to change your face to one selected at\r\n#crandom#, or talk to Lauren at Henesys Hair Salon to change your Android&apos;s face. Double-click it in the Cash Shop for a#c preview#!"/>
 	</imgdir>
 	<imgdir name="5152079">
 		<string name="name" value="Superstars Royal Face Coupon"/>
-		<string name="desc" value="#cDouble-click# to change your face to one selected at#c random#, or talk to Lauren at Henesys Hair Salon to change your Android&apos;s face. Double-click it in the Cash Shop for a#c preview#!"/>
+		<string name="desc" value="#cDouble-click# to change your face to one selected at\r\n#crandom#, or talk to Lauren at Henesys Hair Salon to change your Android&apos;s face. Double-click it in the Cash Shop for a#c preview#!"/>
 	</imgdir>
 	<imgdir name="5152081">
 		<string name="name" value="Premium PC Cafe Face Coupon"/>
-		<string name="desc" value="#cDouble-click# to change your face to one selected at#c random#, or talk to Lauren at Henesys Hair Salon to change your Android&apos;s face. Double-click it in the Cash Shop for a#c preview#!"/>
+		<string name="desc" value="#cDouble-click# to change your face to one selected at\r\n#crandom#, or talk to Lauren at Henesys Hair Salon to change your Android&apos;s face. Double-click it in the Cash Shop for a#c preview#!"/>
 	</imgdir>
 	<imgdir name="5152082">
 		<string name="name" value="Dewdrop Royal Face Coupon"/>
-		<string name="desc" value="#cDouble-click# to change your face to one selected at#c random#, or talk to Lauren at Henesys Hair Salon to change your Android&apos;s face. Double-click it in the Cash Shop for a#c preview#!"/>
+		<string name="desc" value="#cDouble-click# to change your face to one selected at\r\n#crandom#, or talk to Lauren at Henesys Hair Salon to change your Android&apos;s face. Double-click it in the Cash Shop for a#c preview#!"/>
 	</imgdir>
 	<imgdir name="5152085">
-		<string name="name" value="VIP Royal Face Coupon"/>
-		<string name="desc" value="#cDouble-click# to change your face to one selected at#c random#, or talk to Lauren at Henesys Hair Salon to change your Android&apos;s face. Double-click it in the Cash Shop for a#c preview#!"/>
+		<string name="name" value="All-Star Face Coupon"/>
+		<string name="desc" value="#cDouble-click# to change your face to one selected at\r\n#crandom#, or talk to Lauren at Henesys Hair Salon to change your Android&apos;s face. Double-click it in the Cash Shop for a#c preview#!"/>
 	</imgdir>
 	<imgdir name="5152086">
 		<string name="name" value="Grand Prix Royal Face Coupon"/>
-		<string name="desc" value="#cDouble-click# to change your face to one selected at#c random#, or talk to Lauren at Henesys Hair Salon to change your Android&apos;s face. Double-click it in the Cash Shop for a#c preview#!"/>
+		<string name="desc" value="#cDouble-click# to change your face to one selected at\r\n#crandom#, or talk to Lauren at Henesys Hair Salon to change your Android&apos;s face. Double-click it in the Cash Shop for a#c preview#!"/>
 	</imgdir>
 	<imgdir name="5152087">
 		<string name="name" value="Romantic Royal Face Coupon"/>
-		<string name="desc" value="#cDouble-click# to change your face to one selected at#c random#, or talk to Lauren at Henesys Hair Salon to change your Android&apos;s face. Double-click it in the Cash Shop for a#c preview#!"/>
+		<string name="desc" value="#cDouble-click# to change your face to one selected at\r\n#crandom#, or talk to Lauren at Henesys Hair Salon to change your Android&apos;s face. Double-click it in the Cash Shop for a#c preview#!"/>
 	</imgdir>
 	<imgdir name="5152089">
 		<string name="name" value="April Royal Face Coupon"/>
-		<string name="desc" value="#cDouble-click# to change your face to one selected at#c random#, or talk to Lauren at Henesys Hair Salon to change your Android&apos;s face. Double-click it in the Cash Shop for a#c preview#!"/>
+		<string name="desc" value="#cDouble-click# to change your face to one selected at\r\n#crandom#, or talk to Lauren at Henesys Hair Salon to change your Android&apos;s face. Double-click it in the Cash Shop for a#c preview#!"/>
 	</imgdir>
 	<imgdir name="5152091">
 		<string name="name" value="Trendy Royal Face Coupon"/>
-		<string name="desc" value="#cDouble-click# to change your face to one selected at#c random#. or talk to Lauren at Henesys Hair Salon to change your Android&apos;s face.#c You have the same odds of getting any of the faces.##c The Royal Face Coupon rewards change every so often. Find more details on the Cash Item Announcements on the homepage.# Double-click a coupon in the Cash Shop to#c preview#"/>
+		<string name="desc" value="#cDouble-click# to change your face to one selected at#crandom#. or talk to Lauren at Henesys Hair Salon to change your Android&apos;s face. The Royal Face Coupon rewards change every so often. Find more details on the Cash Item Announcements on the homepage.# Double-click a coupon in the Cash Shop to#c preview#"/>
 	</imgdir>
 	<imgdir name="5152094">
 		<string name="name" value="RED Royal Face Coupon"/>
-		<string name="desc" value="#cDouble-click# to change your face to one selected at#c random#. or talk to Lauren at Henesys Hair Salon to change your Android&apos;s face.#c The Trendy Royal Face Coupon rewards change every so often. Find more details on the Cash Item Announcements on the homepage.# Double-click a coupon in the Cash Shop to#c preview#."/>
+		<string name="desc" value="#cDouble-click# to change your face to one selected at#crandom#. or talk to Lauren at Henesys Hair Salon to change your Android&apos;s face.#c The Trendy Royal Face Coupon rewards change every so often. Find more details on the Cash Item Announcements on the homepage.# Double-click a coupon in the Cash Shop to#c preview#."/>
 	</imgdir>
 	<imgdir name="5152095">
 		<string name="name" value="Murgoth Face Coupon"/>
@@ -2224,7 +2224,7 @@ Talk to NPC Lauren at Henesys Hair Salon for Androids."/>
 Talk to NPC Lauren at Henesys Hair Salon for Androids."/>
 	</imgdir>
 	<imgdir name="5152228">
-		<string name="name" value="VIP Royal Face Choice Coupon"/>
+		<string name="name" value="All-Star Face Choice Coupon"/>
 		<string name="desc" value="#cDouble-click# to pick one of the assorted faces, or talk to Lauren at Henesys Hair Salon to change your Android&apos;s face."/>
 	</imgdir>
 	<imgdir name="5152235">
@@ -2240,8 +2240,8 @@ Talk to NPC Lauren at Henesys Hair Salon for Androids."/>
 		<string name="desc" value="#cDouble-click# to change your face to one of the Big-Eyed Faces at#c random#, or talk to Lauren at Henesys Hair Salon to change your Android&apos;s face. #cDouble-click# it in the Cash Shop for a preview! #cYou have the same odds or receiving any of the faces.#"/>
 	</imgdir>
 	<imgdir name="5152243">
-		<string name="name" value="Beauty Awards Face Coupon"/>
-		<string name="desc" value="#cDouble-click# to exchange this coupon for a#c random# Beauty Awards Face, or talk to Lauren at the Henesys Hair Salon to change your Android&apos;s face.\nDouble-click it in the Cash Shop for a#c preview#! #cAll faces have the same chance to be obtained.# "/>
+		<string name="name" value="Pixel Pick Royal Face Coupon"/>
+		<string name="desc" value="#cDouble-click# to exchange this coupon for a#c random# Pixel Pick Royal Face, or talk to Lauren at the Henesys Hair Salon to change your Android&apos;s face. Double-click it in the Cash Shop for a#c preview#!"/>
 	</imgdir>
 	<imgdir name="5152244">
 		<string name="name" value="Reboot Beauty Awards Face Coupon"/>
@@ -5421,7 +5421,7 @@ Talk to NPC Lauren at Henesys Hair Salon for Androids."/>
 		<string name="desc" value="Double-click the item to receive a #ctradable# #cTemporal White Rabbit Hair Coupon#."/>
 	</imgdir>
 	<imgdir name="5530746">
-		<string name="name" value="Temporal Alice Hair Coupon (M) Coupon"/>
+		<string name="name" value="Temporal Alice Hair Coupon (F) Coupon"/>
 		<string name="desc" value="Double-click the item to receive a #ctradable# #cTemporal Alice Hair Coupon#."/>
 	</imgdir>
 	<imgdir name="5530749">
@@ -7766,7 +7766,7 @@ Talk to NPC Lauren at Henesys Hair Salon for Androids."/>
 	</imgdir>
 	<imgdir name="5152248">
 		<string name="name" value="Fairy Bros&apos; Face Selector Coupon"/>
-		<string name="desc" value="#cDouble-click# to apply the face of your choice from a carefully curated list, or talk to Lauren at the Henesys Hair Salon to change your Android&apos;s hair."/>
+		<string name="desc" value="#cDouble-click# to apply the face of your choice from a carefully curated list. You can also change your Android&apos;s face by talking to Lauren at the Henesys Hair Salon."/>
 	</imgdir>
 	<imgdir name="5152254">
 		<string name="name" value="2019 Beauty Awards Face Coupon"/>
@@ -8361,7 +8361,7 @@ ATT, MATT + 100"/>
 	</imgdir>
 	<imgdir name="5152008">
 		<string name="name" value="Showa Face Coupon (REG)"/>
-		<string name="desc" value="#cDouble-click# to change your face to one selected at#c random#, or talk to Lauren at Henesys Hair Salon to change your Android&apos;s face. Usable once."/>
+		<string name="desc" value="#cDouble-click# to change your face to one selected at\r\n#crandom#, or talk to Lauren at Henesys Hair Salon to change your Android&apos;s face. Usable once."/>
 	</imgdir>
 	<imgdir name="5152009">
 		<string name="name" value="Showa Face Coupon (VIP)"/>
@@ -8393,7 +8393,7 @@ ATT, MATT + 100"/>
 	</imgdir>
 	<imgdir name="5152021">
 		<string name="name" value="Amoria Face Coupon (REG)"/>
-		<string name="desc" value="#cDouble-click# to change your face to one selected at#c random#, or talk to Lauren at Henesys Hair Salon to change your Android&apos;s face. Usable once."/>
+		<string name="desc" value="#cDouble-click# to change your face to one selected at\r\n#crandom#, or talk to Lauren at Henesys Hair Salon to change your Android&apos;s face. Usable once."/>
 	</imgdir>
 	<imgdir name="5152022">
 		<string name="name" value="Amoria Face Coupon (VIP)"/>
@@ -8409,7 +8409,7 @@ ATT, MATT + 100"/>
 	</imgdir>
 	<imgdir name="5152033">
 		<string name="name" value="NLC Face Coupon (REG)"/>
-		<string name="desc" value="#cDouble-click# to change your face to one selected at#c random#, or talk to Lauren at Henesys Hair Salon to change your Android&apos;s face. Usable once."/>
+		<string name="desc" value="#cDouble-click# to change your face to one selected at\r\n#crandom#, or talk to Lauren at Henesys Hair Salon to change your Android&apos;s face. Usable once."/>
 	</imgdir>
 	<imgdir name="5152034">
 		<string name="name" value="NLC Face Coupon (VIP)"/>
@@ -8425,7 +8425,7 @@ ATT, MATT + 100"/>
 	</imgdir>
 	<imgdir name="5152037">
 		<string name="name" value="CBD Face Coupon (REG)"/>
-		<string name="desc" value="#cDouble-click# to change your face to one selected at#c random#, or talk to Lauren at Henesys Hair Salon to change your Android&apos;s face. Usable once."/>
+		<string name="desc" value="#cDouble-click# to change your face to one selected at\r\n#crandom#, or talk to Lauren at Henesys Hair Salon to change your Android&apos;s face. Usable once."/>
 	</imgdir>
 	<imgdir name="5152038">
 		<string name="name" value="CBD Face Coupon (VIP)"/>
@@ -8473,15 +8473,15 @@ ATT, MATT + 100"/>
 	</imgdir>
 	<imgdir name="5152217">
 		<string name="name" value="Black Friday Royal Face Coupon"/>
-		<string name="desc" value="#cDouble-click# to change your face to one selected at#c random#, or talk to Lauren at Henesys Hair Salon to change your Android&apos;s face. Usable once."/>
+		<string name="desc" value="#cDouble-click# to change your face to one selected at#crandom#, or talk to Lauren at Henesys Hair Salon to change your Android&apos;s face. Usable once."/>
 	</imgdir>
 	<imgdir name="5152218">
 		<string name="name" value="Christmas Royal Face Coupon"/>
-		<string name="desc" value="#cDouble-click# to change your face to one selected at#c random#, or talk to Lauren at Henesys Hair Salon to change your Android&apos;s face. Usable once."/>
+		<string name="desc" value="#cDouble-click# to change your face to one selected at#crandom#, or talk to Lauren at Henesys Hair Salon to change your Android&apos;s face. Usable once."/>
 	</imgdir>
 	<imgdir name="5152220">
 		<string name="name" value="Valentine&apos;s Royal Face Coupon"/>
-		<string name="desc" value="#cDouble-click# to change your face to one selected at#c random#, or talk to Lauren at Henesys Hair Salon to change your Android&apos;s face. Usable once."/>
+		<string name="desc" value="#cDouble-click# to change your face to one selected at#crandom#, or talk to Lauren at Henesys Hair Salon to change your Android&apos;s face. Usable once."/>
 	</imgdir>
 	<imgdir name="5152221">
 		<string name="name" value="Anniversary Royal Face Coupon"/>
@@ -8489,11 +8489,11 @@ ATT, MATT + 100"/>
 	</imgdir>
 	<imgdir name="5152222">
 		<string name="name" value="Heroes Royal Face Coupon"/>
-		<string name="desc" value="#cDouble-click# to change your face to one selected at#c random#, or talk to Lauren at Henesys Hair Salon to change your Android&apos;s face. Usable once."/>
+		<string name="desc" value="#cDouble-click# to change your face to one selected at#crandom#, or talk to Lauren at Henesys Hair Salon to change your Android&apos;s face. Usable once."/>
 	</imgdir>
 	<imgdir name="5152223">
 		<string name="name" value="Maplehood Watch Face Coupon"/>
-		<string name="desc" value="#cDouble-click# to change your face to one selected at#c random#. Cannot be used on Androids."/>
+		<string name="desc" value="#cDouble-click# to change your face to one selected at#crandom#. Cannot be used on Androids."/>
 	</imgdir>
 	<imgdir name="5153009">
 		<string name="name" value="NLC Skin Coupon"/>
@@ -8848,7 +8848,7 @@ ATT, MATT + 100"/>
 	</imgdir>
 	<imgdir name="5220100">
 		<string name="name" value="Powergacha Ticket"/>
-		<string name="desc" value="This ticket will enable you to use Powergacha Ticket by speaking with The Great Gachapierrot to obtain various items. "/>
+		<string name="desc" value="This ticket will enable you to use Powergacha Ticket by speaking with The Great Gachapierrot to obtain various items."/>
 	</imgdir>
 	<imgdir name="5221000">
 		<string name="name" value="Free Ticket"/>
@@ -9268,16 +9268,16 @@ ATT, MATT + 100"/>
 		<string name="desc" value="This powder helps little #cGollux# keep its mind squeaky clean. Recovers Fullness completely and #cincreases Closeness by 100#."/>
 	</imgdir>
 	<imgdir name="5240104">
-		<string name="name" value="Li&apos;l Lai&apos;s Tasty Meat"/>
-		<string name="desc" value="A delicious treat for #cLi&apos;l Lai#. Recovers Fullness completely and #cincreases Closeness by 100#."/>
+		<string name="name" value="Lil Lai&apos;s Tasty Meat"/>
+		<string name="desc" value="A delicious treat for #cLil Lai#. Recovers Fullness completely and #cincreases Closeness by 100#."/>
 	</imgdir>
 	<imgdir name="5240105">
-		<string name="name" value="Li&apos;l Fort&apos;s Fresh Fish"/>
-		<string name="desc" value="Fresh fish that can only be consumed by #cLi&apos;l Fort#. It recovers Fullness entirely and #cincreases Closeness by 100#."/>
+		<string name="name" value="Lil Fort&apos;s Fresh Fish"/>
+		<string name="desc" value="Fresh fish that can only be consumed by #cLil Fort#. It recovers Fullness entirely and #cincreases Closeness by 100#."/>
 	</imgdir>
 	<imgdir name="5240106">
-		<string name="name" value="Li&apos;l Arby&apos;s Crunchy Fish Pastry"/>
-		<string name="desc" value="This crunchy fish pastry can only be consumed by #cLi&apos;l Arby#. It recovers Fullness entirely and #cincreases Closeness by 100#."/>
+		<string name="name" value="Lil Arby&apos;s Crunchy Fish Pastry"/>
+		<string name="desc" value="This crunchy fish pastry can only be consumed by #cLil Arby#. It recovers Fullness entirely and #cincreases Closeness by 100#."/>
 	</imgdir>
 	<imgdir name="5240126">
 		<string name="name" value="Mystical Star Cotton Candy"/>
@@ -11531,7 +11531,7 @@ ATT, MATT + 100"/>
 	</imgdir>
 	<imgdir name="5152237">
 		<string name="name" value="April Fools&apos; Day Face Coupon"/>
-		<string name="desc" value="#cDouble-click# to change your face to one selected at#c random#, or talk to Lauren at Henesys Hair Salon to change your Android&apos;s face. Usable once."/>
+		<string name="desc" value="#cDouble-click# to change your face to one selected at#crandom#, or talk to Lauren at Henesys Hair Salon to change your Android&apos;s face. Usable once."/>
 	</imgdir>
 	<imgdir name="5121083">
 		<string name="name" value="BROWN Atmospheric Effect"/>
@@ -11639,8 +11639,8 @@ ATT, MATT + 100"/>
 		<string name="desc" value="Double-click to obtain the Boppin&apos; LINE FRIENDS Truck Mount (90 Day) Coupon."/>
 	</imgdir>
 	<imgdir name="5240192">
-		<string name="name" value="Li&apos;l Chonker Well-Rounded Meal"/>
-		<string name="desc" value="A hearty meal fortified with vitamins and nutrients that has proven a favorite of the ever-hungry #cLi&apos;l Chonkerl# pets. Completely recovers Fullness and #cincreases Closeness by 100#."/>
+		<string name="name" value="Lil Chonker Well-Rounded Meal"/>
+		<string name="desc" value="A hearty meal fortified with vitamins and nutrients that has proven a favorite of the ever-hungry #cLil Chonkerl# pets. Completely recovers Fullness and #cincreases Closeness by 100#."/>
 	</imgdir>
 	<imgdir name="5680650">
 		<string name="name" value="HAPPY Avatar Hat (45 Day) Mystery Box"/>
@@ -12614,5 +12614,17 @@ Upon using the cube, the value of all potentials #cwill become consistent with t
 	<imgdir name="5240213">
 		<string name="name" value="Suncloud Cotton Candy"/>
 		<string name="desc" value="#cCloud and Sun pets# go crazy for this sweet cotton candy. Recovers Fullness completely and #cincreases Closeness by 100#."/>
+	</imgdir>
+	<imgdir name="5420018">
+		<string name="name" value="Timely Threads Subscription"/>
+		<string name="desc" value="A subscription to the Timely Threads service, granting you access to the cash shop&apos;s #c[Threads Shop]# section for a limited time. There you&apos;ll have access to a variety of free temporary items. As a bonus gift for subscribing to Timely Threads, you&apos;ll receive 10 copies of a special Surprise Style Box. "/>
+	</imgdir>
+	<imgdir name="5222204">
+		<string name="name" value="Timely Threads Surprise Style Box"/>
+		<string name="desc" value="A Surprise Style Box for Timely Threads members. Upon use, you&apos;ll receive 1 random item. Rewards are all permanent and cannot be traded. Can be opened from the cash locker."/>
+	</imgdir>
+	<imgdir name="5240214">
+		<string name="name" value="Petite Branch"/>
+		<string name="desc" value="This Petite Branch can only be consumed by #cElodin Guardian# pets. Restores Fullness completely and#c increases Closeness by 100.#"/>
 	</imgdir>
 </imgdir>
