@@ -451,20 +451,20 @@
 					<string name="Desc" value="Your movement speed. Can be increased to a max of 140% normally. Skills and equipment can boost this even further. Can be increased to 190% while riding a mount."/>
 				</imgdir>
 				<imgdir name="11">
-					<vector name="lt" x="107" y="167"/>
-					<vector name="rb" x="165" y="182"/>
+					<vector name="lt" x="12" y="185"/>
+					<vector name="rb" x="69" y="200"/>
 					<string name="Title" value="Jump"/>
 					<string name="Desc" value="How high you can jump. Can be increased to a max of 123%. Skills and equipment can be used to increase or decrease your Jump."/>
 				</imgdir>
 				<imgdir name="12">
-					<vector name="lt" x="12" y="198"/>
-					<vector name="rb" x="200" y="222"/>
+					<vector name="lt" x="12" y="216"/>
+					<vector name="rb" x="200" y="240"/>
 					<string name="Title" value="Ability"/>
 					<string name="Desc" value="Your latent abilities. These abilities open up upon reaching level 50, and can be reset with Honor EXP or a Circulator."/>
 				</imgdir>
 				<imgdir name="13">
 					<vector name="lt" x="12" y="288"/>
-					<vector name="rb" x="69" y="303"/>
+					<vector name="rb" x="69" y="321"/>
 					<string name="Title" value="Honor EXP"/>
 					<string name="Desc" value="Used to reset your abilities. Honor EXP can be obtained by leveling up normally or finding Medal of Honor drops from monsters."/>
 				</imgdir>
@@ -538,25 +538,25 @@
 					<string name="Desc" value="Your movement speed. Can be increased to a max of 140% normally. Skills and equipment can boost this even further. Can be increased to 190% while riding a mount."/>
 				</imgdir>
 				<imgdir name="11">
-					<vector name="lt" x="107" y="167"/>
-					<vector name="rb" x="165" y="182"/>
+					<vector name="lt" x="12" y="185"/>
+					<vector name="rb" x="69" y="200"/>
 					<string name="Title" value="Jump"/>
 					<string name="Desc" value="How high you can jump. Can be increased to a max of 123%. Skills and equipment can be used to increase or decrease your Jump."/>
 				</imgdir>
 				<imgdir name="12">
-					<vector name="lt" x="12" y="185"/>
-					<vector name="rb" x="69" y="200"/>
+					<vector name="lt" x="107" y="149"/>
+					<vector name="rb" x="165" y="164"/>
 					<string name="Title" value="Star Force"/>
 					<string name="Desc" value="You&apos;ll deal less damage to monsters in Star Force areas if you have less Star Force than they do. When you have more Star Force than a monster, you can attack through that monster&apos;s shield. Can be increased by equipping items with Star Force enhancement. Doubled for Overall equipment."/>
 				</imgdir>
 				<imgdir name="13">
-					<vector name="lt" x="12" y="214"/>
-					<vector name="rb" x="200" y="239"/>
+					<vector name="lt" x="12" y="216"/>
+					<vector name="rb" x="200" y="240"/>
 					<string name="Title" value="Ability"/>
 					<string name="Desc" value="Your latent abilities. These abilities open up upon reaching level 50, and can be reset with Honor EXP or a Circulator."/>
 				</imgdir>
 				<imgdir name="14">
-					<vector name="lt" x="12" y="306"/>
+					<vector name="lt" x="12" y="288"/>
 					<vector name="rb" x="69" y="321"/>
 					<string name="Title" value="Honor EXP"/>
 					<string name="Desc" value="Used to reset your abilities. Honor EXP can be obtained by leveling up normally or finding Medal of Honor drops from monsters."/>
@@ -655,31 +655,31 @@
 					<string name="Desc" value="Your movement speed. Can be increased to a max of 140% normally. Skills and equipment can boost this even further. Can be increased to 190% while riding a mount."/>
 				</imgdir>
 				<imgdir name="11">
-					<vector name="lt" x="107" y="167"/>
-					<vector name="rb" x="165" y="182"/>
+					<vector name="lt" x="12" y="185"/>
+					<vector name="rb" x="69" y="200"/>
 					<string name="Title" value="Jump"/>
 					<string name="Desc" value="How high you can jump. Can be increased to a max of 123%. Skills and equipment can be used to increase or decrease your Jump."/>
 				</imgdir>
 				<imgdir name="12">
-					<vector name="lt" x="12" y="185"/>
-					<vector name="rb" x="69" y="200"/>
+					<vector name="lt" x="107" y="149"/>
+					<vector name="rb" x="165" y="164"/>
 					<string name="Title" value="Star Force"/>
 					<string name="Desc" value="You&apos;ll deal less damage to monsters in Star Force areas if you have less Star Force than they do. When you have more Star Force than a monster, you can attack through that monster&apos;s shield. Can be increased by equipping items with Star Force enhancement. Doubled for Overall equipment."/>
 				</imgdir>
 				<imgdir name="13">
-					<vector name="lt" x="107" y="185"/>
-					<vector name="rb" x="165" y="200"/>
+					<vector name="lt" x="107" y="167"/>
+					<vector name="rb" x="165" y="182"/>
 					<string name="Title" value="Arcane Power"/>
 					<string name="Desc" value="You&apos;ll deal less damage to monsters in Arcane River areas if you have less Arcane Power than they do. When you have more Arcane Power than a monster, you can attack through that monster&apos;s shield. Can be increased by obtaining and enhancing Arcane Symbols."/>
 				</imgdir>
 				<imgdir name="14">
-					<vector name="lt" x="12" y="214"/>
-					<vector name="rb" x="200" y="239"/>
+					<vector name="lt" x="12" y="216"/>
+					<vector name="rb" x="200" y="240"/>
 					<string name="Title" value="Ability"/>
 					<string name="Desc" value="Your latent abilities. These abilities open up upon reaching level 50, and can be reset with Honor EXP or a Circulator."/>
 				</imgdir>
 				<imgdir name="15">
-					<vector name="lt" x="12" y="306"/>
+					<vector name="lt" x="12" y="288"/>
 					<vector name="rb" x="69" y="321"/>
 					<string name="Title" value="Honor EXP"/>
 					<string name="Desc" value="Used to reset your abilities. Honor EXP can be obtained by leveling up normally or finding Medal of Honor drops from monsters."/>
@@ -807,6 +807,111 @@
 					<vector name="rb" x="416" y="369"/>
 					<string name="Title" value="Unique Ability"/>
 					<string name="Desc" value="Affects Battle Monster stats in battles. Abilities are randomly set when you capture a Battle Monster. Other abilities may be added when you release and recapture the monster. Each Battle Monster will have 2 Unique Abilities."/>
+				</imgdir>
+			</imgdir>
+			<imgdir name="StatDetail4">
+				<imgdir name="0">
+					<vector name="lt" x="12" y="41"/>
+					<vector name="rb" x="69" y="56"/>
+					<string name="Title" value="Damage"/>
+					<string name="Desc" value="Your actual damage range, accounting for both Damage Bonus and Final Damage bonuses. For Wand, Staff, Shining Rod, Fan, Psy-limiter, or Lucent Gauntlet weapons, this is calculated using Magic ATT. For all other weapons, your damage is calculated using Attack Power."/>
+				</imgdir>
+				<imgdir name="1">
+					<vector name="lt" x="12" y="59"/>
+					<vector name="rb" x="69" y="74"/>
+					<string name="Title" value="Damage"/>
+					<string name="Desc" value="The damage multiplier value used to calculate your Damage. Determined by the total combined Damage bonuses of your skills and equipment."/>
+				</imgdir>
+				<imgdir name="2">
+					<vector name="lt" x="107" y="59"/>
+					<vector name="rb" x="165" y="74"/>
+					<string name="Title" value="Boss Damage"/>
+					<string name="Desc" value="The higher your Boss Damage, the greater your damage against Boss monsters. This value does not affect normal Damage. Determined by the total combined Boss Damage bonuses of your skills and equipment."/>
+				</imgdir>
+				<imgdir name="3">
+					<vector name="lt" x="12" y="77"/>
+					<vector name="rb" x="69" y="92"/>
+					<string name="Title" value="Final Damage"/>
+					<string name="Desc" value="The damage multiplier that increases your total Damage. Determined by multiplying the Final Damage bonuses of all your skills."/>
+				</imgdir>
+				<imgdir name="4">
+					<vector name="lt" x="107" y="77"/>
+					<vector name="rb" x="165" y="92"/>
+					<string name="Title" value="Ignore Enemy DEF"/>
+					<string name="Desc" value="The higher your Ignore Enemy DEF value, the better your attacks penetrate enemy defenses. Determined by multiplying the Ignore Defense values of all your skills and equipment. \r\nApplies up to 100%"/>
+				</imgdir>
+				<imgdir name="5">
+					<vector name="lt" x="12" y="95"/>
+					<vector name="rb" x="69" y="110"/>
+					<string name="Title" value="Critical Rate"/>
+					<string name="Desc" value="Your chance of performing a Critical attack. You can enhance this value with skills or items. \r\nMax: 100%"/>
+				</imgdir>
+				<imgdir name="6">
+					<vector name="lt" x="12" y="113"/>
+					<vector name="rb" x="69" y="128"/>
+					<string name="Title" value="Critical Damage"/>
+					<string name="Desc" value="The higher your Critical Damage, the more damage your Critical attacks inflict. This value is added to your base Critical Damage multiplier of 20-50%. This value does not affect normal Damage. You can enhance this value with skills or items."/>
+				</imgdir>
+				<imgdir name="7">
+					<vector name="lt" x="12" y="131"/>
+					<vector name="rb" x="69" y="146"/>
+					<string name="Title" value="Abnormal Status Resistance"/>
+					<string name="Desc" value="Your Abnormal Status Resistance determines the amount of time Abnormal Statuses affect you. Higher values result in shorter durations. You can enhance this value with skills or items.\nAbnormal Status durations are currently reduced by %d%%."/>
+					<string name="info" value="Abnormal Status Resistance string must be fixed at number 7"/>
+				</imgdir>
+				<imgdir name="8">
+					<vector name="lt" x="107" y="131"/>
+					<vector name="rb" x="165" y="146"/>
+					<string name="Title" value="Knockback Resistance"/>
+					<string name="Desc" value="Your chance to resist being pushed back by monster attacks. You can enhance this value with skills (max: 100%)."/>
+				</imgdir>
+				<imgdir name="9">
+					<vector name="lt" x="12" y="149"/>
+					<vector name="rb" x="69" y="164"/>
+					<string name="Title" value="Defense"/>
+					<string name="Desc" value="The higher your Defense, the less damage you take from enemies. Some enemy attacks can pierce through Defense. Determined by adding the total combined Defense of your equipment to your base Defense."/>
+				</imgdir>
+				<imgdir name="10">
+					<vector name="lt" x="12" y="167"/>
+					<vector name="rb" x="69" y="182"/>
+					<string name="Title" value="Speed"/>
+					<string name="Desc" value="Your movement speed. Can be increased to a max of 140% normally. Skills and equipment can boost this even further. Can be increased to 190% while riding a mount."/>
+				</imgdir>
+				<imgdir name="11">
+					<vector name="lt" x="12" y="185"/>
+					<vector name="rb" x="69" y="200"/>
+					<string name="Title" value="Jump"/>
+					<string name="Desc" value="How high you can jump. Can be increased to a max of 123%. Skills and equipment can be used to increase or decrease your Jump."/>
+				</imgdir>
+				<imgdir name="12">
+					<vector name="lt" x="107" y="149"/>
+					<vector name="rb" x="165" y="164"/>
+					<string name="Title" value="Star Force"/>
+					<string name="Desc" value="You&apos;ll deal less damage to monsters in Star Force areas if you have less Star Force than they do. When you have more Star Force than a monster, you can attack through that monster&apos;s shield. Can be increased by equipping items with Star Force enhancement. Doubled for Overall equipment."/>
+				</imgdir>
+				<imgdir name="13">
+					<vector name="lt" x="107" y="167"/>
+					<vector name="rb" x="165" y="182"/>
+					<string name="Title" value="Arcane Power"/>
+					<string name="Desc" value="You&apos;ll deal less damage to monsters in Arcane River areas if you have less Arcane Power than they do. When you have more Arcane Power than a monster, you can attack through that monster&apos;s shield. Can be increased by obtaining and enhancing Arcane Symbols."/>
+				</imgdir>
+				<imgdir name="14">
+					<vector name="lt" x="107" y="185"/>
+					<vector name="rb" x="165" y="200"/>
+					<string name="Title" value="Sacred Power"/>
+					<string name="Desc" value="You&apos;ll deal less damage to monsters in the Grandis areas if you have less Sacred Power than they do. When you have more Sacred Power than a monster, you can attack through that monster&apos;s shield. Can be increased by obtaining and enhancing Sacred Symbols."/>
+				</imgdir>
+				<imgdir name="15">
+					<vector name="lt" x="12" y="216"/>
+					<vector name="rb" x="200" y="240"/>
+					<string name="Title" value="Ability"/>
+					<string name="Desc" value="Your latent abilities. These abilities open up upon reaching level 50, and can be reset with Honor EXP or a Circulator."/>
+				</imgdir>
+				<imgdir name="16">
+					<vector name="lt" x="12" y="288"/>
+					<vector name="rb" x="69" y="321"/>
+					<string name="Title" value="Honor EXP"/>
+					<string name="Desc" value="Used to reset your abilities. Honor EXP can be obtained by leveling up normally or finding Medal of Honor drops from monsters."/>
 				</imgdir>
 			</imgdir>
 			<imgdir name="WaterSmashScoreBoard">
@@ -2041,13 +2146,13 @@
 		</imgdir>
 		<imgdir name="102020200">
 			<imgdir name="0">
-				<string name="Title" value="Rugged Rocky Zone"/>
+				<string name="Title" value="Big Rocky Road"/>
 			</imgdir>
 			<imgdir name="1">
 				<string name="Title" value="Dusty Wind Hill"/>
 			</imgdir>
 			<imgdir name="2">
-				<string name="Title" value="Rugged Rocky Zone"/>
+				<string name="Title" value="Big Rocky Road"/>
 			</imgdir>
 			<imgdir name="3">
 				<string name="Title" value="Dusty Wind Hill"/>
@@ -2072,13 +2177,13 @@
 				<string name="Title" value="Gusty Peak"/>
 			</imgdir>
 			<imgdir name="2">
-				<string name="Title" value="Mini Rocky Road"/>
+				<string name="Title" value="Big Rocky Road"/>
 			</imgdir>
 			<imgdir name="4">
 				<string name="Title" value="Gusty Peak"/>
 			</imgdir>
 			<imgdir name="5">
-				<string name="Title" value="Mini Rocky Road"/>
+				<string name="Title" value="Big Rocky Road"/>
 			</imgdir>
 			<imgdir name="0">
 				<string name="Title" value="Gusty Peak"/>
@@ -6302,8 +6407,8 @@
 		</imgdir>
 		<imgdir name="992026000">
 			<imgdir name="0">
-				<string name="Title" value="        Altar of Resurrection           "/>
-				<string name="Desc" value="Drop it near the altar."/>
+				<string name="Title" value="Burning Altar"/>
+				<string name="Desc" value="Collect 10 bits of Orange Slime Goo and talk to the altar."/>
 			</imgdir>
 		</imgdir>
 		<imgdir name="992027000">
@@ -8645,7 +8750,7 @@
 			</imgdir>
 		</imgdir>
 		<imgdir name="140000000">
-			<string name="west00" value="Field West of Rien"/>
+			<string name="west00" value="West of Rien"/>
 		</imgdir>
 		<imgdir name="140010000">
 			<imgdir name="east00">
@@ -10075,6 +10180,15 @@
 				<string name="Title" value="Abandoned Area 4"/>
 			</imgdir>
 		</imgdir>
+		<imgdir name="450007170">
+			<imgdir name="east00">
+				<string name="Title" value="Jellyfish Above Surface"/>
+				<imgdir name="Npc">
+					<string name="0" value="Shubert"/>
+					<string name="1" value="Ollie"/>
+				</imgdir>
+			</imgdir>
+		</imgdir>
 		<imgdir name="450011120">
 			<imgdir name="outMaze">
 				<string name="Title" value="Moonbridge"/>
@@ -10266,6 +10380,27 @@
 			</imgdir>
 			<imgdir name="in_boss">
 				<string name="Title" value="Temple of Darkness"/>
+			</imgdir>
+		</imgdir>
+		<imgdir name="450016210">
+			<imgdir name="east00">
+				<string name="Title" value="Star-Swallowing Sea 2"/>
+				<int name="barrierArc" value="670"/>
+				<imgdir name="Mob">
+					<string name="0" value="8642105"/>
+				</imgdir>
+			</imgdir>
+		</imgdir>
+		<imgdir name="450016280">
+			<imgdir name="east00">
+				<string name="Title" value="The Jellyfish"/>
+				<imgdir name="Npc">
+					<string name="0" value="Shubert"/>
+					<string name="1" value="Ollie"/>
+				</imgdir>
+			</imgdir>
+			<imgdir name="west00">
+				<string name="Title" value="Esfera: Slumbering Deep"/>
 			</imgdir>
 		</imgdir>
 		<imgdir name="900030000">
@@ -11064,34 +11199,25 @@
 				<string name="Title" value="Sky-Touched Land 2"/>
 			</imgdir>
 		</imgdir>
-		<imgdir name="450007170">
-			<imgdir name="east00">
-				<string name="Title" value="Jellyfish Above Surface"/>
-				<imgdir name="Npc">
-					<string name="0" value="Shubert"/>
-					<string name="1" value="Ollie"/>
-				</imgdir>
-			</imgdir>
-		</imgdir>
-		<imgdir name="450016210">
-			<imgdir name="east00">
-				<string name="Title" value="Star-Swallowing Sea 2"/>
-				<int name="barrierArc" value="670"/>
-				<imgdir name="Mob">
-					<string name="0" value="8642105"/>
-				</imgdir>
-			</imgdir>
-		</imgdir>
-		<imgdir name="450016280">
-			<imgdir name="east00">
-				<string name="Title" value="The Jellyfish"/>
-				<imgdir name="Npc">
-					<string name="0" value="Shubert"/>
-					<string name="1" value="Ollie"/>
-				</imgdir>
-			</imgdir>
+		<imgdir name="410003020">
 			<imgdir name="west00">
-				<string name="Title" value="Esfera: Slumbering Deep"/>
+				<string name="Title" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+				<int name="barrierAut" value="200"/>
+				<imgdir name="Mob">
+					<string name="0" value="8645204"/>
+				</imgdir>
+			</imgdir>
+		</imgdir>
+		<imgdir name="410003080">
+			<imgdir name="west00">
+				<string name="Title" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+				<imgdir name="Npc">
+					<string name="0" value="&#43690;&#43690;&#43690;&#43690;"/>
+					<string name="1" value="&#43690;&#43690;&#43690;&#43690;"/>
+					<string name="2" value="&#43690;&#43690;"/>
+					<string name="3" value="&#43690;&#43690;&#43690;&#43690;"/>
+					<string name="4" value="&#43690;&#43690;&#43690;"/>
+				</imgdir>
 			</imgdir>
 		</imgdir>
 		<imgdir name="100030000">

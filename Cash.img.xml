@@ -674,6 +674,18 @@
 		<string name="name" value="Teleport World Scroll"/>
 		<string name="desc" value="Warps you to your desired location on the World Map upon use. Just select your destination when the World Map appears.#c There is no cooldown, and 1 scroll is used per use.#"/>
 	</imgdir>
+	<imgdir name="5044018">
+		<string name="name" value="MVP World Map Warp Drive"/>
+		<string name="desc" value="Warps you to your desired location on the World Map upon use. Just select your destination from the World Map. #cWarping only works in certain areas. \n#cCooldown: 15 minutes# \nUsable until the end of the month in which the Monthly Mega Pack is claimed."/>
+	</imgdir>
+	<imgdir name="5044019">
+		<string name="name" value="MVP World Map Warp Drive"/>
+		<string name="desc" value="Warps you to your desired location on the World Map upon use. Just select your destination from the World Map. #cWarping only works in certain areas. \n#cCooldown: 5 minutes# \nUsable until the end of the month in which the Monthly Mega Pack is claimed."/>
+	</imgdir>
+	<imgdir name="5044020">
+		<string name="name" value="Hyper Teleport Rock"/>
+		<string name="desc" value="Warps you to your desired location on the World Map upon use. Just select your destination when the World Map appears. #cWarping only works in certain areas. \n#cCooldown: 15 minutes#"/>
+	</imgdir>
 	<imgdir name="5050000">
 		<string name="name" value="AP Reset"/>
 		<string name="desc" value="This #cscroll allows you to move 1 AP from one stat to another#. (The lowest AP level that a stat can have is 4.)"/>
@@ -1610,6 +1622,11 @@
 		<string name="desc" value="Every character in the map receives Weapon Attack +30 and Magic Attack +30 for 30 min. Stacks with other effects."/>
 		<string name="msg" value="May the blessing of the Guild be with you..."/>
 	</imgdir>
+	<imgdir name="5121104">
+		<string name="name" value="MVP Plus EXP Atmospheric Effect"/>
+		<string name="desc" value="Increases #cEXP gain rate by 50%# for all characters on the map. \n#cDuration: 30 min#"/>
+		<string name="msg" value="%s&apos;s Message: %s"/>
+	</imgdir>
 	<imgdir name="5120184">
 		<string name="name" value="Labyrinth Guide"/>
 	</imgdir>
@@ -1625,11 +1642,11 @@
 	</imgdir>
 	<imgdir name="5130000">
 		<string name="name" value="Safety Charm"/>
-		<string name="desc" value="A charm that #cprevents the wearer from losing EXP# after death, as long as it&apos;s held tight. 100% of your HP and MP will be restored when you are revived."/>
+		<string name="desc" value="Upon use, #cimmediately removes the 80% reduction of EXP and Drop Rate effect# from the character&apos;s death penalty."/>
 	</imgdir>
 	<imgdir name="5130003">
 		<string name="name" value="Rookie Defense Charm"/>
-		<string name="desc" value="A charm that prevents losing EXP after death, as long as it&apos;s held tight. 30% of your HP and MP will be restored when you are revived."/>
+		<string name="desc" value="Upon use, #cimmediately removes the 80% reduction of EXP and Drop Rate effect# from the character&apos;s death penalty."/>
 	</imgdir>
 	<imgdir name="5133000">
 		<string name="name" value="Buff Freezer"/>
@@ -1931,7 +1948,7 @@ Talk to NPC Lauren at Henesys Hair Salon for Androids."/>
 		<string name="desc" value="#cDouble-click# to pick one of the assorted hairstyles, or talk to Lauren at Henesys Hair Salon to change your Android&apos;s hair."/>
 	</imgdir>
 	<imgdir name="5150165">
-		<string name="name" value="Pixel Pick Royal Hair Coupon"/>
+		<string name="name" value="Pixel Pick Royal Hair Coupon I"/>
 		<string name="desc" value="#cDouble-click# to exchange this coupon for a#c random# Pixel Pick Royal Hair, or talk to Lauren at the Henesys Hair Salon to change your Android&apos;s hair. Double-click it in the Cash Shop for a#c preview#!"/>
 	</imgdir>
 	<imgdir name="5150167">
@@ -1939,7 +1956,7 @@ Talk to NPC Lauren at Henesys Hair Salon for Androids."/>
 		<string name="desc" value="#cDouble-click# to apply the hairstyle of your choice from a carefully curated list, or talk to Lauren at the Henesys Hair Salon to change your Android&apos;s hair."/>
 	</imgdir>
 	<imgdir name="5150171">
-		<string name="name" value="Pixel Pick Royal Hair Coupon"/>
+		<string name="name" value="Pixel Pick Royal Hair Coupon II"/>
 		<string name="desc" value="#cDouble-click# to exchange this coupon for a#c random# Pixel Pick Royal Hair, or talk to Lauren at the Henesys Hair Salon to change your Android&apos;s hair. Double-click it in the Cash Shop for a#c preview#!"/>
 	</imgdir>
 	<imgdir name="5150172">
@@ -1953,6 +1970,14 @@ Talk to NPC Lauren at Henesys Hair Salon for Androids."/>
 	<imgdir name="5150174">
 		<string name="name" value="Reboot Beauty Awards Hair Coupon"/>
 		<string name="desc" value="#cDouble-click# to pick one of the Beauty Awards Hair styles, or talk to Lauren at the Henesys Hair Salon to change your Android&apos;s hair. Double-click it in the Cash Shop for a#c preview#!"/>
+	</imgdir>
+	<imgdir name="5150176">
+		<string name="name" value="Fairy Bros&apos; Hair Selector Coupon"/>
+		<string name="desc" value="#cDouble-click# to pick one of the assorted hairstyles, or talk to Lauren at Henesys Hair Salon to change your Android&apos;s hair."/>
+	</imgdir>
+	<imgdir name="5150185">
+		<string name="name" value="2019 Beauty Awards Hair Coupon"/>
+		<string name="desc" value="#cDouble-click# to exchange this coupon for a#c random# 2019 Beauty Awards Hair, or talk to Lauren at the Henesys Hair Salon to change your Android&apos;s hair. #cAll hairstyles have the same chance to be obtained. (Check out the Beauty Awards results announcement on the homepage for the list of can be obtained.)#"/>
 	</imgdir>
 	<imgdir name="5151000">
 		<string name="name" value="Henesys Hair Color Coupon (REG)"/>
@@ -2210,6 +2235,10 @@ Talk to NPC Lauren at Henesys Hair Salon for Androids."/>
 		<string name="name" value="One-Time Cosmetic Lens"/>
 		<string name="desc" value="#cDouble-click# to #crecolor your eyes as you like.#\r\n#c(Warning! Some monster faces, like the Pepe and Pink Bean Faces, cannot have their eyes re-colored.)#"/>
 	</imgdir>
+	<imgdir name="5152111">
+		<string name="name" value="One-Time Cosmetic Lens"/>
+		<string name="desc" value="#cDouble-click# to #crecolor your eyes as you like.#\r\n#c(Warning! Some monster faces, like the Pepe and Pink Bean Faces, cannot have their eyes re-colored.)#"/>
+	</imgdir>
 	<imgdir name="5152215">
 		<string name="name" value="Reboot Face Coupon"/>
 		<string name="desc" value="#cDouble-click# to pick one of the faces available from the #cReboot Face Coupon#, or talk to Lauren at Henesys Hair Salon to change your Android&apos;s face.#c The faces for the Reboot Face Coupon change every so often. Check the official MapleStory website for more information.#"/>
@@ -2228,7 +2257,7 @@ Talk to NPC Lauren at Henesys Hair Salon for Androids."/>
 		<string name="desc" value="#cDouble-click# to pick one of the assorted faces, or talk to Lauren at Henesys Hair Salon to change your Android&apos;s face."/>
 	</imgdir>
 	<imgdir name="5152235">
-		<string name="name" value="Pixel Pick Royal Face Coupon"/>
+		<string name="name" value="Pixel Pick Royal Face Coupon I"/>
 		<string name="desc" value="#cDouble-click# to exchange this coupon for a#c random# Pixel Pick Royal Face, or talk to Lauren at the Henesys Hair Salon to change your Android&apos;s face. Double-click it in the Cash Shop for a#c preview#!"/>
 	</imgdir>
 	<imgdir name="5152239">
@@ -2240,7 +2269,7 @@ Talk to NPC Lauren at Henesys Hair Salon for Androids."/>
 		<string name="desc" value="#cDouble-click# to change your face to one of the Big-Eyed Faces at#c random#, or talk to Lauren at Henesys Hair Salon to change your Android&apos;s face. #cDouble-click# it in the Cash Shop for a preview! #cYou have the same odds or receiving any of the faces.#"/>
 	</imgdir>
 	<imgdir name="5152243">
-		<string name="name" value="Pixel Pick Royal Face Coupon"/>
+		<string name="name" value="Pixel Pick Royal Face Coupon II"/>
 		<string name="desc" value="#cDouble-click# to exchange this coupon for a#c random# Pixel Pick Royal Face, or talk to Lauren at the Henesys Hair Salon to change your Android&apos;s face. Double-click it in the Cash Shop for a#c preview#!"/>
 	</imgdir>
 	<imgdir name="5152244">
@@ -2254,6 +2283,14 @@ Talk to NPC Lauren at Henesys Hair Salon for Androids."/>
 	<imgdir name="5152246">
 		<string name="name" value="Reboot Beauty Awards Face Coupon"/>
 		<string name="desc" value="#cDouble-click# to pick one of the Beauty Awards Faces, or talk to Lauren at the Henesys Hair Salon to change your Android&apos;s hair. Double-click it in the Cash Shop for a#c preview#!"/>
+	</imgdir>
+	<imgdir name="5152248">
+		<string name="name" value="Fairy Bros&apos; Face Selector Coupon"/>
+		<string name="desc" value="#cDouble-click# to apply the face of your choice from a carefully curated list. You can also change your Android&apos;s face by talking to Lauren at the Henesys Hair Salon."/>
+	</imgdir>
+	<imgdir name="5152254">
+		<string name="name" value="2019 Beauty Awards Face Coupon"/>
+		<string name="desc" value="#cDouble-click# to exchange this coupon for a#c random# 2019 Beauty Awards Face, or talk to Lauren at the Henesys Hair Salon to change your Android&apos;s face. #cAll faces have the same chance to be obtained. (Check out the Beauty Awards results announcement on the homepage for the list of can be obtained.)#"/>
 	</imgdir>
 	<imgdir name="5152300">
 		<string name="name" value="Custom Colorblend Eye Color Coupon"/>
@@ -2838,6 +2875,14 @@ Talk to NPC Lauren at Henesys Hair Salon for Androids."/>
 	<imgdir name="5204040">
 		<string name="name" value="Snow Crystal Scene"/>
 		<string name="desc" value="A soft snow crystal scene featuring bunnies. \n#cRestores 100 HP and 50 MP every 10 seconds.#"/>
+	</imgdir>
+	<imgdir name="5204041">
+		<string name="name" value="A Taste of Spring"/>
+		<string name="desc" value="Recalls the fresh spring ambiance of a nice cafe.\n#cRestores 100 HP and 50 MP every 10 seconds.#"/>
+	</imgdir>
+	<imgdir name="5204042">
+		<string name="name" value="Fluff Ball Chair"/>
+		<string name="desc" value="Sooo fluffy!\n#cRestores 100 HP and 50 MP every 10 seconds.#"/>
 	</imgdir>
 	<imgdir name="5211000">
 		<string name="name" value="2x EXP Card"/>
@@ -4873,8 +4918,8 @@ Talk to NPC Lauren at Henesys Hair Salon for Androids."/>
 		<string name="desc" value="#cDouble-click# to exchange for #cChaos Scroll 60%# from the Star Event."/>
 	</imgdir>
 	<imgdir name="5530555">
-		<string name="name" value="Clean Slate Scroll 10%"/>
-		<string name="desc" value="#cDouble-click# to exchange for #cClean Slate Scroll 10%# from the Star Event."/>
+		<string name="name" value="Pure Clean Slate Scroll 10% Coupon"/>
+		<string name="desc" value="#cDouble-click# to exchange for a #cPure Clean Slate Scroll 10%# from the Star Event."/>
 	</imgdir>
 	<imgdir name="5530556">
 		<string name="name" value="Miraculous Chaos Scroll 50% Coupon"/>
@@ -5114,7 +5159,7 @@ Talk to NPC Lauren at Henesys Hair Salon for Androids."/>
 	</imgdir>
 	<imgdir name="5530624">
 		<string name="name" value="Clean Slate Scroll 20% Coupon"/>
-		<string name="desc" value="#cDouble-click# to get a Clean Slate Scroll 20% in your Use tab."/>
+		<string name="desc" value="#cDouble-click# to get a #cPure Clean Slate Scroll 20%# in your Use tab."/>
 	</imgdir>
 	<imgdir name="5530625">
 		<string name="name" value="Incredible Chaos Scroll of Goodness Coupon"/>
@@ -5540,6 +5585,14 @@ Talk to NPC Lauren at Henesys Hair Salon for Androids."/>
 		<string name="name" value="Power Elixir x1000"/>
 		<string name="desc" value="Double-click to receive 1000 Power Elixirs."/>
 	</imgdir>
+	<imgdir name="5530882">
+		<string name="name" value="FLEX Voucher x1 Coupon"/>
+		<string name="desc" value="Double-click and use to obtain #cFLEX Voucher x1#, which can be exchanged for various rewards."/>
+	</imgdir>
+	<imgdir name="5530883">
+		<string name="name" value="Full Moon Ticket x1 Coupon"/>
+		<string name="desc" value="Double-click and use to obtain #cFull Moon Ticket x1#, which can be exchanged for various rewards."/>
+	</imgdir>
 	<imgdir name="5533000">
 		<string name="name" value="7th Anniversary Celebration Hat Box"/>
 		<string name="desc" value="Box containing eighth note hairpins that celebrate 8th MapleStory anniversary. Contains one of eight colored accessories!"/>
@@ -5743,6 +5796,18 @@ Talk to NPC Lauren at Henesys Hair Salon for Androids."/>
 	<imgdir name="5533134">
 		<string name="name" value="Happy Year Hat Box"/>
 		<string name="desc" value="A hat box that contains hope for the rest of the year. You&apos;ll randomly get 1 of the 5 following hats.\n#c- Bright New Year Hat\n- Pompom Knit Hat\n- Pink Bean Likes Meat\n- Moonbeam&apos;s Game of Yut\n- Shade&apos;s Game of Yut\r\n(You have an equal chance to obtain any of the items in the Happy New Year Hat Box.)#"/>
+	</imgdir>
+	<imgdir name="5533136">
+		<string name="name" value="Peculiar Thermal Top Box"/>
+		<string name="desc" value="A box containing a thermal top of peculiar color. You can earn 1 of the 6 types of tops.\r\n(You have an equal chance to obtain any of the items in the Peculiar Thermal Top Box.)"/>
+	</imgdir>
+	<imgdir name="5533137">
+		<string name="name" value="Peculiar Thermal Bottom Box"/>
+		<string name="desc" value="A box containing a thermal bottom of peculiar color. You can earn 1 of the 6 types of tops.\r\n(You have an equal chance to obtain any of the items in the Peculiar Thermal Bottom Box.)"/>
+	</imgdir>
+	<imgdir name="5533138">
+		<string name="name" value="Hotel Maple Party Hat Box"/>
+		<string name="desc" value="A box containing a Hotel Maple Party Hat. Contains 1 of the 6 types of hat.\r\n(Each Hotel Maple Party Hat Box has an equal chance to contain any of the 6 types.)"/>
 	</imgdir>
 	<imgdir name="5550000">
 		<string name="name" value="Add Pendant Slot"/>
@@ -7246,7 +7311,7 @@ Talk to NPC Lauren at Henesys Hair Salon for Androids."/>
 	</imgdir>
 	<imgdir name="5680531">
 		<string name="name" value="Hairstyling Room Slot Expansion"/>
-		<string name="desc" value="Double-click and use to #cincrease your Hairstyling Room by 1 slot#.\nYou start with 3 default Hairstyling Room slots in the Beauty Room, which you can expand to as many as 9 slots. #cYou&apos;ll need to store a separate mannequin item in order to save hairstyles on the expanded empty slots.#"/>
+		<string name="desc" value="Double-click and use to #cincrease your Hairstyling Room by 1 slot#.\nYou start with 3 default Hairstyling Room slots in the Beauty Room, which you can expand to as many as 9 slots. #cYou can use the Hairstyling Room Slot Expansion item when you have at least 1 mannequin stored in the Hairstyling Room. You&apos;ll need to store a separate mannequin item in order to save hairstyles on the expanded empty slots.#"/>
 	</imgdir>
 	<imgdir name="5680533">
 		<string name="desc" value="#cDouble-click# to claim daily Maple Points. You can get Points this way once a day. Use to receive #c1000 Points on Saturdays and Sundays, and 500 Points on weekdays#. Usable daily #cfor up to 28 days#, starting from the date of purchase."/>
@@ -7573,7 +7638,7 @@ Talk to NPC Lauren at Henesys Hair Salon for Androids."/>
 	</imgdir>
 	<imgdir name="5680733">
 		<string name="name" value="Beauty Lounge Slot Expansion"/>
-		<string name="desc" value="Double-click and use to #cincrease your face space by 1 slot#.\nYou start with 3 default face slots in the Beauty Room, which you can expand to as many as 9 slots. #cYou&apos;ll need to store a separate mannequin item in order to save faces on the expanded empty slots.#"/>
+		<string name="desc" value="Double-click and use to #cincrease your face space by 1 slot#.\nYou start with 3 default face slots in the Beauty Room, which you can expand to as many as 9 slots. #cYou can use the Beauty Lounge Slot Expansion item when you have at least 1 mannequin stored in the Beauty Lounge. You&apos;ll need to store a separate mannequin item in order to save faces on the expanded empty slots.#"/>
 	</imgdir>
 	<imgdir name="5680735">
 		<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
@@ -7627,6 +7692,35 @@ Talk to NPC Lauren at Henesys Hair Salon for Androids."/>
 		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
 		<string name="desc_leftalign" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
 	</imgdir>
+	<imgdir name="5680824">
+		<string name="name" value="Fluff Ball Label Ring (30 Day) Coupon"/>
+		<string name="desc" value="#cDouble-click# this coupon to receive a Fluff Ball Label Ring (30 Day)."/>
+	</imgdir>
+	<imgdir name="5680825">
+		<string name="name" value="Fluff Ball Chat Ring (30 Day) Coupon"/>
+		<string name="desc" value="#cDouble-click# this coupon to receive a Fluff Ball Chat Ring (30 Day)."/>
+	</imgdir>
+	<imgdir name="5680831">
+		<string name="name" value="Grape Label Ring (30 Day) Coupon"/>
+		<string name="desc" value="#cDouble-click# this coupon to receive a Grape Label Ring (30 Day)."/>
+	</imgdir>
+	<imgdir name="5680832">
+		<string name="name" value="Grape Chat Ring (30 Day) Coupon"/>
+		<string name="desc" value="#cDouble-click# this coupon to receive a Grape Chat Ring (30 Day)."/>
+	</imgdir>
+	<imgdir name="5680851">
+		<string name="name" value="Puzzle King Hair Selection Coupon (M)"/>
+		<string name="desc" value="#cDouble-click# to select either the Puzzle King Hair Coupon or Silky Puzzle King Hair Coupon."/>
+	</imgdir>
+	<imgdir name="5680852">
+		<string name="name" value="Clue Queen Hair Selection Coupon (F)"/>
+		<string name="desc" value="#cDouble-click# to select either the Clue Queen Hair Coupon or Silky Clue Queen Hair Coupon."/>
+	</imgdir>
+	<imgdir name="5680873">
+		<string name="desc" value="It&apos;s a #cMapleStory M Pre-Registration Gift#. #cDouble-click# to open the gift box.\r\n\r\n#c&lt;Gift List&gt;\r\n- Winter Forest Viewing Chair\r\n- Extreme Growth Potion x3\r\n- 3,000-Maple-Point Coupon
+#"/>
+		<string name="name" value="MapleStory M Pre-Registration Gift"/>
+	</imgdir>
 	<imgdir name="5689000">
 		<string name="name" value="Premium Water of Life"/>
 		<string name="desc" value="#cDouble-click# on this enchanted water to revive a pet that has been turned into a doll. The spell does not work on #cMiracle Pets#."/>
@@ -7638,6 +7732,10 @@ Talk to NPC Lauren at Henesys Hair Salon for Androids."/>
 	<imgdir name="5680814">
 		<string name="name" value="Mystery Mix Dye Coupon"/>
 		<string name="desc" value="Double-click and use to get a hair color mixed from #c2 random colors# out of 8. #cThese items are used in the order that they are stored in your Cash tab.# Cannot be used on Androids."/>
+	</imgdir>
+	<imgdir name="5680830">
+		<string name="desc" value="It&apos;s a #cMaple Special Gift# box! \r\n#cDouble-click# to open it."/>
+		<string name="name" value="Maple Special Gift"/>
 	</imgdir>
 	<imgdir name="5689005">
 		<string name="name" value="Concentrated Premium Water of Life"/>
@@ -7734,103 +7832,6 @@ Talk to NPC Lauren at Henesys Hair Salon for Androids."/>
 	<imgdir name="5830002">
 		<string name="name" value="Maple Auction Red Ticket"/>
 		<string name="desc" value="The Maple Auction Red Ticket offers the following benefits for #c30 days.#\nService fee discount: 5% to 3%\nUnlimited searches\nAdditional auction slots: 10 purchase and 10 sell slots\nAdvanced searches\nAuction bidding time extension: 24 and 48 hours"/>
-	</imgdir>
-	<imgdir name="5044018">
-		<string name="name" value="MVP World Map Warp Drive"/>
-		<string name="desc" value="Warps you to your desired location on the World Map upon use. Just select your destination from the World Map. #cWarping only works in certain areas. \n#cCooldown: 15 minutes# \nUsable until the end of the month in which the Monthly Mega Pack is claimed."/>
-	</imgdir>
-	<imgdir name="5044019">
-		<string name="name" value="MVP World Map Warp Drive"/>
-		<string name="desc" value="Warps you to your desired location on the World Map upon use. Just select your destination from the World Map. #cWarping only works in certain areas. \n#cCooldown: 5 minutes# \nUsable until the end of the month in which the Monthly Mega Pack is claimed."/>
-	</imgdir>
-	<imgdir name="5044020">
-		<string name="name" value="Hyper Teleport Rock"/>
-		<string name="desc" value="Warps you to your desired location on the World Map upon use. Just select your destination when the World Map appears. #cWarping only works in certain areas. \n#cCooldown: 15 minutes#"/>
-	</imgdir>
-	<imgdir name="5121104">
-		<string name="name" value="MVP Plus EXP Atmospheric Effect"/>
-		<string name="desc" value="Increases #cEXP gain rate by 50%# for all characters on the map. \n#cDuration: 30 min#"/>
-		<string name="msg" value="%s&apos;s Message: %s"/>
-	</imgdir>
-	<imgdir name="5150176">
-		<string name="name" value="Fairy Bros&apos; Hair Selector Coupon"/>
-		<string name="desc" value="#cDouble-click# to pick one of the assorted hairstyles, or talk to Lauren at Henesys Hair Salon to change your Android&apos;s hair."/>
-	</imgdir>
-	<imgdir name="5150185">
-		<string name="name" value="2019 Beauty Awards Hair Coupon"/>
-		<string name="desc" value="#cDouble-click# to exchange this coupon for a#c random# 2019 Beauty Awards Hair, or talk to Lauren at the Henesys Hair Salon to change your Android&apos;s hair. #cAll hairstyles have the same chance to be obtained. (Check out the Beauty Awards results announcement on the homepage for the list of can be obtained.)#"/>
-	</imgdir>
-	<imgdir name="5152111">
-		<string name="name" value="One-Time Cosmetic Lens"/>
-		<string name="desc" value="#cDouble-click# to #crecolor your eyes as you like.#\r\n#c(Warning! Some monster faces, like the Pepe and Pink Bean Faces, cannot have their eyes re-colored.)#"/>
-	</imgdir>
-	<imgdir name="5152248">
-		<string name="name" value="Fairy Bros&apos; Face Selector Coupon"/>
-		<string name="desc" value="#cDouble-click# to apply the face of your choice from a carefully curated list. You can also change your Android&apos;s face by talking to Lauren at the Henesys Hair Salon."/>
-	</imgdir>
-	<imgdir name="5152254">
-		<string name="name" value="2019 Beauty Awards Face Coupon"/>
-		<string name="desc" value="#cDouble-click# to exchange this coupon for a#c random# 2019 Beauty Awards Face, or talk to Lauren at the Henesys Hair Salon to change your Android&apos;s face. #cAll faces have the same chance to be obtained. (Check out the Beauty Awards results announcement on the homepage for the list of can be obtained.)#"/>
-	</imgdir>
-	<imgdir name="5204041">
-		<string name="name" value="A Taste of Spring"/>
-		<string name="desc" value="Recalls the fresh spring ambiance of a nice cafe.\n#cRestores 100 HP and 50 MP every 10 seconds.#"/>
-	</imgdir>
-	<imgdir name="5204042">
-		<string name="name" value="Fluff Ball Chair"/>
-		<string name="desc" value="Sooo fluffy!\n#cRestores 100 HP and 50 MP every 10 seconds.#"/>
-	</imgdir>
-	<imgdir name="5530882">
-		<string name="name" value="FLEX Voucher x1 Coupon"/>
-		<string name="desc" value="Double-click and use to obtain #cFLEX Voucher x1#, which can be exchanged for various rewards."/>
-	</imgdir>
-	<imgdir name="5530883">
-		<string name="name" value="Full Moon Ticket x1 Coupon"/>
-		<string name="desc" value="Double-click and use to obtain #cFull Moon Ticket x1#, which can be exchanged for various rewards."/>
-	</imgdir>
-	<imgdir name="5533136">
-		<string name="name" value="Peculiar Thermal Top Box"/>
-		<string name="desc" value="A box containing a thermal top of peculiar color. You can earn 1 of the 6 types of tops.\r\n(You have an equal chance to obtain any of the items in the Peculiar Thermal Top Box.)"/>
-	</imgdir>
-	<imgdir name="5533137">
-		<string name="name" value="Peculiar Thermal Bottom Box"/>
-		<string name="desc" value="A box containing a thermal bottom of peculiar color. You can earn 1 of the 6 types of tops.\r\n(You have an equal chance to obtain any of the items in the Peculiar Thermal Bottom Box.)"/>
-	</imgdir>
-	<imgdir name="5533138">
-		<string name="name" value="Hotel Maple Party Hat Box"/>
-		<string name="desc" value="A box containing a Hotel Maple Party Hat. Contains 1 of the 6 types of hat.\r\n(Each Hotel Maple Party Hat Box has an equal chance to contain any of the 6 types.)"/>
-	</imgdir>
-	<imgdir name="5680824">
-		<string name="name" value="Fluff Ball Label Ring (30 Day) Coupon"/>
-		<string name="desc" value="#cDouble-click# this coupon to receive a Fluff Ball Label Ring (30 Day)."/>
-	</imgdir>
-	<imgdir name="5680825">
-		<string name="name" value="Fluff Ball Chat Ring (30 Day) Coupon"/>
-		<string name="desc" value="#cDouble-click# this coupon to receive a Fluff Ball Chat Ring (30 Day)."/>
-	</imgdir>
-	<imgdir name="5680831">
-		<string name="name" value="Grape Label Ring (30 Day) Coupon"/>
-		<string name="desc" value="#cDouble-click# this coupon to receive a Grape Label Ring (30 Day)."/>
-	</imgdir>
-	<imgdir name="5680832">
-		<string name="name" value="Grape Chat Ring (30 Day) Coupon"/>
-		<string name="desc" value="#cDouble-click# this coupon to receive a Grape Chat Ring (30 Day)."/>
-	</imgdir>
-	<imgdir name="5680851">
-		<string name="name" value="Puzzle King Hair Selection Coupon (M)"/>
-		<string name="desc" value="#cDouble-click# to select either the Puzzle King Hair Coupon or Silky Puzzle King Hair Coupon."/>
-	</imgdir>
-	<imgdir name="5680852">
-		<string name="name" value="Clue Queen Hair Selection Coupon (F)"/>
-		<string name="desc" value="#cDouble-click# to select either the Clue Queen Hair Coupon or Silky Clue Queen Hair Coupon."/>
-	</imgdir>
-	<imgdir name="5680873">
-		<string name="desc" value="It&apos;s a #cMaple Special Gift# box! #cDouble-click# to open it."/>
-		<string name="name" value="Maple Special Gift"/>
-	</imgdir>
-	<imgdir name="5680830">
-		<string name="desc" value="It&apos;s a #cMaple Special Gift# box! \r\n#cDouble-click# to open it."/>
-		<string name="name" value="Maple Special Gift"/>
 	</imgdir>
 	<imgdir name="5010008">
 		<string name="name" value="Mr. Jackpot"/>
@@ -8733,7 +8734,7 @@ ATT, MATT + 100"/>
 	</imgdir>
 	<imgdir name="5211046">
 		<string name="name" value="1-day 2x EXP Special Coupon"/>
-		<string name="desc" value="This coupon allows you to earn #c2x Exp (double experience)#. The coupon will be activated immediately after purchase, and the double experience effect will be active for the next 24 hours. \n\n#c*Cannot be applied on characters above Lv. 250.#"/>
+		<string name="desc" value="This coupon allows you to earn #c2x Exp (double experience)#. The coupon will be activated immediately after purchase, and the double experience effect will be active for the next 24 hours. \n\n#c*Cannot be used on characters Lv. 250 and above.#"/>
 	</imgdir>
 	<imgdir name="5211047">
 		<string name="name" value="2x EXP 3 Hours Special Coupon "/>
@@ -8741,7 +8742,7 @@ ATT, MATT + 100"/>
 	</imgdir>
 	<imgdir name="5211048">
 		<string name="name" value="4-hour 2x EXP Special Coupon"/>
-		<string name="desc" value="This coupon allows you to earn #c2x Exp (double experience)#. The coupon will be activated immediately after purchase, and the double experience effect will be active for the next 4 hours. \n\n#c*Cannot be applied on characters above Lv. 250.#"/>
+		<string name="desc" value="This coupon allows you to earn #c2x Exp (double experience)#. The coupon will be activated immediately after purchase, and the double experience effect will be active for the next 4 hours. \n\n#c*Cannot be used on characters Lv. 250 and above.#"/>
 	</imgdir>
 	<imgdir name="5211049">
 		<string name="name" value="7-Eleven 2x EXP Card - 90 Minutes"/>
@@ -11057,8 +11058,8 @@ ATT, MATT + 100"/>
 		<string name="desc" value="#cDouble-click# to exchange for 20 Slot Production Bag."/>
 	</imgdir>
 	<imgdir name="5532847">
-		<string name="name" value="Time World Alice Hair (F) coupon"/>
-		<string name="desc" value="#cDouble-click# to exchange for Time World Alice Hair Coupon (F)."/>
+		<string name="name" value="Temporal Alice Hair (F) coupon"/>
+		<string name="desc" value="#cDouble-click# to exchange for Temporal Alice Hair Coupon (F)."/>
 	</imgdir>
 	<imgdir name="5532848">
 		<string name="name" value="Secret Flower Garden Chair coupon"/>
@@ -12156,8 +12157,8 @@ ATT, MATT + 100"/>
 		<string name="desc" value="#cDouble-click# to get the Sparkles Damage Skin Coupon."/>
 	</imgdir>
 	<imgdir name="5538008">
-		<string name="name" value="Blushing Petal Skin Coupon"/>
-		<string name="desc" value="#cDouble-click# to get the Blushing Petal Skin Coupon."/>
+		<string name="name" value="Flushed Skin Coupon"/>
+		<string name="desc" value="#cDouble-click# to get the Flushed Skin Coupon."/>
 	</imgdir>
 	<imgdir name="5120201">
 		<string name="name" value="Atmospheric Effect - John Barricade"/>
@@ -12527,30 +12528,6 @@ Upon using the cube, the value of all potentials #cwill become consistent with t
 		<string name="name" value="Happy Veggie Pet Nutrient"/>
 		<string name="desc" value="A nutrient that&apos;s only effective for #cHappy Veggie pets#. Recovers Fullness completely and #cincreases Closeness by 100#."/>
 	</imgdir>
-	<imgdir name="5010188">
-		<string name="name" value="[BTS] Onyx Swan"/>
-		<string name="desc" value="Summons the sparkling Onyx Swan.\r\nDouble-click to toggle the effect on/off, or set up a hotkey for it in your Key Config."/>
-	</imgdir>
-	<imgdir name="5204043">
-		<string name="name" value="[BTS] Castle Swan (Chair)"/>
-		<string name="desc" value="Shines with the aura of the Black Swan.\n#cRestores 613 HP and 613 MP every 10 seconds.#"/>
-	</imgdir>
-	<imgdir name="5680862">
-		<string name="name" value="[BTS] Black Swan Damage Skin (Unit)"/>
-		<string name="desc" value="Applies the Black Swan damage skin.\r\n#cOnce used, it will remain applied until replaced with another skin. Disappears after one use.#"/>
-	</imgdir>
-	<imgdir name="5680871">
-		<string name="name" value="[BTS] Black Swan Medal Coupon"/>
-		<string name="desc" value="#cDouble-click# to receive the Permanent #cBlack Swan# Medal. The obtained medal cannot be traded."/>
-	</imgdir>
-	<imgdir name="5680872">
-		<string name="name" value="[BTS] Swan Dream Title Coupon"/>
-		<string name="desc" value="#cDouble-click# to receive the Permanent #cSwan Dream# Title. The obtained title cannot be traded."/>
-	</imgdir>
-	<imgdir name="5680885">
-		<string name="name" value="[BTS] Onyx Swan Effect Coupon"/>
-		<string name="desc" value="#cDouble-click# to receive the Permanent #cOnyx Swan# Effect. The obtained effect cannot be traded."/>
-	</imgdir>
 	<imgdir name="5743006">
 		<string name="name" value="Black Familiar Card"/>
 		<string name="desc" value="A mysterious card that&apos;s said to reset a Familiar&apos;s Potential. Has a higher chance than the Red Familiar Card to increase the Familiar&apos;s rank."/>
@@ -12626,5 +12603,69 @@ Upon using the cube, the value of all potentials #cwill become consistent with t
 	<imgdir name="5240214">
 		<string name="name" value="Petite Branch"/>
 		<string name="desc" value="This Petite Branch can only be consumed by #cElodin Guardian# pets. Restores Fullness completely and#c increases Closeness by 100.#"/>
+	</imgdir>
+	<imgdir name="5010188">
+		<string name="name" value="[BTS] Onyx Swan"/>
+		<string name="desc" value="Summons the sparkling Onyx Swan.\r\nDouble-click to toggle the effect on/off, or set up a hotkey for it in your Key Config."/>
+	</imgdir>
+	<imgdir name="5204043">
+		<string name="name" value="[BTS] Castle Swan"/>
+		<string name="desc" value="Receive the aura of the Black Swan.\n#cRestores 613 HP and 613 MP every 10 seconds.#"/>
+	</imgdir>
+	<imgdir name="5680862">
+		<string name="name" value="[BTS] Black Swan Damage Skin (Unit)"/>
+		<string name="desc" value="Applies the Black Swan Damage Skin (Unit).\r\n#cOnce used, it will remain active until another skin is applied."/>
+	</imgdir>
+	<imgdir name="5680871">
+		<string name="name" value="[BTS] Black Swan Medal Coupon"/>
+		<string name="desc" value="#cDouble-click# to receive the Permanent #cBlack Swan# Medal. The obtained medal cannot be traded."/>
+	</imgdir>
+	<imgdir name="5680872">
+		<string name="name" value="[BTS] Swan Dream Title Coupon"/>
+		<string name="desc" value="#cDouble-click# to receive the Permanent #cSwan Dream# Title. The obtained title cannot be traded."/>
+	</imgdir>
+	<imgdir name="5680885">
+		<string name="name" value="[BTS] Onyx Swan Effect Coupon"/>
+		<string name="desc" value="#cDouble-click# to receive the Permanent #cOnyx Swan# Effect. The obtained effect cannot be traded."/>
+	</imgdir>
+	<imgdir name="5240216">
+		<string name="name" value="Fruit Juice"/>
+		<string name="desc" value="A fruit juice beloved by the #cFruitimal# pets. Restores Fullness completely and#c increases Closeness by 100#."/>
+	</imgdir>
+	<imgdir name="5538336">
+		<string name="name" value="Roo-bot Chat Emoticon (Bawling) Coupon"/>
+		<string name="desc" value="#cDouble-click# to obtain the #cRoo-bot Chat Emoticon (Bawling) Coupon#."/>
+	</imgdir>
+	<imgdir name="5538337">
+		<string name="name" value="Roo-bot Chat Emoticon (Confused) Coupon"/>
+		<string name="desc" value="#cDouble-click# to obtain the #cRoo-bot Chat Emoticon (Confused) Coupon#."/>
+	</imgdir>
+	<imgdir name="5538338">
+		<string name="name" value="Roo-bot Chat Emoticon (Thumbs Up) Coupon"/>
+		<string name="desc" value="#cDouble-click# to obtain the #cRoo-bot Chat Emoticon (Thumbs Up) Coupon#."/>
+	</imgdir>
+	<imgdir name="5538339">
+		<string name="name" value="Roo-bot Chat Emoticon (Shudder) Coupon"/>
+		<string name="desc" value="#cDouble-click# to obtain the #cRoo-bot Chat Emoticon (Shudder) Coupon#."/>
+	</imgdir>
+	<imgdir name="5538340">
+		<string name="name" value="Roo-bot Chat Emoticon (Cheering) Coupon"/>
+		<string name="desc" value="#cDouble-click# to obtain the #cRoo-bot Chat Emoticon (Cheering) Coupon#."/>
+	</imgdir>
+	<imgdir name="5538341">
+		<string name="name" value="Roo-bot Chat Emoticon (Stop) Coupon"/>
+		<string name="desc" value="#cDouble-click# to obtain the #cRoo-bot Chat Emoticon (Stop) Coupon#."/>
+	</imgdir>
+	<imgdir name="5240217">
+		<string name="name" value="Two-Flavored Ice Cream"/>
+		<string name="desc" value="A two-flavored ice cream beloved by the #cFruitimal# pets. Restores Fullness completely and#c increases Closeness by 100#."/>
+	</imgdir>
+	<imgdir name="5222205">
+		<string name="name" value="Neo Surprise Style Box"/>
+		<string name="desc" value="This box contains random items in celebration of the Neo patch."/>
+	</imgdir>
+	<imgdir name="5680899">
+		<string name="desc" value="A #cHip Hop Artist Set Exchange Coupon# Box! \r\n#cDouble-click# to open the gift box."/>
+		<string name="name" value="Hip Hop Artist Set Exchange Coupon"/>
 	</imgdir>
 </imgdir>

@@ -3664,6 +3664,42 @@
 		<string name="name" value="Legion Arena: Season 1 Chair: Bronze"/>
 		<string name="desc" value="A chair to commemorate Legion Arena: Season 1. \n#cRecovers 50 HP and MP every 10 seconds.#"/>
 	</imgdir>
+	<imgdir name="3018603">
+		<string name="name" value="Full Moon Bunny Chair"/>
+		<string name="desc" value="Become the Moon Bunny!\n#cRestores 50 HP and 50 MP every 10 seconds.#"/>
+	</imgdir>
+	<imgdir name="3018609">
+		<string name="name" value="Midnight Butterfly Garden"/>
+		<string name="desc" value="Relax with the Luna pets in a butterfly garden in the deep, dark night. \r\n#cYou can command and feed the Petite Luna pets that are sitting with you.\r\nRestores 100 HP and 100 MP every 10 seconds.#"/>
+	</imgdir>
+	<imgdir name="3018610">
+		<string name="name" value="Mystery Club Lounge"/>
+		<string name="desc" value="Only members of the Mystery Club can enter this mystical lounge. #cRestores 50 HP and 50 MP every 10 seconds.#"/>
+	</imgdir>
+	<imgdir name="3018615">
+		<string name="name" value="Sunset Scooter"/>
+		<string name="desc" value="Watch the beautiful autumn sunset on your scooter.\n#cRestores 50 HP and 50 MP every 10 seconds.#"/>
+	</imgdir>
+	<imgdir name="3018616">
+		<string name="name" value="Enchanted Workshop"/>
+		<string name="desc" value="This tailoring workshop is where the magic is made. #cRestores 50 HP and 50 MP every 10 seconds.#"/>
+	</imgdir>
+	<imgdir name="3018621">
+		<string name="name" value="Ladder"/>
+		<string name="desc" value="Use it from your #cbag# to set up a ladder. Lets you get to #cplaces that are normally out of reach#."/>
+	</imgdir>
+	<imgdir name="3018634">
+		<string name="name" value="Yeti TV"/>
+		<string name="desc" value="A TV that can broadcast Yeti&apos;s awesomeness. Restores 50 HP and 50 MP every 10 seconds."/>
+	</imgdir>
+	<imgdir name="3018635">
+		<string name="name" value="First Snow Bus Stop"/>
+		<string name="desc" value="I will forever remember the bus stop from that day.\n#cRestores 50 HP and 50 MP every 10 seconds.#"/>
+	</imgdir>
+	<imgdir name="3018651">
+		<string name="name" value="Winter Forest Viewing Chair"/>
+		<string name="desc" value="Watch the animals of the winter forest.\r\nRecovers #c100 HP and 100 MP# every 10 seconds.\r\n"/>
+	</imgdir>
 	<imgdir name="3049000">
 		<string name="name" value="Basic Extractor"/>
 		<string name="desc" value="Use to set up an extractor. Extractors can be used by other players for a fee.\n#cCreates an extractor for Lv. 50 and lower equipment.#"/>
@@ -3785,11 +3821,11 @@ If you feed #cFruit# to the Parrot, it might change color and gain a level. The 
 	</imgdir>
 	<imgdir name="3130000">
 		<string name="name" value="MVP Special Damage Skin"/>
-		<string name="desc" value="This is the #cMVP Special Damage Skin,# which you can #cdouble-click to turn ON/OFF.#. You can use it without changing your current damage skin. When you turn this off, it will revert to the damage skin you were using. Cannot be saved in a Damage Skin Slot.\n\n\n#cThis damage skin will be deactivated during some content, such as Cross World Party Quest, Hekaton, etc.#"/>
+		<string name="desc" value="This is the #cMVP Special Damage Skin,# which you can #cdouble-click to turn ON/OFF.#. You can use it without changing your current damage skin. When you turn this off, it will revert to the damage skin you were using. Cannot be saved in a Damage Skin Slot.\n\n\n#cThis damage skin will be deactivated during certain content, such as Cross World Party Quest, etc.#"/>
 	</imgdir>
 	<imgdir name="3130001">
 		<string name="name" value="MVP Royal Damage Skin"/>
-		<string name="desc" value="This is the #cMVP Royal Damage Skin,# which you can #cdouble-click to turn ON/OFF.#. You can use it without changing your current damage skin. When you turn this off, it will revert to the damage skin you were using. Cannot be saved in a Damage Skin Slot.\n\n\n#cThis damage skin will be deactivated during some content, such as Cross World Party Quest, Hekaton, etc.#"/>
+		<string name="desc" value="This is the #cMVP Royal Damage Skin,# which you can #cdouble-click to turn ON/OFF.#. You can use it without changing your current damage skin. When you turn this off, it will revert to the damage skin you were using. Cannot be saved in a Damage Skin Slot.\n\n\n#cThis damage skin will be deactivated during certain content, such as Cross World Party Quest, etc.#"/>
 	</imgdir>
 	<imgdir name="3600000">
 		<string name="name" value="Monster Level Core +3"/>
@@ -5628,6 +5664,28 @@ If you feed #cFruit# to the Parrot, it might change color and gain a level. The 
 	<imgdir name="3700658">
 		<string name="name" value="Legion Arena: Season 1: Bronze"/>
 		<string name="desc" value="A title to commemorate &lt;Legion Arena: Season 1&gt;.\r\n\r\n#cAttack Power &amp; Magic ATT +10\nAll Stats +30\nBoss Damage +20% Ignore Defense +20% \nMax HP/Max MP +1500\r\n\nClick to toggle ON/OFF. Once obtained, stat boosts will last for 14 days.#"/>
+	</imgdir>
+	<imgdir name="3700660">
+		<string name="name" value="Hasty is Tasty"/>
+		<string name="desc" value="You eliminated 100,000 monsters in 2 weeks! You&apos;ve shown us the meaning of haste!\r\n\r\n#cAttack Power &amp; Magic ATT +20\nAll Stats +50\nBoss Damage +30%, DEF Ignored +30% \nMax HP &amp; MP +2500\r\n\nClick to turn ON/OFF. Stat bonuses will remain in effect until 4/20/2021 11:59 PM UTC.#"/>
+	</imgdir>
+	<imgdir name="3700661">
+		<string name="name" value="2021 &lt;The Legends Return!&gt; Legend"/>
+		<string name="desc" value="A title given to those who rank 1st-100th place in the 2021 &lt;The Legends Return!&gt; event.\r\n\r\n#c30% Additional EXP\r\nArcane Power +50\r\nStar Force +30\r\n\nClick to toggle ON/OFF."/>
+		<string name="nickWithQR" value="2021 &lt;The Legends Return!&gt; Legend Rank #qr501167#"/>
+		<string name="qrDefault" value="100"/>
+	</imgdir>
+	<imgdir name="3700662">
+		<string name="name" value="2021 &lt;The Legends Return!&gt; Diamond"/>
+		<string name="desc" value="A title given to those who rank 101st-300th place in the 2021 &lt;The Legends Return!&gt; event.\r\n\r\n#c20% Additional EXP\r\nArcane Power +40\r\nStar Force +30\r\n\nClick to toggle ON/OFF."/>
+	</imgdir>
+	<imgdir name="3700663">
+		<string name="name" value="2021 &lt;The Legends Return!&gt; Gold"/>
+		<string name="desc" value="A title given to those who rank 301st-3,000th place in the 2021 &lt;The Legends Return!&gt; event.\r\n\r\n#c15% Additional EXP\r\nArcane Power +30\r\nStar Force +20\r\n\nClick to toggle ON/OFF."/>
+	</imgdir>
+	<imgdir name="3700664">
+		<string name="name" value="2021 &lt;The Legends Return!&gt; Silver"/>
+		<string name="desc" value="A title given to those who rank 3,001st-7,000th place in the 2021 &lt;The Legends Return!&gt; event.\r\n\r\n#c10% Additional EXP\r\nArcane Power +20\r\nStar Force +20\r\n\nClick to toggle ON/OFF."/>
 	</imgdir>
 	<imgdir name="3800010">
 		<string name="name" value="L Forest I"/>
@@ -9135,67 +9193,53 @@ If you feed #cFruit# to the Parrot, it might change color and gain a level. The 
 		<string name="name" value="Purple Froggie Water Slide Chair"/>
 		<string name="desc" value="Nothing like a good summertime splash! \r\n#cRecovers 50 HP and MP every 10 seconds."/>
 	</imgdir>
-	<imgdir name="3018603">
-		<string name="name" value="Full Moon Bunny Chair"/>
-		<string name="desc" value="Become the Moon Bunny!\n#cRestores 50 HP and 50 MP every 10 seconds.#"/>
-	</imgdir>
-	<imgdir name="3018609">
-		<string name="name" value="Midnight Butterfly Garden"/>
-		<string name="desc" value="Relax with the Luna pets in a butterfly garden in the deep, dark night. \r\n#cYou can command and feed the Petite Luna pets that are sitting with you.\r\nRestores 100 HP and 100 MP every 10 seconds.#"/>
-	</imgdir>
-	<imgdir name="3018610">
-		<string name="name" value="Mystery Club Lounge"/>
-		<string name="desc" value="Only members of the Mystery Club can enter this mystical lounge. #cRestores 50 HP and 50 MP every 10 seconds.#"/>
-	</imgdir>
-	<imgdir name="3018615">
-		<string name="name" value="Sunset Scooter"/>
-		<string name="desc" value="Watch the beautiful autumn sunset on your scooter.\n#cRestores 50 HP and 50 MP every 10 seconds.#"/>
-	</imgdir>
-	<imgdir name="3018616">
-		<string name="name" value="Enchanted Workshop"/>
-		<string name="desc" value="This tailoring workshop is where the magic is made. #cRestores 50 HP and 50 MP every 10 seconds.#"/>
-	</imgdir>
-	<imgdir name="3018621">
-		<string name="name" value="Ladder"/>
-		<string name="desc" value="Use it from your #cbag# to set up a ladder. Lets you get to #cplaces that are normally out of reach#."/>
-	</imgdir>
-	<imgdir name="3018634">
-		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-	</imgdir>
-	<imgdir name="3018635">
-		<string name="name" value="First Snow Bus Stop"/>
-		<string name="desc" value="I will forever remember the bus stop from that day.\n#cRestores 50 HP and 50 MP every 10 seconds.#"/>
-	</imgdir>
-	<imgdir name="3018651">
-		<string name="name" value="Winter Forest Viewing Chair"/>
-		<string name="desc" value="Watch the animals of the winter forest.\r\nRecovers #c100 HP and 100 MP# every 10 seconds.\r\n"/>
-	</imgdir>
-	<imgdir name="3700660">
-		<string name="name" value="Hasty is Tasty"/>
-		<string name="desc" value="You eliminated 100,000 monsters in 2 weeks! You&apos;ve shown us the meaning of haste!\r\n\r\n#cAttack Power &amp; Magic ATT +20\nAll Stats +50\nBoss Damage +30%, DEF Ignored +30% \nMax HP &amp; MP +2500\r\n\nClick to turn ON/OFF. Stat bonuses will remain in effect until 4/20/2021 11:59 PM UTC.#"/>
-	</imgdir>
-	<imgdir name="3700661">
-		<string name="name" value="2021 &lt;The Legends Return!&gt; Legend"/>
-		<string name="desc" value="A title given to those who rank 1st-100th place in the 2021 &lt;The Legends Return!&gt; event.\r\n\r\n#c30% Additional EXP\r\nArcane Power +50\r\nStar Force +30\r\n\nClick to toggle ON/OFF."/>
-		<string name="nickWithQR" value="2021 &lt;The Legends Return!&gt; Legend Rank #qr501167#"/>
-		<string name="qrDefault" value="100"/>
-	</imgdir>
-	<imgdir name="3700662">
-		<string name="name" value="2021 &lt;The Legends Return!&gt; Diamond"/>
-		<string name="desc" value="A title given to those who rank 101st-300th place in the 2021 &lt;The Legends Return!&gt; event.\r\n\r\n#c20% Additional EXP\r\nArcane Power +40\r\nStar Force +30\r\n\nClick to toggle ON/OFF."/>
-	</imgdir>
-	<imgdir name="3700663">
-		<string name="name" value="2021 &lt;The Legends Return!&gt; Gold"/>
-		<string name="desc" value="A title given to those who rank 301st-3,000th place in the 2021 &lt;The Legends Return!&gt; event.\r\n\r\n#c15% Additional EXP\r\nArcane Power +30\r\nStar Force +20\r\n\nClick to toggle ON/OFF."/>
-	</imgdir>
-	<imgdir name="3700664">
-		<string name="name" value="2021 &lt;The Legends Return!&gt; Silver"/>
-		<string name="desc" value="A title given to those who rank 3,001st-7,000th place in the 2021 &lt;The Legends Return!&gt; event.\r\n\r\n#c10% Additional EXP\r\nArcane Power +20\r\nStar Force +20\r\n\nClick to toggle ON/OFF."/>
-	</imgdir>
 	<imgdir name="3018604">
 		<string name="name" value="Primrose Face Chair"/>
 		<string name="desc" value="It&apos;s like your face, but a primrose.\r\n#cRestores 1000 HP and 1000 MP every 10 seconds.#\r\n\r\n"/>
+	</imgdir>
+	<imgdir name="3018657">
+		<string name="name" value="Neo Castle Chair"/>
+		<string name="desc" value="The mysterious Neo Castle.\r\nRestores #c100 HP and 100 MP# every 10 seconds.\r\n"/>
+	</imgdir>
+	<imgdir name="3018658">
+		<string name="name" value="Sea Fragment Chair"/>
+		<string name="desc" value="A fragment of the sea that shines after starlight!\r\nRestores #c100 HP and 100 MP# every 10 seconds.\r\n"/>
+	</imgdir>
+	<imgdir name="3018659">
+		<string name="name" value="Winter Silver Bell"/>
+		<string name="desc" value="The clear and gentle sound of a silver bell. \r\nRestores #c50 HP and 50 MP# every 10 seconds.\r\n"/>
+	</imgdir>
+	<imgdir name="3018662">
+		<string name="name" value="Pit-A-Pat Holidays Chair"/>
+		<string name="desc" value="A pit-a-pat holidays!\r\n#cRestores 50 HP and 50 MP every 10 seconds.#\r\n\r\n"/>
+	</imgdir>
+	<imgdir name="3018663">
+		<string name="name" value="Alice and the Bunny Hat Chair"/>
+		<string name="desc" value="Go on a trip through the bunny hat. \n#cRestores 100 HP and 100 MP every 10 seconds.#"/>
+	</imgdir>
+	<imgdir name="3018664">
+		<string name="name" value="Play with Me Pink Chair"/>
+		<string name="desc" value="Play with me! Play with me!\n#cRestores 100 HP and 100 MP every 10 seconds.#"/>
+	</imgdir>
+	<imgdir name="3018672">
+		<string name="name" value="Restricted Library"/>
+		<string name="desc" value="This library was long kept secret. \r\n#cRestores 50 HP and 50 MP every 10 seconds.#"/>
+	</imgdir>
+	<imgdir name="3018673">
+		<string name="name" value="Little Happiness Chair"/>
+		<string name="desc" value="This year, my ship will come in!\r\n#cRestores 1000 HP and 1000 MP every 10 seconds.#\r\n\r\n"/>
+	</imgdir>
+	<imgdir name="3017074">
+		<string name="name" value="Kumpider Cube Chair"/>
+		<string name="desc" value="A chair obtained from the Monster Collection. \r\n#cRestores 50 HP and 50 MP every 10 seconds.#\r\nRight-click to open the cube-stacking window."/>
+	</imgdir>
+	<imgdir name="3017075">
+		<string name="name" value="Hoppin&apos; Sprout Cube Chair"/>
+		<string name="desc" value="A chair obtained from the Monster Collection. \r\n#cRestores 50 HP and 50 MP every 10 seconds.#\r\nRight-click to open the cube-stacking window."/>
+	</imgdir>
+	<imgdir name="3017076">
+		<string name="name" value="OMNI-CLN Cube Chair"/>
+		<string name="desc" value="A chair obtained from the Monster Collection. \r\n#cRestores 50 HP and 50 MP every 10 seconds.#\r\nRight-click to open the cube-stacking window."/>
 	</imgdir>
 	<imgdir name="3700581">
 		<string name="name" value="Light of the Eclipse"/>
@@ -17581,10 +17625,6 @@ Keep it in your Inventory Set-up tab for 30 minutes to receive a Shiny Easter Eg
 		<string name="name" value="Moonlit Antlers Chair"/>
 		<string name="desc" value="Enjoy a dreamy night sky on top of a deer&apos;s antlers. \r\n#cRestores 100 HP and 100 MP every 10 seconds.#"/>
 	</imgdir>
-	<imgdir name="3700666">
-		<string name="name" value="Swan Dream"/>
-		<string name="desc" value="#c[MAPLESTORY X BTS]\n\nEXP +10%\nAttack Power &amp; Magic ATT +15\nAll Stats +15\nBoss Damage +10% Ignore Defense +10%\nMax HP/Max MP +750\nStar Force +30\nArcane Power +50\nStats Duration: 30 Days\n\nClick to toggle ON/OFF.#"/>
-	</imgdir>
 	<imgdir name="3018622">
 		<string name="name" value="Maple Globe"/>
 		<string name="desc" value="A precious Maple Globe filled with your custom diorama. #cRestores 50 HP and 50 MP every 10 seconds.#"/>
@@ -17776,5 +17816,67 @@ Keep it in your Inventory Set-up tab for 30 minutes to receive a Shiny Easter Eg
 	<imgdir name="3018679">
 		<string name="name" value="Love Sprinkled From a Cloud Chair"/>
 		<string name="desc" value="Sit on a cloud and sprinkle some love. \n\n#cRestores 100 HP and 100 MP every 10 seconds.\n#"/>
+	</imgdir>
+	<imgdir name="3700666">
+		<string name="name" value="Swan Dream"/>
+		<string name="desc" value="#c[MAPLESTORY X BTS]\n\n10% Additional EXP\nAttack Power &amp; Magic ATT +15\nAll Stats +15\nBoss Damage +10% Ignore Defense +10%\nMax HP/Max MP +750\nStar Force +30\nArcane Power +50\nStats Duration: 30 Days\n\nClick to toggle ON/OFF.#"/>
+	</imgdir>
+	<imgdir name="3700684">
+		<string name="name" value="Lost Memories"/>
+		<string name="desc" value="A title that bearing the warmth of memories long forgotten.\r\n\r\n#cStar Force +30#\r\n#cAll Stat +10, Attack Power &amp; Magic ATT +10,\r\nMax HP &amp; Max MP +500\r\n\nDouble-click to turn ON/OFF.#"/>
+	</imgdir>
+	<imgdir name="3700685">
+		<string name="name" value="Rekindled Memories"/>
+		<string name="desc" value="A title that bearing the joy of memories rekindled.\r\n\r\n#cAll Stats +15, Attack Power &amp; Magic ATT +15\nBoss Damage +10%, Ignore Defense +10% \nMax HP &amp; MP+750\n10% Bonus EXP\nArcane Power + 30\r\n\nDouble-click to turn ON/OFF."/>
+	</imgdir>
+	<imgdir name="3018703">
+		<string name="name" value="Neo Moon Chair"/>
+		<string name="desc" value="A Neo Moon Chair that shines down upon Neo Castle. If you use it in the Neo Castle Entrance area, you&apos;ll earn Neo Stones periodically.\r\n#cRestores 1,000 HP and 1,000 MP every 10 seconds.#"/>
+		<string name="desc_leftalign" value="\r\n#cThis unique chair earns you 1 Neo Stone every 2 minutes and 30 seconds.#"/>
+	</imgdir>
+	<imgdir name="3018704">
+		<string name="name" value="Neo Star Chair"/>
+		<string name="desc" value="A shiny Neo Star Chair at the Neo Castle. If you use in the Neo Castle Entrance area, you&apos;ll earn Neo Stones periodically. \r\n#cRestores 50 HP and 50 MP every 10 seconds.#"/>
+		<string name="desc_leftalign" value="\r\n#cThis unique chair earns you 1 Neo Stone every 5 minutes.#"/>
+	</imgdir>
+	<imgdir name="3018692">
+		<string name="name" value="Reliable Friend Chair"/>
+		<string name="desc" value="A Reliable Friend Chair. #cRestores 100 HP and 100 MP every 10 seconds.#"/>
+	</imgdir>
+	<imgdir name="3016227">
+		<string name="name" value="Ice Cream Truck Chair"/>
+		<string name="desc" value="An Ice Cream Truck Chair. Up to 3 people can sit in it together. Designed by the China MapleStory player qq. \r\n#cRestores 100 HP and 100 MP every 10 seconds.#"/>
+	</imgdir>
+	<imgdir name="3018693">
+		<string name="name" value="Lunar Phase Chair"/>
+		<string name="desc" value="A Lunar Phase Chair. \r\n#cRestores 100 HP and 100 MP every 10 seconds.# Designed by the MapleStory China player xiaoma."/>
+	</imgdir>
+	<imgdir name="3012041">
+		<string name="name" value="Couple&apos;s Cherry Blossom Charm Chair"/>
+		<string name="desc" value="A Couple&apos;s Cherry Blossom Charm Chair. \r\n#cRestores 100 HP and 100 MP every 10 seconds.# Designed by the MapleStory China player xiaoma."/>
+	</imgdir>
+	<imgdir name="3018694">
+		<string name="name" value="Bearcat&apos;s Cafe Car Chair"/>
+		<string name="desc" value="A Bearcat&apos;s Cafe Car Chair. \r\n#cRestores 100 HP and 100 MP every 10 seconds.# Designed by the MapleStory China player pipi."/>
+	</imgdir>
+	<imgdir name="3018695">
+		<string name="name" value="Rock Spirit Pudding Chair"/>
+		<string name="desc" value="A Rock Spirit Pudding Chair. #cRestores 100 HP and 100 MP every 10 seconds.#"/>
+	</imgdir>
+	<imgdir name="3012042">
+		<string name="name" value="Star-crossed Couple Chair"/>
+		<string name="desc" value="A Star-crossed Couple Chair. #cRestores 100 HP and 100 MP every 10 seconds.#"/>
+	</imgdir>
+	<imgdir name="3018696">
+		<string name="name" value="Green Pea Canoe Chair"/>
+		<string name="desc" value="A Green Pea Canoe chair to share with your favorite #cAndroid.# \r\n#cRestores 100 HP and 100 MP every 10 seconds.#"/>
+	</imgdir>
+	<imgdir name="3018709">
+		<string name="name" value="Pepe and Green Pea Canoe Chair"/>
+		<string name="desc" value="A Pepe and Green Pea Canoe Chair. #cRestores 100 HP and 100 MP every 10 seconds.#"/>
+	</imgdir>
+	<imgdir name="3018714">
+		<string name="name" value="My Nostalgia"/>
+		<string name="desc" value="Float down a gentle river. \r\n#cRestores 50 HP and 50 MP every 10 seconds.#"/>
 	</imgdir>
 </imgdir>

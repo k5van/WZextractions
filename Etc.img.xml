@@ -7083,7 +7083,7 @@
 		</imgdir>
 		<imgdir name="4031172">
 			<string name="name" value="Ludibrium Medal"/>
-			<string name="desc" value="A medal earned from the gatekeepeer, and is apparently needed to enter a certain door. The word Ludibrium is engraved at the center of this gold medal."/>
+			<string name="desc" value="A medal apparently needed to enter a certain door, obtained from the door&apos;s protector. The word Ludibrium is engraved at the center of this gold medal."/>
 		</imgdir>
 		<imgdir name="4031173">
 			<string name="name" value="Ayan&apos;s Letter"/>
@@ -7207,7 +7207,7 @@
 		</imgdir>
 		<imgdir name="4031205">
 			<string name="name" value="Lisa&apos;s Special Medicine"/>
-			<string name="desc" value="A special medicine made by Lisa. Very sweet-scented, it drives up the appetite of everyone near it."/>
+			<string name="desc" value="Lisa made this special medicine. Very sweet scented, it whets the appetite of everyone near it."/>
 		</imgdir>
 		<imgdir name="4031206">
 			<string name="name" value="Ripped Travel Ticket 1"/>
@@ -18052,6 +18052,18 @@
 			<string name="name" value="Arcane Umbra Essence"/>
 			<string name="desc" value="Contains the essence of Arcane Umbra equipment. Used to upgrade Lapis/Lazuli for Zero."/>
 		</imgdir>
+		<imgdir name="4310301">
+			<string name="name" value="Moon Candy"/>
+			<string name="desc" value="Used in the #cMoonlight Enhancement Shop# at the #cFull Moon Party#."/>
+		</imgdir>
+		<imgdir name="4310302">
+			<string name="name" value="Star Candy"/>
+			<string name="desc" value="Obtained by playing #cStar Balloon Pop# at the #cFull Moon Party#.\r\n Gather #c2,000# and talk to #cTosh the Fairy# to select #c1 of 4 available Ellinel Growth Potions#.#"/>
+		</imgdir>
+		<imgdir name="4310303">
+			<string name="name" value="Cotton Candy"/>
+			<string name="desc" value="Used in the #cCotton Candy Workshop# at the #cFull Moon Party#."/>
+		</imgdir>
 		<imgdir name="4320000">
 			<string name="name" value="Damage Meter"/>
 			<string name="desc" value="A meter that can measure damage."/>
@@ -18640,137 +18652,169 @@
 			<string name="name" value="Small Ember"/>
 			<string name="desc" value="A weak ember that might go out at any moment."/>
 		</imgdir>
-		<imgdir name="4310301">
-			<string name="name" value="Moon Candy"/>
-			<string name="desc" value="Used in the #cMoonlight Enhancement Shop# at the #cFull Moon Party#."/>
-		</imgdir>
-		<imgdir name="4310302">
-			<string name="name" value="Star Candy"/>
-			<string name="desc" value="Obtained by playing #cStar Balloon Pop# at the #cFull Moon Party#.\r\n Gather #c2,000# and talk to #cTosh the Fairy# to select #c1 of 4 available Ellinel Growth Potions#.#"/>
-		</imgdir>
-		<imgdir name="4310303">
-			<string name="name" value="Cotton Candy"/>
-			<string name="desc" value="Used in the #cCotton Candy Workshop# at the #cFull Moon Party#."/>
-		</imgdir>
 		<imgdir name="4036679">
-			<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-			<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="name" value="Yeti TV Video Preview"/>
+			<string name="desc" value="Yeti TV Video Preview"/>
 		</imgdir>
 		<imgdir name="4036680">
-			<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-			<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="name" value="Yeti TV Video Preview"/>
+			<string name="desc" value="Yeti TV Video Preview"/>
 		</imgdir>
 		<imgdir name="4036681">
-			<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-			<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="name" value="Yeti TV Video Preview"/>
+			<string name="desc" value="Yeti TV Video Preview"/>
 		</imgdir>
 		<imgdir name="4036682">
-			<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-			<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="name" value="Yeti TV Video Preview"/>
+			<string name="desc" value="Yeti TV Video Preview"/>
 		</imgdir>
 		<imgdir name="4036683">
-			<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-			<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="name" value="Yeti TV Video Preview"/>
+			<string name="desc" value="Yeti TV Video Preview"/>
 		</imgdir>
 		<imgdir name="4036684">
-			<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-			<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="name" value="Yeti TV Video Preview"/>
+			<string name="desc" value="Yeti TV Video Preview"/>
 		</imgdir>
 		<imgdir name="4036685">
-			<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-			<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="name" value="Yeti TV Video Preview"/>
+			<string name="desc" value="Yeti TV Video Preview"/>
 		</imgdir>
 		<imgdir name="4036686">
-			<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-			<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="name" value="Yeti TV Video Preview"/>
+			<string name="desc" value="Yeti TV Video Preview"/>
 		</imgdir>
 		<imgdir name="4036687">
-			<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-			<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="name" value="Yeti TV Video Preview"/>
+			<string name="desc" value="Yeti TV Video Preview"/>
 		</imgdir>
 		<imgdir name="4036688">
-			<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-			<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="name" value="Yeti TV Video Preview"/>
+			<string name="desc" value="Yeti TV Video Preview"/>
 		</imgdir>
 		<imgdir name="4036689">
-			<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-			<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="name" value="Yeti TV Expression Preview"/>
+			<string name="desc" value="Yeti TV Expression Preview"/>
 		</imgdir>
 		<imgdir name="4036690">
-			<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-			<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="name" value="Yeti TV Expression Preview"/>
+			<string name="desc" value="Yeti TV Expression Preview"/>
 		</imgdir>
 		<imgdir name="4036691">
-			<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-			<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="name" value="Yeti TV Expression Preview"/>
+			<string name="desc" value="Yeti TV Expression Preview"/>
 		</imgdir>
 		<imgdir name="4036692">
-			<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-			<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="name" value="Yeti TV Expression Preview"/>
+			<string name="desc" value="Yeti TV Expression Preview"/>
 		</imgdir>
 		<imgdir name="4036693">
-			<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-			<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="name" value="Yeti TV Expression Preview"/>
+			<string name="desc" value="Yeti TV Expression Preview"/>
 		</imgdir>
 		<imgdir name="4036694">
-			<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-			<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="name" value="Yeti TV Expression Preview"/>
+			<string name="desc" value="Yeti TV Expression Preview"/>
 		</imgdir>
 		<imgdir name="4036695">
-			<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-			<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="name" value="Yeti TV Expression Preview"/>
+			<string name="desc" value="Yeti TV Expression Preview"/>
 		</imgdir>
 		<imgdir name="4036696">
-			<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-			<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="name" value="Yeti TV Expression Preview"/>
+			<string name="desc" value="Yeti TV Expression Preview"/>
 		</imgdir>
 		<imgdir name="4036697">
-			<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-			<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="name" value="Yeti TV Expression Preview"/>
+			<string name="desc" value="Yeti TV Expression Preview"/>
 		</imgdir>
 		<imgdir name="4036698">
-			<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-			<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="name" value="Yeti TV Expression Preview"/>
+			<string name="desc" value="Yeti TV Expression Preview"/>
 		</imgdir>
 		<imgdir name="4036699">
-			<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-			<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="name" value="Yeti TV Parts Preview"/>
+			<string name="desc" value="Yeti TV Parts Preview"/>
 		</imgdir>
 		<imgdir name="4036700">
-			<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-			<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="name" value="Yeti TV Parts Preview"/>
+			<string name="desc" value="Yeti TV Parts Preview"/>
 		</imgdir>
 		<imgdir name="4036701">
-			<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-			<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="name" value="Yeti TV Parts Preview"/>
+			<string name="desc" value="Yeti TV Parts Preview"/>
 		</imgdir>
 		<imgdir name="4036702">
-			<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-			<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="name" value="Yeti TV Parts Preview"/>
+			<string name="desc" value="Yeti TV Parts Preview"/>
 		</imgdir>
 		<imgdir name="4036703">
-			<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-			<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="name" value="Yeti TV Parts Preview"/>
+			<string name="desc" value="Yeti TV Parts Preview"/>
 		</imgdir>
 		<imgdir name="4036704">
-			<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-			<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="name" value="Yeti TV Parts Preview"/>
+			<string name="desc" value="Yeti TV Parts Preview"/>
 		</imgdir>
 		<imgdir name="4036705">
-			<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-			<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="name" value="Yeti TV Parts Preview"/>
+			<string name="desc" value="Yeti TV Parts Preview"/>
 		</imgdir>
 		<imgdir name="4036706">
-			<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-			<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="name" value="Yeti TV Parts Preview"/>
+			<string name="desc" value="Yeti TV Parts Preview"/>
 		</imgdir>
 		<imgdir name="4036707">
-			<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-			<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="name" value="Yeti TV Parts Preview"/>
+			<string name="desc" value="Yeti TV Parts Preview"/>
 		</imgdir>
 		<imgdir name="4036708">
-			<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-			<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="name" value="Yeti TV Parts Preview"/>
+			<string name="desc" value="Yeti TV Parts Preview"/>
+		</imgdir>
+		<imgdir name="4310306">
+			<string name="name" value="Neo Stone"/>
+			<string name="desc" value="Usable at the #cNeo Stone Shop# in #cNeo Castle#."/>
+		</imgdir>
+		<imgdir name="4310307">
+			<string name="name" value="Neo Gem"/>
+			<string name="desc" value="Usable at the #cNeo Gem Shop# in #cNeo Castle#."/>
+		</imgdir>
+		<imgdir name="4310308">
+			<string name="name" value="Neo Core"/>
+			<string name="desc" value="Usable at the #cNeo Core Shop# in #cNeo Castle#."/>
+		</imgdir>
+		<imgdir name="4036709">
+			<string name="name" value="T-Boy&apos;s Part"/>
+			<string name="desc" value="A part that was left behind by T-Boy."/>
+		</imgdir>
+		<imgdir name="4036710">
+			<string name="name" value="Suspicious Button"/>
+			<string name="desc" value="What does this button do...?"/>
+		</imgdir>
+		<imgdir name="4036715">
+			<string name="name" value="Pit-A-Pat Sugar"/>
+			<string name="desc" value="Sweet pit-a-pat sugar."/>
+		</imgdir>
+		<imgdir name="4036716">
+			<string name="name" value="Pit-A-Pat Milk"/>
+			<string name="desc" value="Nutritious pit-a-pat milk."/>
+		</imgdir>
+		<imgdir name="4036717">
+			<string name="name" value="Heartbeat Egg"/>
+			<string name="desc" value="A warm pit-a-pat egg."/>
+		</imgdir>
+		<imgdir name="4036718">
+			<string name="name" value="Pit-A-Pat Snowflake"/>
+			<string name="desc" value="A beautiful crystal snowflake."/>
+		</imgdir>
+		<imgdir name="4036719">
+			<string name="name" value="Glittering Snowflake"/>
+			<string name="desc" value="A beautiful crystal snowflake."/>
+		</imgdir>
+		<imgdir name="4036720">
+			<string name="name" value="Frozen Snowflake"/>
+			<string name="desc" value="A beautiful crystal snowflake."/>
 		</imgdir>
 		<imgdir name="4000174">
 			<string name="name" value="Money Envelope"/>

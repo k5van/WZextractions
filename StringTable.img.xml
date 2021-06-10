@@ -57,9 +57,15 @@
 	<string name="SID_MANNEQUIN_DELETE_INPUT_FAILED" value="Because you didn&apos;t enter the correct input,\nthe removal from the mannequin was canceled."/>
 	<string name="SID_MANNEQUIN_DELETE_ASK" value="#rRemove %s: %s#k\nIf you&apos;d like to delete the #b%s#k that&apos;s saved on the mannequin, please enter #b%s#k on the below entry window.\n \n"/>
 	<string name="SID_MANNEQUIN_SAVE_QUESTION_EX_KEY" value="Change"/>
+	<string name="SID_MANNEQUIN_SKIN_SAVE_QUESTION_EX" value="\n#r#e#fs15#[Caution] This &apos;skin&apos; hasn&apos;t been saved on a mannequin.#n#fs12# \n#kIf you continue, your #rcurrent %s character&apos;s skin will #edisappear.#n\n%s #fs12##n#b\nIf you&apos;d still like to use &apos;%s&apos;#k x1 to change the skin of %s, please enter #e#b%s#k#n on the below box."/>
 	<string name="SID_MANNEQUIN_HAIR_SAVE_QUESTION_EX" value="\n#r#e#fs15#[Caution] This &apos;hair&apos; hasn&apos;t been saved on a mannequin.#n#fs12# \n#kIf you continue, your #rcurrent %s character&apos;s hair will #edisappear.#n\n%s #fs12##n#b\nIf you&apos;d still like to use &apos;%s&apos;#k x1 to change the hair of %s, please enter #b#e%s#n#k on the box below."/>
 	<string name="SID_MANNEQUIN_FACE_SAVE_QUESTION_EX" value="\n#r#e#fs15#[Caution] This &apos;face&apos; hasn&apos;t been saved on a mannequin.#n#fs12# \n#kIf you continue, your #rcurrent %s character&apos;s face will #edisappear.#n\n%s #fs12##n#b\nIf you&apos;d still like to use &apos;%s&apos;#k x1 to change the face of %s, please enter #b#e%s#n#k on the box below."/>
 	<string name="SID_MANNEQUIN_SAVE_QUESTION_EX_FAILED" value="You didn&apos;t enter &apos;Change,&apos;\nso the item use was canceled."/>
 	<string name="SID_MANNEQUIN_SAVE_QUESTION_EX_TARGET_NOMARL" value="Character"/>
-	<string name="SID_MANNEQUIN_SKIN_SAVE_QUESTION_EX" value="\n#r#e#fs15#[Caution] This &apos;skin&apos; hasn&apos;t been saved on a mannequin.#n#fs12# \n#kIf you continue, your #rcurrent %s character&apos;s skin will #edisappear.#n\n%s #fs12##n#b\nIf you&apos;d still like to use &apos;%s&apos;#k x1 to change the skin of %s, please enter #e#b%s#k#n on the below box."/>
+	<string name="SID_MOVE_BOSSWAITINGFIELD_ERR_STAUS" value="You cannot move in your current state.\nPlease try again later."/>
+	<string name="SID_MOVE_BOSSWAITINGFIELD_ERR_DEAD" value="You cannot move when dead."/>
+	<string name="SID_MOVE_BOSSWAITINGFIELD_ERR_FIELDLIMIT" value="You cannot move from the current map."/>
+	<string name="SID_MOVE_BOSSWAITINGFIELD_ERR_MOVEFAIL" value="Either you cannot move in your current state or there is no channel you can change to."/>
+	<string name="SID_MOVE_BOSSWAITINGFIELD_ERR_CANNOTMIGRATE" value="You cannot move in your current state.\nPlease close any other windows, \n such as Safe Mode, NPC Shops, Delivery Packages, or Storage Rooms."/>
+	<string name="SID_GAMEMSG_END_MIRACLETIME_2" value="Miracle Time ended at %s %s."/>
 </imgdir>
