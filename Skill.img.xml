@@ -42329,13 +42329,13 @@
 		<string name="h" value="#cPassive Effect#: Upon either defeating #q enemies or attacking a boss #q2 times, you can harvest up to #u Death Throes.\n#cActive Effect#: MP Cost: #mpCon, Required Min Death Throes: #v\nConsume all harvested Death Throes to summon Hand of Agony for #s2 sec, attacking up to #mobCount enemies for #damage% damage #attackCount consecutive times. Duration increases by #s sec. for each additional Death Throe consumed. Cooldown: #cooltime sec"/>
 	</imgdir>
 	<imgdir name="400001059">
-		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="h" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="Solar Crest"/>
+		<string name="desc" value="Mitra&apos;s power manifests the searing heat of the sun as a blazing inferno. The flame emblem is unaffected by attack reflection and disappears when you change maps."/>
+		<string name="h" value="HP Cost: #hpRCon% of Max HP\n#cMitra&apos;s Fire#: summons a Flame Emblem after dealing #damage% damage up to #mobCount enemies #attackCount times.\n#cFlame Emblem#: deals #w% damage to up to #q enemies #z times every #t sec for #s sec. Deals #y% damage if striking a single enemy.\nCooldown: #cooltime sec"/>
 	</imgdir>
 	<imgdir name="400001060">
-		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="Solar Crest"/>
+		<string name="desc" value="Mitra&apos;s rage has physically manifested as a blazing inferno."/>
 	</imgdir>
 	<imgdir name="3121007">
 		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
@@ -52217,5 +52217,55 @@ Celestial Rank S: 5% EXP per stack."/>
 		<string name="name" value="Motorcycle SF Mount"/>
 		<string name="desc" value="[Master Level: 1]\nRide around on a Motorcycle SF mount which can double jump and move #cvery quickly#."/>
 		<string name="h" value="MP Cost: 10, DEF: +10, Speed: +170, Jump: +120"/>
+	</imgdir>
+	<imgdir name="80012199">
+		<string name="name" value="Lv. 1 Hermit Crabs&apos; Mysterious Power"/>
+		<string name="desc" value="Increases both Attack Power and Magic ATT by 3."/>
+		<string name="h" value="#cAttack Power: +#padX, Magic ATT: +#madX#"/>
+	</imgdir>
+	<imgdir name="80012200">
+		<string name="name" value="Lv. 2 Hermit Crabs&apos; Mysterious Power"/>
+		<string name="desc" value="Increases both Attack Power and Magic ATT by 5."/>
+		<string name="h" value="#cAttack Power: +#padX, Magic ATT: +#madX#"/>
+	</imgdir>
+	<imgdir name="80012201">
+		<string name="name" value="Lv. 3 Hermit Crabs&apos; Mysterious Power"/>
+		<string name="desc" value="Increases both Attack Power and Magic ATT by 7."/>
+		<string name="h" value="#cAttack Power: +#padX, Magic ATT: +#madX#"/>
+	</imgdir>
+	<imgdir name="80012202">
+		<string name="name" value="Rabbit Train Mount"/>
+		<string name="desc" value="[Master Level: 1]\nRide around on a Rabbit Train mount, which can double jump and move #cvery quickly.#"/>
+		<string name="h" value="MP Cost: 10, DEF: +10, Speed: +170, Jump: +120"/>
+	</imgdir>
+	<imgdir name="80012203">
+		<string name="name" value="Rabbit Train Mount"/>
+		<string name="desc" value="[Master Level: 1]\nRide around on a Rabbit Train mount, which can double jump and move #cvery quickly.#"/>
+		<string name="h" value="MP Cost: 10, DEF: +10, Speed: +170, Jump: +120"/>
+	</imgdir>
+	<imgdir name="80012224">
+		<string name="name" value="Songless Bird Mount"/>
+		<string name="desc" value="[Master Level: 1]\nAllows you to ride a Songless Bird mount that can double jump."/>
+		<string name="h1" value="MP Cost: 10, DEF: +10, Speed: +170, Jump: +120"/>
+	</imgdir>
+	<imgdir name="80012225">
+		<string name="name" value="Songless Bird Mount"/>
+		<string name="desc" value="[Master Level: 1]\nAllows you to ride a Songless Bird mount that can double jump."/>
+		<string name="h1" value="MP Cost: 10, DEF: +10, Speed: +170, Jump: +120"/>
+	</imgdir>
+	<imgdir name="80012221">
+		<string name="name" value="Nihal&apos;s Mysterious Power Lv. 1"/>
+		<string name="desc" value="The adorable  power of Nihal Desert pets increases Attack Power and Magic ATT by 3."/>
+		<string name="h" value="#cAttack Power: +#padX, Magic ATT: +#madX#"/>
+	</imgdir>
+	<imgdir name="80012222">
+		<string name="name" value="Nihal&apos;s Mysterious Power Lv. 2"/>
+		<string name="desc" value="The adorable  power of Nihal Desert pets increases Attack Power and Magic ATT by 3."/>
+		<string name="h" value="#cAttack Power: +#padX, Magic ATT: +#madX#"/>
+	</imgdir>
+	<imgdir name="80012223">
+		<string name="name" value="Nihal&apos;s Mysterious Power Lv. 3"/>
+		<string name="desc" value="The adorable  power of Nihal Desert pets increases Attack Power and Magic ATT by 3."/>
+		<string name="h" value="#cAttack Power: +#padX, Magic ATT: +#madX#"/>
 	</imgdir>
 </imgdir>

@@ -5015,4 +5015,49 @@
 		<string name="desc" value="A shark in a bowl. Designed by Cristophery."/>
 		<string name="descD" value="This is a permanent pet."/>
 	</imgdir>
+	<imgdir name="5002259">
+		<string name="name" value="Orn. H. Crab"/>
+		<string name="desc" value="An Orange Hermit Crab pet. \nEquip Hermit Crab pets to gain the #cHermit Crabs&apos; Mysterious Power# skill, which grows stronger as you equip more Hermit Crab pets (max 3)."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002260">
+		<string name="name" value="Teal H. Crab"/>
+		<string name="desc" value="A Teal Hermit Crab pet. \nEquip Hermit Crab pets to gain the #cHermit Crabs&apos; Mysterious Power# skill, which grows stronger as you equip more Hermit Crab pets (max 3)."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002261">
+		<string name="name" value="Pur. H. Crab"/>
+		<string name="desc" value="A Purple Hermit Crab pet. \nEquip Hermit Crab pets to gain the #cHermit Crabs&apos; Mysterious Power# skill, which grows stronger as you equip more Hermit Crab pets (max 3)."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002270">
+		<string name="name" value="Quick Cloud"/>
+		<string name="desc" value="A #cQuick Cloud# with a cute facial expression."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002271">
+		<string name="name" value="Clever Cloud"/>
+		<string name="desc" value="A #cClever Cloud# with a blank expression."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002272">
+		<string name="name" value="Relaxed Sun"/>
+		<string name="desc" value="A #cRelaxed Sun# with a bright smile."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002267">
+		<string name="name" value="Brown Hare"/>
+		<string name="desc" value="Brown Hare is one of the Nihal Desert&apos;s most cuddly denizens. \nEquip to obtain the #cNihal&apos;s Mysterious Power# skill, which grows stronger as you equip more Nihal Desert pets (max 3)."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002268">
+		<string name="name" value="White Hare"/>
+		<string name="desc" value="Brown Hare is one of the Nihal Desert&apos;s most lovable denizens. \nEquip to obtain the #cNihal&apos;s Mysterious Power# skill, which grows stronger as you equip more Nihal Desert pets (max 3)."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002269">
+		<string name="name" value="Lil Cactus"/>
+		<string name="desc" value="A Lil Cactus who once ruled the desert. \nEquip to obtain the #cNihal&apos;s Mysterious Power# skill, which grows stronger as you equip more Nihal Desert pets (max 3)."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
 </imgdir>

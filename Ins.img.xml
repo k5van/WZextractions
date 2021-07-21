@@ -17879,4 +17879,48 @@ Keep it in your Inventory Set-up tab for 30 minutes to receive a Shiny Easter Eg
 		<string name="name" value="My Nostalgia"/>
 		<string name="desc" value="Float down a gentle river. \r\n#cRestores 50 HP and 50 MP every 10 seconds.#"/>
 	</imgdir>
+	<imgdir name="3018724">
+		<string name="name" value="Lucid Plastic Model Chair"/>
+		<string name="desc" value="Become a plastic sculpture of Lucid.\n#cRestores 100 HP and 100 MP every 10 seconds.#"/>
+	</imgdir>
+	<imgdir name="3018725">
+		<string name="name" value="Damien Plastic Model Chair"/>
+		<string name="desc" value="Become a plastic sculpture of Damien.\n#cRestores 100 HP and 100 MP every 10 seconds.#"/>
+	</imgdir>
+	<imgdir name="3016228">
+		<string name="name" value="Pine Cone Bed Chair"/>
+		<string name="desc" value="A Pine Cone Bed Chair. Up to 4 people can sit in it together. \N Restores 100 HP and 100 MP every 10 seconds."/>
+	</imgdir>
+	<imgdir name="3018715">
+		<string name="name" value="Peek-A-Boo Mushroom Chair"/>
+		<string name="desc" value="A Peek-A-Boo Mushroom Chair. Restores 100 HP and 100 MP every 10 seconds."/>
+	</imgdir>
+	<imgdir name="3018716">
+		<string name="name" value="Desert Sunset Chair"/>
+		<string name="desc" value="A Desert Sunset Chair. Restores 100 HP and 100 MP every 10 seconds."/>
+	</imgdir>
+	<imgdir name="3018717">
+		<string name="name" value="Courage Test Chair"/>
+		<string name="desc" value="A Courage Test Chair. Restores 100 HP and 100 MP every 10 seconds."/>
+	</imgdir>
+	<imgdir name="3018726">
+		<string name="name" value="Cool Fridge"/>
+		<string name="desc" value="A fridge to help you cool off!\r\n#cRestores 100 HP and 50 MP every 10 seconds.#"/>
+	</imgdir>
+	<imgdir name="3018721">
+		<string name="name" value="Romantic Garden Chair"/>
+		<string name="desc" value="Enjoy the night air of this romantic garden. #cRestores 100 HP and 100 MP every 10 seconds.#"/>
+	</imgdir>
+	<imgdir name="3018722">
+		<string name="name" value="Foamy Cat Latte Chair"/>
+		<string name="desc" value="Rest atop a fluffy, foamy latte kitten. #cRestores 100 HP and 100 MP every 10 seconds.#"/>
+	</imgdir>
+	<imgdir name="3018723">
+		<string name="name" value="Monsters Stack Chair"/>
+		<string name="desc" value="Balancing atop your monster friends! #cRestores 100 HP and 100 MP every 10 seconds.#"/>
+	</imgdir>
+	<imgdir name="3012043">
+		<string name="name" value="Lovebulb Couples Chair"/>
+		<string name="desc" value="There&apos;s a spark between us! \r\n#cRestores 100 HP and 100 MP every 10 seconds.#"/>
+	</imgdir>
 </imgdir>

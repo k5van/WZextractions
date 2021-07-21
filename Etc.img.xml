@@ -6131,11 +6131,11 @@
 		</imgdir>
 		<imgdir name="4023025">
 			<string name="name" value="Unrelenting Flame"/>
-			<string name="desc" value="A strong flame occasionally found in Mysterious Herbs, used for making Powerful Rebirth Flames."/>
+			<string name="desc" value="A strong flame used for making Powerful Rebirth Flames."/>
 		</imgdir>
 		<imgdir name="4023026">
 			<string name="name" value="Forever Unrelenting Flame"/>
-			<string name="desc" value="A perpetual flame occasionally found in Mysterious Legendary Herbs, used for making Eternal Rebirth Flames."/>
+			<string name="desc" value="A perpetual flame used for making Eternal Rebirth Flames."/>
 		</imgdir>
 		<imgdir name="4024000">
 			<string name="name" value="Basic Herb Oil Bottle"/>
@@ -11837,7 +11837,7 @@
 		</imgdir>
 		<imgdir name="4033234">
 			<string name="name" value="Treasure Note"/>
-			<string name="desc" value="Treasure note that&apos;s hidden in the Fantasy Theme Park. Collect 5 to receive Fantasy Theme Park open event gift."/>
+			<string name="desc" value="Treasure note that&apos;s hidden in Fantasy Theme World. Collect 5 to receive Fantasy Theme World open event gift."/>
 		</imgdir>
 		<imgdir name="4033235">
 			<string name="name" value="Entry Ticket"/>
@@ -11845,7 +11845,7 @@
 		</imgdir>
 		<imgdir name="4033236">
 			<string name="name" value="Checky&apos;s Flier"/>
-			<string name="desc" value="A flier given out by Checky the Mascot. There is an advertisement for Fantasy Theme Park on it."/>
+			<string name="desc" value="A flier given out by Checky the Mascot. There is an advertisement for Fantasy Theme World on it."/>
 		</imgdir>
 		<imgdir name="4033237">
 			<string name="name" value="Lost Walkie Talkie"/>
@@ -22400,7 +22400,7 @@ Looking at this fills you with hope. It&apos;s terribly fragile, so handle with 
 		</imgdir>
 		<imgdir name="4032246">
 			<string name="name" value="Fantasy Spirit Doll"/>
-			<string name="desc" value="Very important key item to save Fantasy Theme Park from monsters&apos; threat."/>
+			<string name="desc" value="Very important key item to save Fantasy Theme World from monsters&apos; threat."/>
 		</imgdir>
 		<imgdir name="4032247">
 			<string name="name" value="Richard&apos;s Letter"/>
@@ -28887,6 +28887,10 @@ Looking at this fills you with hope. It&apos;s terribly fragile, so handle with 
 		<imgdir name="4000984">
 			<string name="name" value="Kimono Fragment"/>
 			<string name="desc" value="A piece of cloth torn from someone&apos;s garment."/>
+		</imgdir>
+		<imgdir name="4023027">
+			<string name="name" value="Forever Unrelenting Black Flame"/>
+			<string name="desc" value="A perpetual black flame used for making Black Rebirth Flames."/>
 		</imgdir>
 	</imgdir>
 </imgdir>

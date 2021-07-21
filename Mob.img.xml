@@ -18313,7 +18313,7 @@
 		<string name="name" value="Coolie Zombie"/>
 	</imgdir>
 	<imgdir name="9800088">
-		<string name="name" value="Minor Zombie"/>
+		<string name="name" value="Miner Zombie"/>
 	</imgdir>
 	<imgdir name="9800089">
 		<string name="name" value="Bain"/>
@@ -20377,7 +20377,7 @@
 		<string name="name" value="Coolie Zombie"/>
 	</imgdir>
 	<imgdir name="9833540">
-		<string name="name" value="Minor Zombie"/>
+		<string name="name" value="Miner Zombie"/>
 	</imgdir>
 	<imgdir name="9833541">
 		<string name="name" value="Riche"/>
@@ -21412,22 +21412,22 @@
 		<string name="name" value="Cygnus Soldier"/>
 	</imgdir>
 	<imgdir name="8645200">
-		<string name="name" value="Sand Blade Ravager"/>
+		<string name="name" value="Sandblade Marauder"/>
 	</imgdir>
 	<imgdir name="8645201">
-		<string name="name" value="Bullet Slayer"/>
+		<string name="name" value="Ironshot Desperado"/>
 	</imgdir>
 	<imgdir name="8645202">
-		<string name="name" value="Foxillion Searcher"/>
+		<string name="name" value="Puxillian Rover"/>
 	</imgdir>
 	<imgdir name="8645203">
-		<string name="name" value="Foxillion Junk Collector"/>
+		<string name="name" value="Puxillian Scrounger"/>
 	</imgdir>
 	<imgdir name="8645204">
-		<string name="name" value="Strict Conductor"/>
+		<string name="name" value="Conductorbot"/>
 	</imgdir>
 	<imgdir name="8645205">
-		<string name="name" value="Masterless Watchdog"/>
+		<string name="name" value="Houndbot"/>
 	</imgdir>
 	<imgdir name="8645206">
 		<string name="name" value="Stone Kiwi"/>
@@ -21436,82 +21436,82 @@
 		<string name="name" value="Stone Kiwi"/>
 	</imgdir>
 	<imgdir name="8645208">
-		<string name="name" value="Bullet Slayer"/>
+		<string name="name" value="Ironshot Desperado"/>
 	</imgdir>
 	<imgdir name="8645209">
-		<string name="name" value="Senya-borg Alpha Version"/>
+		<string name="name" value="Senyabot Alpha"/>
 	</imgdir>
 	<imgdir name="8645210">
-		<string name="name" value="Senya-borg Beta Version"/>
+		<string name="name" value="Senyabot Beta"/>
 	</imgdir>
 	<imgdir name="8645211">
-		<string name="name" value="Senya-borg Gamma Version"/>
+		<string name="name" value="Senyabot Gamma"/>
 	</imgdir>
 	<imgdir name="8880600">
-		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="Chosen Seren (Weakened)"/>
 	</imgdir>
 	<imgdir name="8880601">
-		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="Chosen Seren (Weakened)"/>
 	</imgdir>
 	<imgdir name="8880602">
-		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="Chosen Seren"/>
 	</imgdir>
 	<imgdir name="8880603">
-		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="Chosen Seren (Dawn)"/>
 	</imgdir>
 	<imgdir name="8880604">
-		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="Chosen Seren (Dawn)"/>
 	</imgdir>
 	<imgdir name="8880605">
-		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="Avatar of Nerota"/>
 	</imgdir>
 	<imgdir name="8880606">
-		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="Nerota&apos;s Power"/>
 	</imgdir>
 	<imgdir name="8880607">
-		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="Chosen Seren (Midday)"/>
 	</imgdir>
 	<imgdir name="8880608">
-		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="Chosen Seren (Midday)"/>
 	</imgdir>
 	<imgdir name="8880609">
-		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="Chosen Seren (Dusk)"/>
 	</imgdir>
 	<imgdir name="8880610">
-		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="Chosen Seren (Dusk)"/>
 	</imgdir>
 	<imgdir name="8880611">
-		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="Flame Pillar"/>
 	</imgdir>
 	<imgdir name="8880612">
-		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="Chosen Seren (Twilight)"/>
 	</imgdir>
 	<imgdir name="8880613">
-		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="Chosen Seren (Twilight)"/>
 	</imgdir>
 	<imgdir name="8880614">
-		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="Chosen Seren&apos;s Treasure Chest"/>
 	</imgdir>
 	<imgdir name="8880615">
-		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="Chosen Seren"/>
 	</imgdir>
 	<imgdir name="8880616">
-		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="Chosen Seren"/>
 	</imgdir>
 	<imgdir name="8880617">
-		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="Chosen Seren"/>
 	</imgdir>
 	<imgdir name="8880618">
-		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="Flame Pillar"/>
 	</imgdir>
 	<imgdir name="8880619">
-		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="Flame Pillar"/>
 	</imgdir>
 	<imgdir name="9210050">
-		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="Chosen Seren"/>
 	</imgdir>
 	<imgdir name="9309214">
-		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="Scarecrow Soul"/>
 	</imgdir>
 	<imgdir name="9833881">
 		<string name="name" value="Crystal Specter"/>
@@ -27173,9 +27173,6 @@
 	<imgdir name="9101115">
 		<string name="name" value="Deadly Biteysnek"/>
 	</imgdir>
-	<imgdir name="9402227">
-		<string name="name" value="Furious Gourdon Ritzy"/>
-	</imgdir>
 	<imgdir name="9101118">
 		<string name="name" value="Quest for Courage Boss"/>
 	</imgdir>
@@ -27706,51 +27703,6 @@
 	</imgdir>
 	<imgdir name="9601148">
 		<string name="name" value="Wood Board Alley Citizen"/>
-	</imgdir>
-	<imgdir name="9402341">
-		<string name="name" value="Soldier Bug"/>
-	</imgdir>
-	<imgdir name="9402342">
-		<string name="name" value="Flying Bug"/>
-	</imgdir>
-	<imgdir name="9402343">
-		<string name="name" value="Elite Soldier Bug"/>
-	</imgdir>
-	<imgdir name="9402344">
-		<string name="name" value="Elite Flying Bug"/>
-	</imgdir>
-	<imgdir name="9402345">
-		<string name="name" value="Red Soldier Bug"/>
-	</imgdir>
-	<imgdir name="9402346">
-		<string name="name" value="Red Flying Bug"/>
-	</imgdir>
-	<imgdir name="9402347">
-		<string name="name" value="Bug Egg"/>
-	</imgdir>
-	<imgdir name="9402348">
-		<string name="name" value="Boss Bug"/>
-	</imgdir>
-	<imgdir name="9402349">
-		<string name="name" value="Research Device"/>
-	</imgdir>
-	<imgdir name="9402350">
-		<string name="name" value="Candidate"/>
-	</imgdir>
-	<imgdir name="9402351">
-		<string name="name" value="Target"/>
-	</imgdir>
-	<imgdir name="9402352">
-		<string name="name" value="Flying Bug"/>
-	</imgdir>
-	<imgdir name="9402353">
-		<string name="name" value="Elite Flying Bug"/>
-	</imgdir>
-	<imgdir name="9402354">
-		<string name="name" value="Red Flying Bug"/>
-	</imgdir>
-	<imgdir name="9402355">
-		<string name="name" value="Boss Lure"/>
 	</imgdir>
 	<imgdir name="9403000">
 		<string name="name" value="Captured Sengoku Warrior"/>
@@ -29149,5 +29101,8 @@
 	</imgdir>
 	<imgdir name="9210049">
 		<string name="name" value="Frenzied Gigatoad"/>
+	</imgdir>
+	<imgdir name="9601710">
+		<string name="name" value="Boss (Luska)"/>
 	</imgdir>
 </imgdir>

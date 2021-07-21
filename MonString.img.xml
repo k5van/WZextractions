@@ -31,7 +31,7 @@
 		<string name="name" value="Cats &amp; Catlike"/>
 	</imgdir>
 	<imgdir name="010">
-		<string name="name" value="Canids, Raccoons, &amp; Ferrets"/>
+		<string name="name" value="Canids/Raccs./Ferrets"/>
 	</imgdir>
 	<imgdir name="011">
 		<string name="name" value="Birds"/>
@@ -125,7 +125,7 @@
 			<string name="38" value="Toy Factory"/>
 			<string name="39" value="Haunted House"/>
 			<string name="40" value="Goblin House"/>
-			<string name="41" value="Fantasy Theme Park"/>
+			<string name="41" value="Fantasy Theme World"/>
 			<string name="42" value="Haunted Mansion"/>
 			<string name="43" value="Cranky Forest"/>
 			<string name="44" value="Dragon Forest"/>

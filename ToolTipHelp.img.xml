@@ -3876,7 +3876,7 @@
 		</imgdir>
 		<imgdir name="223010000">
 			<imgdir name="0">
-				<string name="Title" value="Fantasy Theme Park &lt;Main Gate&gt;"/>
+				<string name="Title" value="Fantasy Theme World &lt;Main Gate&gt;"/>
 			</imgdir>
 			<imgdir name="1">
 				<string name="Title" value="Funny Station &lt;2&gt;"/>
@@ -3906,7 +3906,7 @@
 				<string name="Title" value="Extreme Station &lt;2&gt;"/>
 			</imgdir>
 			<imgdir name="2">
-				<string name="Title" value="Fantasy Theme Park &lt;Main Gate&gt;"/>
+				<string name="Title" value="Fantasy Theme World &lt;Main Gate&gt;"/>
 			</imgdir>
 			<imgdir name="3">
 				<string name="Title" value="Funny Station &lt;3&gt;"/>
@@ -3936,7 +3936,7 @@
 				<string name="Title" value="Fantasy Station &lt;2&gt;"/>
 			</imgdir>
 			<imgdir name="2">
-				<string name="Title" value="Fantasy Theme Park &lt;Main Gate&gt;"/>
+				<string name="Title" value="Fantasy Theme World &lt;Main Gate&gt;"/>
 			</imgdir>
 			<imgdir name="3">
 				<string name="Title" value="Fantasy Station &lt;2&gt;"/>
@@ -11201,7 +11201,7 @@
 		</imgdir>
 		<imgdir name="410003020">
 			<imgdir name="west00">
-				<string name="Title" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+				<string name="Title" value="Train with No Destination 1"/>
 				<int name="barrierAut" value="200"/>
 				<imgdir name="Mob">
 					<string name="0" value="8645204"/>
@@ -11210,13 +11210,13 @@
 		</imgdir>
 		<imgdir name="410003080">
 			<imgdir name="west00">
-				<string name="Title" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+				<string name="Title" value="Hotel Arcus Saloon"/>
 				<imgdir name="Npc">
-					<string name="0" value="&#43690;&#43690;&#43690;&#43690;"/>
-					<string name="1" value="&#43690;&#43690;&#43690;&#43690;"/>
-					<string name="2" value="&#43690;&#43690;"/>
-					<string name="3" value="&#43690;&#43690;&#43690;&#43690;"/>
-					<string name="4" value="&#43690;&#43690;&#43690;"/>
+					<string name="0" value="Rusty"/>
+					<string name="1" value="Archelon"/>
+					<string name="2" value="Belle"/>
+					<string name="3" value="Irena"/>
+					<string name="4" value="Senya"/>
 				</imgdir>
 			</imgdir>
 		</imgdir>
