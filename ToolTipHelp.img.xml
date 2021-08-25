@@ -8400,6 +8400,29 @@
 				<string name="Title" value="Stage 9 Reward / Unique Potential Scroll 80%"/>
 			</imgdir>
 		</imgdir>
+		<imgdir name="867155100">
+			<imgdir name="0">
+				<string name="Title" value="Rest Here to Gain EXP (Lv. 105+ Required)"/>
+			</imgdir>
+			<imgdir name="1">
+				<string name="Title" value="Rest Here to Gain Diligence."/>
+			</imgdir>
+			<imgdir name="2">
+				<string name="Title" value="Rest Here to Gain Ambition."/>
+			</imgdir>
+			<imgdir name="3">
+				<string name="Title" value="Rest Here to Gain Empathy."/>
+			</imgdir>
+			<imgdir name="4">
+				<string name="Title" value="Rest Here to Gain Charm."/>
+			</imgdir>
+			<imgdir name="5">
+				<string name="Title" value="Rest Here to Gain Willpower."/>
+			</imgdir>
+			<imgdir name="6">
+				<string name="Title" value="Rest Here to Gain Insight."/>
+			</imgdir>
+		</imgdir>
 	</imgdir>
 	<imgdir name="PortalTooltip">
 		<imgdir name="100000000">

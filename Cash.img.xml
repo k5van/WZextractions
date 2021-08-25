@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <imgdir name="Cash.img">
 	<imgdir name="5010000">
-		<string name="name" value="Sunny Day"/>
+		<string name="name" value="Smiley Sun"/>
 		<string name="desc" value="A special effect in which you&apos;ll see a brightly smiling sun floating over you. On the KeyConfig, configure this on a button of your choice to turn the effect on/off."/>
 	</imgdir>
 	<imgdir name="5010001">
@@ -1939,9 +1939,7 @@
 	</imgdir>
 	<imgdir name="5150157">
 		<string name="name" value="Change Royal Hair Coupon"/>
-		<string name="desc" value="#cDouble-click# to exchange it for a random Royal hairstyle. #cDouble-click# it in the Cash Shop for a preview!
-#cAll hairstyles are obtained at the same rate.#
-Talk to NPC Lauren at Henesys Hair Salon for Androids."/>
+		<string name="desc" value="#cDouble-click# to use this coupon to change your hairstyle, or talk to Lauren at Henesys Hair Salon to change your Android&apos;s hair. The new hairstyle will be selected from a pool of possible Change Royal hairstyles (each hair will be selected according to set probability rates). Double-click it in the Cash Shop for a#c preview#! Usable once."/>
 	</imgdir>
 	<imgdir name="5150159">
 		<string name="name" value="All-Star Hair Choice Coupon"/>
@@ -2249,8 +2247,7 @@ Talk to NPC Lauren at Henesys Hair Salon for Androids."/>
 	</imgdir>
 	<imgdir name="5152226">
 		<string name="name" value="Change Royal Face Coupon"/>
-		<string name="desc" value="#cDouble-click# for a random face. #cDouble-click# it in the Cash Shop for a preview! #cAll faces are obtained at the same rate.#
-Talk to NPC Lauren at Henesys Hair Salon for Androids."/>
+		<string name="desc" value="#cDouble-click# to use this coupon to change your face, or talk to Lauren at Henesys Hair Salon to change your Android&apos;s face. The new face will be selected from a pool of possible Change Royal faces (each face will be selected according to set probability rates). Double-click it in the Cash Shop for a#c preview#! Usable once."/>
 	</imgdir>
 	<imgdir name="5152228">
 		<string name="name" value="All-Star Face Choice Coupon"/>
@@ -7675,9 +7672,9 @@ Talk to NPC Lauren at Henesys Hair Salon for Androids."/>
 		<string name="name" value="MapleStory Gift"/>
 	</imgdir>
 	<imgdir name="5680800">
-		<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="desc_leftalign" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="desc" value="Thank you for visiting the #cPink Bean House#! Here, this is for you! (#cDouble-click# to receive Pink Bean&apos;s gift.)"/>
+		<string name="name" value="Pink Bean House Gift"/>
+		<string name="desc_leftalign" value="#c[Obtainable Items]\n- Pink Bean Horns\n- Mobile Mansion Horns: Golden Color#"/>
 	</imgdir>
 	<imgdir name="5680810">
 		<string name="name" value="Gentle Breeze Hair Selection Coupon (M)"/>
@@ -12699,5 +12696,20 @@ Upon using the cube, the value of all potentials #cwill become consistent with t
 	<imgdir name="5538369">
 		<string name="name" value="Evan &amp; Mir Animals Chat Emoticon (Woozy) Coupon"/>
 		<string name="desc" value="#cDouble-click# to obtain the #cEvan &amp; Mir Animals Chat Emoticon (Woozy) Coupon#."/>
+	</imgdir>
+	<imgdir name="5010192">
+		<string name="name" value="Blessing of the Maple Tree"/>
+		<string name="desc" value="Blessing of the Bright Maple Tree. Double-click to toggle the effect, or set up a hotkey for it in your Key Config."/>
+	</imgdir>
+	<imgdir name="5240220">
+		<string name="name" value="Nom Nom Sugar"/>
+		<string name="desc" value="A delicious Nom Nom Sugar prepared specially for the #cMouthwatering Pets#. Recovers Fullness completely and#c increases Closeness by 100.#"/>
+	</imgdir>
+	<imgdir name="5533148">
+		<string name="name" value="Floral Summer Crown Random Box"/>
+		<string name="desc" value="#cDouble-click# to receive a random Floral Summer Crown."/>
+	</imgdir>
+	<imgdir name="5121106">
+		<string name="name" value="Stan Band Field Show"/>
 	</imgdir>
 </imgdir>

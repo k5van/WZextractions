@@ -63317,4 +63317,108 @@
 			<string name="mapName" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
 		</imgdir>
 	</imgdir>
+	<imgdir name="PL_MooIsland">
+		<imgdir name="867155000">
+			<string name="streetName" value="Goo Island"/>
+			<string name="mapName" value="Goo Island"/>
+		</imgdir>
+		<imgdir name="867155100">
+			<string name="streetName" value="Goo Island"/>
+			<string name="mapName" value="Tranquility Falls"/>
+		</imgdir>
+		<imgdir name="867155200">
+			<string name="streetName" value="Goo Island"/>
+			<string name="mapName" value="Near the Great Goo Tree"/>
+		</imgdir>
+		<imgdir name="867155230">
+			<string name="streetName" value="Goo Island"/>
+			<string name="mapName" value="Great Goo Tree"/>
+		</imgdir>
+		<imgdir name="867155260">
+			<string name="streetName" value="Goo Island"/>
+			<string name="mapName" value="Great Goo Tree"/>
+		</imgdir>
+		<imgdir name="867155300">
+			<string name="streetName" value="Goo Island"/>
+			<string name="mapName" value="The Great Goo Tree"/>
+		</imgdir>
+		<imgdir name="867156500">
+			<string name="streetName" value="Goo Island"/>
+			<string name="mapName" value="Near Giga-Goo&apos;s Haunt"/>
+		</imgdir>
+		<imgdir name="867156600">
+			<string name="streetName" value="Goo Island"/>
+			<string name="mapName" value="Giga-Goo&apos;s Haunt"/>
+		</imgdir>
+		<imgdir name="867156700">
+			<string name="streetName" value="Goo Island"/>
+			<string name="mapName" value="Below Giga-Goo&apos;s Haunt"/>
+		</imgdir>
+		<imgdir name="867155800">
+			<string name="streetName" value="Goo Island"/>
+			<string name="mapName" value="Goo Ruins Exit"/>
+		</imgdir>
+		<imgdir name="867155900">
+			<string name="streetName" value="Goo Island"/>
+			<string name="mapName" value="Goo Ruins 1st Floor"/>
+		</imgdir>
+		<imgdir name="867156000">
+			<string name="streetName" value="Goo Island"/>
+			<string name="mapName" value="Goo Ruins 2nd Floor"/>
+		</imgdir>
+		<imgdir name="867156100">
+			<string name="streetName" value="Goo Island"/>
+			<string name="mapName" value="Goo Ruins 3rd Floor"/>
+		</imgdir>
+		<imgdir name="867156200">
+			<string name="streetName" value="Goo Island"/>
+			<string name="mapName" value="Goo Ruins 4th Floor"/>
+		</imgdir>
+		<imgdir name="867156300">
+			<string name="streetName" value="Goo Island"/>
+			<string name="mapName" value="Goo Ruins 5th Floor"/>
+		</imgdir>
+		<imgdir name="867156400">
+			<string name="streetName" value="Goo Island"/>
+			<string name="mapName" value="Goo Ruins 6th Floor"/>
+		</imgdir>
+		<imgdir name="867155860">
+			<string name="streetName" value="Goo Island"/>
+			<string name="mapName" value="Goo Ruins Exit"/>
+		</imgdir>
+		<imgdir name="867155850">
+			<string name="streetName" value="Goo Island"/>
+			<string name="mapName" value="Goo Ruins Entrance"/>
+		</imgdir>
+	</imgdir>
+	<imgdir name="Wz2_Event">
+		<imgdir name="867154000">
+			<string name="streetName" value="&lt;Night Troupe&gt;"/>
+			<string name="mapName" value="Dreams and Illusions Festival Venue"/>
+		</imgdir>
+		<imgdir name="867154001">
+			<string name="streetName" value="&lt;Night Troupe&gt;"/>
+			<string name="mapName" value="Dreams and Illusions Festival Venue"/>
+		</imgdir>
+		<imgdir name="867154002">
+			<string name="streetName" value="&lt;Night Troupe&gt;"/>
+			<string name="mapName" value="Mushroom Balloon Entry Map"/>
+		</imgdir>
+		<imgdir name="867154003">
+			<string name="streetName" value="&lt;Night Troupe&gt;"/>
+			<string name="mapName" value="Mushroom Balloon Exit Map"/>
+		</imgdir>
+		<imgdir name="867154100">
+			<string name="streetName" value="&lt;Night Troupe&gt;"/>
+			<string name="mapName" value="Flower Pig Troupe Rider"/>
+		</imgdir>
+		<imgdir name="867154200">
+			<string name="streetName" value="&lt;Night Troupe&gt;"/>
+			<string name="mapName" value="Mushroom Balloon"/>
+		</imgdir>
+		<imgdir name="867154300">
+			<string name="streetName" value="&lt;Night Troupe&gt;"/>
+			<string name="mapName" value="Circus Stage"/>
+		</imgdir>
+	</imgdir>
 </imgdir>

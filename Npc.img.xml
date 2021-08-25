@@ -34080,12 +34080,12 @@
 		<string name="d1" value="This is the Rise Salon, a beautiful place full of beautiful people."/>
 	</imgdir>
 	<imgdir name="9062276">
-		<string name="name" value="&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="func" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="d0" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="d1" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="n0" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="n1" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="Pink Bean"/>
+		<string name="func" value="Mobile Mansion"/>
+		<string name="d0" value="Level up the Mobile Mansion!"/>
+		<string name="d1" value="Level up the Mobile Mansion!"/>
+		<string name="n0" value="Awesome Mobile Mansion!"/>
+		<string name="n1" value="I&apos;ll visit anytime if there are Pink Bean toys!"/>
 	</imgdir>
 	<imgdir name="9062277">
 		<string name="name" value="Arthur"/>
@@ -45753,6 +45753,7 @@
 	<imgdir name="9390252">
 		<string name="name" value="Ms. Molly"/>
 		<string name="n0" value="Don&apos;t worry. Whatever you deposit won&apos;t be lost or destroyed."/>
+		<string name="func" value="Storage Keeper"/>
 	</imgdir>
 	<imgdir name="9390253">
 		<string name="name" value="Maestra Fiametta"/>
@@ -50718,5 +50719,180 @@
 	<imgdir name="9201621">
 		<string name="name" value="8/3 Miracle Time"/>
 		<string name="func" value="Miracle Time Registrations are selling like hot cakes!"/>
+	</imgdir>
+	<imgdir name="9401406">
+		<string name="name" value="Mayor McGoo"/>
+	</imgdir>
+	<imgdir name="9401407">
+		<string name="name" value="Slime Goos"/>
+		<string name="func" value="Goo Battle"/>
+	</imgdir>
+	<imgdir name="9401420">
+		<string name="name" value="Goo Gachapon"/>
+		<string name="func" value="Goo Island Getaway"/>
+		<string name="d0" value="Sqluertch... Sqluertch..."/>
+		<string name="d1" value="Splurk... Splurk..."/>
+	</imgdir>
+	<imgdir name="9401408">
+		<string name="name" value="Messy Goo"/>
+		<string name="func" value="Goo Ruins Exploration"/>
+	</imgdir>
+	<imgdir name="9401409">
+		<string name="name" value="Messy Goo"/>
+		<string name="func" value="Giga-Goo Assault"/>
+	</imgdir>
+	<imgdir name="9401410">
+		<string name="name" value="Glamorous Goo"/>
+	</imgdir>
+	<imgdir name="9401421">
+		<string name="name" value="Messy Goo"/>
+		<string name="func" value="Giga-Goo Assault"/>
+	</imgdir>
+	<imgdir name="9401422">
+		<string name="name" value="Messy Goo"/>
+		<string name="func" value="Dye Hunt"/>
+	</imgdir>
+	<imgdir name="9401411">
+		<string name="name" value="Gloopy Red Goo"/>
+		<string name="func" value="Goo Fruitapalooza"/>
+	</imgdir>
+	<imgdir name="9401412">
+		<string name="name" value="Gloopy Red Goo"/>
+		<string name="func" value="Goo Fruitapalooza"/>
+	</imgdir>
+	<imgdir name="9401413">
+		<string name="name" value="Gloopy Red Goo"/>
+		<string name="func" value="Goo Fruitapalooza"/>
+	</imgdir>
+	<imgdir name="9401414">
+		<string name="name" value="Gloopy Purple Goo"/>
+		<string name="func" value="Goo Fruitapalooza"/>
+	</imgdir>
+	<imgdir name="9401415">
+		<string name="name" value="Gloopy Purple Goo"/>
+		<string name="func" value="Goo Fruitapalooza"/>
+	</imgdir>
+	<imgdir name="9401416">
+		<string name="name" value="Gloopy Purple Goo"/>
+		<string name="func" value="Goo Fruitapalooza"/>
+	</imgdir>
+	<imgdir name="9401417">
+		<string name="name" value="Gloopy Yellow Goo"/>
+		<string name="func" value="Goo Fruitapalooza"/>
+	</imgdir>
+	<imgdir name="9401418">
+		<string name="name" value="Gloopy Yellow Goo"/>
+		<string name="func" value="Goo Fruitapalooza"/>
+	</imgdir>
+	<imgdir name="9401419">
+		<string name="name" value="Gloopy Yellow Goo"/>
+		<string name="func" value="Goo Fruitapalooza"/>
+	</imgdir>
+	<imgdir name="9401428">
+		<string name="name" value="Information Island"/>
+	</imgdir>
+	<imgdir name="9401429">
+		<string name="name" value="Tranquility Falls"/>
+	</imgdir>
+	<imgdir name="9401430">
+		<string name="name" value="Fruit Island"/>
+		<string name="d0" value="Bang! Pop!"/>
+		<string name="d1" value="You can tell which team&apos;s in first place for Fruitapalooza by the color of the fireworks!"/>
+	</imgdir>
+	<imgdir name="9401431">
+		<string name="name" value="Goo Tree Island"/>
+	</imgdir>
+	<imgdir name="9401432">
+		<string name="name" value="Ruined Island"/>
+	</imgdir>
+	<imgdir name="9401433">
+		<string name="name" value="Return"/>
+	</imgdir>
+	<imgdir name="9401231">
+		<string name="name" value="Spiegelmann"/>
+		<string name="func" value="Troupe Leader"/>
+		<string name="n0" value="Welcome to the long-awaited festival of the century! A world of dreams and illusions! Welcome to the wonders of the &lt;Night Troupe&gt;."/>
+		<string name="n1" value="Imagination becomes reality! YOUR imagination, as you grace our festival with your amazing design skills!"/>
+		<string name="d0" value="Welcome to the long-awaited festival of the century! A world of dreams and illusions! Welcome to the wonders of the &lt;Night Troupe&gt;."/>
+		<string name="d1" value="Imagination becomes reality! YOUR imagination, as you grace our festival with your amazing design skills!"/>
+	</imgdir>
+	<imgdir name="9401232">
+		<string name="name" value="Spiegelmann"/>
+		<string name="func" value="Troupe Leader"/>
+	</imgdir>
+	<imgdir name="9401233">
+		<string name="name" value="Utah"/>
+		<string name="func" value="Flower Pig Rider Guide"/>
+		<string name="n0" value="Will you travel with me, on the Flower Pig, to the to the land of romantic dreams?"/>
+		<string name="n1" value="Gallivant across the dreamland astride your noble Flower Pig!"/>
+		<string name="d0" value="Will you travel with me, on the Flower Pig, to the to the land of romantic dreams?"/>
+		<string name="d1" value="Gallivant across the dreamland astride your noble Flower Pig!"/>
+	</imgdir>
+	<imgdir name="9401234">
+		<string name="name" value="Stan"/>
+		<string name="func" value="Stan Band"/>
+		<string name="n0" value="Will you enjoy the musical passion of the Stan Band?"/>
+		<string name="n1" value="You can help bring a great performance to life by sponsoring the Stan Band! We even prepared a sponsor perk!"/>
+		<string name="d0" value="Will you enjoy the musical passion of the Stan Band?"/>
+		<string name="d1" value="You can help bring a great performance to life by sponsoring the Stan Band! We even prepared a sponsor perk!"/>
+	</imgdir>
+	<imgdir name="9401235">
+		<string name="name" value="Mrs. Ming Ming"/>
+		<string name="func" value="Stan Band"/>
+	</imgdir>
+	<imgdir name="9401236">
+		<string name="name" value="Jay"/>
+		<string name="func" value="Stan Band"/>
+	</imgdir>
+	<imgdir name="9401237">
+		<string name="name" value="Alex"/>
+		<string name="func" value="Stan Band"/>
+	</imgdir>
+	<imgdir name="9401238">
+		<string name="name" value="Scarrs"/>
+		<string name="func" value="Mushroom Balloon Guide"/>
+		<string name="n0" value="Pop the Mushroom Balloon for Troupe Coins!"/>
+		<string name="n1" value="~You get Troupe Coins whenever the balloons pop!"/>
+		<string name="d0" value="Pop the Mushroom Balloons for Troupe Coins!"/>
+		<string name="d1" value="You get Troupe Coins whenever the balloons pop!"/>
+	</imgdir>
+	<imgdir name="9401239">
+		<string name="name" value="Cassandra"/>
+		<string name="func" value="Spinner Guide"/>
+		<string name="n0" value="Hey, designer? Don&apos;t you need some Troupe Coins?"/>
+		<string name="n1" value="All you&apos;ve gotta do is land on the Orange Mushroom! Just don&apos;t land on the lovely Cassandra, or she&apos;ll spirit your winnings away!"/>
+		<string name="d0" value="Hey, designer? You need some Troupe Coins, don&apos;t you?"/>
+		<string name="d1" value="All you&apos;ve gotta do is land on the Orange Mushroom! Just don&apos;t land on the lovely Cassandra, or she&apos;ll spirit your winnings away!"/>
+	</imgdir>
+	<imgdir name="9401240">
+		<string name="name" value="Spinner"/>
+	</imgdir>
+	<imgdir name="9401241">
+		<string name="name" value="Scarrs"/>
+		<string name="func" value="Mushroom Balloon Guide"/>
+	</imgdir>
+	<imgdir name="9401242">
+		<string name="name" value="Camila"/>
+	</imgdir>
+	<imgdir name="9401243">
+		<string name="name" value="Spectator"/>
+	</imgdir>
+	<imgdir name="9401244">
+		<string name="name" value="Spectator"/>
+	</imgdir>
+	<imgdir name="9401245">
+		<string name="name" value="Spectator"/>
+	</imgdir>
+	<imgdir name="9401246">
+		<string name="name" value="Spectator"/>
+	</imgdir>
+	<imgdir name="9401247">
+		<string name="name" value="Spectator"/>
+	</imgdir>
+	<imgdir name="9401248">
+		<string name="name" value="Spectator"/>
+	</imgdir>
+	<imgdir name="9401249">
+		<string name="name" value="Spectator"/>
 	</imgdir>
 </imgdir>

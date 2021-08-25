@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="AnnualEvent.img">
+	<imgdir name="grade">
+		<string name="0" value="Beginner Designer"/>
+		<string name="1" value="Junior Designer"/>
+		<string name="2" value="Senior Designer"/>
+		<string name="3" value="Veteran Designer"/>
+		<string name="4" value="Master Designer"/>
+	</imgdir>
+	<imgdir name="mainEvent">
+		<string name="1" value="[Event Period]\r\nMM/DD/YYYY HH:MM AM/PM UTC -\r\nMM/DD/YYYY HH:MM AM/PM UTC"/>
+		<string name="2" value="[Event Period]\r\nMM/DD/YYYY HH:MM AM/PM UTC -\r\nMM/DD/YYYY HH:MM AM/PM UTC"/>
+		<string name="3" value="[Event Period]\r\nMM/DD/YYYY HH:MM AM/PM UTC -\r\nMM/DD/YYYY HH:MM AM/PM UTC"/>
+		<string name="4" value="[Event Period]\r\nMM/DD/YYYY HH:MM AM/PM UTC -\r\nMM/DD/YYYY HH:MM AM/PM UTC"/>
+		<string name="5" value="The event has ended."/>
+		<string name="noEvent" value=""/>
+	</imgdir>
+	<imgdir name="Skill">
+		<string name="0" value="Do you want to spend Troupe Coin x{} and learn the {} skill?"/>
+		<string name="1" value="You need Troupe Coin x{} to learn the skill.\r\n[Required Troupe Coins: {}]"/>
+		<string name="2" value="This skill is at max level."/>
+		<string name="3" value="This skill can be learned when you reach the {} rank.
+"/>
+		<string name="4" value="You haven&apos;t completed the prerequisite skill."/>
+	</imgdir>
+</imgdir>

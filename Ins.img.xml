@@ -3506,8 +3506,8 @@
 		<string name="desc" value="Receive a 1-on-1 lesson from Mu Gong.\nWhen you sit in this chair, you have to pay 1 Mu Lung Dojo point every 10 seconds, starting from the moment you sit down. #cRestores 100 HP and 100 MP every 10 seconds.#\n\nYou can enter the maximum amount of Mu Lung Dojo points you&apos;re willing to spend each time you sit in the chair.\n\n"/>
 	</imgdir>
 	<imgdir name="3018467">
-		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="Return of the Mobile Mansion"/>
+		<string name="desc" value="The Mobile Mansion that Pink Bean gave you. Restores 50 HP and 50 MP every 10 seconds."/>
 	</imgdir>
 	<imgdir name="3018468">
 		<string name="name" value="Snow Day"/>
@@ -6348,7 +6348,7 @@ If you feed #cFruit# to the Parrot, it might change color and gain a level. The 
 		<string name="name" value="Horse"/>
 	</imgdir>
 	<imgdir name="3801293">
-		<string name="name" value="Goat"/>
+		<string name="name" value="Sheep"/>
 	</imgdir>
 	<imgdir name="3801294">
 		<string name="name" value="Monkey"/>
@@ -17922,5 +17922,33 @@ Keep it in your Inventory Set-up tab for 30 minutes to receive a Shiny Easter Eg
 	<imgdir name="3012043">
 		<string name="name" value="Lovebulb Couples Chair"/>
 		<string name="desc" value="There&apos;s a spark between us! \r\n#cRestores 100 HP and 100 MP every 10 seconds.#"/>
+	</imgdir>
+	<imgdir name="3018710">
+		<string name="name" value="Goo Chair"/>
+		<string name="desc" value="It&apos;s a Gloopy Goo Chair. \r\n#cRestores 100 HP and 100 MP every 10 seconds.#"/>
+	</imgdir>
+	<imgdir name="3018711">
+		<string name="name" value="Goo Gachapon Chair"/>
+		<string name="desc" value="It&apos;s a Goo Gachapon Chair. What could be inside?\r\n#cRestores 100 HP and 100 MP every 10 seconds.#"/>
+	</imgdir>
+	<imgdir name="3018731">
+		<string name="name" value="Make Pumpkin Lantern Friends Chair"/>
+		<string name="desc" value="Carve a pumpkin lantern with friends! \r\n#cRestores 100 HP and 100 MP every 10 seconds.#"/>
+	</imgdir>
+	<imgdir name="3018732">
+		<string name="name" value="Spooky Maple Family Chair"/>
+		<string name="desc" value="It&apos;s a Spooky Maple Family Chair. \r\n#cRestores 100 HP and 100 MP every 10 seconds.#"/>
+	</imgdir>
+	<imgdir name="3018733">
+		<string name="name" value="Fox that Embroidered the River of Stars Chair"/>
+		<string name="desc" value="It&apos;s a Fox that Embroidered the River of Stars Chair. \r\n#cRestores 100 HP and 100 MP every 10 seconds.#"/>
+	</imgdir>
+	<imgdir name="3018734">
+		<string name="name" value="Crow and Me Chair"/>
+		<string name="desc" value="It&apos;s a Crow and Me Chair. \r\n#cRestores 100 HP and 100 MP every 10 seconds.#"/>
+	</imgdir>
+	<imgdir name="3700654">
+		<string name="name" value="Henesys Troupe"/>
+		<string name="desc" value="A special title given to those who put in the effort to design the Night Troupe&apos;s fantastic Henesys festival."/>
 	</imgdir>
 </imgdir>

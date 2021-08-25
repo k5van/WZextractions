@@ -4117,7 +4117,7 @@
 		<string name="name" value="Strong Stone Goblin"/>
 	</imgdir>
 	<imgdir name="8144008">
-		<string name="name" value="Ganapati"/>
+		<string name="name" value="Stone Goblin Guardian"/>
 	</imgdir>
 	<imgdir name="8145000">
 		<string name="name" value="Creeper Scarlion"/>
@@ -18580,7 +18580,7 @@
 		<string name="name" value="Strong Stone Goblin"/>
 	</imgdir>
 	<imgdir name="9800178">
-		<string name="name" value="Ganapati"/>
+		<string name="name" value="Stone Goblin Guardian"/>
 	</imgdir>
 	<imgdir name="9800179">
 		<string name="name" value="Swollen Stump"/>
@@ -29104,5 +29104,107 @@
 	</imgdir>
 	<imgdir name="9601710">
 		<string name="name" value="Boss (Luska)"/>
+	</imgdir>
+	<imgdir name="9601695">
+		<string name="name" value="Ancient Megagoo"/>
+	</imgdir>
+	<imgdir name="9601696">
+		<string name="name" value="Goo&apos;s Scattered Soul Fragment"/>
+	</imgdir>
+	<imgdir name="9601697">
+		<string name="name" value="Goo&apos;s Scattered Soul Fragment"/>
+	</imgdir>
+	<imgdir name="9601698">
+		<string name="name" value="Goo&apos;s Scattered Soul Fragment"/>
+	</imgdir>
+	<imgdir name="9601699">
+		<string name="name" value="Goo&apos;s Scattered Soul Fragment"/>
+	</imgdir>
+	<imgdir name="9601700">
+		<string name="name" value="Goo Ruins Gold Chest"/>
+	</imgdir>
+	<imgdir name="9601701">
+		<string name="name" value="Goo Ruins Silver Chest"/>
+	</imgdir>
+	<imgdir name="9601702">
+		<string name="name" value="Goo Ruins Bronze Chest"/>
+	</imgdir>
+	<imgdir name="9601703">
+		<string name="name" value="Foothold Trap"/>
+	</imgdir>
+	<imgdir name="9601704">
+		<string name="name" value="Spear Trap"/>
+	</imgdir>
+	<imgdir name="9601709">
+		<string name="name" value="Megagoo Slime"/>
+	</imgdir>
+	<imgdir name="9601708">
+		<string name="name" value="Slime Goos"/>
+	</imgdir>
+	<imgdir name="9601600">
+		<string name="name" value="Mushroom Balloon"/>
+	</imgdir>
+	<imgdir name="9601601">
+		<string name="name" value="Mushroom Balloon"/>
+	</imgdir>
+	<imgdir name="9601602">
+		<string name="name" value="Mushroom Balloon"/>
+	</imgdir>
+	<imgdir name="9601603">
+		<string name="name" value="Mushroom Balloon"/>
+	</imgdir>
+	<imgdir name="9601604">
+		<string name="name" value="Mushroom Balloon"/>
+	</imgdir>
+	<imgdir name="9601605">
+		<string name="name" value="Mushroom Balloon"/>
+	</imgdir>
+	<imgdir name="9601606">
+		<string name="name" value="Mushroom Balloon"/>
+	</imgdir>
+	<imgdir name="9601607">
+		<string name="name" value="Mushroom Balloon"/>
+	</imgdir>
+	<imgdir name="9601608">
+		<string name="name" value="Mushroom Balloon"/>
+	</imgdir>
+	<imgdir name="9601609">
+		<string name="name" value="Mushroom Balloon"/>
+	</imgdir>
+	<imgdir name="9601610">
+		<string name="name" value="Horny Mushroom Balloon"/>
+	</imgdir>
+	<imgdir name="9601611">
+		<string name="name" value="Horny Mushroom Balloon"/>
+	</imgdir>
+	<imgdir name="9601612">
+		<string name="name" value="Horny Mushroom Balloon"/>
+	</imgdir>
+	<imgdir name="9601613">
+		<string name="name" value="Horny Mushroom Balloon"/>
+	</imgdir>
+	<imgdir name="9601614">
+		<string name="name" value="Horny Mushroom Balloon"/>
+	</imgdir>
+	<imgdir name="9601615">
+		<string name="name" value="Horny Mushroom Balloon"/>
+	</imgdir>
+	<imgdir name="9601616">
+		<string name="name" value="Horny Mushroom Balloon"/>
+	</imgdir>
+	<imgdir name="9601617">
+		<string name="name" value="Horny Mushroom Balloon"/>
+	</imgdir>
+	<imgdir name="9601618">
+		<string name="name" value="Horny Mushroom Balloon"/>
+	</imgdir>
+	<imgdir name="9601619">
+		<string name="name" value="Horny Mushroom Balloon"/>
+	</imgdir>
+	<imgdir name="9601620">
+		<string name="name" value="Mushroom Balloon"/>
+	</imgdir>
+	<imgdir name="9601621">
+		<string name="name" value="Horny Mushroom Balloon"/>
 	</imgdir>
 </imgdir>

@@ -2054,8 +2054,8 @@
 			<string name="desc" value="Strong Stone Goblins wear this heavy crown to look powerful."/>
 		</imgdir>
 		<imgdir name="4000678">
-			<string name="name" value="Ganapati&apos;s Poleaxe"/>
-			<string name="desc" value="A big heavy weapon used by Ganapati. It&apos;s far too heavy for your tiny arms to handle."/>
+			<string name="name" value="Stone Goblin Guardian&apos;s Hammer"/>
+			<string name="desc" value="A hammer used by the Stone Goblin Guardian. It&apos;s far too heavy for your tiny arms to handle."/>
 		</imgdir>
 		<imgdir name="4000679">
 			<string name="name" value="Scarlion Muffler"/>
@@ -28891,6 +28891,46 @@ Looking at this fills you with hope. It&apos;s terribly fragile, so handle with 
 		<imgdir name="4023027">
 			<string name="name" value="Forever Unrelenting Black Flame"/>
 			<string name="desc" value="A perpetual black flame used for making Black Rebirth Flames."/>
+		</imgdir>
+		<imgdir name="4001907">
+			<string name="name" value="Goo Blue Flame"/>
+			<string name="desc" value="This Blue Flame is blazing hot, but somehow it feels squishy."/>
+		</imgdir>
+		<imgdir name="4009488">
+			<string name="name" value="Goo-Pon #1"/>
+			<string name="desc" value="Collect all seven types of Goo-Pons and bring them to the Goo Gachapon!"/>
+		</imgdir>
+		<imgdir name="4009489">
+			<string name="name" value="Goo-Pon #2"/>
+			<string name="desc" value="Collect all seven types of Goo-Pons and bring them to the Goo Gachapon!"/>
+		</imgdir>
+		<imgdir name="4009490">
+			<string name="name" value="Goo-Pon #3"/>
+			<string name="desc" value="Collect all seven types of Goo-Pons and bring them to the Goo Gachapon!"/>
+		</imgdir>
+		<imgdir name="4009491">
+			<string name="name" value="Goo-Pon #4"/>
+			<string name="desc" value="Collect all seven types of Goo-Pons and bring them to the Goo Gachapon!"/>
+		</imgdir>
+		<imgdir name="4009492">
+			<string name="name" value="Goo-Pon #5"/>
+			<string name="desc" value="Collect all seven types of Goo-Pons and bring them to the Goo Gachapon!"/>
+		</imgdir>
+		<imgdir name="4009493">
+			<string name="name" value="Goo-Pon #6"/>
+			<string name="desc" value="Collect all seven types of Goo-Pons and bring them to the Goo Gachapon!"/>
+		</imgdir>
+		<imgdir name="4009494">
+			<string name="name" value="Goo-Pon #7"/>
+			<string name="desc" value="Collect all seven types of Goo-Pons and bring them to the Goo Gachapon!"/>
+		</imgdir>
+		<imgdir name="4009495">
+			<string name="name" value="Goo Coin"/>
+			<string name="desc" value="Usable at the Goo Gachapon located in town."/>
+		</imgdir>
+		<imgdir name="4310297">
+			<string name="name" value="Troupe Coin"/>
+			<string name="desc" value="A coin containing the special power of the Night Troupe.\nUsed in decorating the #cfestival blueprint#."/>
 		</imgdir>
 	</imgdir>
 </imgdir>

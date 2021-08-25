@@ -1681,8 +1681,8 @@
 		<string name="descD" value="Lil Boo has turned into a doll. You can revive it with the Water of Life."/>
 	</imgdir>
 	<imgdir name="5002146">
-		<string name="name" value="Sonara Wave"/>
-		<string name="desc" value="It&apos;s #cSonara Wave#, lover of music."/>
+		<string name="name" value="Lil Wave"/>
+		<string name="desc" value="It&apos;s #cLil Wave#, lover of music."/>
 		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
 	</imgdir>
 	<imgdir name="5002161">
@@ -5059,5 +5059,35 @@
 		<string name="name" value="Lil Cactus"/>
 		<string name="desc" value="A Lil Cactus who once ruled the desert. \nEquip to obtain the #cNihal&apos;s Mysterious Power# skill, which grows stronger as you equip more Nihal Desert pets (max 3)."/>
 		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002284">
+		<string name="name" value="Yellow Fox"/>
+		<string name="desc" value="A Yellow Fox pet. \nEquip Summer Fox pets to get the #cSummer Foxes&apos; Mysterious Power# skill, which grows stronger as you equip more Summer Fox pets."/>
+		<string name="descd" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002285">
+		<string name="name" value="Brown Fox"/>
+		<string name="desc" value="A Brown Fox pet. \nEquip Summer Fox pets to get the #cSummer Foxes&apos; Mysterious Power# skill, which grows stronger as you equip more Summer Fox pets."/>
+		<string name="descd" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002286">
+		<string name="name" value="White Fox"/>
+		<string name="desc" value="A White Fox pet. \nEquip Summer Fox pets to get the #cSummer Foxes&apos; Mysterious Power# skill, which grows stronger as you equip more Summer Fox pets."/>
+		<string name="descd" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002278">
+		<string name="name" value="Bit Cookie"/>
+		<string name="desc" value="A Bit Cookie pet. \nEquip to obtain the #cMouthwatering Sweetness# skill, which grows stronger as you equip more Mouthwatering pets (max 3)."/>
+		<string name="descd" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002279">
+		<string name="name" value="Bit Macaroon"/>
+		<string name="desc" value="A Bit Macaroon pet. \nEquip to obtain the #cMouthwatering Sweetness# skill, which grows stronger as you equip more Mouthwatering pets (max 3)."/>
+		<string name="descd" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002280">
+		<string name="name" value="Melty Pop"/>
+		<string name="desc" value="A Melty Pop pet. \nEquip to obtain the #cMouthwatering Sweetness# skill, which grows stronger as you equip more Mouthwatering pets (max 3)."/>
+		<string name="descd" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
 	</imgdir>
 </imgdir>

@@ -15126,7 +15126,7 @@
 	<imgdir name="30001068">
 		<string name="name" value="Jet Booster"/>
 		<string name="desc" value="Activate the booster to move quickly. Using skills in the air will consume the booster gauge. As soon as you land, the booster gauge will recover. Jett Boosters cannot be added to the Skill Macro."/>
-		<string name="h" value="Booster Max: #x, All Skill Activation MP Cost: #y\n#cDouble Acceleration#: While in the air, press the jump or skill key to perform a mid-air jump. Consumes #z of the booster. Can be used even when not mounted on the Mech, in which case it does not consume any of the booster.\n#cBooster Deployment#: CWhile in the air, press the Down key, together with the jump or skill key, to hover in the air at a cost of #q of the booster per sec. \n#cMechanic Dash#: Press Left twice, Right twice, or, if on the ground, Left/Right plus the skill key to dash in a straight line. If used in the air, consumes #q2 of the booster. Cooldown: #t sec."/>
+		<string name="h" value="Booster Max: #x, All Skill Activation MP Cost: #y\n#cDouble Acceleration#: While in the air, press the jump or skill key to perform a mid-air jump. Consumes #z of the booster. Can be used even when not mounted on the Mech, in which case it does not consume any of the booster.\n#cBooster Deployment#: While in the air, press the Down key, together with the jump or skill key, to hover in the air at a cost of #q of the booster per sec. \n#cMechanic Dash#: Press Left twice, Right twice, or, if on the ground, Left/Right plus the skill key to dash in a straight line. If used in the air, consumes #q2 of the booster. Cooldown: #t sec."/>
 	</imgdir>
 	<imgdir name="30001078">
 		<string name="name" value="Mechanic Dash"/>
@@ -25089,7 +25089,7 @@
 	</imgdir>
 	<imgdir name="80000606">
 		<string name="name" value="Monstrous Powergaming! Lv. 1"/>
-		<string name="desc" value="We&apos;re not your everyday Snail, Slime, and Orange Mushroom! We&apos;ve got the ultimate glow-up! Attack Power and Magic ATT increased by +3 with Pixel Power."/>
+		<string name="desc" value="We&apos;re not your everyday Snail, Slime, and Orange Mushroom! We&apos;ve got the ultimate glow-up! Attack Power and Magic ATT increased by 3 with Pixel Power."/>
 		<string name="h" value="#Attack Power: +#padX, Magic ATT: +#madX"/>
 	</imgdir>
 	<imgdir name="80000607">
@@ -45646,7 +45646,7 @@
 	<imgdir name="400051014">
 		<string name="name" value="Gravity Crush"/>
 		<string name="desc" value="A powerful singularity draws in enemies. Detonating the singularity inflicts significant damage across a wide area. Unaffected by attack reflection."/>
-		<string name="h" value="MP Cost: #mpCon, Draw in up to #mobCount enemies within range, stun them, and create a singularity which periodically deals #damage% damage. Number of attacks: #x. Singularity Duration: #time sec. When the skill duration ends, the singularity explodes, dealing #selfDestruction% AoE damage across a wide area #z time(s)."/>
+		<string name="h" value="MP Cost: #mpCon, Draw in up to #mobCount enemies within range, stun them, and create a singularity which periodically deals #damage% damage. Number of Attacks: #x. Singularity Duration: #time sec. When the skill duration ends or the skill is used again, the singularity explodes, dealing #selfDestruction% AoE damage across a wide area #z time(s)."/>
 	</imgdir>
 	<imgdir name="4001">
 		<string name="bookName" value="Hayato"/>
@@ -51334,91 +51334,103 @@ Unending Night: 3x Arcane River daily quest rewards, 10 Nodestones upon completi
  - [Daily Quest] Peace in Arcana"/>
 	</imgdir>
 	<imgdir name="80011880">
-		<string name="name" value="Festival&apos;s Intrigue: Rank C"/>
-		<string name="desc" value="The swirling energies of the eclipse infuse you with energy. The higher your Celestial Rank, the greater the effect."/>
+		<string name="name" value="Experience Zone: Lv. 1"/>
+		<string name="desc" value="Opens the various Experience Zones for you to enjoy the festival and liven up the mood. The higher your rank, the more creative options you&apos;ll have for the festival, and the better your perks."/>
 		<string name="h" value="Reduces Combo Kill Orb creation requirement to 45 kills."/>
 	</imgdir>
 	<imgdir name="80011881">
-		<string name="name" value="Festival&apos;s Intrigue: Rank B"/>
-		<string name="desc" value="The swirling energies of the eclipse infuse you with energy. The higher your Celestial Rank, the greater the effect."/>
-		<string name="h" value="EXP Rune effect: + 100%"/>
+		<string name="name" value="Experience Zone: Lv. 2"/>
+		<string name="desc" value="Opens the various Experience Zones for you to enjoy the festival and liven up the mood. The higher your rank, the more creative options you&apos;ll have for the festival, and the better your perks."/>
+		<string name="h" value="Reduces Combo Kill Orb creation requirement to 45 kills
+Rune EXP buff effect +100%"/>
 	</imgdir>
 	<imgdir name="80011882">
-		<string name="name" value="Festival&apos;s Intrigue: Rank A"/>
-		<string name="desc" value="The swirling energies of the eclipse infuse you with energy. The higher your Celestial Rank, the greater the effect."/>
-		<string name="h" value="Reduces Combo Kill Orb creation requirement to 40 kills."/>
+		<string name="name" value="Experience Zone: Lv. 3"/>
+		<string name="desc" value="Opens the various Experience Zones for you to enjoy the festival and liven up the mood. The higher your rank, the more creative options you&apos;ll have for the festival, and the better your perks."/>
+		<string name="h" value="Reduces Combo Kill Orb creation requirement to 40 kills
+Rune EXP buff effect +100%"/>
 	</imgdir>
 	<imgdir name="80011883">
-		<string name="name" value="Festival&apos;s Intrigue: Rank S"/>
-		<string name="desc" value="The swirling energies of the eclipse infuse you with energy. The higher your Celestial Rank, the greater the effect."/>
-		<string name="h" value="Combo Kill Orb EXP +100%"/>
+		<string name="name" value="Experience Zone: Lv. 4"/>
+		<string name="desc" value="Opens the various Experience Zones for you to enjoy the festival and liven up the mood. The higher your rank, the more creative options you&apos;ll have for the festival, and the better your perks."/>
+		<string name="h" value="Reduces Combo Kill Orb creation requirement to 40 kills
+Rune EXP buff effect +100%
+Combo Kill Orb EXP +100%"/>
 	</imgdir>
 	<imgdir name="80011884">
-		<string name="name" value="Festival&apos;s Exhilaration: Rank C"/>
-		<string name="desc" value="The excitement of the festival washes over you. The higher your Celestial Rank, the greater the effect."/>
+		<string name="name" value="Food Stand: Lv. 1"/>
+		<string name="desc" value="Provides a food stand with various snacks. Gotta keep your energy up for the festival, after all! The higher your rank, the more creative options you&apos;ll have for the festival, and the better your perks."/>
 		<string name="h" value="+5% EXP for defeating enemies."/>
 	</imgdir>
 	<imgdir name="80011885">
-		<string name="name" value="Festival&apos;s Exhilaration: Rank B"/>
-		<string name="desc" value="The excitement of the festival washes over you. The higher your Celestial Rank, the greater the effect."/>
-		<string name="h" value="+5% additional EXP for defeating enemies.
-(Stacks with previous rank.)"/>
+		<string name="name" value="Food Stand: Lv. 2"/>
+		<string name="desc" value="Provides a food stand with various snacks. Gotta keep your energy up for the festival, after all! The higher your rank, the more creative options you&apos;ll have for the festival, and the better your perks."/>
+		<string name="h" value="+5% EXP for defeating enemies
++5% EXP for defeating enemies (cumulative +10%)"/>
 	</imgdir>
 	<imgdir name="80011886">
-		<string name="name" value="Festival&apos;s Exhilaration: Rank A"/>
-		<string name="desc" value="The excitement of the festival washes over you. The higher your Celestial Rank, the greater the effect."/>
-		<string name="h" value="+5% additional EXP for defeating enemies.
-(Stacks with previous rank.)"/>
+		<string name="name" value="Food Stand: Lv. 3"/>
+		<string name="desc" value="Provides a food stand with various snacks. Gotta keep your energy up for the festival, after all! The higher your rank, the more creative options you&apos;ll have for the festival, and the better your perks."/>
+		<string name="h" value="+5% EXP for defeating enemies
++5% EXP for defeating enemies
++5% EXP for defeating enemies (cumulative +15%)"/>
 	</imgdir>
 	<imgdir name="80011887">
-		<string name="name" value="Festival&apos;s Exhilaration: Rank S"/>
-		<string name="desc" value="The excitement of the festival washes over you. The higher your Celestial Rank, the greater the effect."/>
-		<string name="h" value="10% additional EXP for defeating enemies.
-(Stacks with previous rank.)"/>
+		<string name="name" value="Food Stand: Lv. 4"/>
+		<string name="desc" value="Provides a food stand with various snacks. Gotta keep your energy up for the festival, after all! The higher your rank, the more creative options you&apos;ll have for the festival, and the better your perks."/>
+		<string name="h" value="+5% EXP for defeating enemies
++5% EXP for defeating enemies
++5% EXP for defeating enemies
++10% EXP for defeating enemies (cumulative +25%)"/>
 	</imgdir>
 	<imgdir name="80011888">
-		<string name="name" value="Festival&apos;s Splendor: Rank C"/>
-		<string name="desc" value="The beauty of the festival fills you with enthusiasm. The higher your Celestial Rank, the greater the effect."/>
-		<string name="h" value="You&apos;ll receive an additional Arcane Symbol for completing any of the following quests.
+		<string name="name" value="Souvenir Shop: Lv. 1"/>
+		<string name="desc" value="Opens a souvenir kiosk to make the festival even more abundant. The higher your rank, the more creative options you&apos;ll have for the festival, and the better your perks."/>
+		<string name="h" value="You&apos;ll receive an additional Arcane Symbol for completing any of the following quests:
 [Daily Quest] Vanishing Journey Research
-[Daily Quest] Save the Morass
-[Daily Quest] Esfera Research Orders
 [Daily Quest] Chu Chu&apos;s Finest Cuisine
 [Daily Quest] A Night&apos;s Peace in Lachelein
-[Daily Quest] Peace in Arcana"/>
+[Daily Quest] Peace in Arcana
+[Daily Quest] Save the Morass
+[Daily Quest] Esfera Research Orders"/>
 	</imgdir>
 	<imgdir name="80011889">
-		<string name="name" value="Festival&apos;s Splendor: Rank B"/>
-		<string name="desc" value="The beauty of the festival fills you with enthusiasm. The higher your Celestial Rank, the greater the effect."/>
-		<string name="h" value="You&apos;ll receive an additional Arcane Symbol for completing any of the following quests. (Stacks with similar buffs)
+		<string name="name" value="Souvenir Shop: Lv. 2"/>
+		<string name="desc" value="Opens a souvenir kiosk to make the festival even more abundant. The higher your rank, the more creative options you&apos;ll have for the festival, and the better your perks."/>
+		<string name="h" value="You&apos;ll receive an additional Arcane Symbol for completing any of the following quests (cumulative x2):
 [Daily Quest] Vanishing Journey Research
-[Daily Quest] Save the Morass
-[Daily Quest] Esfera Research Orders
 [Daily Quest] Chu Chu&apos;s Finest Cuisine
 [Daily Quest] A Night&apos;s Peace in Lachelein
-[Daily Quest] Peace in Arcana"/>
+[Daily Quest] Peace in Arcana
+[Daily Quest] Save the Morass
+[Daily Quest] Esfera Research Orders"/>
 	</imgdir>
 	<imgdir name="80011890">
-		<string name="name" value="Festival&apos;s Splendor: Rank A"/>
-		<string name="desc" value="The beauty of the festival fills you with enthusiasm. The higher your Celestial Rank, the greater the effect."/>
-		<string name="h" value="You&apos;ll receive an additional Arcane Symbol for completing any of the following quests. (Stacks with similar buffs)
+		<string name="name" value="Souvenir Shop: Lv. 3"/>
+		<string name="desc" value="Opens a souvenir kiosk to make the festival even more abundant. The higher your rank, the more creative options you&apos;ll have for the festival, and the better your perks."/>
+		<string name="h" value="You&apos;ll receive an additional Arcane Symbol for completing any of the following quests (cumulative x3):
 [Daily Quest] Vanishing Journey Research
-[Daily Quest] Save the Morass
-[Daily Quest] Esfera Research Orders
 [Daily Quest] Chu Chu&apos;s Finest Cuisine
 [Daily Quest] A Night&apos;s Peace in Lachelein
-[Daily Quest] Peace in Arcana"/>
+[Daily Quest] Peace in Arcana
+[Daily Quest] Save the Morass
+[Daily Quest] Esfera Research Orders"/>
 	</imgdir>
 	<imgdir name="80011891">
-		<string name="name" value="Festival&apos;s Splendor: Rank S"/>
-		<string name="desc" value="The beauty of the festival fills you with enthusiasm. The higher your Celestial Rank, the greater the effect."/>
-		<string name="h" value="Obtain the following items for free, once per character per week by speaking with Muhammad at the Festival Venue.
- - Empress Reset Ticket x1
- - Hard Magnus Reset Ticket x1
- - Chaos Von Bon Reset Ticket x1
- - Chaos Pierre Reset Ticket x1
- - Chaos Crimson Queen Reset Ticket x1
- - Chaos Vellum Reset Ticket x1"/>
+		<string name="name" value="Souvenir Shop: Lv. 4"/>
+		<string name="desc" value="Opens a souvenir kiosk to make the festival even more abundant. The higher your rank, the more creative options you&apos;ll have for the festival, and the better your perks."/>
+		<string name="h" value="You&apos;ll receive an additional Arcane Symbol for completing any of the following quests (cumulative x3):
+[Daily Quest] Vanishing Journey Research
+[Daily Quest] Chu Chu&apos;s Finest Cuisine
+[Daily Quest] A Night&apos;s Peace in Lachelein
+[Daily Quest] Peace in Arcana
+[Daily Quest] Save the Morass
+[Daily Quest] Esfera Research Orders
+
+Boss Clear Reset Ticket given for the following bosses every week:
+- Cygnus (Easy and Normal)
+- Magnus (Hard)
+- Crimson Queen, Pierre, Von Bon, and Vellum (Chaos)"/>
 	</imgdir>
 	<imgdir name="80011892">
 		<string name="name" value="Celestial Surge"/>
@@ -51441,48 +51453,48 @@ Celestial Rank A: 4% EXP per stack.
 Celestial Rank S: 5% EXP per stack."/>
 	</imgdir>
 	<imgdir name="80011894">
-		<string name="name" value="Festival&apos;s Intrigue: Pollo &amp; Fritto"/>
-		<string name="desc" value="Your enjoyment of the festival has rendered your other endeavors more fruitful."/>
+		<string name="name" value="Experience Zone: Pollo and Fritto Photo Zone"/>
+		<string name="desc" value="A photo zone to take a commemorative photo with Pollo and Fritto. Further strengthens the Pollo and Fritto perk."/>
 		<string name="h" value="2x EXP inside Pollo and Fritto&apos;s Bounty Hunting portals"/>
 	</imgdir>
 	<imgdir name="80011895">
-		<string name="name" value="Festival&apos;s Intrigue: Inferno Wolf"/>
-		<string name="desc" value="Your enjoyment of the festival has rendered your other endeavors more fruitful."/>
+		<string name="name" value="Experience Zone: Inferno Wolf Spring Rider"/>
+		<string name="desc" value="A mini-Spring Rider modeled after the Inferno Wolf. Further strengthens the Inferno Wolf perk."/>
 		<string name="h" value="2x EXP inside Inferno Wolf portals"/>
 	</imgdir>
 	<imgdir name="80011896">
-		<string name="name" value="Festival&apos;s Intrigue: Elite Bosses"/>
-		<string name="desc" value="Your enjoyment of the festival has rendered your other endeavors more fruitful."/>
+		<string name="name" value="Souvenir Shop: Motley Treasures"/>
+		<string name="desc" value="A souvenir shop, with a mysterious assortment of displays. It feels like Elite Boss Treasure Chests will be more bountiful if you have this shop up."/>
 		<string name="h" value="2x Elite Boss treasure chest reward"/>
 	</imgdir>
 	<imgdir name="80011897">
-		<string name="name" value="Festival&apos;s Exhilaration: Elite Monsters"/>
-		<string name="desc" value="Your excitement over the festival has rendered your other endeavors more fruitful."/>
+		<string name="name" value="Souvenir Shop: Elite Monster Balloons"/>
+		<string name="desc" value="A souvenir shop with balloons in various monster shapes. It feels like more Elite Monsters will appear if you have this shop up."/>
 		<string name="h" value="+1 Elite Monster on Elite Monster Spawn"/>
 	</imgdir>
 	<imgdir name="80011898">
-		<string name="name" value="Festival&apos;s Exhilaration: Monster Slayer"/>
-		<string name="desc" value="Your excitement over the festival has rendered your other endeavors more fruitful."/>
+		<string name="name" value="Food Stand: Monster Munchies"/>
+		<string name="desc" value="A snack stand to keep your energy up for the festival. It feels like eating here will help you face monsters."/>
 		<string name="h" value="Damage against normal monsters: +30%"/>
 	</imgdir>
 	<imgdir name="80011899">
-		<string name="name" value="Festival&apos;s Exhilaration: Buff Duration"/>
-		<string name="desc" value="Your excitement over the festival has rendered your other endeavors more fruitful."/>
+		<string name="name" value="Food Stand: Brunches and Buffs"/>
+		<string name="desc" value="A snack stand to keep your energy up for the festival. It feels like eating here will increase the duration of buffs."/>
 		<string name="h" value="Duration of all Buffs: +15%"/>
 	</imgdir>
 	<imgdir name="80011900">
-		<string name="name" value="Festival&apos;s Splendor: Monster Park"/>
-		<string name="desc" value="The splendor of the festival has rendered your other endeavors more fruitful."/>
+		<string name="name" value="Experience Zone: Monster Park Mini-car"/>
+		<string name="desc" value="Monster Park mini-car for the kids. Further strengthens the Monster Park perk."/>
 		<string name="h" value="2x Monster Park Clear EXP"/>
 	</imgdir>
 	<imgdir name="80011901">
-		<string name="name" value="Festival&apos;s Splendor: Boss Attack Power"/>
-		<string name="desc" value="The splendor of the festival has rendered your other endeavors more fruitful."/>
+		<string name="name" value="Food Stand: Boss Monster Meals"/>
+		<string name="desc" value="A snack stand to keep your energy up for the festival. It feels like eating here will help you face bosses."/>
 		<string name="h" value="Attack Power when attacking Boss Monsters: +30%"/>
 	</imgdir>
 	<imgdir name="80011902">
-		<string name="name" value="Festival&apos;s Splendor: My Home"/>
-		<string name="desc" value="The splendor of the festival has rendered your other endeavors more fruitful."/>
+		<string name="name" value="Souvenir Shop: Something for Home"/>
+		<string name="desc" value="A souvenir shop for both enjoying the festival also decorating your home. It feels like shopping here will help you out at the My Home Furniture store somehow."/>
 		<string name="h" value="100% chance to obtain furniture coin upon my home furniture shopping"/>
 	</imgdir>
 	<imgdir name="80011903">
@@ -52267,5 +52279,393 @@ Celestial Rank S: 5% EXP per stack."/>
 		<string name="name" value="Nihal&apos;s Mysterious Power Lv. 3"/>
 		<string name="desc" value="The adorable  power of Nihal Desert pets increases Attack Power and Magic ATT by 3."/>
 		<string name="h" value="#cAttack Power: +#padX, Magic ATT: +#madX#"/>
+	</imgdir>
+	<imgdir name="80012128">
+		<string name="name" value="Ride Aquastallion"/>
+		<string name="desc" value="Mount the Aquastallion."/>
+	</imgdir>
+	<imgdir name="80012129">
+		<string name="name" value="Ride Aquastallion"/>
+		<string name="desc" value="Mount the Aquastallion."/>
+	</imgdir>
+	<imgdir name="80012124">
+		<string name="name" value="Ride Aquastallion"/>
+		<string name="desc" value="Mount the Aquastallion."/>
+	</imgdir>
+	<imgdir name="80012123">
+		<string name="name" value="Ride Aquastallion"/>
+		<string name="desc" value="Mount the Aquastallion."/>
+	</imgdir>
+	<imgdir name="80012125">
+		<string name="name" value="Ride Aquastallion"/>
+		<string name="desc" value="Mount the Aquastallion."/>
+	</imgdir>
+	<imgdir name="80012151">
+		<string name="name" value="Goo Power: All Stats"/>
+		<string name="desc" value="#c[Goo Battle]#\nYour body thrums with the power of the Goo. Increases all stats and Max HP."/>
+		<string name="h" value="All Stats: +#strX, Max HP: +#mhpX, Max MP: +#mmpX"/>
+	</imgdir>
+	<imgdir name="80012152">
+		<string name="name" value="Goo Power: Enemy Damage"/>
+		<string name="desc" value="#c[Goo Battle]#\nYour body thrums with the power of the Goo. Increases damage against normal enemies."/>
+		<string name="h" value="Damage Against Normal Enemies: +#nbdR%"/>
+	</imgdir>
+	<imgdir name="80012153">
+		<string name="name" value="Goo Power: Critical Rate"/>
+		<string name="desc" value="#c[Goo Battle]#\nYour body thrums with the power of the Goo. Increases Critical Rate."/>
+		<string name="h" value="Critical Rate +#cr%"/>
+	</imgdir>
+	<imgdir name="80012154">
+		<string name="name" value="Goo Power: Boss Damage"/>
+		<string name="desc" value="#c[Goo Battle]#\nYour body thrums with the power of the Goo. Increases Boss Damage."/>
+		<string name="h" value="Boss Damage: +#bdR%"/>
+	</imgdir>
+	<imgdir name="80012155">
+		<string name="name" value="Goo Power: Buff Duration"/>
+		<string name="desc" value="#c[Goo Battle]#\nYour body thrums with the power of the Goo. Increases buff durations."/>
+		<string name="h" value="Buff skill duration: +#bufftimeR%"/>
+	</imgdir>
+	<imgdir name="80012156">
+		<string name="name" value="Goo Power: Critical Damage"/>
+		<string name="desc" value="#c[Goo Battle]#\nYour body thrums with the power of the Goo. Increases Critical Damage."/>
+		<string name="h" value="Critical Damage: +#criticaldamage%"/>
+	</imgdir>
+	<imgdir name="80012157">
+		<string name="name" value="Goo Power: Attack Power &amp; Magic ATT"/>
+		<string name="desc" value="#c[Goo Battle]#\nYour body thrums with the power of the Goo. Increases Attack Power and Magic ATT."/>
+		<string name="h" value="Attack Power &amp; Magic ATT: +#padX"/>
+	</imgdir>
+	<imgdir name="80012158">
+		<string name="name" value="Goo Power: Ignore Enemy Defense"/>
+		<string name="desc" value="#c[Goo Battle]#\nYour body thrums with the power of the Goo. Increases Ignore Enemy Defense stat."/>
+		<string name="h" value="Enemy Defense Ignored: +#ignoreMobpdpR%"/>
+	</imgdir>
+	<imgdir name="80012159">
+		<string name="name" value="Gift of the Goo: Vanishing Journey"/>
+		<string name="desc" value="#c[Goo Battle]#\nThanks to the gift of the Goo, you receive additional Arcane Symbols."/>
+		<string name="h" value="#x additional Arcane Symbol: Vanishing Journey items acquired for completing Vanishing Journey Daily Quests."/>
+	</imgdir>
+	<imgdir name="80012160">
+		<string name="name" value="Gift of the Goo: Chu Chu Island"/>
+		<string name="desc" value="#c[Goo Battle]#\nThanks to the gift of the Goo, you receive additional Arcane Symbols."/>
+		<string name="h" value="#x additional Arcane Symbol: Chu Chu Island items acquired for completing Chu Chu Island Daily Quests."/>
+	</imgdir>
+	<imgdir name="80012161">
+		<string name="name" value="Gift of the Goo: Lachelein"/>
+		<string name="desc" value="#c[Goo Battle]#\nThanks to the gift of the Goo, you receive additional Arcane Symbols."/>
+		<string name="h" value="2 additional#c Arcane Symbol: Lachelein# items or#c Dream Defender Coins# acquired for completing Lachelein Daily Quests. Cannot exceed the Dream Defender daily coin limit."/>
+	</imgdir>
+	<imgdir name="80012162">
+		<string name="name" value="Gift of the Goo: Arcana"/>
+		<string name="desc" value="#c[Goo Battle]#\nThanks to the gift of the Goo, you receive additional Arcane Symbols."/>
+		<string name="h" value="2 additional#c Arcane Symbol: Arcana# items or additional#c Spirit Savior Coins# acquired for completing Arcana Daily Quests. Cannot exceed the Spirit Savior daily coin limit"/>
+	</imgdir>
+	<imgdir name="80012163">
+		<string name="name" value="Gift of the Goo: Morass"/>
+		<string name="desc" value="#c[Goo Battle]#\nThanks to the gift of the Goo, you receive additional Arcane Symbols."/>
+		<string name="h" value="#x additional Arcane Symbol: Morass items acquired for completing Morass Daily Quests."/>
+	</imgdir>
+	<imgdir name="80012164">
+		<string name="name" value="Gift of the Goo: Esfera"/>
+		<string name="desc" value="#c[Goo Battle]#\nThanks to the gift of the Goo, you receive additional Arcane Symbols."/>
+		<string name="h" value="#x additional Arcane Symbol: Esfera items acquired for completing Esfera Daily Quests."/>
+	</imgdir>
+	<imgdir name="80012165">
+		<string name="name" value="Gift of the Goo: Legion"/>
+		<string name="desc" value="#c[Goo Battle]#\nThanks to the gift of the Goo, you receive additional Legion Coins."/>
+		<string name="h" value="+#x% additional#c Legion Coins# for completing Legion Daily Quests."/>
+	</imgdir>
+	<imgdir name="80012166">
+		<string name="name" value="Goo Tactics: Combo Kills"/>
+		<string name="desc" value="#c[Fruitapalooza]#\nStudying the tactics of the Goo has increased the EXP you receive from Combo Kill Orbs."/>
+		<string name="h" value="Combo Kill Orb EXP earned: +100%"/>
+	</imgdir>
+	<imgdir name="80012167">
+		<string name="name" value="Goo Tactics: Bounty Hunter I"/>
+		<string name="desc" value="#c[Fruitapalooza]#\nStudying the tactics of the Goo has increased the number of rewards you receive from Bounty Hunter and Inferno Wolf content."/>
+		<string name="h" value="You receive #x additional Intermediate Hunter Pouches when obtaining rewards from Pollo and Fritto Bounty Hunt and Inferno Wolf content."/>
+	</imgdir>
+	<imgdir name="80012168">
+		<string name="name" value="Goo Tactics: Elite Monster Spawns"/>
+		<string name="desc" value="#c[Fruitapalooza]#\nStudying the tactics of the Goo has allowed you to draw additional Elite Monsters out of hiding."/>
+		<string name="h" value="+1 Elite Monster on Elite Monster Spawn"/>
+	</imgdir>
+	<imgdir name="80012169">
+		<string name="name" value="Goo Tactics: Rune EXP"/>
+		<string name="desc" value="#c[Fruitapalooza]#\nStudying the tactics of the Goo has increased the potency of Rune EXP buffs."/>
+		<string name="h" value="Rune EXP Buff Effect: +100%"/>
+	</imgdir>
+	<imgdir name="80012170">
+		<string name="name" value="Goo Tactics: Bounty Hunter II"/>
+		<string name="desc" value="#c[Fruitapalooza]#\nStudying the tactics of the Goo has increased the EXP gained from Bounty Hunter missions."/>
+		<string name="h" value="2x EXP inside Pollo and Fritto&apos;s Bounty Hunting portals"/>
+	</imgdir>
+	<imgdir name="80012171">
+		<string name="name" value="Goo Tactics: Inferno Wolf"/>
+		<string name="desc" value="#c[Fruitapalooza]#\nStudying the tactics of the Goo has increased EXP obtained from Inferno Wolf."/>
+		<string name="h" value="2x EXP inside Inferno Wolf portals"/>
+	</imgdir>
+	<imgdir name="80012172">
+		<string name="name" value="Goo Tactics: Elite Bosses"/>
+		<string name="desc" value="#c[Fruitapalooza]#\nStudying the tactics of the Goo has increased the number of rewards you receive from defeating Elite bosses."/>
+		<string name="h" value="2x treasure chest rewards from Elite Bosses."/>
+	</imgdir>
+	<imgdir name="80012173">
+		<string name="name" value="Goo Tactics: Normal Enemies"/>
+		<string name="desc" value="#c[Fruitapalooza]#\nStudying the tactics of the Goo has increased the EXP you receive for defeating normal enemies."/>
+		<string name="h" value="+10% EXP for defeating normal enemies."/>
+	</imgdir>
+	<imgdir name="80012174">
+		<string name="name" value="Treasure of the Goo: Boss Battle I"/>
+		<string name="desc" value="#c[Fruitapalooza]#\nStudying the tactics of the Goo has increased the item drop rate for certain bosses."/>
+		<string name="h" value="Item drop rate +#x% for Zakum/Horntail/OMNI-CLN."/>
+	</imgdir>
+	<imgdir name="80012175">
+		<string name="name" value="Treasure of the Goo: Boss Battle II"/>
+		<string name="desc" value="#c[Fruitapalooza]#\nStudying the tactics of the Goo has increased the item drop rate for certain bosses."/>
+		<string name="h" value="Item drop rate +#x% for Hilla/Von Leon/Arkarium/Magnus"/>
+	</imgdir>
+	<imgdir name="80012176">
+		<string name="name" value="Treasure of the Goo: Boss Battle III"/>
+		<string name="desc" value="#c[Fruitapalooza]#\nStudying the tactics of the Goo has increased the item drop rate for certain bosses."/>
+		<string name="h" value="Item drop rate +#x% for Pink Bean/Cygnus/Papulatus"/>
+	</imgdir>
+	<imgdir name="80012177">
+		<string name="name" value="Treasure of the Goo: Boss Battle IV"/>
+		<string name="desc" value="#c[Fruitapalooza]#\nStudying the tactics of the Goo has increased the item drop rate for certain bosses."/>
+		<string name="h" value="Item drop rate +#x% for Pierre/Von Bon/Crimson Queen/Vellum"/>
+	</imgdir>
+	<imgdir name="80012178">
+		<string name="name" value="Goo&apos;s Treasure: Boss Battle V"/>
+		<string name="desc" value="#c[Fruitapalooza]#\nStudying the tactics of the Goo has increased the item drop rate for certain bosses."/>
+		<string name="h" value="Item drop rate +#x% for Lotus/Damien/Lucid/Will"/>
+	</imgdir>
+	<imgdir name="80012179">
+		<string name="name" value="Goo&apos;s Treasure: Ursus I"/>
+		<string name="desc" value="#c[Fruitapalooza]#\nStudying the tactics of the Goo has increased the rate at which you acquire materials for defeating Ursus."/>
+		<string name="h" value="Material drop rate +#x% when fighting Ursus."/>
+	</imgdir>
+	<imgdir name="80012180">
+		<string name="name" value="Treasure of the Goo: Ursus II"/>
+		<string name="desc" value="#c[Fruitapalooza]#\nStudying the tactics of the Goo has increased the number of mesos received from defeating Ursus."/>
+		<string name="h" value="Meso drop rate +#x% when fighting Ursus."/>
+	</imgdir>
+	<imgdir name="80012181">
+		<string name="name" value="Abilities of the Goo: Cross World Party Quests I"/>
+		<string name="desc" value="#c[Dye Hunt]#\nStudying the abilities of the Goo grants you additional EXP for completing Cross World Party Quests."/>
+		<string name="h" value="+#x% more Party Points for completing Cross World Party Quests."/>
+	</imgdir>
+	<imgdir name="80012182">
+		<string name="name" value="Abilities of the Goo: Cross World Party Quests II"/>
+		<string name="desc" value="#c[Dye Hunt]#\nStudying the abilities of the Goo grants you additional Party Points for completing Cross World Party Quests."/>
+		<string name="h" value="+#x% EXP for completing Cross World Party Quests. This effect stacks with party member skills."/>
+	</imgdir>
+	<imgdir name="80012183">
+		<string name="name" value="Abilities of the Goo: Mu Lung Dojo"/>
+		<string name="desc" value="#c[Dye Hunt]#\nStudying the abilities of the Goo grants you additional Honor points for participating in Mu Lung Dojo."/>
+		<string name="h" value="+#x% Honor Points for completing Mu Lung Dojo stages."/>
+	</imgdir>
+	<imgdir name="80012184">
+		<string name="name" value="Abilities of the Goo: Tower of Oz I"/>
+		<string name="desc" value="#c[Dye Hunt]#\nStudying the abilities of the Goo grants you additional points for participating in Tower of Oz."/>
+		<string name="h" value="+#x% more Oz Points for completing Tower of Oz"/>
+	</imgdir>
+	<imgdir name="80012185">
+		<string name="name" value="Abilities of the Goo: Tower of Oz II"/>
+		<string name="desc" value="#c[Dye Hunt]#\nStudying the abilities of the Goo grants you additional Alicia&apos;s Ring Boxes for completing Tower of Oz."/>
+		<string name="h" value="+#x Alicia&apos;s Ring Boxes for completing the Tower of Oz"/>
+	</imgdir>
+	<imgdir name="80012186">
+		<string name="name" value="Abilities of the Goo: Professions I"/>
+		<string name="desc" value="#c[Dye Hunt]#\nStudying the abilities of the Goo has increased the amount of Profession Mastery you gain."/>
+		<string name="h" value="+#x% mastery gained from Harvesting/Mining/Production"/>
+	</imgdir>
+	<imgdir name="80012187">
+		<string name="name" value="Abilities of the Goo: Professions II"/>
+		<string name="desc" value="#c[Dye Hunt]#\nStudying the abilities of the Goo has increased the item drop rate for harvesting herbs or ore."/>
+		<string name="h" value="+#x% Item Drop Rate for harvesting herbs or ore"/>
+	</imgdir>
+	<imgdir name="80012188">
+		<string name="name" value="Abilities of the Goo: Professions III"/>
+		<string name="desc" value="#c[Dye Hunt]#\nStudying the abilities of the Goo has granted you reduced Production cooldowns for crafting equipment, accessories, and alchemy items."/>
+		<string name="h" value="Production cooldowns for crafting reduced by #x% when crafting equipment, accessories, or alchemy items."/>
+	</imgdir>
+	<imgdir name="80012189">
+		<string name="name" value="Abilities of the Goo: Professions IV"/>
+		<string name="desc" value="#c[Dye Hunt]#\nStudying the abilities of the Goo has caused your Fatigue to diminish over time."/>
+		<string name="h" value="Fatigue recovery +#x."/>
+	</imgdir>
+	<imgdir name="80012190">
+		<string name="name" value="Abilities of the Goo: Monster Collection I"/>
+		<string name="desc" value="#c[Dye Hunt]#\nStudying the abilities of the Goo has increased your chances of registering Normal and Star Force monsters into the Monster Collection."/>
+		<string name="h" value="+#x% Chance to register Normal and Star Force monsters into the Monster Collection."/>
+	</imgdir>
+	<imgdir name="80012191">
+		<string name="name" value="Abilities of the Goo: Monster Collection II"/>
+		<string name="desc" value="#c[Dye Hunt]#\nStudying the abilities of the Goo has increased your chances of registering Elite monsters into the Monster Collection."/>
+		<string name="h" value="+#x% chance to register Elite monsters in the Monster Collection."/>
+	</imgdir>
+	<imgdir name="80012192">
+		<string name="name" value="Abilities of the Goo: Monster Collection III"/>
+		<string name="desc" value="#c[Dye Hunt]#\nStudying the abilities of the Goo has increased your chances of registering Boss monsters into the Monster Collection."/>
+		<string name="h" value="+#x% chance to register Boss monsters in the Monster Collection."/>
+	</imgdir>
+	<imgdir name="80012193">
+		<string name="name" value="Abilities of the Goo: Monster Collection IV"/>
+		<string name="desc" value="#c[Dye Hunt]#\nStudying the abilities of the Goo grants you extra rewards for Monster Collection Exploration."/>
+		<string name="h" value="Monster Collection Exploration Completion Reward x#x."/>
+	</imgdir>
+	<imgdir name="80012194">
+		<string name="name" value="Abilities of the Goo: Monster Park I"/>
+		<string name="desc" value="#c[Dye Hunt]#\nStudying the abilities of the Goo grants you extra EXP for completing Monster Park."/>
+		<string name="h" value="+#x% Monster Park EXP"/>
+	</imgdir>
+	<imgdir name="80012195">
+		<string name="name" value="Abilities of the Goo: Monster Park II"/>
+		<string name="desc" value="#c[Dye Hunt]#\nStudying the abilities of the Goo grants you additional Days of the-Week Boxes for completing Monster Park."/>
+		<string name="h" value="+#x Days-of-the-Week Boxes for completing Monster Park."/>
+	</imgdir>
+	<imgdir name="80012196">
+		<string name="name" value="Throw Goomerang"/>
+		<string name="desc" value="Throw a Goomerang to break through the obstacles!"/>
+	</imgdir>
+	<imgdir name="80012149">
+		<string name="name" value="Black Giga-Goo Mount"/>
+		<string name="desc" value="[Master Level: 1]\nAllows you to ride a Giga-Goo mount. Double-tap the jump key in town to use the High Altitude Flight skill."/>
+		<string name="h" value="DEF: +10, Speed: +170, Jump: +120"/>
+	</imgdir>
+	<imgdir name="80012148">
+		<string name="name" value="Black Giga-Goo Mount (90 Day)"/>
+		<string name="desc" value="[Master Level: 1]\nAllows you to ride a Giga-Goo mount. Double-tap the jump key in town to use the High Altitude Flight skill."/>
+		<string name="h" value="DEF: +10, Speed: +170, Jump: +120"/>
+	</imgdir>
+	<imgdir name="80003030">
+		<string name="name" value="Thunder Jellyfish Mount"/>
+		<string name="desc" value="[Master Level: 1]\nAllows you to ride a Thunder Jellyfish mount. Double-tap the jump key in town to use the High Altitude Flight skill."/>
+		<string name="h1" value="DEF: +10, Speed: +170, Jump: +120"/>
+	</imgdir>
+	<imgdir name="80003031">
+		<string name="name" value="World Map Teleport (Thunder Jellyfish)"/>
+		<string name="desc" value="You can use the World Map Teleport skill while you&apos;re riding the Thunder Jellyfish Mount."/>
+	</imgdir>
+	<imgdir name="80012245">
+		<string name="name" value="Lv. 1 Mouthwatering Sweetness"/>
+		<string name="desc" value="Mouthwatering pets are so sweet, their sugar rush boosts your Attack Power and Magic Attack by 3."/>
+		<string name="h" value="#cAttack Power: +#padX, Magic ATT: +#madX#"/>
+	</imgdir>
+	<imgdir name="80012246">
+		<string name="name" value="Lv. 2 Mouthwatering Sweetness"/>
+		<string name="desc" value="Mouthwatering pets are so sweet, their sugar rush boosts your Attack Power and Magic Attack by 3."/>
+		<string name="h" value="#cAttack Power: +#padX, Magic ATT: +#madX#"/>
+	</imgdir>
+	<imgdir name="80012247">
+		<string name="name" value="Lv. 3 Mouthwatering Sweetness"/>
+		<string name="desc" value="Mouthwatering pets are so sweet, their sugar rush boosts your Attack Power and Magic Attack by 3."/>
+		<string name="h" value="#cAttack Power: +#padX, Magic ATT: +#madX#"/>
+	</imgdir>
+	<imgdir name="80012248">
+		<string name="name" value="Hallowkitty and Me Broomstick Mount"/>
+		<string name="desc" value="[Master Level: 1]\nAllows you to ride a Hallowkitty and Me Broomstick mount. Double-tap the jump key in town to use the High Altitude Flight skill."/>
+		<string name="h1" value="DEF: +10, Speed: +170, Jump: +120"/>
+	</imgdir>
+	<imgdir name="80012249">
+		<string name="name" value="Hallowkitty and Me Broomstick Mount"/>
+		<string name="desc" value="[Master Level: 1]\nAllows you to ride a Hallowkitty and Me Broomstick mount. Double-tap the jump key in town to use the High Altitude Flight skill."/>
+		<string name="h1" value="DEF: +10, Speed: +170, Jump: +120"/>
+	</imgdir>
+	<imgdir name="80012032">
+		<string name="name" value="Flower Pig Troupe Mount"/>
+		<string name="desc" value="Travel the dreamland on the Flower Pig and periodically earn Troupe Points."/>
+		<string name="h" value="Earn 4 Troupe Points every 10 seconds"/>
+	</imgdir>
+	<imgdir name="80012033">
+		<string name="name" value="Flower Pig Troupe Mount"/>
+		<string name="desc" value="Travel the dreamland on the Flower Pig and periodically earn Troupe Points."/>
+		<string name="h" value="Earn 4 Troupe Points every 10 seconds"/>
+	</imgdir>
+	<imgdir name="80012034">
+		<string name="name" value="Flower Pig Troupe Mount"/>
+		<string name="desc" value="Travel the dreamland on the Flower Pig and periodically earn Troupe Points."/>
+		<string name="h" value="Earn 4 Troupe Points every 10 seconds"/>
+	</imgdir>
+	<imgdir name="80012035">
+		<string name="name" value="Flower Pig Troupe Mount"/>
+		<string name="desc" value="Travel the dreamland on the Flower Pig and periodically earn Troupe Points."/>
+		<string name="h" value="Earn 4 Troupe Points every 10 seconds"/>
+	</imgdir>
+	<imgdir name="80012036">
+		<string name="name" value="Courage"/>
+		<string name="desc" value="Defeat monsters near your level to gather Courage points, which will let you on various rides.\nGain an boost to your EXP rate after getting on the ride and defeating the surrounding monsters.\nThe EXP booster buff effect increases based on your designer rank."/>
+		<string name="h" value="Activates the EXP booster effect, based on your designer rank.\n\nEarn 5 Troupe Points every time you defeat an enemy."/>
+	</imgdir>
+	<imgdir name="80012037">
+		<string name="name" value="Courage"/>
+		<string name="desc" value="Defeat monsters near your level to gather Courage points, which will let you on various rides.\nGain an boost to your EXP rate after getting on the ride and defeating the surrounding monsters.\nThe EXP booster buff effect increases based on your designer rank."/>
+		<string name="h" value="+#indieExp% EXP for #time sec"/>
+	</imgdir>
+	<imgdir name="80012038">
+		<string name="name" value="Courage"/>
+		<string name="desc" value="Defeat monsters near your level to gather Courage points, which will let you on various rides.\nGain an boost to your EXP rate after getting on the ride and defeating the surrounding monsters.\nThe EXP booster buff effect increases based on your designer rank."/>
+		<string name="h" value="+#indieExp% EXP for #time sec"/>
+	</imgdir>
+	<imgdir name="80012039">
+		<string name="name" value="Courage"/>
+		<string name="desc" value="Defeat monsters near your level to gather Courage points, which will let you on various rides.\nGain an boost to your EXP rate after getting on the ride and defeating the surrounding monsters.\nThe EXP booster buff effect increases based on your designer rank."/>
+		<string name="h" value="+#indieExp% EXP for #time sec"/>
+	</imgdir>
+	<imgdir name="80012040">
+		<string name="name" value="Courage"/>
+		<string name="desc" value="Defeat monsters near your level to gather Courage points, which will let you on various rides.\nGain an boost to your EXP rate after getting on the ride and defeating the surrounding monsters.\nThe EXP booster buff effect increases based on your designer rank."/>
+		<string name="h" value="+#indieExp% EXP for #time sec"/>
+	</imgdir>
+	<imgdir name="80012041">
+		<string name="name" value="Magic Fireworks"/>
+		<string name="desc" value="Defeat monsters near your level to collect traces of Magic Fireworks for the festival!\nOnce the fireworks explode, and you defeat the surrounding monsters, you&apos;ll level up anywhere from 1-15 levels!\nThe higher your designer rank, the better your chances of leveling up more.\nNote: The level-up effect occurs for #cLv. 131-199 characters# only."/>
+		<string name="h" value="Activates additional level-up effect, between 1-15 levels, based on the rate of your designer rank.\n\nEarn 5 Troupe Points every time you defeat an enemy."/>
+	</imgdir>
+	<imgdir name="80012042">
+		<string name="name" value="Magic Fireworks"/>
+		<string name="desc" value="Defeat monsters near your level to collect traces of Magic Fireworks for the festival!\nOnce the fireworks explode, and you defeat the surrounding monsters, you&apos;ll level up anywhere from 1-15 levels!\nThe higher your designer rank, the better your chances of leveling up more.\nNote: The level-up effect occurs for #cLv. 131-199 characters# only."/>
+		<string name="h" value="Activates additional level-up effect, between 1-15 levels, based on the rate of your designer rank."/>
+	</imgdir>
+	<imgdir name="80012043">
+		<string name="name" value="Magic Fireworks"/>
+		<string name="desc" value="Defeat monsters near your level to collect traces of Magic Fireworks for the festival!\nOnce the fireworks explode, and you defeat the surrounding monsters, you&apos;ll level up anywhere from 1-15 levels!\nThe higher your designer rank, the better your chances of leveling up more.\nNote: The level-up effect occurs for #cLv. 131-199 characters# only."/>
+		<string name="h" value="Activates additional level-up effect, between 1-15 levels, based on the rate of your designer rank."/>
+	</imgdir>
+	<imgdir name="80012044">
+		<string name="name" value="Magic Fireworks"/>
+		<string name="desc" value="Defeat monsters near your level to collect traces of Magic Fireworks for the festival!\nOnce the fireworks explode, and you defeat the surrounding monsters, you&apos;ll level up anywhere from 1-15 levels!\nThe higher your designer rank, the better your chances of leveling up more.\nNote: The level-up effect occurs for #cLv. 131-199 characters# only."/>
+		<string name="h" value="Activates additional level-up effect, between 1-15 levels, based on the rate of your designer rank."/>
+	</imgdir>
+	<imgdir name="80012045">
+		<string name="name" value="Magic Fireworks"/>
+		<string name="desc" value="Defeat monsters near your level to collect traces of Magic Fireworks for the festival!\nOnce the fireworks explode, and you defeat the surrounding monsters, you&apos;ll level up anywhere from 1-15 levels!\nThe higher your designer rank, the better your chances of leveling up more.\nNote: The level-up effect occurs for #cLv. 131-199 characters# only."/>
+		<string name="h" value="Activates additional level-up effect, between 1-15 levels, based on the rate of your designer rank."/>
+	</imgdir>
+	<imgdir name="80012046">
+		<string name="name" value="Magic Hat Energy"/>
+		<string name="desc" value="Defeat monsters near your level to collect Magic Hat Energy for Spiegelmann&apos;s fantastic magic show!\nWhile the magic show unfolds, defeat the surrounding monsters to gain various items from a surprise box.\nThe higher your designer rank, the greater the variety and quantity of items from the box."/>
+		<string name="h" value="Provides various items based on your designer rank.\n\nEarn 5 Troupe Points every time you defeat an enemy."/>
+	</imgdir>
+	<imgdir name="80012047">
+		<string name="name" value="Magic Hat Energy"/>
+		<string name="desc" value="Defeat monsters near your level to collect Magic Hat Energy for Spiegelmann&apos;s fantastic magic show!\nWhile the magic show unfolds, defeat the surrounding monsters to gain various items from a surprise box.\nThe higher your designer rank, the greater the variety and quantity of items from the box."/>
+		<string name="h" value="Provides various items based on your designer rank."/>
+	</imgdir>
+	<imgdir name="80012048">
+		<string name="name" value="Magic Hat Energy"/>
+		<string name="desc" value="Defeat monsters near your level to collect Magic Hat Energy for Spiegelmann&apos;s fantastic magic show!\nWhile the magic show unfolds, defeat the surrounding monsters to gain various items from a surprise box.\nThe higher your designer rank, the greater the variety and quantity of items from the box."/>
+		<string name="h" value="Provides various items based on your designer rank."/>
+	</imgdir>
+	<imgdir name="80012049">
+		<string name="name" value="Magic Hat Energy"/>
+		<string name="desc" value="Defeat monsters near your level to collect Magic Hat Energy for Spiegelmann&apos;s fantastic magic show!\nWhile the magic show unfolds, defeat the surrounding monsters to gain various items from a surprise box.\nThe higher your designer rank, the greater the variety and quantity of items from the box."/>
+		<string name="h" value="Provides various items based on your designer rank."/>
+	</imgdir>
+	<imgdir name="80012050">
+		<string name="name" value="Magic Hat Energy"/>
+		<string name="desc" value="Defeat monsters near your level to collect Magic Hat Energy for Spiegelmann&apos;s fantastic magic show!\nWhile the magic show unfolds, defeat the surrounding monsters to gain various items from a surprise box.\nThe higher your designer rank, the greater the variety and quantity of items from the box."/>
+		<string name="h" value="Provides various items based on your designer rank."/>
 	</imgdir>
 </imgdir>
