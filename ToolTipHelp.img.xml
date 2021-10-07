@@ -237,27 +237,27 @@
 					<vector name="rb" x="69" y="99"/>
 				</imgdir>
 				<imgdir name="4">
+					<vector name="lt" x="12" y="105"/>
+					<vector name="rb" x="69" y="135"/>
 					<string name="Title" value="Damage"/>
 					<string name="Desc" value="Stat that shows your actual Damage. Magic Attack will be displayed when you&apos;re equipped with a Wand, Staff, Shining Rod, Fan, Psy-limiter, or Lucent Gauntlet, and Weapon Attack will be displayed when you&apos;re equipped with other weapons."/>
-					<vector name="lt" x="12" y="105"/>
-					<vector name="rb" x="69" y="117"/>
 				</imgdir>
 				<imgdir name="5">
+					<vector name="lt" x="12" y="140"/>
+					<vector name="rb" x="69" y="151"/>
 					<string name="Title" value="Health Point"/>
 					<string name="Desc" value="You will be incapacitated if your HP reaches 0. Monster attacks, some special skills, and even standing in dangerous areas will decrease your HP. Max HP: 500,000"/>
 					<string name="TitleAvenger" value="Health Point"/>
-					<string name="DescAvenger2" value="You will be incapacitated if your HP reaches 0. Monster attacks, some special skills, and even standing in dangerous areas will decrease your HP. This is the most important stat for the Demon Avenger&apos;s attacks. Max HP: 500,000 (actual HP %d if there are no restrictions) "/>
-					<vector name="lt" x="12" y="122"/>
-					<vector name="rb" x="69" y="133"/>
 					<string name="DescAvenger" value="You will be incapacitated if your HP reaches 0. Monster attacks, some special skills, and even standing in dangerous areas will decrease your HP. This is the most important stat for the Demon Avenger&apos;s attacks. Max HP: 500,000 "/>
+					<string name="DescAvenger2" value="You will be incapacitated if your HP reaches 0. Monster attacks, some special skills, and even standing in dangerous areas will decrease your HP. This is the most important stat for the Demon Avenger&apos;s attacks. Max HP: 500,000 (actual HP %d if there are no restrictions) "/>
 				</imgdir>
 				<imgdir name="6">
+					<vector name="lt" x="12" y="159"/>
+					<vector name="rb" x="69" y="170"/>
 					<string name="Title" value="Mana Points"/>
 					<string name="Desc" value="Required for many skills. Max: 500,000"/>
 					<string name="TitleDemon" value="Demon Fury"/>
 					<string name="DescDemon" value="Used for all Demon Slayer skills. This stat can only be increased through the use of a Demon Aegis."/>
-					<vector name="lt" x="12" y="141"/>
-					<vector name="rb" x="69" y="152"/>
 					<string name="TitleZero" value="Time Force"/>
 					<string name="DescZero" value="Required for Zero skills. Restores 10 Time Force (TF) every second."/>
 					<imgdir name="NoToolTipJob">
@@ -273,34 +273,34 @@
 					</imgdir>
 				</imgdir>
 				<imgdir name="7">
+					<vector name="lt" x="8" y="176"/>
+					<vector name="rb" x="96" y="219"/>
 					<string name="Title" value="AP (Ability Point)"/>
 					<string name="Desc" value="Used to increase STR, DEX, INT, LUK, HP, and MP. For STR, DEX, INT, and LUK, every 1 AP used will increase the stat by 1. For HP and MP, the increase will differ based on your character and job. You will receive 5 AP each time you level up."/>
-					<vector name="lt" x="8" y="158"/>
-					<vector name="rb" x="96" y="201"/>
 				</imgdir>
 				<imgdir name="8">
+					<vector name="lt" x="12" y="224"/>
+					<vector name="rb" x="69" y="238"/>
 					<string name="Title" value="STR"/>
 					<string name="Desc" value="STR determines the power of your physical attacks. It&apos;s the Warrior and some Pirates&apos; main attack stat."/>
-					<vector name="lt" x="12" y="206"/>
-					<vector name="rb" x="69" y="220"/>
 				</imgdir>
 				<imgdir name="9">
-					<vector name="lt" x="12" y="225"/>
-					<vector name="rb" x="69" y="240"/>
+					<vector name="lt" x="12" y="243"/>
+					<vector name="rb" x="69" y="258"/>
 					<string name="Title" value="DEX"/>
 					<string name="Desc" value="As this stat increases, Avoidability increases. It determines the attack strength of Bowmen and some Pirates."/>
 				</imgdir>
 				<imgdir name="10">
+					<vector name="lt" x="12" y="261"/>
+					<vector name="rb" x="69" y="278"/>
 					<string name="Title" value="INT"/>
 					<string name="Desc" value="INT determines the power of magic attacks. It&apos;s the Magician&apos;s main attack stat."/>
-					<vector name="lt" x="12" y="243"/>
-					<vector name="rb" x="69" y="260"/>
 				</imgdir>
 				<imgdir name="11">
+					<vector name="lt" x="12" y="279"/>
+					<vector name="rb" x="69" y="294"/>
 					<string name="Title" value="LUK"/>
 					<string name="Desc" value="Luck determines your Avoidability. It&apos;s the Thief&apos;s main attack stat."/>
-					<vector name="lt" x="12" y="261"/>
-					<vector name="rb" x="69" y="276"/>
 				</imgdir>
 			</imgdir>
 			<imgdir name="Stat_Xenon">
@@ -330,141 +330,153 @@
 				</imgdir>
 				<imgdir name="4">
 					<vector name="lt" x="12" y="105"/>
-					<vector name="rb" x="69" y="117"/>
+					<vector name="rb" x="69" y="135"/>
 					<string name="Title" value="Damage"/>
 					<string name="Desc" value="Stat that shows your actual Damage. Magic Attack will be displayed when you&apos;re equipped with a Wand, Staff, Shining Rod, Fan, Psy-limiter, or Lucent Gauntlet, and Weapon Attack will be displayed when you&apos;re equipped with other weapons."/>
 				</imgdir>
 				<imgdir name="5">
+					<vector name="lt" x="12" y="140"/>
+					<vector name="rb" x="69" y="151"/>
 					<string name="Title" value="Health Point"/>
 					<string name="Desc" value="You will be incapacitated if your HP reaches 0. Monster attacks, some special skills, and even standing in dangerous areas will decrease your HP. Max HP: 500,000"/>
 					<string name="DescAvenger" value="You will be incapacitated if your HP reaches 0. Monster attacks, some special skills, and even standing in dangerous areas will decrease your HP. This is the most important stat for the Demon Avenger&apos;s attacks. Max HP: 500,000"/>
-					<vector name="lt" x="12" y="122"/>
-					<vector name="rb" x="69" y="133"/>
 				</imgdir>
 				<imgdir name="6">
+					<vector name="lt" x="12" y="159"/>
+					<vector name="rb" x="69" y="170"/>
 					<string name="Title" value="Mana Points"/>
 					<string name="Desc" value="Required for many skills. Max: 500,000"/>
 					<string name="TitleDemon" value="Demon Fury"/>
 					<string name="DescDemon" value="Used for all Demon Slayer skills. This stat can only be increased through the use of a Demon Aegis."/>
-					<vector name="lt" x="12" y="141"/>
-					<vector name="rb" x="69" y="152"/>
 					<string name="TitleZero" value="Time Force"/>
 					<string name="DescZero" value="Required for Zero skills. Restores 10 Time Force (TF) every second."/>
 				</imgdir>
 				<imgdir name="7">
+					<vector name="lt" x="8" y="176"/>
+					<vector name="rb" x="96" y="240"/>
 					<string name="Title" value="AP (Ability Point)"/>
 					<string name="Desc" value="Used to increase STR, DEX, INT, LUK, HP, and MP. For STR, DEX, INT, and LUK, every 1 AP used will increase the stat by 1. For HP and MP, the increase will differ based on your character and job. You will receive 5 AP each time you level up."/>
-					<vector name="lt" x="8" y="158"/>
-					<vector name="rb" x="96" y="222"/>
 				</imgdir>
 				<imgdir name="8">
-					<string name="Title" value="STR"/>
-					<string name="Desc" value="Strength determines the attack strength of Xenon&apos;s melee weapon."/>
-					<vector name="lt" x="12" y="226"/>
-					<vector name="rb" x="69" y="242"/>
-				</imgdir>
-				<imgdir name="9">
 					<vector name="lt" x="12" y="244"/>
 					<vector name="rb" x="69" y="260"/>
+					<string name="Title" value="STR"/>
+					<string name="Desc" value="Strength determines the attack strength of Xenon&apos;s melee weapon."/>
+				</imgdir>
+				<imgdir name="9">
+					<vector name="lt" x="12" y="262"/>
+					<vector name="rb" x="69" y="278"/>
 					<string name="Title" value="DEX"/>
 					<string name="Desc" value="The higher this stat is, the higher your Avoidability. Affects Xenon&apos;s Attack Power."/>
 				</imgdir>
 				<imgdir name="10">
-					<string name="Title" value="INT"/>
-					<string name="Desc" value="INT determines the power of magic attacks but does not affect Xenon&apos;s attacks."/>
-					<vector name="lt" x="12" y="262"/>
-					<vector name="rb" x="69" y="278"/>
-				</imgdir>
-				<imgdir name="11">
-					<string name="Title" value="LUK"/>
-					<string name="Desc" value="The higher this stat is, the higher your Avoidability. Affects Xenon&apos;s Attack Power."/>
 					<vector name="lt" x="12" y="280"/>
 					<vector name="rb" x="69" y="296"/>
+					<string name="Title" value="INT"/>
+					<string name="Desc" value="INT determines the power of magic attacks but does not affect Xenon&apos;s attacks."/>
+				</imgdir>
+				<imgdir name="11">
+					<vector name="lt" x="12" y="298"/>
+					<vector name="rb" x="69" y="314"/>
+					<string name="Title" value="LUK"/>
+					<string name="Desc" value="The higher this stat is, the higher your Avoidability. Affects Xenon&apos;s Attack Power."/>
 				</imgdir>
 			</imgdir>
 			<imgdir name="StatDetail">
 				<imgdir name="0">
 					<vector name="lt" x="12" y="41"/>
-					<vector name="rb" x="69" y="56"/>
+					<vector name="rb" x="69" y="74"/>
 					<string name="Title" value="Damage"/>
 					<string name="Desc" value="Your actual damage range, accounting for both Damage Bonus and Final Damage bonuses. For Wand, Staff, Shining Rod, Fan, Psy-limiter, or Lucent Gauntlet weapons, this is calculated using Magic ATT. For all other weapons, your damage is calculated using Attack Power."/>
 				</imgdir>
 				<imgdir name="1">
-					<vector name="lt" x="12" y="59"/>
-					<vector name="rb" x="69" y="74"/>
+					<vector name="lt" x="12" y="77"/>
+					<vector name="rb" x="69" y="92"/>
 					<string name="Title" value="Damage Bonus"/>
 					<string name="Desc" value="The damage multiplier value used to calculate your Damage. Determined by the total combined Damage bonuses of your skills and equipment."/>
 				</imgdir>
 				<imgdir name="2">
-					<vector name="lt" x="107" y="59"/>
-					<vector name="rb" x="165" y="74"/>
+					<vector name="lt" x="107" y="77"/>
+					<vector name="rb" x="165" y="92"/>
 					<string name="Title" value="Boss Damage"/>
 					<string name="Desc" value="The higher your Boss Damage, the greater your damage against Boss monsters. This value does not affect normal Damage. Determined by the total combined Boss Damage bonuses of your skills and equipment."/>
 				</imgdir>
 				<imgdir name="3">
-					<vector name="lt" x="12" y="77"/>
-					<vector name="rb" x="69" y="92"/>
+					<vector name="lt" x="12" y="95"/>
+					<vector name="rb" x="69" y="110"/>
 					<string name="Title" value="Final Damage"/>
 					<string name="Desc" value="The damage multiplier that increases your total Damage. Determined by multiplying the Final Damage bonuses of all your skills."/>
 				</imgdir>
 				<imgdir name="4">
-					<vector name="lt" x="107" y="77"/>
-					<vector name="rb" x="165" y="92"/>
+					<vector name="lt" x="12" y="113"/>
+					<vector name="rb" x="69" y="128"/>
 					<string name="Title" value="Ignore Defense"/>
 					<string name="Desc" value="The higher your Ignore Defense value, the better your attacks penetrate enemy defenses. Determined by multiplying the Ignore Defense values of all your skills and equipment. \r\nApplies up to 100%"/>
 				</imgdir>
 				<imgdir name="5">
-					<vector name="lt" x="12" y="95"/>
-					<vector name="rb" x="69" y="110"/>
+					<vector name="lt" x="12" y="131"/>
+					<vector name="rb" x="69" y="146"/>
 					<string name="Title" value="Critical Rate"/>
 					<string name="Desc" value="Your chance of performing a Critical attack. You can enhance this value with skills or items.  \r\nMax: 100%"/>
 				</imgdir>
 				<imgdir name="6">
-					<vector name="lt" x="12" y="113"/>
-					<vector name="rb" x="69" y="128"/>
+					<vector name="lt" x="12" y="149"/>
+					<vector name="rb" x="69" y="164"/>
 					<string name="Title" value="Critical Damage"/>
 					<string name="Desc" value="The higher your Critical Damage, the more damage your Critical attacks inflict. This value is added to your base Critical Damage multiplier of 20-50%. This value does not affect normal Damage. You can enhance this value with skills or items."/>
 				</imgdir>
 				<imgdir name="7">
-					<vector name="lt" x="12" y="131"/>
-					<vector name="rb" x="69" y="146"/>
+					<vector name="lt" x="12" y="167"/>
+					<vector name="rb" x="69" y="182"/>
 					<string name="Title" value="Status Resistance"/>
 					<string name="Desc" value="Your Status Resistance determines the amount of time Abnormal Statuses affect you. Higher values result in shorter durations. You can enhance this value with skills or items.\nAbnormal Status durations are currently reduced by %d%%."/>
 					<string name="info" value="Abnormal Status Resistance string must be fixed at number 7"/>
 				</imgdir>
 				<imgdir name="8">
-					<vector name="lt" x="107" y="131"/>
-					<vector name="rb" x="165" y="146"/>
-					<string name="Title" value="Knockback Resistance"/>
-					<string name="Desc" value="Your chance to resist being pushed back by monster attacks. You can enhance this value with skills (max: 100%)."/>
+					<vector name="lt" x="75" y="131"/>
+					<vector name="rb" x="188" y="146"/>
+					<string name="info" value="Displays excess of 100% Critical Rate"/>
+					<int name="NoTitle" value="1"/>
 				</imgdir>
 				<imgdir name="9">
-					<vector name="lt" x="12" y="149"/>
-					<vector name="rb" x="69" y="164"/>
-					<string name="Title" value="Defense"/>
-					<string name="Desc" value="The higher your Defense, the less damage you take from enemies. Some enemy attacks can pierce through Defense. Determined by adding the total combined Defense of your equipment to your base Defense."/>
+					<vector name="lt" x="167" y="167"/>
+					<vector name="rb" x="200" y="182"/>
+					<string name="info" value="Displays excess of 100% Knockback Resistance"/>
+					<int name="NoTitle" value="1"/>
 				</imgdir>
 				<imgdir name="10">
-					<vector name="lt" x="12" y="167"/>
-					<vector name="rb" x="69" y="182"/>
-					<string name="Title" value="Speed"/>
-					<string name="Desc" value="Your movement speed. Can be increased to a max of 140% normally. Skills and equipment can boost this even further. Can be increased to 190% while riding a mount."/>
+					<vector name="lt" x="107" y="167"/>
+					<vector name="rb" x="165" y="182"/>
+					<string name="Title" value="Knockback Resistance"/>
+					<string name="Desc" value="Your chance to resist being pushed back by monster attacks. You can enhance this value with skills (max: 100%)."/>
 				</imgdir>
 				<imgdir name="11">
 					<vector name="lt" x="12" y="185"/>
 					<vector name="rb" x="69" y="200"/>
+					<string name="Title" value="Defense"/>
+					<string name="Desc" value="The higher your Defense, the less damage you take from enemies. Some enemy attacks can pierce through Defense. Determined by adding the total combined Defense of your equipment to your base Defense."/>
+				</imgdir>
+				<imgdir name="12">
+					<vector name="lt" x="12" y="203"/>
+					<vector name="rb" x="69" y="218"/>
+					<string name="Title" value="Speed"/>
+					<string name="Desc" value="Your movement speed. Can be increased to a max of 140% normally. Skills and equipment can boost this even further. Can be increased to 190% while riding a mount."/>
+				</imgdir>
+				<imgdir name="13">
+					<vector name="lt" x="12" y="221"/>
+					<vector name="rb" x="69" y="236"/>
 					<string name="Title" value="Jump"/>
 					<string name="Desc" value="How high you can jump. Can be increased to a max of 123%. Skills and equipment can be used to increase or decrease your Jump."/>
 				</imgdir>
-				<imgdir name="12">
-					<vector name="lt" x="12" y="216"/>
-					<vector name="rb" x="200" y="240"/>
+				<imgdir name="14">
+					<vector name="lt" x="12" y="252"/>
+					<vector name="rb" x="200" y="276"/>
 					<string name="Title" value="Ability"/>
 					<string name="Desc" value="Your latent abilities. These abilities open up upon reaching level 50, and can be reset with Honor EXP or a Circulator."/>
 				</imgdir>
-				<imgdir name="13">
-					<vector name="lt" x="12" y="288"/>
-					<vector name="rb" x="69" y="321"/>
+				<imgdir name="15">
+					<vector name="lt" x="12" y="324"/>
+					<vector name="rb" x="69" y="357"/>
 					<string name="Title" value="Honor EXP"/>
 					<string name="Desc" value="Used to reset your abilities. Honor EXP can be obtained by leveling up normally or finding Medal of Honor drops from monsters."/>
 				</imgdir>
@@ -472,217 +484,334 @@
 			<imgdir name="StatDetail2">
 				<imgdir name="0">
 					<vector name="lt" x="12" y="41"/>
-					<vector name="rb" x="69" y="56"/>
+					<vector name="rb" x="69" y="74"/>
 					<string name="Title" value="Damage"/>
 					<string name="Desc" value="Your actual damage range, accounting for both Damage Bonus and Final Damage bonuses. For Wand, Staff, Shining Rod, Fan, Psy-limiter, or Lucent Gauntlet weapons, this is calculated using Magic ATT. For all other weapons, your damage is calculated using Attack Power."/>
 				</imgdir>
 				<imgdir name="1">
-					<vector name="lt" x="12" y="59"/>
-					<vector name="rb" x="69" y="74"/>
+					<vector name="lt" x="12" y="77"/>
+					<vector name="rb" x="69" y="92"/>
 					<string name="Title" value="Damage Bonus"/>
 					<string name="Desc" value="The damage multiplier value used to calculate your Damage. Determined by the total combined Damage bonuses of your skills and equipment."/>
 				</imgdir>
 				<imgdir name="2">
-					<vector name="lt" x="107" y="59"/>
-					<vector name="rb" x="165" y="74"/>
+					<vector name="lt" x="107" y="77"/>
+					<vector name="rb" x="165" y="92"/>
 					<string name="Title" value="Boss Damage"/>
 					<string name="Desc" value="The higher your Boss Damage, the greater your damage against Boss monsters. This value does not affect normal Damage. Determined by the total combined Boss Damage bonuses of your skills and equipment."/>
 				</imgdir>
 				<imgdir name="3">
-					<vector name="lt" x="12" y="77"/>
-					<vector name="rb" x="69" y="92"/>
+					<vector name="lt" x="12" y="95"/>
+					<vector name="rb" x="69" y="110"/>
 					<string name="Title" value="Final Damage"/>
 					<string name="Desc" value="The damage multiplier that increases your total Damage. Determined by multiplying the Final Damage bonuses of all your skills."/>
 				</imgdir>
 				<imgdir name="4">
-					<vector name="lt" x="107" y="77"/>
-					<vector name="rb" x="165" y="92"/>
+					<vector name="lt" x="12" y="113"/>
+					<vector name="rb" x="69" y="128"/>
 					<string name="Title" value="Ignore Defense"/>
 					<string name="Desc" value="The higher your Ignore Defense value, the better your attacks penetrate enemy defenses. Determined by multiplying the Ignore Defense values of all your skills and equipment. \r\nApplies up to 100%"/>
 				</imgdir>
 				<imgdir name="5">
-					<vector name="lt" x="12" y="95"/>
-					<vector name="rb" x="69" y="110"/>
+					<vector name="lt" x="12" y="131"/>
+					<vector name="rb" x="69" y="146"/>
 					<string name="Title" value="Critical Rate"/>
-					<string name="Desc" value="Your chance of performing a Critical attack. You can enhance this value with skills or items. \r\nMax: 100%"/>
+					<string name="Desc" value="Your chance of performing a Critical attack. You can enhance this value with skills or items.  \r\nMax: 100%"/>
 				</imgdir>
 				<imgdir name="6">
-					<vector name="lt" x="12" y="113"/>
-					<vector name="rb" x="69" y="128"/>
+					<vector name="lt" x="12" y="149"/>
+					<vector name="rb" x="69" y="164"/>
 					<string name="Title" value="Critical Damage"/>
 					<string name="Desc" value="The higher your Critical Damage, the more damage your Critical attacks inflict. This value is added to your base Critical Damage multiplier of 20-50%. This value does not affect normal Damage. You can enhance this value with skills or items."/>
 				</imgdir>
 				<imgdir name="7">
-					<vector name="lt" x="12" y="131"/>
-					<vector name="rb" x="69" y="146"/>
+					<vector name="lt" x="12" y="167"/>
+					<vector name="rb" x="69" y="182"/>
 					<string name="Title" value="Status Resistance"/>
 					<string name="Desc" value="Your Status Resistance determines the amount of time Abnormal Statuses affect you. Higher values result in shorter durations. You can enhance this value with skills or items.\nAbnormal Status durations are currently reduced by %d%%."/>
 					<string name="info" value="Abnormal Status Resistance string must be fixed at number 7"/>
 				</imgdir>
 				<imgdir name="8">
-					<vector name="lt" x="107" y="131"/>
-					<vector name="rb" x="165" y="146"/>
-					<string name="Title" value="Knockback Resistance"/>
-					<string name="Desc" value="Your chance to resist being pushed back by monster attacks. You can enhance this value with skills (max: 100%)."/>
+					<vector name="lt" x="75" y="131"/>
+					<vector name="rb" x="188" y="146"/>
+					<string name="info" value="Displays excess of 100% Critical Rate"/>
+					<int name="NoTitle" value="1"/>
 				</imgdir>
 				<imgdir name="9">
-					<vector name="lt" x="12" y="149"/>
-					<vector name="rb" x="69" y="164"/>
-					<string name="Title" value="Defense"/>
-					<string name="Desc" value="The higher your Defense, the less damage you take from enemies. Some enemy attacks can pierce through Defense. Determined by adding the total combined Defense of your equipment to your base Defense."/>
+					<vector name="lt" x="167" y="167"/>
+					<vector name="rb" x="200" y="182"/>
+					<string name="info" value="Displays excess of 100% Knockback Resistance"/>
+					<int name="NoTitle" value="1"/>
 				</imgdir>
 				<imgdir name="10">
-					<vector name="lt" x="12" y="167"/>
-					<vector name="rb" x="69" y="182"/>
-					<string name="Title" value="Speed"/>
-					<string name="Desc" value="Your movement speed. Can be increased to a max of 140% normally. Skills and equipment can boost this even further. Can be increased to 190% while riding a mount."/>
+					<vector name="lt" x="107" y="167"/>
+					<vector name="rb" x="165" y="182"/>
+					<string name="Title" value="Knockback Resistance"/>
+					<string name="Desc" value="Your chance to resist being pushed back by monster attacks. You can enhance this value with skills (max: 100%)."/>
 				</imgdir>
 				<imgdir name="11">
 					<vector name="lt" x="12" y="185"/>
 					<vector name="rb" x="69" y="200"/>
+					<string name="Title" value="Defense"/>
+					<string name="Desc" value="The higher your Defense, the less damage you take from enemies. Some enemy attacks can pierce through Defense. Determined by adding the total combined Defense of your equipment to your base Defense."/>
+				</imgdir>
+				<imgdir name="12">
+					<vector name="lt" x="12" y="203"/>
+					<vector name="rb" x="69" y="218"/>
+					<string name="Title" value="Speed"/>
+					<string name="Desc" value="Your movement speed. Can be increased to a max of 140% normally. Skills and equipment can boost this even further. Can be increased to 190% while riding a mount."/>
+				</imgdir>
+				<imgdir name="13">
+					<vector name="lt" x="12" y="221"/>
+					<vector name="rb" x="69" y="236"/>
 					<string name="Title" value="Jump"/>
 					<string name="Desc" value="How high you can jump. Can be increased to a max of 123%. Skills and equipment can be used to increase or decrease your Jump."/>
 				</imgdir>
-				<imgdir name="12">
-					<vector name="lt" x="107" y="149"/>
-					<vector name="rb" x="165" y="164"/>
+				<imgdir name="14">
+					<vector name="lt" x="107" y="185"/>
+					<vector name="rb" x="165" y="200"/>
 					<string name="Title" value="Star Force"/>
-					<string name="Desc" value="You&apos;ll deal less damage to monsters in Star Force areas if you have less Star Force than they do. When you have more Star Force than a monster, you can attack through that monster&apos;s shield. Can be increased by equipping items with Star Force enhancement. Doubled for Overall equipment."/>
+					<string name="Desc" value="When you have more Star Force than a monster, you can attack through that monsters&apos; shield. Can be increased by equipping items with Star Force enhancement. Doubled for outfits."/>
 				</imgdir>
-				<imgdir name="13">
-					<vector name="lt" x="12" y="216"/>
-					<vector name="rb" x="200" y="240"/>
+				<imgdir name="15">
+					<vector name="lt" x="12" y="252"/>
+					<vector name="rb" x="200" y="276"/>
 					<string name="Title" value="Ability"/>
 					<string name="Desc" value="Your latent abilities. These abilities open up upon reaching level 50, and can be reset with Honor EXP or a Circulator."/>
 				</imgdir>
-				<imgdir name="14">
-					<vector name="lt" x="12" y="288"/>
-					<vector name="rb" x="69" y="321"/>
-					<string name="Title" value="Honor EXP"/>
-					<string name="Desc" value="Used to reset your abilities. Honor EXP can be obtained by leveling up normally or finding Medal of Honor drops from monsters."/>
-				</imgdir>
-				<imgdir name="15">
-					<vector name="lt" x="107" y="238"/>
-					<vector name="rb" x="165" y="253"/>
-					<string name="Title" value="Jump"/>
-					<string name="Desc" value="How high you can jump. It cannot be increased beyond 123%. Skills and equipment can be used to increase or decrease your Jump."/>
-				</imgdir>
 				<imgdir name="16">
-					<vector name="lt" x="13" y="285"/>
-					<vector name="rb" x="200" y="310"/>
-					<string name="Title" value="Ability"/>
-					<string name="Desc" value="Your latent abilities. The powers are opened in order when reaching Lv. 30, Lv. 50, and Lv. 70, and can be reset with Honor EXP or a Circulator."/>
-				</imgdir>
-				<imgdir name="17">
-					<vector name="lt" x="15" y="375"/>
-					<vector name="rb" x="147" y="390"/>
+					<vector name="lt" x="12" y="324"/>
+					<vector name="rb" x="69" y="357"/>
 					<string name="Title" value="Honor EXP"/>
 					<string name="Desc" value="You can reset abilities by earning Honor EXP. Honor EXP can be obtained through character levels or using the Medal of Honor item in the field."/>
-				</imgdir>
-				<imgdir name="18">
-					<vector name="lt" x="13" y="257"/>
-					<vector name="rb" x="200" y="270"/>
-					<string name="Title" value="Star Force"/>
-					<string name="Desc" value="When you have more Star Force than a monster, you can attack through that monsters&apos; shield. Can be increased by equipping items with Star Force enhancement. Doubled for outfits."/>
 				</imgdir>
 			</imgdir>
 			<imgdir name="StatDetail3">
 				<imgdir name="0">
 					<vector name="lt" x="12" y="41"/>
-					<vector name="rb" x="69" y="56"/>
+					<vector name="rb" x="69" y="74"/>
 					<string name="Title" value="Damage"/>
 					<string name="Desc" value="Your actual damage range, accounting for both Damage Bonus and Final Damage bonuses. For Wand, Staff, Shining Rod, Fan, Psy-limiter, or Lucent Gauntlet weapons, this is calculated using Magic ATT. For all other weapons, your damage is calculated using Attack Power."/>
 				</imgdir>
 				<imgdir name="1">
-					<vector name="lt" x="12" y="59"/>
-					<vector name="rb" x="69" y="74"/>
+					<vector name="lt" x="12" y="77"/>
+					<vector name="rb" x="69" y="92"/>
 					<string name="Title" value="Damage Bonus"/>
 					<string name="Desc" value="The damage multiplier value used to calculate your Damage. Determined by the total combined Damage bonuses of your skills and equipment."/>
 				</imgdir>
 				<imgdir name="2">
-					<vector name="lt" x="107" y="59"/>
-					<vector name="rb" x="165" y="74"/>
+					<vector name="lt" x="107" y="77"/>
+					<vector name="rb" x="165" y="92"/>
 					<string name="Title" value="Boss Damage"/>
 					<string name="Desc" value="The higher your Boss Damage, the greater your damage against Boss monsters. This value does not affect normal Damage. Determined by the total combined Boss Damage bonuses of your skills and equipment."/>
 				</imgdir>
 				<imgdir name="3">
-					<vector name="lt" x="12" y="77"/>
-					<vector name="rb" x="69" y="92"/>
+					<vector name="lt" x="12" y="95"/>
+					<vector name="rb" x="69" y="110"/>
 					<string name="Title" value="Final Damage"/>
 					<string name="Desc" value="The damage multiplier that increases your total Damage. Determined by multiplying the Final Damage bonuses of all your skills."/>
 				</imgdir>
 				<imgdir name="4">
-					<vector name="lt" x="107" y="77"/>
-					<vector name="rb" x="165" y="92"/>
+					<vector name="lt" x="12" y="113"/>
+					<vector name="rb" x="69" y="128"/>
 					<string name="Title" value="Ignore Defense"/>
 					<string name="Desc" value="The higher your Ignore Defense value, the better your attacks penetrate enemy defenses. Determined by multiplying the Ignore Defense values of all your skills and equipment. \r\nApplies up to 100%"/>
 				</imgdir>
 				<imgdir name="5">
-					<vector name="lt" x="12" y="95"/>
-					<vector name="rb" x="69" y="110"/>
+					<vector name="lt" x="12" y="131"/>
+					<vector name="rb" x="69" y="146"/>
 					<string name="Title" value="Critical Rate"/>
-					<string name="Desc" value="Your chance of performing a Critical attack. You can enhance this value with skills or items. \r\nMax: 100%"/>
+					<string name="Desc" value="Your chance of performing a Critical attack. You can enhance this value with skills or items.  \r\nMax: 100%"/>
 				</imgdir>
 				<imgdir name="6">
-					<vector name="lt" x="12" y="113"/>
-					<vector name="rb" x="69" y="128"/>
+					<vector name="lt" x="12" y="149"/>
+					<vector name="rb" x="69" y="164"/>
 					<string name="Title" value="Critical Damage"/>
 					<string name="Desc" value="The higher your Critical Damage, the more damage your Critical attacks inflict. This value is added to your base Critical Damage multiplier of 20-50%. This value does not affect normal Damage. You can enhance this value with skills or items."/>
 				</imgdir>
 				<imgdir name="7">
-					<vector name="lt" x="12" y="131"/>
-					<vector name="rb" x="69" y="146"/>
+					<vector name="lt" x="12" y="167"/>
+					<vector name="rb" x="69" y="182"/>
 					<string name="Title" value="Status Resistance"/>
 					<string name="Desc" value="Your Status Resistance determines the amount of time Abnormal Statuses affect you. Higher values result in shorter durations. You can enhance this value with skills or items.\nAbnormal Status durations are currently reduced by %d%%."/>
 					<string name="info" value="Abnormal Status Resistance string must be fixed at number 7"/>
 				</imgdir>
 				<imgdir name="8">
-					<vector name="lt" x="107" y="131"/>
-					<vector name="rb" x="165" y="146"/>
-					<string name="Title" value="Knockback Resistance"/>
-					<string name="Desc" value="Your chance to resist being pushed back by monster attacks. You can enhance this value with skills (max: 100%)."/>
+					<vector name="lt" x="75" y="131"/>
+					<vector name="rb" x="188" y="146"/>
+					<string name="info" value="Displays excess of 100% Critical Rate"/>
+					<int name="NoTitle" value="1"/>
 				</imgdir>
 				<imgdir name="9">
-					<vector name="lt" x="12" y="149"/>
-					<vector name="rb" x="69" y="164"/>
-					<string name="Title" value="Defense"/>
-					<string name="Desc" value="The higher your Defense, the less damage you take from enemies. Some enemy attacks can pierce through Defense. Determined by adding the total combined Defense of your equipment to your base Defense."/>
+					<vector name="lt" x="167" y="167"/>
+					<vector name="rb" x="200" y="182"/>
+					<string name="info" value="Displays excess of 100% Knockback Resistance"/>
+					<int name="NoTitle" value="1"/>
 				</imgdir>
 				<imgdir name="10">
-					<vector name="lt" x="12" y="167"/>
-					<vector name="rb" x="69" y="182"/>
-					<string name="Title" value="Speed"/>
-					<string name="Desc" value="Your movement speed. Can be increased to a max of 140% normally. Skills and equipment can boost this even further. Can be increased to 190% while riding a mount."/>
+					<vector name="lt" x="107" y="167"/>
+					<vector name="rb" x="165" y="182"/>
+					<string name="Title" value="Knockback Resistance"/>
+					<string name="Desc" value="Your chance to resist being pushed back by monster attacks. You can enhance this value with skills (max: 100%)."/>
 				</imgdir>
 				<imgdir name="11">
 					<vector name="lt" x="12" y="185"/>
 					<vector name="rb" x="69" y="200"/>
+					<string name="Title" value="Defense"/>
+					<string name="Desc" value="The higher your Defense, the less damage you take from enemies. Some enemy attacks can pierce through Defense. Determined by adding the total combined Defense of your equipment to your base Defense."/>
+				</imgdir>
+				<imgdir name="12">
+					<vector name="lt" x="12" y="203"/>
+					<vector name="rb" x="69" y="218"/>
+					<string name="Title" value="Speed"/>
+					<string name="Desc" value="Your movement speed. Can be increased to a max of 140% normally. Skills and equipment can boost this even further. Can be increased to 190% while riding a mount."/>
+				</imgdir>
+				<imgdir name="13">
+					<vector name="lt" x="12" y="221"/>
+					<vector name="rb" x="69" y="236"/>
 					<string name="Title" value="Jump"/>
 					<string name="Desc" value="How high you can jump. Can be increased to a max of 123%. Skills and equipment can be used to increase or decrease your Jump."/>
 				</imgdir>
-				<imgdir name="12">
-					<vector name="lt" x="107" y="149"/>
-					<vector name="rb" x="165" y="164"/>
-					<string name="Title" value="Star Force"/>
-					<string name="Desc" value="You&apos;ll deal less damage to monsters in Star Force areas if you have less Star Force than they do. When you have more Star Force than a monster, you can attack through that monster&apos;s shield. Can be increased by equipping items with Star Force enhancement. Doubled for Overall equipment."/>
-				</imgdir>
-				<imgdir name="13">
-					<vector name="lt" x="107" y="167"/>
-					<vector name="rb" x="165" y="182"/>
-					<string name="Title" value="Arcane Power"/>
-					<string name="Desc" value="You&apos;ll deal less damage to monsters in Arcane River areas if you have less Arcane Power than they do. When you have more Arcane Power than a monster, you can attack through that monster&apos;s shield. Can be increased by obtaining and enhancing Arcane Symbols."/>
-				</imgdir>
 				<imgdir name="14">
-					<vector name="lt" x="12" y="216"/>
-					<vector name="rb" x="200" y="240"/>
+					<vector name="lt" x="107" y="185"/>
+					<vector name="rb" x="165" y="200"/>
+					<string name="Title" value="Star Force"/>
+					<string name="Desc" value="When you have more Star Force than a monster, you can attack through that monsters&apos; shield. Can be increased by equipping items with Star Force enhancement. Doubled for outfits."/>
+				</imgdir>
+				<imgdir name="15">
+					<vector name="lt" x="107" y="203"/>
+					<vector name="rb" x="165" y="218"/>
+					<string name="Title" value="Arcane Power"/>
+					<string name="Desc" value="In Arcane River areas, if you have less Arcane Power than the monsters do, you&apos;ll deal less damage to them. When you have more Arcane Power than a monster, you can attack through that monster&apos;s shield. Can be increased by obtaining and enhancing Arcane Symbols."/>
+				</imgdir>
+				<imgdir name="16">
+					<vector name="lt" x="12" y="252"/>
+					<vector name="rb" x="200" y="276"/>
 					<string name="Title" value="Ability"/>
 					<string name="Desc" value="Your latent abilities. These abilities open up upon reaching level 50, and can be reset with Honor EXP or a Circulator."/>
 				</imgdir>
-				<imgdir name="15">
-					<vector name="lt" x="12" y="288"/>
-					<vector name="rb" x="69" y="321"/>
+				<imgdir name="17">
+					<vector name="lt" x="12" y="324"/>
+					<vector name="rb" x="69" y="357"/>
 					<string name="Title" value="Honor EXP"/>
-					<string name="Desc" value="Used to reset your abilities. Honor EXP can be obtained by leveling up normally or finding Medal of Honor drops from monsters."/>
+					<string name="Desc" value="You can reset abilities by earning Honor EXP. Honor EXP can be obtained through character levels or using the Medal of Honor item in the field."/>
+				</imgdir>
+			</imgdir>
+			<imgdir name="StatDetail4">
+				<imgdir name="0">
+					<vector name="lt" x="12" y="41"/>
+					<vector name="rb" x="69" y="74"/>
+					<string name="Title" value="Damage"/>
+					<string name="Desc" value="Your actual damage range, accounting for both Damage Bonus and Final Damage bonuses. For Wand, Staff, Shining Rod, Fan, Psy-limiter, or Lucent Gauntlet weapons, this is calculated using Magic ATT. For all other weapons, your damage is calculated using Attack Power."/>
+				</imgdir>
+				<imgdir name="1">
+					<vector name="lt" x="12" y="77"/>
+					<vector name="rb" x="69" y="92"/>
+					<string name="Title" value="Damage"/>
+					<string name="Desc" value="The damage multiplier value used to calculate your Damage. Determined by the total combined Damage bonuses of your skills and equipment."/>
+				</imgdir>
+				<imgdir name="2">
+					<vector name="lt" x="107" y="77"/>
+					<vector name="rb" x="165" y="92"/>
+					<string name="Title" value="Boss Damage"/>
+					<string name="Desc" value="The higher your Boss Damage, the greater your damage against Boss monsters. This value does not affect normal Damage. Determined by the total combined Boss Damage bonuses of your skills and equipment."/>
+				</imgdir>
+				<imgdir name="3">
+					<vector name="lt" x="12" y="95"/>
+					<vector name="rb" x="69" y="110"/>
+					<string name="Title" value="Final Damage"/>
+					<string name="Desc" value="The damage multiplier that increases your total Damage. Determined by multiplying the Final Damage bonuses of all your skills."/>
+				</imgdir>
+				<imgdir name="4">
+					<vector name="lt" x="12" y="113"/>
+					<vector name="rb" x="69" y="128"/>
+					<string name="Title" value="Ignore Enemy DEF"/>
+					<string name="Desc" value="The higher your Ignore Enemy DEF value, the better your attacks penetrate enemy defenses. Determined by multiplying the Ignore Defense values of all your skills and equipment. \r\nApplies up to 100%"/>
+				</imgdir>
+				<imgdir name="5">
+					<vector name="lt" x="12" y="131"/>
+					<vector name="rb" x="69" y="146"/>
+					<string name="Title" value="Critical Rate"/>
+					<string name="Desc" value="Your chance of performing a Critical attack. You can enhance this value with skills or items.  \r\nMax: 100%"/>
+				</imgdir>
+				<imgdir name="6">
+					<vector name="lt" x="12" y="149"/>
+					<vector name="rb" x="69" y="164"/>
+					<string name="Title" value="Critical Damage"/>
+					<string name="Desc" value="The higher your Critical Damage, the more damage your Critical attacks inflict. This value is added to your base Critical Damage multiplier of 20-50%. This value does not affect normal Damage. You can enhance this value with skills or items."/>
+				</imgdir>
+				<imgdir name="7">
+					<vector name="lt" x="12" y="167"/>
+					<vector name="rb" x="69" y="182"/>
+					<string name="Title" value="Abnormal Status Resistance"/>
+					<string name="Desc" value="Your Abnormal Status Resistance determines the amount of time Abnormal Statuses affect you. Higher values result in shorter durations. You can enhance this value with skills or items.\nAbnormal Status durations are currently reduced by %d%%."/>
+					<string name="info" value="Abnormal Status Resistance string must be fixed at number 7"/>
+				</imgdir>
+				<imgdir name="8">
+					<vector name="lt" x="75" y="131"/>
+					<vector name="rb" x="188" y="146"/>
+					<string name="info" value="Displays excess of 100% Critical Rate"/>
+					<int name="NoTitle" value="1"/>
+				</imgdir>
+				<imgdir name="9">
+					<vector name="lt" x="167" y="167"/>
+					<vector name="rb" x="200" y="182"/>
+					<string name="info" value="Displays excess of 100% Knockback Resistance"/>
+					<int name="NoTitle" value="1"/>
+				</imgdir>
+				<imgdir name="10">
+					<vector name="lt" x="107" y="167"/>
+					<vector name="rb" x="165" y="182"/>
+					<string name="Title" value="Knockback Resistance"/>
+					<string name="Desc" value="Your chance to resist being pushed back by monster attacks. You can enhance this value with skills (max: 100%)."/>
+				</imgdir>
+				<imgdir name="11">
+					<vector name="lt" x="12" y="185"/>
+					<vector name="rb" x="69" y="200"/>
+					<string name="Title" value="Defense"/>
+					<string name="Desc" value="The higher your Defense, the less damage you take from enemies. Some enemy attacks can pierce through Defense. Determined by adding the total combined Defense of your equipment to your base Defense."/>
+				</imgdir>
+				<imgdir name="12">
+					<vector name="lt" x="12" y="203"/>
+					<vector name="rb" x="69" y="218"/>
+					<string name="Title" value="Speed"/>
+					<string name="Desc" value="Your movement speed. Can be increased to a max of 140% normally. Skills and equipment can boost this even further. Can be increased to 190% while riding a mount."/>
+				</imgdir>
+				<imgdir name="13">
+					<vector name="lt" x="12" y="221"/>
+					<vector name="rb" x="69" y="236"/>
+					<string name="Title" value="Jump"/>
+					<string name="Desc" value="How high you can jump. Can be increased to a max of 123%. Skills and equipment can be used to increase or decrease your Jump."/>
+				</imgdir>
+				<imgdir name="14">
+					<vector name="lt" x="107" y="185"/>
+					<vector name="rb" x="165" y="200"/>
+					<string name="Title" value="Star Force"/>
+					<string name="Desc" value="When you have more Star Force than a monster, you can attack through that monsters&apos; shield. Can be increased by equipping items with Star Force enhancement. Doubled for outfits."/>
+				</imgdir>
+				<imgdir name="15">
+					<vector name="lt" x="107" y="203"/>
+					<vector name="rb" x="165" y="218"/>
+					<string name="Title" value="Arcane Power"/>
+					<string name="Desc" value="In Arcane River areas, if you have less Arcane Power than the monsters do, you&apos;ll deal less damage to them. When you have more Arcane Power than a monster, you can attack through that monster&apos;s shield. Can be increased by obtaining and enhancing Arcane Symbols."/>
+				</imgdir>
+				<imgdir name="16">
+					<vector name="lt" x="107" y="221"/>
+					<vector name="rb" x="165" y="236"/>
+					<string name="Title" value="Sacred Power"/>
+					<string name="Desc" value="In Grandis areas, if you have less Sacred Power than the monsters do, you&apos;ll deal less damage to them. When you have more Sacred Power than a monster, you can attack through that monster&apos;s shield. Can be increased by obtaining and enhancing Sacred Symbols."/>
+				</imgdir>
+				<imgdir name="17">
+					<vector name="lt" x="12" y="252"/>
+					<vector name="rb" x="200" y="276"/>
+					<string name="Title" value="Ability"/>
+					<string name="Desc" value="Your latent abilities. These abilities open up upon reaching level 50, and can be reset with Honor EXP or a Circulator."/>
+				</imgdir>
+				<imgdir name="18">
+					<vector name="lt" x="12" y="306"/>
+					<vector name="rb" x="69" y="339"/>
+					<string name="Title" value="Honor EXP"/>
+					<string name="Desc" value="You can reset abilities by earning Honor EXP. Honor EXP can be obtained through character levels or using the Medal of Honor item in the field."/>
 				</imgdir>
 			</imgdir>
 			<imgdir name="DKtransForm">
@@ -807,111 +936,6 @@
 					<vector name="rb" x="416" y="369"/>
 					<string name="Title" value="Unique Ability"/>
 					<string name="Desc" value="Affects Battle Monster stats in battles. Abilities are randomly set when you capture a Battle Monster. Other abilities may be added when you release and recapture the monster. Each Battle Monster will have 2 Unique Abilities."/>
-				</imgdir>
-			</imgdir>
-			<imgdir name="StatDetail4">
-				<imgdir name="0">
-					<vector name="lt" x="12" y="41"/>
-					<vector name="rb" x="69" y="56"/>
-					<string name="Title" value="Damage"/>
-					<string name="Desc" value="Your actual damage range, accounting for both Damage Bonus and Final Damage bonuses. For Wand, Staff, Shining Rod, Fan, Psy-limiter, or Lucent Gauntlet weapons, this is calculated using Magic ATT. For all other weapons, your damage is calculated using Attack Power."/>
-				</imgdir>
-				<imgdir name="1">
-					<vector name="lt" x="12" y="59"/>
-					<vector name="rb" x="69" y="74"/>
-					<string name="Title" value="Damage"/>
-					<string name="Desc" value="The damage multiplier value used to calculate your Damage. Determined by the total combined Damage bonuses of your skills and equipment."/>
-				</imgdir>
-				<imgdir name="2">
-					<vector name="lt" x="107" y="59"/>
-					<vector name="rb" x="165" y="74"/>
-					<string name="Title" value="Boss Damage"/>
-					<string name="Desc" value="The higher your Boss Damage, the greater your damage against Boss monsters. This value does not affect normal Damage. Determined by the total combined Boss Damage bonuses of your skills and equipment."/>
-				</imgdir>
-				<imgdir name="3">
-					<vector name="lt" x="12" y="77"/>
-					<vector name="rb" x="69" y="92"/>
-					<string name="Title" value="Final Damage"/>
-					<string name="Desc" value="The damage multiplier that increases your total Damage. Determined by multiplying the Final Damage bonuses of all your skills."/>
-				</imgdir>
-				<imgdir name="4">
-					<vector name="lt" x="107" y="77"/>
-					<vector name="rb" x="165" y="92"/>
-					<string name="Title" value="Ignore Enemy DEF"/>
-					<string name="Desc" value="The higher your Ignore Enemy DEF value, the better your attacks penetrate enemy defenses. Determined by multiplying the Ignore Defense values of all your skills and equipment. \r\nApplies up to 100%"/>
-				</imgdir>
-				<imgdir name="5">
-					<vector name="lt" x="12" y="95"/>
-					<vector name="rb" x="69" y="110"/>
-					<string name="Title" value="Critical Rate"/>
-					<string name="Desc" value="Your chance of performing a Critical attack. You can enhance this value with skills or items. \r\nMax: 100%"/>
-				</imgdir>
-				<imgdir name="6">
-					<vector name="lt" x="12" y="113"/>
-					<vector name="rb" x="69" y="128"/>
-					<string name="Title" value="Critical Damage"/>
-					<string name="Desc" value="The higher your Critical Damage, the more damage your Critical attacks inflict. This value is added to your base Critical Damage multiplier of 20-50%. This value does not affect normal Damage. You can enhance this value with skills or items."/>
-				</imgdir>
-				<imgdir name="7">
-					<vector name="lt" x="12" y="131"/>
-					<vector name="rb" x="69" y="146"/>
-					<string name="Title" value="Abnormal Status Resistance"/>
-					<string name="Desc" value="Your Abnormal Status Resistance determines the amount of time Abnormal Statuses affect you. Higher values result in shorter durations. You can enhance this value with skills or items.\nAbnormal Status durations are currently reduced by %d%%."/>
-					<string name="info" value="Abnormal Status Resistance string must be fixed at number 7"/>
-				</imgdir>
-				<imgdir name="8">
-					<vector name="lt" x="107" y="131"/>
-					<vector name="rb" x="165" y="146"/>
-					<string name="Title" value="Knockback Resistance"/>
-					<string name="Desc" value="Your chance to resist being pushed back by monster attacks. You can enhance this value with skills (max: 100%)."/>
-				</imgdir>
-				<imgdir name="9">
-					<vector name="lt" x="12" y="149"/>
-					<vector name="rb" x="69" y="164"/>
-					<string name="Title" value="Defense"/>
-					<string name="Desc" value="The higher your Defense, the less damage you take from enemies. Some enemy attacks can pierce through Defense. Determined by adding the total combined Defense of your equipment to your base Defense."/>
-				</imgdir>
-				<imgdir name="10">
-					<vector name="lt" x="12" y="167"/>
-					<vector name="rb" x="69" y="182"/>
-					<string name="Title" value="Speed"/>
-					<string name="Desc" value="Your movement speed. Can be increased to a max of 140% normally. Skills and equipment can boost this even further. Can be increased to 190% while riding a mount."/>
-				</imgdir>
-				<imgdir name="11">
-					<vector name="lt" x="12" y="185"/>
-					<vector name="rb" x="69" y="200"/>
-					<string name="Title" value="Jump"/>
-					<string name="Desc" value="How high you can jump. Can be increased to a max of 123%. Skills and equipment can be used to increase or decrease your Jump."/>
-				</imgdir>
-				<imgdir name="12">
-					<vector name="lt" x="107" y="149"/>
-					<vector name="rb" x="165" y="164"/>
-					<string name="Title" value="Star Force"/>
-					<string name="Desc" value="You&apos;ll deal less damage to monsters in Star Force areas if you have less Star Force than they do. When you have more Star Force than a monster, you can attack through that monster&apos;s shield. Can be increased by equipping items with Star Force enhancement. Doubled for Overall equipment."/>
-				</imgdir>
-				<imgdir name="13">
-					<vector name="lt" x="107" y="167"/>
-					<vector name="rb" x="165" y="182"/>
-					<string name="Title" value="Arcane Power"/>
-					<string name="Desc" value="You&apos;ll deal less damage to monsters in Arcane River areas if you have less Arcane Power than they do. When you have more Arcane Power than a monster, you can attack through that monster&apos;s shield. Can be increased by obtaining and enhancing Arcane Symbols."/>
-				</imgdir>
-				<imgdir name="14">
-					<vector name="lt" x="107" y="185"/>
-					<vector name="rb" x="165" y="200"/>
-					<string name="Title" value="Sacred Power"/>
-					<string name="Desc" value="You&apos;ll deal less damage to monsters in the Grandis areas if you have less Sacred Power than they do. When you have more Sacred Power than a monster, you can attack through that monster&apos;s shield. Can be increased by obtaining and enhancing Sacred Symbols."/>
-				</imgdir>
-				<imgdir name="15">
-					<vector name="lt" x="12" y="216"/>
-					<vector name="rb" x="200" y="240"/>
-					<string name="Title" value="Ability"/>
-					<string name="Desc" value="Your latent abilities. These abilities open up upon reaching level 50, and can be reset with Honor EXP or a Circulator."/>
-				</imgdir>
-				<imgdir name="16">
-					<vector name="lt" x="12" y="288"/>
-					<vector name="rb" x="69" y="321"/>
-					<string name="Title" value="Honor EXP"/>
-					<string name="Desc" value="Used to reset your abilities. Honor EXP can be obtained by leveling up normally or finding Medal of Honor drops from monsters."/>
 				</imgdir>
 			</imgdir>
 			<imgdir name="WaterSmashScoreBoard">
@@ -3456,7 +3480,7 @@
 				<string name="Title" value="Orbis Tower"/>
 			</imgdir>
 			<imgdir name="1">
-				<string name="Title" value="ElNath"/>
+				<string name="Title" value="El Nath"/>
 			</imgdir>
 		</imgdir>
 		<imgdir name="211040000">

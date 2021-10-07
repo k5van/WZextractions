@@ -430,6 +430,10 @@
 		<string name="name" value="Floating Rock Spirit"/>
 		<string name="desc" value="Summons the Floating Rock Spirit. Double-click to toggle the effect on/off, or set up a hotkey for it in your Key Config."/>
 	</imgdir>
+	<imgdir name="5010188">
+		<string name="name" value="[BTS] Onyx Swan"/>
+		<string name="desc" value="Summons the sparkling Onyx Swan.\r\nDouble-click to toggle the effect on/off, or set up a hotkey for it in your Key Config."/>
+	</imgdir>
 	<imgdir name="5010999">
 		<string name="name" value="Changing to a Monster"/>
 		<string name="desc" value="Not sold in Cash Shop. An effect shown while changing into a monster."/>
@@ -1650,11 +1654,11 @@
 	</imgdir>
 	<imgdir name="5133000">
 		<string name="name" value="Buff Freezer"/>
-		<string name="desc" value="Most #buffs# you had before being resurrected will#c carry over# when you use this. \n#cSome# buffs will not carry over. You will automatically be asked if you want to use the item before resurrection. "/>
+		<string name="desc" value="Using this will preserve most of your #buffs# when you get KO&apos;d. \n#cSome# buffs will not carry over. You can choose whether to use this item in the revival confirm window."/>
 	</imgdir>
 	<imgdir name="5133001">
 		<string name="name" value="Buff Freezer"/>
-		<string name="desc" value="Using this will preserve most of your #buffs# when you get KO&apos;d. \n#cSome# buffs will not carry over. You will be asked if you want to use the item when you get KO&apos;d. "/>
+		<string name="desc" value="Using this will preserve most of your #buffs# when you get KO&apos;d. \n#cSome# buffs will not carry over. You can choose whether to use this item in the revival confirm window."/>
 	</imgdir>
 	<imgdir name="5140000">
 		<string name="name" value="Regular Store Permit"/>
@@ -2881,6 +2885,10 @@
 		<string name="name" value="Fluff Ball Chair"/>
 		<string name="desc" value="Sooo fluffy!\n#cRestores 100 HP and 50 MP every 10 seconds.#"/>
 	</imgdir>
+	<imgdir name="5204043">
+		<string name="name" value="[BTS] Castle Swan"/>
+		<string name="desc" value="Receive the aura of the Black Swan.\n#cRestores 613 HP and 613 MP every 10 seconds.#"/>
+	</imgdir>
 	<imgdir name="5211000">
 		<string name="name" value="2x EXP Card"/>
 		<string name="desc" value="This coupon allows users to earn #c2x Exp (double experience)#. The coupon will be activated immediately after purchase, and the double experience effect will be available from 6pm ~ 8pm (Pacific time) for #c7 days#. 
@@ -3324,7 +3332,7 @@
 	</imgdir>
 	<imgdir name="5330000">
 		<string name="name" value="Quick Delivery Ticket"/>
-		<string name="desc" value="This ticket enables one to send a package, along with an entered message, #cRIGHT THEN AND THERE#. #cDouble-click# it or visit the #cPackage NPC# to use this."/>
+		<string name="desc" value="This ticket enables one to send a package, along with an entered message, #cright then and there#. #cDouble-click# it, or visit the #cPackage NPC#, to use this."/>
 	</imgdir>
 	<imgdir name="5370000">
 		<string name="name" value="Chalkboard"/>
@@ -7308,7 +7316,7 @@
 	</imgdir>
 	<imgdir name="5680531">
 		<string name="name" value="Hairstyling Room Slot Expansion"/>
-		<string name="desc" value="Double-click and use to #cincrease your Hairstyling Room by 1 slot#.\nYou start with 3 default Hairstyling Room slots in the Beauty Room, which you can expand to as many as 9 slots. #cYou can use the Hairstyling Room Slot Expansion item when you have at least 1 mannequin stored in the Hairstyling Room. You&apos;ll need to store a separate mannequin item in order to save hairstyles on the expanded empty slots.#"/>
+		<string name="desc" value="Double-click and use to #cexpand your Hairstyling Room by 1 slot#.\nYou start with 9 default Hairstyling Room slots in the Beauty Room, which you can expand to as many as 15 slots. #cYou can use the Hairstyling Room Slot Expansion item when you have at least 1 mannequin stored in the Hairstyling Room. You&apos;ll need to store a separate mannequin item in order to save hairstyles on the expanded empty slots.#"/>
 	</imgdir>
 	<imgdir name="5680533">
 		<string name="desc" value="#cDouble-click# to claim daily Maple Points. You can get Points this way once a day. Use to receive #c1000 Points on Saturdays and Sundays, and 500 Points on weekdays#. Usable daily #cfor up to 28 days#, starting from the date of purchase."/>
@@ -7635,7 +7643,7 @@
 	</imgdir>
 	<imgdir name="5680733">
 		<string name="name" value="Beauty Lounge Slot Expansion"/>
-		<string name="desc" value="Double-click and use to #cincrease your face space by 1 slot#.\nYou start with 3 default face slots in the Beauty Room, which you can expand to as many as 9 slots. #cYou can use the Beauty Lounge Slot Expansion item when you have at least 1 mannequin stored in the Beauty Lounge. You&apos;ll need to store a separate mannequin item in order to save faces on the expanded empty slots.#"/>
+		<string name="desc" value="Double-click and use to #cexpand your Beauty Room face space by 1 slot#.\nYou start with 9 default face slots in the Beauty Room, which you can expand to as many as 15 slots. #cYou can use the Beauty Lounge Slot Expansion item when you have at least 1 mannequin stored in the Beauty Lounge. You&apos;ll need to store a separate mannequin item in order to save faces on the expanded empty slots.#"/>
 	</imgdir>
 	<imgdir name="5680735">
 		<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
@@ -7713,10 +7721,21 @@
 		<string name="name" value="Clue Queen Hair Selection Coupon (F)"/>
 		<string name="desc" value="#cDouble-click# to select either the Clue Queen Hair Coupon or Silky Clue Queen Hair Coupon."/>
 	</imgdir>
-	<imgdir name="5680873">
-		<string name="desc" value="It&apos;s a #cMapleStory M Pre-Registration Gift#. #cDouble-click# to open the gift box.\r\n\r\n#c&lt;Gift List&gt;\r\n- Winter Forest Viewing Chair\r\n- Extreme Growth Potion x3\r\n- 3,000-Maple-Point Coupon
-#"/>
-		<string name="name" value="MapleStory M Pre-Registration Gift"/>
+	<imgdir name="5680862">
+		<string name="name" value="[BTS] Black Swan Damage Skin (Unit)"/>
+		<string name="desc" value="Applies the Black Swan Damage Skin (Unit).\r\n#cOnce used, it will remain active until another skin is applied."/>
+	</imgdir>
+	<imgdir name="5680871">
+		<string name="name" value="[BTS] Black Swan Medal Coupon"/>
+		<string name="desc" value="#cDouble-click# to receive the Permanent #cBlack Swan# Medal. The obtained medal cannot be traded."/>
+	</imgdir>
+	<imgdir name="5680872">
+		<string name="name" value="[BTS] Swan Dream Title Coupon"/>
+		<string name="desc" value="#cDouble-click# to receive the Permanent #cSwan Dream# Title. The obtained title cannot be traded."/>
+	</imgdir>
+	<imgdir name="5680885">
+		<string name="name" value="[BTS] Onyx Swan Effect Coupon"/>
+		<string name="desc" value="#cDouble-click# to receive the Permanent #cOnyx Swan# Effect. The obtained effect cannot be traded."/>
 	</imgdir>
 	<imgdir name="5689000">
 		<string name="name" value="Premium Water of Life"/>
@@ -7733,6 +7752,11 @@
 	<imgdir name="5680830">
 		<string name="desc" value="It&apos;s a #cMaple Special Gift# box! \r\n#cDouble-click# to open it."/>
 		<string name="name" value="Maple Special Gift"/>
+	</imgdir>
+	<imgdir name="5680873">
+		<string name="desc" value="It&apos;s a #cMapleStory M Pre-Registration Gift#. #cDouble-click# to open the gift box.\r\n\r\n#c&lt;Gift List&gt;\r\n- Winter Forest Viewing Chair\r\n- Extreme Growth Potion x3\r\n- 3,000-Maple-Point Coupon
+#"/>
+		<string name="name" value="MapleStory M Pre-Registration Gift"/>
 	</imgdir>
 	<imgdir name="5689005">
 		<string name="name" value="Concentrated Premium Water of Life"/>
@@ -7829,6 +7853,34 @@
 	<imgdir name="5830002">
 		<string name="name" value="Maple Auction Red Ticket"/>
 		<string name="desc" value="The Maple Auction Red Ticket offers the following benefits for #c30 days.#\nService fee discount: 5% to 3%\nUnlimited searches\nAdditional auction slots: 10 purchase and 10 sell slots\nAdvanced searches\nAuction bidding time extension: 24 and 48 hours"/>
+	</imgdir>
+	<imgdir name="5204044">
+		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+	</imgdir>
+	<imgdir name="5530885">
+		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+	</imgdir>
+	<imgdir name="5530886">
+		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+	</imgdir>
+	<imgdir name="5533144">
+		<string name="name" value="12th-Anniversary Commemorative Box"/>
+		<string name="desc" value="A box that contains 12th-anniversary commemorative cash equipment items. You will get 1 of 5 types of hats and capes. The [Halfblood Wings] are a special cape that can function as a mount. \r\n#c(You have an equal chance to obtain any of the items in this box.)#"/>
+	</imgdir>
+	<imgdir name="5680897">
+		<string name="name" value="Sweet Letter Label Ring (30 Day) Coupon"/>
+		<string name="desc" value="#cDouble-click# this coupon to receive a Sweet Letter Label Ring (30 Day)."/>
+	</imgdir>
+	<imgdir name="5680898">
+		<string name="name" value="Sweet Letter Chat Ring (30 Day) Coupon"/>
+		<string name="desc" value="#cDouble-click# this coupon to receive a Sweet Letter Chat Ring (30 Day)."/>
+	</imgdir>
+	<imgdir name="5689007">
+		<string name="name" value="Luna Petite Water of Life (30 Day)"/>
+		<string name="desc" value="#cDouble-click# on this enchanted water to revive a #cReboot Luna Petite pet# that has been turned into a doll, for a period of #c30 days#. Only works on #cReboot Luna Petite Pets#."/>
 	</imgdir>
 	<imgdir name="5010008">
 		<string name="name" value="Mr. Jackpot"/>
@@ -11012,7 +11064,7 @@ ATT, MATT + 100"/>
 	</imgdir>
 	<imgdir name="5533098">
 		<string name="name" value="Floral Hairpin Box"/>
-		<string name="desc" value="It&apos;s a Floral Hairpin Box. Any one of 6 hairpins can be found inside."/>
+		<string name="desc" value="It&apos;s a Floral Hairpin Box. Any one of 5 hairpins can be found inside."/>
 	</imgdir>
 	<imgdir name="5240164">
 		<string name="name" value="Healthy Worm"/>
@@ -12601,30 +12653,6 @@ Upon using the cube, the value of all potentials #cwill become consistent with t
 		<string name="name" value="Petite Branch"/>
 		<string name="desc" value="This Petite Branch can only be consumed by #cElodin Guardian# pets. Restores Fullness completely and#c increases Closeness by 100.#"/>
 	</imgdir>
-	<imgdir name="5010188">
-		<string name="name" value="[BTS] Onyx Swan"/>
-		<string name="desc" value="Summons the sparkling Onyx Swan.\r\nDouble-click to toggle the effect on/off, or set up a hotkey for it in your Key Config."/>
-	</imgdir>
-	<imgdir name="5204043">
-		<string name="name" value="[BTS] Castle Swan"/>
-		<string name="desc" value="Receive the aura of the Black Swan.\n#cRestores 613 HP and 613 MP every 10 seconds.#"/>
-	</imgdir>
-	<imgdir name="5680862">
-		<string name="name" value="[BTS] Black Swan Damage Skin (Unit)"/>
-		<string name="desc" value="Applies the Black Swan Damage Skin (Unit).\r\n#cOnce used, it will remain active until another skin is applied."/>
-	</imgdir>
-	<imgdir name="5680871">
-		<string name="name" value="[BTS] Black Swan Medal Coupon"/>
-		<string name="desc" value="#cDouble-click# to receive the Permanent #cBlack Swan# Medal. The obtained medal cannot be traded."/>
-	</imgdir>
-	<imgdir name="5680872">
-		<string name="name" value="[BTS] Swan Dream Title Coupon"/>
-		<string name="desc" value="#cDouble-click# to receive the Permanent #cSwan Dream# Title. The obtained title cannot be traded."/>
-	</imgdir>
-	<imgdir name="5680885">
-		<string name="name" value="[BTS] Onyx Swan Effect Coupon"/>
-		<string name="desc" value="#cDouble-click# to receive the Permanent #cOnyx Swan# Effect. The obtained effect cannot be traded."/>
-	</imgdir>
 	<imgdir name="5240216">
 		<string name="name" value="Fruit Juice"/>
 		<string name="desc" value="A fruit juice beloved by the #cFruitimal# pets. Restores Fullness completely and#c increases Closeness by 100#."/>
@@ -12697,10 +12725,6 @@ Upon using the cube, the value of all potentials #cwill become consistent with t
 		<string name="name" value="Evan &amp; Mir Animals Chat Emoticon (Woozy) Coupon"/>
 		<string name="desc" value="#cDouble-click# to obtain the #cEvan &amp; Mir Animals Chat Emoticon (Woozy) Coupon#."/>
 	</imgdir>
-	<imgdir name="5010192">
-		<string name="name" value="Blessing of the Maple Tree"/>
-		<string name="desc" value="Blessing of the Bright Maple Tree. Double-click to toggle the effect, or set up a hotkey for it in your Key Config."/>
-	</imgdir>
 	<imgdir name="5240220">
 		<string name="name" value="Nom Nom Sugar"/>
 		<string name="desc" value="A delicious Nom Nom Sugar prepared specially for the #cMouthwatering Pets#. Recovers Fullness completely and#c increases Closeness by 100.#"/>
@@ -12711,5 +12735,21 @@ Upon using the cube, the value of all potentials #cwill become consistent with t
 	</imgdir>
 	<imgdir name="5121106">
 		<string name="name" value="Stan Band Field Show"/>
+	</imgdir>
+	<imgdir name="5010192">
+		<string name="name" value="Blessing of the Maple Tree"/>
+		<string name="desc" value="Blessing of the Bright Maple Tree. Double-click to toggle the effect, or set up a hotkey for it in your Key Config."/>
+	</imgdir>
+	<imgdir name="5010191">
+		<string name="name" value="With CAPOO!"/>
+		<string name="desc" value="An effect where CAPOO and cute CHICK appear. Double-click to toggle the effect on/off, or set up a hotkey for it in your Key Config."/>
+	</imgdir>
+	<imgdir name="5240215">
+		<string name="name" value="CHICK"/>
+		<string name="desc" value="This CHICK can only be consumed by #cBUGCAT CAPOO and friends#-type pets. Restores Fullness completely and#c increases Closeness by 100.#"/>
+	</imgdir>
+	<imgdir name="5240221">
+		<string name="name" value="Well-Cooked Egg"/>
+		<string name="desc" value="This well-cooked egg can only be consumed by #cDoodle Dino# pets. Restores Fullness completely and#c increases Closeness by 100.#"/>
 	</imgdir>
 </imgdir>

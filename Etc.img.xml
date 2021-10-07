@@ -231,7 +231,7 @@
 		</imgdir>
 		<imgdir name="4000057">
 			<string name="name" value="Dark Pepe Beak"/>
-			<string name="desc" value="A beak cut out of Dark Pepe. Solid and black-colored. "/>
+			<string name="desc" value="A beak liberated from the face of a Dark Pepe."/>
 		</imgdir>
 		<imgdir name="4000058">
 			<string name="name" value="Nependeath Seed"/>
@@ -11377,7 +11377,7 @@
 		</imgdir>
 		<imgdir name="4033091">
 			<string name="name" value="Small Package"/>
-			<string name="desc" value="A small package from J."/>
+			<string name="desc" value="A small pouch from J."/>
 		</imgdir>
 		<imgdir name="4033092">
 			<string name="name" value="Lisa&apos;s Analytical Report"/>
@@ -12214,7 +12214,7 @@
 		</imgdir>
 		<imgdir name="4033388">
 			<string name="name" value="Blue Dragon Cannon Crate"/>
-			<string name="desc" value="A crate for transporting the Blue Dragon Cannon. Safely deliver it to the Reclamation HQ for Kaiser."/>
+			<string name="desc" value="A crate for transporting the Blue Dragon Cannon. Safely deliver it to the Reclamation HQ for Cartalion."/>
 		</imgdir>
 		<imgdir name="4033389">
 			<string name="name" value="Merchant Crew Gold Pouch"/>
@@ -14961,7 +14961,7 @@
 			<string name="desc" value="A sample obtained from Tranquil Erdas."/>
 		</imgdir>
 		<imgdir name="4034930">
-			<string name="name" value="Lantern of Erdas Sample"/>
+			<string name="name" value="Lantern Erda Samples"/>
 			<string name="desc" value="A sample obtained from Lantern Erda."/>
 		</imgdir>
 		<imgdir name="4034931">
@@ -18064,6 +18064,18 @@
 			<string name="name" value="Cotton Candy"/>
 			<string name="desc" value="Used in the #cCotton Candy Workshop# at the #cFull Moon Party#."/>
 		</imgdir>
+		<imgdir name="4310306">
+			<string name="name" value="Neo Stone"/>
+			<string name="desc" value="Usable at the #cNeo Stone Shop# in #cNeo Castle#."/>
+		</imgdir>
+		<imgdir name="4310307">
+			<string name="name" value="Neo Gem"/>
+			<string name="desc" value="Usable at the #cNeo Gem Shop# in #cNeo Castle#."/>
+		</imgdir>
+		<imgdir name="4310308">
+			<string name="name" value="Neo Core"/>
+			<string name="desc" value="Usable at the #cNeo Core Shop# in #cNeo Castle#."/>
+		</imgdir>
 		<imgdir name="4320000">
 			<string name="name" value="Damage Meter"/>
 			<string name="desc" value="A meter that can measure damage."/>
@@ -18772,18 +18784,6 @@
 			<string name="name" value="Yeti TV Parts Preview"/>
 			<string name="desc" value="Yeti TV Parts Preview"/>
 		</imgdir>
-		<imgdir name="4310306">
-			<string name="name" value="Neo Stone"/>
-			<string name="desc" value="Usable at the #cNeo Stone Shop# in #cNeo Castle#."/>
-		</imgdir>
-		<imgdir name="4310307">
-			<string name="name" value="Neo Gem"/>
-			<string name="desc" value="Usable at the #cNeo Gem Shop# in #cNeo Castle#."/>
-		</imgdir>
-		<imgdir name="4310308">
-			<string name="name" value="Neo Core"/>
-			<string name="desc" value="Usable at the #cNeo Core Shop# in #cNeo Castle#."/>
-		</imgdir>
 		<imgdir name="4036709">
 			<string name="name" value="T-Boy&apos;s Part"/>
 			<string name="desc" value="A part that was left behind by T-Boy."/>
@@ -18815,6 +18815,10 @@
 		<imgdir name="4036720">
 			<string name="name" value="Frozen Snowflake"/>
 			<string name="desc" value="A beautiful crystal snowflake."/>
+		</imgdir>
+		<imgdir name="4310310">
+			<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
 		</imgdir>
 		<imgdir name="4000174">
 			<string name="name" value="Money Envelope"/>
@@ -28888,10 +28892,6 @@ Looking at this fills you with hope. It&apos;s terribly fragile, so handle with 
 			<string name="name" value="Kimono Fragment"/>
 			<string name="desc" value="A piece of cloth torn from someone&apos;s garment."/>
 		</imgdir>
-		<imgdir name="4023027">
-			<string name="name" value="Forever Unrelenting Black Flame"/>
-			<string name="desc" value="A perpetual black flame used for making Black Rebirth Flames."/>
-		</imgdir>
 		<imgdir name="4001907">
 			<string name="name" value="Goo Blue Flame"/>
 			<string name="desc" value="This Blue Flame is blazing hot, but somehow it feels squishy."/>
@@ -28931,6 +28931,26 @@ Looking at this fills you with hope. It&apos;s terribly fragile, so handle with 
 		<imgdir name="4310297">
 			<string name="name" value="Troupe Coin"/>
 			<string name="desc" value="A coin containing the special power of the Night Troupe.\nUsed in decorating the #cfestival blueprint#."/>
+		</imgdir>
+		<imgdir name="4023027">
+			<string name="name" value="Forever Unrelenting Black Flame"/>
+			<string name="desc" value="A perpetual black flame used for making Black Rebirth Flames."/>
+		</imgdir>
+		<imgdir name="4009486">
+			<string name="name" value="Bundle of Tree Branches"/>
+			<string name="desc" value="This is a bundle of Dry Tree Branches."/>
+		</imgdir>
+		<imgdir name="4036722">
+			<string name="name" value="CAPOO&apos;s Heart"/>
+			<string name="desc" value="This is CAPOO&apos;s Heart. You can use CAPOO&apos;s Heart to level-up the Heart by 1. Can only be used during the event period."/>
+		</imgdir>
+		<imgdir name="4036723">
+			<string name="name" value="CAPOO and TUTU&apos;s Commemorative Photo"/>
+			<string name="desc" value="A photo of CAPOO and TUTU touring around the town."/>
+		</imgdir>
+		<imgdir name="4009498">
+			<string name="name" value="Lara Coin"/>
+			<string name="desc" value="Coins available in the Lara pre-registration event."/>
 		</imgdir>
 	</imgdir>
 </imgdir>

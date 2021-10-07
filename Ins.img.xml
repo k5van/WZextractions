@@ -3636,6 +3636,45 @@
 		<string name="name" value="Summer Resort Massage Chair"/>
 		<string name="desc" value="Receive a massage and enjoy a feeling of being on vacation.\r\n#cRestores 50 HP and 50 MP every 10 seconds.#"/>
 	</imgdir>
+	<imgdir name="3018575">
+		<string name="name" value="Meditation Chair: Mind Training"/>
+		<string name="desc" value="Train to control the anuish in your heart. #cRestores 50 HP and 50 MP every 10 seconds. You can earn EXP periodically if you use this within the Free-Form Training Grounds."/>
+		<string name="desc_leftalign" value="\r\n#cThis unique chair earns you a fixed rate of EXP every 10 seconds.#"/>
+	</imgdir>
+	<imgdir name="3018576">
+		<string name="name" value="Training Chair: Physical Training"/>
+		<string name="desc" value="Train to become stronger for as long as you sweat. #cRestores 50 HP and 50 MP every 10 seconds. You can earn Awakening Aura periodically if you use this within the Free-Form Training Grounds."/>
+		<string name="desc_leftalign" value="\r\n#cThis unique chair earns you 3 points of Awakening every 10 seconds.#"/>
+	</imgdir>
+	<imgdir name="3018577">
+		<string name="name" value="Training Chair: Sparring"/>
+		<string name="desc" value="This chair represents your training in Shaolin martial arts with So Gong. #cRestores 1,000 HP and 1,000 MP every 10 seconds. You can gather Awakening Aura periodically if you use this within the Free-Form Training Grounds."/>
+		<string name="desc_leftalign" value="\r\n#cThis unique chair earns you 6 points of Awakening every 10 seconds.#"/>
+	</imgdir>
+	<imgdir name="3018579">
+		<string name="name" value="Shark &apos;N&apos; Slide"/>
+		<string name="desc" value="Just when you thought it was safe to go back on the water slide! Recovers 50 HP and 50 MP every 10 seconds."/>
+	</imgdir>
+	<imgdir name="3018580">
+		<string name="name" value="Tangy &apos;Ade Chair"/>
+		<string name="desc" value="Beat the heat! Sip your &apos;ade in the shade! Recovers 50 HP and 50 MP every 10 seconds."/>
+	</imgdir>
+	<imgdir name="3018581">
+		<string name="name" value="Drama Student Chair"/>
+		<string name="desc" value="ACTING!!#c Restores 50 HP and 50 MP every 10 seconds.#"/>
+	</imgdir>
+	<imgdir name="3018584">
+		<string name="name" value="Red Froggie Water Slide Chair"/>
+		<string name="desc" value="Nothing like a good summertime splash! \r\n#cRecovers 50 HP and MP every 10 seconds."/>
+	</imgdir>
+	<imgdir name="3018583">
+		<string name="name" value="Yellow Froggie Water Slide Chair"/>
+		<string name="desc" value="Nothing like a good summertime splash! \r\n#cRecovers 50 HP and MP every 10 seconds."/>
+	</imgdir>
+	<imgdir name="3018582">
+		<string name="name" value="Purple Froggie Water Slide Chair"/>
+		<string name="desc" value="Nothing like a good summertime splash! \r\n#cRecovers 50 HP and MP every 10 seconds."/>
+	</imgdir>
 	<imgdir name="3018590">
 		<string name="name" value="Galaxy Glass Bottle"/>
 		<string name="desc" value="Represents the precious star Blae picked. \r\n#cRecovers 50 HP and MP every 10 seconds."/>
@@ -3668,6 +3707,10 @@
 		<string name="name" value="Full Moon Bunny Chair"/>
 		<string name="desc" value="Become the Moon Bunny!\n#cRestores 50 HP and 50 MP every 10 seconds.#"/>
 	</imgdir>
+	<imgdir name="3018604">
+		<string name="name" value="Primrose Face Chair"/>
+		<string name="desc" value="It&apos;s like your face, but a primrose.\r\n#cRestores 1000 HP and 1000 MP every 10 seconds.#\r\n\r\n"/>
+	</imgdir>
 	<imgdir name="3018609">
 		<string name="name" value="Midnight Butterfly Garden"/>
 		<string name="desc" value="Relax with the Luna pets in a butterfly garden in the deep, dark night. \r\n#cYou can command and feed the Petite Luna pets that are sitting with you.\r\nRestores 100 HP and 100 MP every 10 seconds.#"/>
@@ -3699,6 +3742,38 @@
 	<imgdir name="3018651">
 		<string name="name" value="Winter Forest Viewing Chair"/>
 		<string name="desc" value="Watch the animals of the winter forest.\r\nRecovers #c100 HP and 100 MP# every 10 seconds.\r\n"/>
+	</imgdir>
+	<imgdir name="3018657">
+		<string name="name" value="Neo Castle Chair"/>
+		<string name="desc" value="The mysterious Neo Castle.\r\nRestores #c100 HP and 100 MP# every 10 seconds.\r\n"/>
+	</imgdir>
+	<imgdir name="3018658">
+		<string name="name" value="Sea Fragment Chair"/>
+		<string name="desc" value="A fragment of the sea that shines after starlight!\r\nRestores #c100 HP and 100 MP# every 10 seconds.\r\n"/>
+	</imgdir>
+	<imgdir name="3018659">
+		<string name="name" value="Winter Silver Bell"/>
+		<string name="desc" value="The clear and gentle sound of a silver bell. \r\nRestores #c50 HP and 50 MP# every 10 seconds.\r\n"/>
+	</imgdir>
+	<imgdir name="3018662">
+		<string name="name" value="Pit-A-Pat Holidays Chair"/>
+		<string name="desc" value="A pit-a-pat holidays!\r\n#cRestores 50 HP and 50 MP every 10 seconds.#\r\n\r\n"/>
+	</imgdir>
+	<imgdir name="3018663">
+		<string name="name" value="Alice and the Bunny Hat Chair"/>
+		<string name="desc" value="Go on a trip through the bunny hat. \n#cRestores 100 HP and 100 MP every 10 seconds.#"/>
+	</imgdir>
+	<imgdir name="3018664">
+		<string name="name" value="Play with Me Pink Chair"/>
+		<string name="desc" value="Play with me! Play with me!\n#cRestores 100 HP and 100 MP every 10 seconds.#"/>
+	</imgdir>
+	<imgdir name="3018672">
+		<string name="name" value="Restricted Library"/>
+		<string name="desc" value="This library was long kept secret. \r\n#cRestores 50 HP and 50 MP every 10 seconds.#"/>
+	</imgdir>
+	<imgdir name="3018673">
+		<string name="name" value="Little Happiness Chair"/>
+		<string name="desc" value="This year, my ship will come in!\r\n#cRestores 1000 HP and 1000 MP every 10 seconds.#\r\n\r\n"/>
 	</imgdir>
 	<imgdir name="3049000">
 		<string name="name" value="Basic Extractor"/>
@@ -5686,6 +5761,10 @@ If you feed #cFruit# to the Parrot, it might change color and gain a level. The 
 	<imgdir name="3700664">
 		<string name="name" value="2021 &lt;The Legends Return!&gt; Silver"/>
 		<string name="desc" value="A title given to those who rank 3,001st-7,000th place in the 2021 &lt;The Legends Return!&gt; event.\r\n\r\n#c10% Additional EXP\r\nArcane Power +20\r\nStar Force +20\r\n\nClick to toggle ON/OFF."/>
+	</imgdir>
+	<imgdir name="3700666">
+		<string name="name" value="Swan Dream"/>
+		<string name="desc" value="#c[MAPLESTORY X BTS]\n\n10% Additional EXP\nAttack Power &amp; Magic ATT +15\nAll Stats +15\nBoss Damage +10% Ignore Defense +10%\nMax HP/Max MP +750\nStar Force +30\nArcane Power +50\nStats Duration: 30 Days\n\nClick to toggle ON/OFF.#"/>
 	</imgdir>
 	<imgdir name="3800010">
 		<string name="name" value="L Forest I"/>
@@ -9154,81 +9233,6 @@ If you feed #cFruit# to the Parrot, it might change color and gain a level. The 
 		<string name="name" value="Open Rainbow Box"/>
 		<string name="desc" value="It&apos;s an Open Rainbow Box. A shiny rainbow came out of the box.\n#cThis item disappears upon logging out.#"/>
 	</imgdir>
-	<imgdir name="3018575">
-		<string name="name" value="Meditation Chair: Mind Training"/>
-		<string name="desc" value="Train to control the anuish in your heart. #cRestores 50 HP and 50 MP every 10 seconds. You can earn EXP periodically if you use this within the Free-Form Training Grounds."/>
-		<string name="desc_leftalign" value="\r\n#cThis unique chair earns you a fixed rate of EXP every 10 seconds.#"/>
-	</imgdir>
-	<imgdir name="3018576">
-		<string name="name" value="Training Chair: Physical Training"/>
-		<string name="desc" value="Train to become stronger for as long as you sweat. #cRestores 50 HP and 50 MP every 10 seconds. You can earn Awakening Aura periodically if you use this within the Free-Form Training Grounds."/>
-		<string name="desc_leftalign" value="\r\n#cThis unique chair earns you 3 points of Awakening every 10 seconds.#"/>
-	</imgdir>
-	<imgdir name="3018577">
-		<string name="name" value="Training Chair: Sparring"/>
-		<string name="desc" value="This chair represents your training in Shaolin martial arts with So Gong. #cRestores 1,000 HP and 1,000 MP every 10 seconds. You can gather Awakening Aura periodically if you use this within the Free-Form Training Grounds."/>
-		<string name="desc_leftalign" value="\r\n#cThis unique chair earns you 6 points of Awakening every 10 seconds.#"/>
-	</imgdir>
-	<imgdir name="3018579">
-		<string name="name" value="Shark &apos;N&apos; Slide"/>
-		<string name="desc" value="Just when you thought it was safe to go back on the water slide! Recovers 50 HP and 50 MP every 10 seconds."/>
-	</imgdir>
-	<imgdir name="3018580">
-		<string name="name" value="Tangy &apos;Ade Chair"/>
-		<string name="desc" value="Beat the heat! Sip your &apos;ade in the shade! Recovers 50 HP and 50 MP every 10 seconds."/>
-	</imgdir>
-	<imgdir name="3018581">
-		<string name="name" value="Drama Student Chair"/>
-		<string name="desc" value="ACTING!!#c Restores 50 HP and 50 MP every 10 seconds.#"/>
-	</imgdir>
-	<imgdir name="3018584">
-		<string name="name" value="Red Froggie Water Slide Chair"/>
-		<string name="desc" value="Nothing like a good summertime splash! \r\n#cRecovers 50 HP and MP every 10 seconds."/>
-	</imgdir>
-	<imgdir name="3018583">
-		<string name="name" value="Yellow Froggie Water Slide Chair"/>
-		<string name="desc" value="Nothing like a good summertime splash! \r\n#cRecovers 50 HP and MP every 10 seconds."/>
-	</imgdir>
-	<imgdir name="3018582">
-		<string name="name" value="Purple Froggie Water Slide Chair"/>
-		<string name="desc" value="Nothing like a good summertime splash! \r\n#cRecovers 50 HP and MP every 10 seconds."/>
-	</imgdir>
-	<imgdir name="3018604">
-		<string name="name" value="Primrose Face Chair"/>
-		<string name="desc" value="It&apos;s like your face, but a primrose.\r\n#cRestores 1000 HP and 1000 MP every 10 seconds.#\r\n\r\n"/>
-	</imgdir>
-	<imgdir name="3018657">
-		<string name="name" value="Neo Castle Chair"/>
-		<string name="desc" value="The mysterious Neo Castle.\r\nRestores #c100 HP and 100 MP# every 10 seconds.\r\n"/>
-	</imgdir>
-	<imgdir name="3018658">
-		<string name="name" value="Sea Fragment Chair"/>
-		<string name="desc" value="A fragment of the sea that shines after starlight!\r\nRestores #c100 HP and 100 MP# every 10 seconds.\r\n"/>
-	</imgdir>
-	<imgdir name="3018659">
-		<string name="name" value="Winter Silver Bell"/>
-		<string name="desc" value="The clear and gentle sound of a silver bell. \r\nRestores #c50 HP and 50 MP# every 10 seconds.\r\n"/>
-	</imgdir>
-	<imgdir name="3018662">
-		<string name="name" value="Pit-A-Pat Holidays Chair"/>
-		<string name="desc" value="A pit-a-pat holidays!\r\n#cRestores 50 HP and 50 MP every 10 seconds.#\r\n\r\n"/>
-	</imgdir>
-	<imgdir name="3018663">
-		<string name="name" value="Alice and the Bunny Hat Chair"/>
-		<string name="desc" value="Go on a trip through the bunny hat. \n#cRestores 100 HP and 100 MP every 10 seconds.#"/>
-	</imgdir>
-	<imgdir name="3018664">
-		<string name="name" value="Play with Me Pink Chair"/>
-		<string name="desc" value="Play with me! Play with me!\n#cRestores 100 HP and 100 MP every 10 seconds.#"/>
-	</imgdir>
-	<imgdir name="3018672">
-		<string name="name" value="Restricted Library"/>
-		<string name="desc" value="This library was long kept secret. \r\n#cRestores 50 HP and 50 MP every 10 seconds.#"/>
-	</imgdir>
-	<imgdir name="3018673">
-		<string name="name" value="Little Happiness Chair"/>
-		<string name="desc" value="This year, my ship will come in!\r\n#cRestores 1000 HP and 1000 MP every 10 seconds.#\r\n\r\n"/>
-	</imgdir>
 	<imgdir name="3017074">
 		<string name="name" value="Kumpider Cube Chair"/>
 		<string name="desc" value="A chair obtained from the Monster Collection. \r\n#cRestores 50 HP and 50 MP every 10 seconds.#\r\nRight-click to open the cube-stacking window."/>
@@ -9240,6 +9244,153 @@ If you feed #cFruit# to the Parrot, it might change color and gain a level. The 
 	<imgdir name="3017076">
 		<string name="name" value="OMNI-CLN Cube Chair"/>
 		<string name="desc" value="A chair obtained from the Monster Collection. \r\n#cRestores 50 HP and 50 MP every 10 seconds.#\r\nRight-click to open the cube-stacking window."/>
+	</imgdir>
+	<imgdir name="3018675">
+		<string name="name" value="Ancient Guardian Chair"/>
+		<string name="desc" value="This chair protects the ancient ruins. Restores 50 HP and 50 MP every 10 seconds."/>
+	</imgdir>
+	<imgdir name="3018680">
+		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+	</imgdir>
+	<imgdir name="3018683">
+		<string name="name" value="Fairy Dew Fountain"/>
+		<string name="desc" value="A mysterious and clean fairy dew fountain. #cRestores 50 HP and 50 MP every 10 seconds.#"/>
+	</imgdir>
+	<imgdir name="3018686">
+		<string name="name" value="Fantastic Music Box"/>
+		<string name="desc" value="This special music box plays a fantastic harmony. #cRestores 50 HP and 50 MP every 10 seconds.#"/>
+	</imgdir>
+	<imgdir name="3018687">
+		<string name="name" value="Flying in the Sky Mint Chair"/>
+		<string name="desc" value="This mint-colored airplane chair flies in the clear blue sky. #cRestores 50 HP and 50 MP every 10 seconds.#"/>
+	</imgdir>
+	<imgdir name="3018688">
+		<string name="name" value="Yeti House Chair"/>
+		<string name="desc" value="Like relaxing in a cozy Yeti house on a winter night! \n#cRestores 50 HP and 50 MP every 10 seconds.#"/>
+	</imgdir>
+	<imgdir name="3018697">
+		<string name="name" value="Professional Agent Case"/>
+		<string name="desc" value="Given only to outstanding agents.\n#cRestores 50 HP and 50 MP every 10 seconds.#"/>
+	</imgdir>
+	<imgdir name="3018698">
+		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="desc_leftalign" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+	</imgdir>
+	<imgdir name="3018699">
+		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="desc_leftalign" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+	</imgdir>
+	<imgdir name="3018700">
+		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="desc_leftalign" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+	</imgdir>
+	<imgdir name="3018701">
+		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+	</imgdir>
+	<imgdir name="3018702">
+		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+	</imgdir>
+	<imgdir name="3018707">
+		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+	</imgdir>
+	<imgdir name="3018708">
+		<string name="name" value="Vanishing Journey Pop-Up Book Chair"/>
+		<string name="desc" value="Vanishing Journey has been reborn as pop-up book!\r\n#cRestores 100 HP and 100 MP every 10 seconds.#"/>
+	</imgdir>
+	<imgdir name="3018712">
+		<string name="name" value="Tea Party in the Forest"/>
+		<string name="desc" value="A tea party in the forest with a subtle rose scent. #cRestores 50 HP and 50 MP every 10 seconds.#"/>
+	</imgdir>
+	<imgdir name="3700681">
+		<string name="name" value="Everyday Hustler"/>
+		<string name="desc" value="You took out 100,000 monsters in 2 weeks! Way to hustle!\r\n\r\n#cAttack Power &amp; Magic ATT +20 \nAll Stats +50 \nBoss Damage +30% \nDEF Ignored +30% \nMax HP &amp; MP +2500 \r\n\r\nClick to toggle ON/OFF. Stats will be retained until MM/DD/YYYY HH:MM AM/PM UTC.#"/>
+	</imgdir>
+	<imgdir name="3700682">
+		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+	</imgdir>
+	<imgdir name="3700683">
+		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+	</imgdir>
+	<imgdir name="3801599">
+		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+	</imgdir>
+	<imgdir name="3801600">
+		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+	</imgdir>
+	<imgdir name="3801601">
+		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+	</imgdir>
+	<imgdir name="3801602">
+		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+	</imgdir>
+	<imgdir name="3801603">
+		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+	</imgdir>
+	<imgdir name="3801604">
+		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+	</imgdir>
+	<imgdir name="3801605">
+		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+	</imgdir>
+	<imgdir name="3801606">
+		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+	</imgdir>
+	<imgdir name="3801607">
+		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+	</imgdir>
+	<imgdir name="3801608">
+		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+	</imgdir>
+	<imgdir name="3801609">
+		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+	</imgdir>
+	<imgdir name="3801610">
+		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+	</imgdir>
+	<imgdir name="3801611">
+		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+	</imgdir>
+	<imgdir name="3801612">
+		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+	</imgdir>
+	<imgdir name="3801613">
+		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+	</imgdir>
+	<imgdir name="3801614">
+		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+	</imgdir>
+	<imgdir name="3801615">
+		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+	</imgdir>
+	<imgdir name="3801616">
+		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+	</imgdir>
+	<imgdir name="3801617">
+		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+	</imgdir>
+	<imgdir name="3801618">
+		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+	</imgdir>
+	<imgdir name="3801619">
+		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+	</imgdir>
+	<imgdir name="3801620">
+		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+	</imgdir>
+	<imgdir name="3801621">
+		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+	</imgdir>
+	<imgdir name="3801622">
+		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
 	</imgdir>
 	<imgdir name="3700581">
 		<string name="name" value="Light of the Eclipse"/>
@@ -17817,10 +17968,6 @@ Keep it in your Inventory Set-up tab for 30 minutes to receive a Shiny Easter Eg
 		<string name="name" value="Love Sprinkled From a Cloud Chair"/>
 		<string name="desc" value="Sit on a cloud and sprinkle some love. \n\n#cRestores 100 HP and 100 MP every 10 seconds.\n#"/>
 	</imgdir>
-	<imgdir name="3700666">
-		<string name="name" value="Swan Dream"/>
-		<string name="desc" value="#c[MAPLESTORY X BTS]\n\n10% Additional EXP\nAttack Power &amp; Magic ATT +15\nAll Stats +15\nBoss Damage +10% Ignore Defense +10%\nMax HP/Max MP +750\nStar Force +30\nArcane Power +50\nStats Duration: 30 Days\n\nClick to toggle ON/OFF.#"/>
-	</imgdir>
 	<imgdir name="3700684">
 		<string name="name" value="Lost Memories"/>
 		<string name="desc" value="A title that bearing the warmth of memories long forgotten.\r\n\r\n#cStar Force +30#\r\n#cAll Stat +10, Attack Power &amp; Magic ATT +10,\r\nMax HP &amp; Max MP +500\r\n\nDouble-click to turn ON/OFF.#"/>
@@ -17950,5 +18097,44 @@ Keep it in your Inventory Set-up tab for 30 minutes to receive a Shiny Easter Eg
 	<imgdir name="3700654">
 		<string name="name" value="Henesys Troupe"/>
 		<string name="desc" value="A special title given to those who put in the effort to design the Night Troupe&apos;s fantastic Henesys festival."/>
+	</imgdir>
+	<imgdir name="3018674">
+		<string name="name" value="BUGCAT CAPOO Chair"/>
+		<string name="desc" value="It&apos;s always a good time with BUGCAT CAPOO. \r\n#cRestores 100 HP and 100 MP every 10 seconds.#"/>
+	</imgdir>
+	<imgdir name="3110008">
+		<string name="name" value="Summon BUGCAT CAPOO"/>
+		<string name="desc" value="#cDouble-click# to summon #cBUGCAT CAPOO#.
+
+The summoned #cBUGCAT CAPOO# will increase a specific stat. Level up #cCAPOO&apos;s Heart# to magnify the stat increase.
+#cDouble-click to turn ON/OFF.#"/>
+	</imgdir>
+	<imgdir name="3018735">
+		<string name="name" value="Pop-Up Book Chair"/>
+		<string name="desc" value="Take on the role of the main character in a fantastic pop-up book! #cRestores 100 HP and 100 MP every 10 seconds.#"/>
+	</imgdir>
+	<imgdir name="3018736">
+		<string name="name" value="Coloring Book Chair"/>
+		<string name="desc" value="Color your world! #cRestores 100 HP and 100 MP every 10 seconds."/>
+	</imgdir>
+	<imgdir name="3018737">
+		<string name="name" value="Time Lord&apos;s Chair"/>
+		<string name="desc" value="Control the passage of time itself. #cRestores 100 HP and 100 MP every 10 seconds.#"/>
+	</imgdir>
+	<imgdir name="3014040">
+		<string name="name" value="Big Announcement Chair"/>
+		<string name="desc" value="It&apos;s time for a special announcement! #cRestores 100 HP and 100 MP every 10 seconds.#"/>
+	</imgdir>
+	<imgdir name="3018748">
+		<string name="name" value="Together with the Land Spirits Chair"/>
+		<string name="desc" value="Hang out with your favorite spirits! Restores 100 HP and 100 MP every 10 seconds."/>
+	</imgdir>
+	<imgdir name="3018751">
+		<string name="name" value="Professional Agent Case"/>
+		<string name="desc" value="Given only to outstanding agents.\n#cRestores 50 HP and 50 MP every 10 seconds.#"/>
+	</imgdir>
+	<imgdir name="3018752">
+		<string name="name" value="Shadowblossom Tree Chair"/>
+		<string name="desc" value="A shadow-cloaked tree whose flowers blossom once every thousand years and glow with the light of the moon. Recovers 100 HP and 50 MP every 10 seconds."/>
 	</imgdir>
 </imgdir>
