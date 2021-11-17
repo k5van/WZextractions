@@ -434,6 +434,10 @@
 		<string name="name" value="[BTS] Onyx Swan"/>
 		<string name="desc" value="Summons the sparkling Onyx Swan.\r\nDouble-click to toggle the effect on/off, or set up a hotkey for it in your Key Config."/>
 	</imgdir>
+	<imgdir name="5010192">
+		<string name="name" value="Blessing of the Maple Tree"/>
+		<string name="desc" value="Blessing of the Bright Maple Tree. Double-click to toggle the effect, or set up a hotkey for it in your Key Config."/>
+	</imgdir>
 	<imgdir name="5010999">
 		<string name="name" value="Changing to a Monster"/>
 		<string name="desc" value="Not sold in Cash Shop. An effect shown while changing into a monster."/>
@@ -2679,7 +2683,7 @@
 	</imgdir>
 	<imgdir name="5190010">
 		<string name="name" value="Auto Buff Skill"/>
-		<string name="desc" value="Choose one buff skill you want from the Skill window and drag it to the bottom of the Pet Equip tab. Once it&apos;s saved, the pet will use the chosen skill automatically. Cannot be used on certain skills, #cincluding hyper skills#."/>
+		<string name="desc" value="Choose one buff skill you want from the Skill window and drag it to the bottom of the Pet Equip tab. Once it&apos;s saved, the pet will use the chosen skill automatically. You can save up to 2 skills per pet. Cannot be used on certain skills, #cincluding hyper skills#."/>
 	</imgdir>
 	<imgdir name="5190011">
 		<string name="name" value="Auto Feed and Movement Skill"/>
@@ -2799,7 +2803,7 @@
 	</imgdir>
 	<imgdir name="5204017">
 		<string name="name" value="Shadowblossom Tree Chair"/>
-		<string name="desc" value="A shadow-cloaked tree whose flowers blossom once every thousand years and glow with the light of the moon. Recovers 100 HP and 50 MP every 10 seconds. "/>
+		<string name="desc" value="A shadow-cloaked tree whose flowers blossom once every thousand years and glow with the light of the moon.#c Restores 100 HP and 50 MP every 10 seconds.#"/>
 	</imgdir>
 	<imgdir name="5204018">
 		<string name="name" value="Cheep Cheep Nap Chair"/>
@@ -2888,6 +2892,10 @@
 	<imgdir name="5204043">
 		<string name="name" value="[BTS] Castle Swan"/>
 		<string name="desc" value="Receive the aura of the Black Swan.\n#cRestores 613 HP and 613 MP every 10 seconds.#"/>
+	</imgdir>
+	<imgdir name="5204044">
+		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
 	</imgdir>
 	<imgdir name="5211000">
 		<string name="name" value="2x EXP Card"/>
@@ -5598,6 +5606,14 @@
 		<string name="name" value="Full Moon Ticket x1 Coupon"/>
 		<string name="desc" value="Double-click and use to obtain #cFull Moon Ticket x1#, which can be exchanged for various rewards."/>
 	</imgdir>
+	<imgdir name="5530885">
+		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+	</imgdir>
+	<imgdir name="5530886">
+		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+	</imgdir>
 	<imgdir name="5533000">
 		<string name="name" value="7th Anniversary Celebration Hat Box"/>
 		<string name="desc" value="Box containing eighth note hairpins that celebrate 8th MapleStory anniversary. Contains one of eight colored accessories!"/>
@@ -5813,6 +5829,10 @@
 	<imgdir name="5533138">
 		<string name="name" value="Hotel Maple Party Hat Box"/>
 		<string name="desc" value="A box containing a Hotel Maple Party Hat. Contains 1 of the 6 types of hat.\r\n(Each Hotel Maple Party Hat Box has an equal chance to contain any of the 6 types.)"/>
+	</imgdir>
+	<imgdir name="5533144">
+		<string name="name" value="12th-Anniversary Commemorative Box"/>
+		<string name="desc" value="A box that contains 12th-anniversary commemorative cash equipment items. You will get 1 of 5 types of hats and capes. The [Halfblood Wings] are a special cape that can function as a mount. \r\n#c(You have an equal chance to obtain any of the items in this box.)#"/>
 	</imgdir>
 	<imgdir name="5550000">
 		<string name="name" value="Add Pendant Slot"/>
@@ -7758,9 +7778,21 @@
 #"/>
 		<string name="name" value="MapleStory M Pre-Registration Gift"/>
 	</imgdir>
+	<imgdir name="5680897">
+		<string name="name" value="Sweet Letter Label Ring (30 Day) Coupon"/>
+		<string name="desc" value="#cDouble-click# this coupon to receive a Sweet Letter Label Ring (30 Day)."/>
+	</imgdir>
+	<imgdir name="5680898">
+		<string name="name" value="Sweet Letter Chat Ring (30 Day) Coupon"/>
+		<string name="desc" value="#cDouble-click# this coupon to receive a Sweet Letter Chat Ring (30 Day)."/>
+	</imgdir>
 	<imgdir name="5689005">
 		<string name="name" value="Concentrated Premium Water of Life"/>
 		<string name="desc" value="#cDouble-click# on this enchanted water to revive a pet that has been turned into a doll, for a period of #c270 days.# Does not work on #cMiracle Pets.#"/>
+	</imgdir>
+	<imgdir name="5689007">
+		<string name="name" value="Luna Petite Water of Life (30 Day)"/>
+		<string name="desc" value="#cDouble-click# on this enchanted water to revive a #cReboot Luna Petite pet# that has been turned into a doll, for a period of #c30 days#. Only works on #cReboot Luna Petite Pets#."/>
 	</imgdir>
 	<imgdir name="5700000">
 		<string name="name" value="Android Naming Coupon"/>
@@ -7854,33 +7886,198 @@
 		<string name="name" value="Maple Auction Red Ticket"/>
 		<string name="desc" value="The Maple Auction Red Ticket offers the following benefits for #c30 days.#\nService fee discount: 5% to 3%\nUnlimited searches\nAdditional auction slots: 10 purchase and 10 sell slots\nAdvanced searches\nAuction bidding time extension: 24 and 48 hours"/>
 	</imgdir>
-	<imgdir name="5204044">
-		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+	<imgdir name="5010194">
+		<string name="name" value="Floaty Land Spirit"/>
+		<string name="desc" value="Summons a land spirit. Double-click to toggle the effect, or set up a hotkey for it in your Key Config."/>
 	</imgdir>
-	<imgdir name="5530885">
-		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+	<imgdir name="5010196">
+		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+	</imgdir>
+	<imgdir name="5120215">
+		<string name="name" value="Reaction Pop Time"/>
+		<string name="desc" value=""/>
+		<string name="msg" value="Reaction Pop Time will begin shortly!"/>
+	</imgdir>
+	<imgdir name="5150190">
+		<string name="name" value="Basic Hair Coupon"/>
+		<string name="desc" value="#cDouble-click# to apply the hairstyle of your choice from the list.\nTalk to Lauren at the Henesys Hair Salon to change your Android&apos;s hair."/>
+	</imgdir>
+	<imgdir name="5150192">
+		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="desc" value="#cDouble-click# to apply the hairstyle of your choice from the list.\nTalk to Lauren at the Henesys Hair Salon to change your Android&apos;s hair."/>
+	</imgdir>
+	<imgdir name="5152259">
+		<string name="name" value="Basic Face Coupon"/>
+		<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+	</imgdir>
+	<imgdir name="5152261">
+		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="desc" value="#cDouble-click# to apply the face of your choice from the list.\nTalk to Lauren at the Henesys Hair Salon to change your Android&apos;s face."/>
+	</imgdir>
+	<imgdir name="5157030">
+		<string name="name" value="Ramun Hair Coupon"/>
 		<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
 	</imgdir>
-	<imgdir name="5530886">
-		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+	<imgdir name="5157031">
+		<string name="name" value="Foggy Ramun Hair Coupon"/>
+		<string name="desc" value="#cDouble-click# to change your hair to the selected hairstyle. Can only be used on male characters."/>
 	</imgdir>
-	<imgdir name="5533144">
-		<string name="name" value="12th-Anniversary Commemorative Box"/>
-		<string name="desc" value="A box that contains 12th-anniversary commemorative cash equipment items. You will get 1 of 5 types of hats and capes. The [Halfblood Wings] are a special cape that can function as a mount. \r\n#c(You have an equal chance to obtain any of the items in this box.)#"/>
+	<imgdir name="5157032">
+		<string name="name" value="Rariel Hair Coupon"/>
+		<string name="desc" value="#cDouble-click# to change your hair to the selected hairstyle. Can only be used on female characters."/>
 	</imgdir>
-	<imgdir name="5680897">
-		<string name="name" value="Sweet Letter Label Ring (30 Day) Coupon"/>
-		<string name="desc" value="#cDouble-click# this coupon to receive a Sweet Letter Label Ring (30 Day)."/>
+	<imgdir name="5157033">
+		<string name="name" value="Foggy Rariel Hair Coupon"/>
+		<string name="desc" value="#cDouble-click# to change your hair to the selected hairstyle. Can only be used on female characters."/>
 	</imgdir>
-	<imgdir name="5680898">
-		<string name="name" value="Sweet Letter Chat Ring (30 Day) Coupon"/>
-		<string name="desc" value="#cDouble-click# this coupon to receive a Sweet Letter Chat Ring (30 Day)."/>
+	<imgdir name="5530887">
+		<string name="name" value="Memoria Ticket x1 Coupon"/>
+		<string name="desc" value="Double-click and use to obtain #cMemoria Ticket x1#, which can be exchanged for various rewards."/>
 	</imgdir>
-	<imgdir name="5689007">
-		<string name="name" value="Luna Petite Water of Life (30 Day)"/>
-		<string name="desc" value="#cDouble-click# on this enchanted water to revive a #cReboot Luna Petite pet# that has been turned into a doll, for a period of #c30 days#. Only works on #cReboot Luna Petite Pets#."/>
+	<imgdir name="5680900">
+		<string name="name" value="Cozy Kitty Label Ring (30 Day) Coupon"/>
+		<string name="desc" value="#cDouble-click# this coupon to receive a Cozy Kitty Label Ring (30 Day)."/>
+	</imgdir>
+	<imgdir name="5680901">
+		<string name="name" value="Cozy Kitty Chat Ring (30 Day) Coupon"/>
+		<string name="desc" value="#cDouble-click# this coupon to receive a Cozy Kitty Chat Ring (30 Day)."/>
+	</imgdir>
+	<imgdir name="5680909">
+		<string name="name" value="Ramun Hair Selection Coupon (M)"/>
+		<string name="desc" value="#cDouble-click# to select either the Ramun Hair Coupon (M) or Foggy Ramun Hair Coupon (M)."/>
+	</imgdir>
+	<imgdir name="5680910">
+		<string name="name" value="Rariel Hair Selection Coupon (F)"/>
+		<string name="desc" value="#cDouble-click# to select either the Rariel Hair Coupon (F) or Foggy Rariel Hair Coupon (F)."/>
+	</imgdir>
+	<imgdir name="5680912">
+		<string name="name" value="Peach Label Ring (30 Day) Coupon"/>
+		<string name="desc" value="#cDouble-click# this coupon to receive a Peach Label Ring (30 Day)."/>
+	</imgdir>
+	<imgdir name="5680913">
+		<string name="name" value="Peach Chat Ring (30 Day) Coupon"/>
+		<string name="desc" value="#cDouble-click# this coupon to receive a Peach Chat Ring (30 Day)."/>
+	</imgdir>
+	<imgdir name="5680914">
+		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="desc" value="#cDouble-click# and use to obtain a Golden Hand Item."/>
+	</imgdir>
+	<imgdir name="5680915">
+		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+	</imgdir>
+	<imgdir name="5680916">
+		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+	</imgdir>
+	<imgdir name="5680917">
+		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+	</imgdir>
+	<imgdir name="5680918">
+		<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+	</imgdir>
+	<imgdir name="5680919">
+		<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+	</imgdir>
+	<imgdir name="5680920">
+		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+	</imgdir>
+	<imgdir name="5680921">
+		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+	</imgdir>
+	<imgdir name="5680922">
+		<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+	</imgdir>
+	<imgdir name="5680923">
+		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+	</imgdir>
+	<imgdir name="5680924">
+		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+	</imgdir>
+	<imgdir name="5680925">
+		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+	</imgdir>
+	<imgdir name="5680926">
+		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+	</imgdir>
+	<imgdir name="5680927">
+		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+	</imgdir>
+	<imgdir name="5680928">
+		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+	</imgdir>
+	<imgdir name="5680929">
+		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+	</imgdir>
+	<imgdir name="5680930">
+		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+	</imgdir>
+	<imgdir name="5680931">
+		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+	</imgdir>
+	<imgdir name="5680932">
+		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+	</imgdir>
+	<imgdir name="5680933">
+		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+	</imgdir>
+	<imgdir name="5680934">
+		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+	</imgdir>
+	<imgdir name="5680935">
+		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+	</imgdir>
+	<imgdir name="5680936">
+		<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+	</imgdir>
+	<imgdir name="5680937">
+		<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+	</imgdir>
+	<imgdir name="5680938">
+		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+	</imgdir>
+	<imgdir name="5680939">
+		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+	</imgdir>
+	<imgdir name="5680940">
+		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+	</imgdir>
+	<imgdir name="5680941">
+		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+	</imgdir>
+	<imgdir name="5680942">
+		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+	</imgdir>
+	<imgdir name="5680943">
+		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
 	</imgdir>
 	<imgdir name="5010008">
 		<string name="name" value="Mr. Jackpot"/>
@@ -12734,11 +12931,7 @@ Upon using the cube, the value of all potentials #cwill become consistent with t
 		<string name="desc" value="#cDouble-click# to receive a random Floral Summer Crown."/>
 	</imgdir>
 	<imgdir name="5121106">
-		<string name="name" value="Stan Band Field Show"/>
-	</imgdir>
-	<imgdir name="5010192">
-		<string name="name" value="Blessing of the Maple Tree"/>
-		<string name="desc" value="Blessing of the Bright Maple Tree. Double-click to toggle the effect, or set up a hotkey for it in your Key Config."/>
+		<string name="name" value="Stan Band Open-air Concert"/>
 	</imgdir>
 	<imgdir name="5010191">
 		<string name="name" value="With CAPOO!"/>
@@ -12751,5 +12944,101 @@ Upon using the cube, the value of all potentials #cwill become consistent with t
 	<imgdir name="5240221">
 		<string name="name" value="Well-Cooked Egg"/>
 		<string name="desc" value="This well-cooked egg can only be consumed by #cDoodle Dino# pets. Restores Fullness completely and#c increases Closeness by 100.#"/>
+	</imgdir>
+	<imgdir name="5040015">
+		<string name="name" value="Hyper Teleport Rock"/>
+		<string name="desc" value="Allows you to #cteleport to most other locations through the World Map [W]#. \nAlso allows you to #cmove to a map where a specified character is# if they are in the same world and channel. Excluding maps that are restricted from teleporting into, up to #c13# maps can be registered.\n#c&lt;Towns that you can teleport to&gt;#\n#cHenesys, Ellinia, Perion, Kerning City, Nautilus, Orbis, Ludibrium, Aquarium, Leafre, Mu Lung, Ariant, Edelstein#. This item can be used repeatedly until it expires."/>
+	</imgdir>
+	<imgdir name="5538424">
+		<string name="name" value="Fox that Embroidered the River of Stars Chair Coupon"/>
+		<string name="desc" value="#cDouble-click# to obtain the Fox that Embroidered the River of Stars Chair."/>
+	</imgdir>
+	<imgdir name="5538425">
+		<string name="name" value="Permanent Glacier Mount Coupon"/>
+		<string name="desc" value="#cDoube-click# to obtain the Permanent Glacier Mount."/>
+	</imgdir>
+	<imgdir name="5538426">
+		<string name="name" value="Moonlit Antlers Chair Coupon"/>
+		<string name="desc" value="#cDouble-click# to obtain the Moonlit Antlers Chair."/>
+	</imgdir>
+	<imgdir name="5538427">
+		<string name="name" value="Permanent Fantasia Deer Mount Coupon"/>
+		<string name="desc" value="#cDoube-click# to obtain the Permanent Fantasia Deer Mount."/>
+	</imgdir>
+	<imgdir name="5538428">
+		<string name="name" value="Wings Damage Skin Coupon"/>
+		<string name="desc" value="#cDouble-click# to obtain the Wings Damage Skin."/>
+	</imgdir>
+	<imgdir name="5680953">
+		<string name="name" value="Moonlit Night / Snowy Night Hair Selector Coupon"/>
+		<string name="desc" value="#cDouble-click# to select and obtain either Moonlit Night Hair or Snowy Night Hair."/>
+	</imgdir>
+	<imgdir name="5538429">
+		<string name="name" value="Black Rose Swing Chair Coupon"/>
+		<string name="desc" value="#cDouble-click# to obtain the Black Rose Swing Chair."/>
+	</imgdir>
+	<imgdir name="5538430">
+		<string name="name" value="The Clink Chair Coupon"/>
+		<string name="desc" value="#cDouble-click# to obtain The Clink chair."/>
+	</imgdir>
+	<imgdir name="5538431">
+		<string name="name" value="Moonlight Garden Chair Coupon"/>
+		<string name="desc" value="#cDouble-click# to obtain the Moonlight Garden Chair."/>
+	</imgdir>
+	<imgdir name="5538432">
+		<string name="name" value="Grim Reaper Throne Coupon"/>
+		<string name="desc" value="#cDouble-click# to obtain the Grim Reaper Throne."/>
+	</imgdir>
+	<imgdir name="5538433">
+		<string name="name" value="Master Crimson Damage Skin Coupon"/>
+		<string name="desc" value="#cDouble-click# to obtain the Master Crimson Damage Skin."/>
+	</imgdir>
+	<imgdir name="5538434">
+		<string name="name" value="Teddy Snow Slide Chair Coupon"/>
+		<string name="desc" value="#cDouble-click# to obtain the Teddy Snow Slide Chair."/>
+	</imgdir>
+	<imgdir name="5538435">
+		<string name="name" value="Master Stellar Damage Skin Coupon"/>
+		<string name="desc" value="#cDouble-click# to obtain the Master Stellar Damage Skin."/>
+	</imgdir>
+	<imgdir name="5538436">
+		<string name="name" value="Star&apos;s Path Chair Coupon"/>
+		<string name="desc" value="#cDouble-click# to obtain the Star&apos;s Path Chair."/>
+	</imgdir>
+	<imgdir name="5538437">
+		<string name="name" value="Maple Mushroom Stew Chair Coupon"/>
+		<string name="desc" value="#cDouble-click# to obtain the Maple Mushroom Stew Chair."/>
+	</imgdir>
+	<imgdir name="5240222">
+		<string name="name" value="Tasty Ursa Cookie"/>
+		<string name="desc" value="A sweet cookie that only #cUrsa pets# can eat. Restores Fullness completely and #cincreases Closeness by 100#."/>
+	</imgdir>
+	<imgdir name="5538423">
+		<string name="name" value="Nine-Tailed Fox Damage Skin (Unit) Coupon"/>
+		<string name="desc" value="#cDouble-click# to obtain the Nine-Tailed Fox Damage Skin (Unit)."/>
+	</imgdir>
+	<imgdir name="5538413">
+		<string name="name" value="Lania Chat Emoticon Coupon (Awkward)"/>
+		<string name="desc" value="#cDouble-click# to obtain the #cLania Chat Emoticon Coupon (Awkward)#."/>
+	</imgdir>
+	<imgdir name="5538414">
+		<string name="name" value="Lania Chat Emoticon Coupon (On My Way)"/>
+		<string name="desc" value="#cDouble-click# to obtain the #cLania Chat Emoticon Coupon (On My Way)#."/>
+	</imgdir>
+	<imgdir name="5538415">
+		<string name="name" value="Lania Chat Emoticon Coupon (Smitten)"/>
+		<string name="desc" value="#cDouble-click# to obtain the #cLania Chat Emoticon Coupon (Smitten)#."/>
+	</imgdir>
+	<imgdir name="5538416">
+		<string name="name" value="Lania Chat Emoticon Coupon (Lovely Day)"/>
+		<string name="desc" value="#cDouble-click# to obtain the #cLania Chat Emoticon Coupon (Lovely Day)#."/>
+	</imgdir>
+	<imgdir name="5538417">
+		<string name="name" value="Lania Chat Emoticon Coupon (Cozy Night)"/>
+		<string name="desc" value="#cDouble-click# to obtain the #cLania Chat Emoticon Coupon (Cozy Night)#."/>
+	</imgdir>
+	<imgdir name="5538418">
+		<string name="name" value="Lania Chat Emoticon Coupon (Me, Me, Me!)"/>
+		<string name="desc" value="#cDouble-click# to obtain the #cLania Chat Emoticon Coupon (Me, Me, Me!)#."/>
 	</imgdir>
 </imgdir>

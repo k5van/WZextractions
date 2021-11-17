@@ -6137,6 +6137,10 @@
 			<string name="name" value="Forever Unrelenting Flame"/>
 			<string name="desc" value="A perpetual flame used for making Eternal Rebirth Flames."/>
 		</imgdir>
+		<imgdir name="4023027">
+			<string name="name" value="Forever Unrelenting Black Flame"/>
+			<string name="desc" value="A perpetual black flame used for making Black Rebirth Flames."/>
+		</imgdir>
 		<imgdir name="4024000">
 			<string name="name" value="Basic Herb Oil Bottle"/>
 			<string name="desc" value="A basic herb oil bottle. \nAvailable Herbs: Marjoram, Lavender, Rosemary"/>
@@ -10705,23 +10709,23 @@
 		</imgdir>
 		<imgdir name="4032883">
 			<string name="name" value="Earth-Cleaving Lightning"/>
-			<string name="desc" value="Contains the condensed power of the lightning, which Hawkeye uses to unleash Shark Wave."/>
+			<string name="desc" value="A ground-splitting lightning bolt for Hawkeye to channel into Shark Wave."/>
 		</imgdir>
 		<imgdir name="4032884">
 			<string name="name" value="Earth-Cleaving Lightning"/>
-			<string name="desc" value="Contains the condensed power of the lightning, which Hawkeye uses to unleash Shark Wave."/>
+			<string name="desc" value="A ground-splitting lightning bolt for Hawkeye to channel into Shark Wave."/>
 		</imgdir>
 		<imgdir name="4032885">
 			<string name="name" value="Earth-Cleaving Lightning"/>
-			<string name="desc" value="Contains the condensed power of the lightning, which Hawkeye uses to unleash Shark Wave."/>
+			<string name="desc" value="A ground-splitting lightning bolt for Hawkeye to channel into Shark Wave."/>
 		</imgdir>
 		<imgdir name="4032886">
 			<string name="name" value="Earth-Cleaving Lightning"/>
-			<string name="desc" value="Contains the condensed power of the lightning, which Hawkeye uses to unleash Shark Wave."/>
+			<string name="desc" value="A ground-splitting lightning bolt for Hawkeye to channel into Shark Wave."/>
 		</imgdir>
 		<imgdir name="4032887">
 			<string name="name" value="Earth-Cleaving Lightning"/>
-			<string name="desc" value="Contains the condensed power of the lightning, which Hawkeye uses to unleash Shark Wave."/>
+			<string name="desc" value="A ground-splitting lightning bolt for Hawkeye to channel into Shark Wave."/>
 		</imgdir>
 		<imgdir name="4032888">
 			<string name="name" value="Lunar Dew"/>
@@ -15650,11 +15654,11 @@
 		</imgdir>
 		<imgdir name="4036327">
 			<string name="name" value="Memory Sliver"/>
-			<string name="desc" value="A small fragment from a shattered memory. The hint of a story is just barely visible inside. Gathering more fragments may make it easier to see."/>
+			<string name="desc" value="A memory fragment scattered all over Morass. The hint of a story is just barely visible inside. Gathering more fragments may make it easier to see."/>
 		</imgdir>
 		<imgdir name="4036328">
 			<string name="name" value="Memory Glass"/>
-			<string name="desc" value="A complete memory collected from Morass. Someone&apos;s story is clearly reflected within the depths of the glass."/>
+			<string name="desc" value="A complete memory scattered all over Morass. Someone&apos;s story is clearly reflected within the depths of the glass."/>
 		</imgdir>
 		<imgdir name="4036329">
 			<string name="name" value="Glittering Powder"/>
@@ -18076,6 +18080,10 @@
 			<string name="name" value="Neo Core"/>
 			<string name="desc" value="Usable at the #cNeo Core Shop# in #cNeo Castle#."/>
 		</imgdir>
+		<imgdir name="4310310">
+			<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		</imgdir>
 		<imgdir name="4320000">
 			<string name="name" value="Damage Meter"/>
 			<string name="desc" value="A meter that can measure damage."/>
@@ -18816,9 +18824,45 @@
 			<string name="name" value="Frozen Snowflake"/>
 			<string name="desc" value="A beautiful crystal snowflake."/>
 		</imgdir>
-		<imgdir name="4310310">
-			<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-			<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<imgdir name="4310312">
+			<string name="name" value="Pink Bean"/>
+			<string name="desc" value="A coin obtained by gathering subscribers through broadcasting in #cMaple LIVE#. You can exchange it for various items in the #cLIVE Studio#. "/>
+		</imgdir>
+		<imgdir name="4310313">
+			<string name="name" value="Black Bean"/>
+			<string name="desc" value="A special coin obtained by broadcasting the defeat of strong bosses in #cMaple LIVE#. You can exchange it for rare items in the #cLIVE Studio#. "/>
+		</imgdir>
+		<imgdir name="4310314">
+			<string name="name" value="Subscriber"/>
+			<string name="desc" value="The count increases via Creator Step Up missions in #cMaple LIVE#. You can obtain rewards for increased subscriber counts in #cCreator Step Up#. "/>
+		</imgdir>
+		<imgdir name="4036778">
+			<string name="name" value="Carrot Brooch"/>
+			<string name="desc" value="A carrot-shaped brooch. It&apos;s pretty cute. "/>
+		</imgdir>
+		<imgdir name="4036779">
+			<string name="name" value="Wrapped Toy"/>
+			<string name="desc" value="An old, gift-wrapped toy. It looks worn, but it&apos;s obvious that someone prepared it with great care."/>
+		</imgdir>
+		<imgdir name="4036780">
+			<string name="name" value="Worn Paper"/>
+			<string name="desc" value="An old piece of paper. Its writing seems illegible, but maybe someone else will be able to read it."/>
+		</imgdir>
+		<imgdir name="4036781">
+			<string name="name" value="Lost Shoe"/>
+			<string name="desc" value="A shoe that someone lost a long time ago."/>
+		</imgdir>
+		<imgdir name="4036782">
+			<string name="name" value="Pink Petal"/>
+			<string name="desc" value="A pink flower petal. Can be used to make colorful paint."/>
+		</imgdir>
+		<imgdir name="4036783">
+			<string name="name" value="Yellow Petal"/>
+			<string name="desc" value="A yellow flower petal. Can be used to make colorful paint."/>
+		</imgdir>
+		<imgdir name="4036784">
+			<string name="name" value="Worn-out Bottle"/>
+			<string name="desc" value="A bottle of water. It&apos;s unclear whether the water is still drinkable."/>
 		</imgdir>
 		<imgdir name="4000174">
 			<string name="name" value="Money Envelope"/>
@@ -28932,10 +28976,6 @@ Looking at this fills you with hope. It&apos;s terribly fragile, so handle with 
 			<string name="name" value="Troupe Coin"/>
 			<string name="desc" value="A coin containing the special power of the Night Troupe.\nUsed in decorating the #cfestival blueprint#."/>
 		</imgdir>
-		<imgdir name="4023027">
-			<string name="name" value="Forever Unrelenting Black Flame"/>
-			<string name="desc" value="A perpetual black flame used for making Black Rebirth Flames."/>
-		</imgdir>
 		<imgdir name="4009486">
 			<string name="name" value="Bundle of Tree Branches"/>
 			<string name="desc" value="This is a bundle of Dry Tree Branches."/>
@@ -28951,6 +28991,66 @@ Looking at this fills you with hope. It&apos;s terribly fragile, so handle with 
 		<imgdir name="4009498">
 			<string name="name" value="Lara Coin"/>
 			<string name="desc" value="Coins available in the Lara pre-registration event."/>
+		</imgdir>
+		<imgdir name="4036763">
+			<string name="name" value="Usual Cat Food in a Can: Beef"/>
+			<string name="desc" value="The cat, #cAnkko#&apos;s favorite food"/>
+		</imgdir>
+		<imgdir name="4036764">
+			<string name="name" value="Cat Kibbles: High Protein"/>
+			<string name="desc" value="The cat, #cAnkko#&apos;s favorite food"/>
+		</imgdir>
+		<imgdir name="4036765">
+			<string name="name" value="Churu for Cats: Sweet Flavor"/>
+			<string name="desc" value="The cat, #cAnkko#&apos;s favorite treat"/>
+		</imgdir>
+		<imgdir name="4036766">
+			<string name="name" value="Cat Kibbles: Healthy"/>
+			<string name="desc" value="The cat, #cBori#&apos;s favorite food"/>
+		</imgdir>
+		<imgdir name="4036767">
+			<string name="name" value="Low Fat Milk"/>
+			<string name="desc" value="The cat, #cBori#&apos;s favorite drink"/>
+		</imgdir>
+		<imgdir name="4036768">
+			<string name="name" value="Catnip"/>
+			<string name="desc" value="The cat, #cBori#&apos;s favorite grass"/>
+		</imgdir>
+		<imgdir name="4036769">
+			<string name="name" value="Usual Cat Food in a Can: Tuna"/>
+			<string name="desc" value="The cat, #cKid#&apos;s favorite food"/>
+		</imgdir>
+		<imgdir name="4036770">
+			<string name="name" value="Usual Cat Food in a Can: Salmon"/>
+			<string name="desc" value="The cat, #cKid#&apos;s favorite food"/>
+		</imgdir>
+		<imgdir name="4036771">
+			<string name="name" value="Fish"/>
+			<string name="desc" value="The cat, #cKid#&apos;s favorite food"/>
+		</imgdir>
+		<imgdir name="4036772">
+			<string name="name" value="Churu for Cats: Toasty Flavor"/>
+			<string name="desc" value="The cat, #cKotnip#&apos;s favorite treat"/>
+		</imgdir>
+		<imgdir name="4036773">
+			<string name="name" value="Grasshopper"/>
+			<string name="desc" value="The cat, #cKotnip#&apos;s favorite food"/>
+		</imgdir>
+		<imgdir name="4036774">
+			<string name="name" value="Usual Cat Food in a Can: Pork"/>
+			<string name="desc" value="The cat, #cKotnip#&apos;s favorite food"/>
+		</imgdir>
+		<imgdir name="4036775">
+			<string name="name" value="Churu for Cats: Light Flavor"/>
+			<string name="desc" value="The cat, #cHani#&apos;s favorite treat"/>
+		</imgdir>
+		<imgdir name="4036776">
+			<string name="name" value="Usual Cat Food in a Can: Chicken"/>
+			<string name="desc" value="The cat, #cHani#&apos;s favorite food"/>
+		</imgdir>
+		<imgdir name="4036777">
+			<string name="name" value="Raw Chicken Leg"/>
+			<string name="desc" value="The cat, #cHani#&apos;s favorite food"/>
 		</imgdir>
 	</imgdir>
 </imgdir>

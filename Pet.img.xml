@@ -658,12 +658,12 @@
 	<imgdir name="5000403">
 		<string name="name" value="Soldier Hong"/>
 		<string name="desc" value="Soldier Hong came from the Toy World. \nEquip to obtain the #cMemories of the Toy World# skill, which grows stronger as you equip more toy world pets (max 3)."/>
-		<string name="descD" value="Your Toy World pet has turned into a doll. You can revive it with the Water of Life."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
 	</imgdir>
 	<imgdir name="5000404">
 		<string name="name" value="Soldier Chun"/>
 		<string name="desc" value="Soldier Chun came from the Toy World. \nEquip to obtain the #cMemories of the Toy World# skill, which grows stronger as you equip more toy world pets (max 3)."/>
-		<string name="descD" value="Your Toy World pet has turned into a doll. You can revive it with the Water of Life."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
 	</imgdir>
 	<imgdir name="5000405">
 		<string name="name" value="Green Chad"/>
@@ -798,12 +798,12 @@
 	<imgdir name="5000460">
 		<string name="name" value="Sailor Seal"/>
 		<string name="desc" value="Contains a Sailor Seal! \nEquip to obtain the #cSealors Unite# skill, which grows stronger as you equip more Sealor pets (max 3)."/>
-		<string name="descD" value="Your Sailor Seal has turned into a doll. You can revive it with the Water of Life."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
 	</imgdir>
 	<imgdir name="5000461">
 		<string name="name" value="Admiral Seal"/>
-		<string name="desc" value="Contains a Admiral Seal! \nEquip to obtain the #cSealors Unite# skill, which grows stronger as you equip more Sealor pets (max 3)."/>
-		<string name="descD" value="Your Admiral Seal has turned into a doll. You can revive it with the Water of Life."/>
+		<string name="desc" value="Contains an Admiral Seal! \nEquip to obtain the #cSealors Unite# skill, which grows stronger as you equip more Sealor pets (max 3)."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
 	</imgdir>
 	<imgdir name="5000462">
 		<string name="name" value="Steward Seal"/>
@@ -1820,6 +1820,11 @@
 		<string name="desc" value="A trustworthy pet that quietly watches everyone&apos;s back. Quiet, but smart and gets a lot of things done."/>
 		<string name="descD" value="Your small and adorable Yeti has turned into a doll. You can revive it with Water of Life."/>
 	</imgdir>
+	<imgdir name="5002239">
+		<string name="name" value="Sherbet"/>
+		<string name="desc" value="A sweet, precious kitty named #cSherbet#.\r\nBlessed by the power of moonlight, #cSherbet can pick up items from a greater distance.#\r\nSherbet cannot equip any of the pet equipment.\n\n#cCaution! This pet cannot have its magic duration extended after it ends.#"/>
+		<string name="descD" value="Your small and adorable cat, Sherbet, has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
 	<imgdir name="5002243">
 		<string name="name" value="Lil Wolfruit"/>
 		<string name="desc" value="A #cLittle Wolfruit#, cute and small. "/>
@@ -1859,6 +1864,46 @@
 		<string name="name" value="Lil Glowy"/>
 		<string name="desc" value="#cLil Glowy# was born in Butterfly Garden. It always shines brightly.\nEquip #cReboot Lil Glowy Butterfly# pets to get the #cButterfly Garden Light# skill; the more #cReboot Lil Glowy Butterfly# pets you equip, the stronger the skill. Channeling the power of moonlight, #cReboot Lil Glowy Butterfly# pets can collect #citems across a larger area than most other pets. Can revive with the Petite Luna Water of Life.# "/>
 		<string name="descD" value="Your pet has turned into a doll. You can revive it with the #cPetite Luna Water of Life#."/>
+	</imgdir>
+	<imgdir name="5002264">
+		<string name="name" value="Red Snail"/>
+		<string name="desc" value="An enigmatic snail. This time, it&apos;ll stay with me for longer."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002265">
+		<string name="name" value="Blue Snail"/>
+		<string name="desc" value="An enigmatic snail. This time, it&apos;ll stay with me for longer."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002266">
+		<string name="name" value="Purple Snail"/>
+		<string name="desc" value="An enigmatic snail. This time, it&apos;ll stay with me for longer."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002273">
+		<string name="name" value="Peach Bubble"/>
+		<string name="desc" value="A #cPeach Bubble# with lovely aurora colors."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002274">
+		<string name="name" value="Leaf Bubble"/>
+		<string name="desc" value="A #cLeaf Bubble# with fresh aurora colors."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002275">
+		<string name="name" value="Mint Bubble"/>
+		<string name="desc" value="A #cMint Bubble# with calm aurora colors."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002276">
+		<string name="name" value="Melting Bear"/>
+		<string name="desc" value="Summer is dangerous! Here&apos;s a soft-serve #cMelting Bear#."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002277">
+		<string name="name" value="Duck Floaty"/>
+		<string name="desc" value="A rubber #cDuck Floaty# like you&apos;d see at the beach."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
 	</imgdir>
 	<imgdir name="5000025">
 		<string name="name" value="Golden Pig"/>
@@ -5130,11 +5175,6 @@
 		<string name="desc" value="A Melty Pop pet. \nEquip to obtain the #cMouthwatering Sweetness# skill, which grows stronger as you equip more Mouthwatering pets (max 3)."/>
 		<string name="descd" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
 	</imgdir>
-	<imgdir name="5002239">
-		<string name="name" value="Sherbet"/>
-		<string name="desc" value="A sweet, precious kitty named #cSherbet#.\r\nBlessed by the power of moonlight, #cSherbet can pick up items from a greater distance.#\r\nSherbet cannot equip any of the pet equipment.\n\n#cCaution! This pet cannot have its magic duration extended after it ends.#"/>
-		<string name="descD" value="Your small and adorable cat, Sherbet, has turned into a doll. You can revive it with the Water of Life."/>
-	</imgdir>
 	<imgdir name="5002235">
 		<string name="name" value="BUGCAT CAPOO"/>
 		<string name="desc" value="A cute #cBUGCAT CAPOO#."/>
@@ -5165,11 +5205,6 @@
 		<string name="desc" value="It is #cDoodle Stego# drawn with pink crayon."/>
 		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
 	</imgdir>
-	<imgdir name="5002263">
-		<string name="name" value="Mountain Kid"/>
-		<string name="desc" value="A cute, laid-back #cmountain spirit#."/>
-		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
-	</imgdir>
 	<imgdir name="5002290">
 		<string name="name" value="BUGCAT CAPOO"/>
 		<string name="desc" value="A cute #cBUGCAT CAPOO#."/>
@@ -5184,5 +5219,40 @@
 		<string name="name" value="DOGDOG"/>
 		<string name="desc" value="This is #cDOGDOG#, who is BUGCAT CAPOO&apos;s trusty friend."/>
 		<string name="descd" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002263">
+		<string name="name" value="Mountain Kid"/>
+		<string name="desc" value="A cute, laid-back #cmountain spirit#."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002287">
+		<string name="desc" value="A dependable#cBrown Ursa#."/>
+		<string name="descd" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+		<string name="name" value="Brown Ursa"/>
+	</imgdir>
+	<imgdir name="5002288">
+		<string name="desc" value="A charming #cPink Ursa#."/>
+		<string name="descd" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+		<string name="name" value="Pink Ursa"/>
+	</imgdir>
+	<imgdir name="5002289">
+		<string name="desc" value="A cute #cPurple Ursa#."/>
+		<string name="descd" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+		<string name="name" value="Purple Ursa"/>
+	</imgdir>
+	<imgdir name="5002321">
+		<string name="desc" value="A dependable#cBrown Ursa#."/>
+		<string name="descd" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+		<string name="name" value="Brown Ursa"/>
+	</imgdir>
+	<imgdir name="5002322">
+		<string name="desc" value="A charming #cPink Ursa#."/>
+		<string name="descd" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+		<string name="name" value="Pink Ursa"/>
+	</imgdir>
+	<imgdir name="5002323">
+		<string name="desc" value="A cute #cPurple Ursa#."/>
+		<string name="descd" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+		<string name="name" value="Purple Ursa"/>
 	</imgdir>
 </imgdir>

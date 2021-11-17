@@ -79,4 +79,6 @@
 	<string name="SID_BOSS_RECORD_CLEAR_MONTH" value="Monthly Clear Count"/>
 	<string name="SID_CHAT_BUTTON_FONTSIZE" value="Adjust Chat Font Size"/>
 	<string name="SID_MANNEQUIN_HAIR_COOL_TIME" value="Cannot complete your action right now.\nPlease try again after %d seconds."/>
+	<string name="SID_LINKED_SKILL_LINK_COST_CHECK" value="Would you like to spend %s Mesos and\nactivate this Link Skill?\n(Today&apos;s transfer count: %d)"/>
+	<string name="SID_LINKED_SKILL_LINK_COST_FAIL" value="You need %s Mesos\nto activate this Link Skill.\n(Today&apos;s transfer count: %d)"/>
 </imgdir>
