@@ -10815,7 +10815,7 @@
   </dir>
   <dir name="3010688">
     <string name="name" value="Experiment Chair" />
-    <string name="desc" value="Experiment progress will differ each time you sit. Restores 100 HP and 100 MP every 10 seconds." />
+    <string name="desc" value="Experiment progress will differ each time you sit. #cRestores 100 HP and 100 MP every 10 seconds.#" />
   </dir>
   <dir name="3010698">
     <string name="name" value="Gollux Chair" />
@@ -17409,7 +17409,7 @@
     <string name="desc" value="Oh yeah! It's time to get down and funky with the Handsome Monk and his host of happenin' trainees! Any time you sit down can be a party if you meditate hard enough!\r\n#cRestores 100 HP and 100 MP every 10 seconds.#" />
   </dir>
   <dir name="3018455">
-    <string name="name" value="Winter Snow Globe Chair" />
+    <string name="name" value="Snowman Snow Globe Chair" />
     <string name="desc" value="Build a snowman inside a snow globe, where no one can interrupt you or swipe the carrot you were saving for the nose.\r\n#cRestores 100 HP and 100 MP every 10 seconds.#" />
   </dir>
   <dir name="3018470">
@@ -18407,5 +18407,49 @@
   <dir name="3018841">
     <string name="name" value="Bearcat's Cafe Car Chair" />
     <string name="desc" value="A Bearcat's Cafe Car Chair. \r\n#cRestores 100 HP and 100 MP every 10 seconds.# Designed by the MapleStory China player pipi." />
+  </dir>
+  <dir name="3018814">
+    <string name="name" value="Train Trip Chair" />
+    <string name="desc" value="A Train Trip Chair. Restores 100 HP and 100 MP every 10 seconds." />
+  </dir>
+  <dir name="3018815">
+    <string name="name" value="My Mix Chair" />
+    <string name="desc" value="A My Mix Chair. #cRestores 100 HP and 100 MP every 10 seconds.#" />
+  </dir>
+  <dir name="3018816">
+    <string name="name" value="Time Dragon Chair" />
+    <string name="desc" value="A Time Dragon Chair. #cRestores 100 HP and 100 MP every 10 seconds.#" />
+  </dir>
+  <dir name="3012047">
+    <string name="name" value="Snow Rabbit Couple's Chair" />
+    <string name="desc" value="A Snow Rabbit Couple's Chair. When two of these chairs are used in close proximity, the special couple chair effect will activate. #cRestores 100 HP and 100 MP every 10 seconds#. Designed by the China MapleStory player yimiao." />
+  </dir>
+  <dir name="3018850">
+    <string name="name" value="Memories of Lith Harbor" />
+    <string name="desc" value="From the Lith Harbor, where fresh blue memories wave. #cRestores 50 HP and 50 MP every 10 seconds.#" />
+  </dir>
+  <dir name="3018851">
+    <string name="name" value="Wish Fulfillment Letter" />
+    <string name="desc" value="It's the epitome of wishful thinking!\n#cRestores 50 HP and 50 MP every 10 seconds.#" />
+  </dir>
+  <dir name="3018845">
+    <string name="name" value="구슬 안의 유니버스 의자" />
+    <string name="desc" value="구슬 안에 담긴 아름다운 우주에서 유유자적.\n#c10초마다 HP/MP 100씩 회복." />
+  </dir>
+  <dir name="3018846">
+    <string name="name" value="박스 안은 포근해" />
+    <string name="desc" value="고양이들이 가장 좋아하는 장난감...이 담겨 배송된 상자!\n#c10초마다 HP/MP 100씩 회복." />
+  </dir>
+  <dir name="3018847">
+    <string name="name" value="주황버섯의 반란 의자" />
+    <string name="desc" value="너무 뜨겁다면 어서 주황버섯에게 사과하자!\n#c10초마다 HP/MP 100씩 회복." />
+  </dir>
+  <dir name="3018848">
+    <string name="name" value="나도 몬스터 역지사지 의자" />
+    <string name="desc" value="슬라임의 화풀이. 오늘만 못이기는척 당해주자.\n#c10초마다 HP/MP 100씩 회복." />
+  </dir>
+  <dir name="3018866">
+    <string name="name" value="My Mix Chair" />
+    <string name="desc" value="A My Mix Chair. #cRestores 100 HP and 100 MP every 10 seconds.#" />
   </dir>
 </dir>

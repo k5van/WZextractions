@@ -610,8 +610,8 @@
       <string name="desc" value="The Gatekeeper's armband." />
     </dir>
     <dir name="4000152">
-      <string name="name" value="Tanathos Strap" />
-      <string name="desc" value="A strap from Tanathos" />
+      <string name="name" value="Thanatos Strap" />
+      <string name="desc" value="A strap from Thanatos." />
     </dir>
     <dir name="4000153">
       <string name="name" value="Snorkle" />

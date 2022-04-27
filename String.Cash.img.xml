@@ -197,8 +197,8 @@
     <string name="desc" value="A pair of wings that resembles the wings of a forest fairy." />
   </dir>
   <dir name="5010071">
-    <string name="name" value="보름달을 조심해! 이펙트" />
-    <string name="desc" value="월묘네 집에 불청객이 찾아든 모양이다. 아이콘을 더블클릭하거나 키 설정 메뉴에서 특정 단축키로 지정한 후 단축키를 눌러 ON/OFF 할 수 있다." />
+    <string name="name" value="Frightful Full Moon Effect" />
+    <string name="desc" value="There's an uninvited guest at Moon Bunny's house! Double-click to toggle the effect, or set up a hotkey for it in your Key Config." />
   </dir>
   <dir name="5010078">
     <string name="name" value="Owl Effect" />
@@ -253,20 +253,20 @@
     <string name="desc" value="These rainbow colored wings will make you more appealing! Double-click to toggle the effect, or setup a hotkey in your Key Config. " />
   </dir>
   <dir name="5010105">
-    <string name="name" value="굿아이디어 이펙트" />
-    <string name="desc" value="어쩐지 IQ가 급상승한 느낌이다. 상큼한 아이디어☆가 넘쳐 흐른다. 아이콘을 더블클릭하거나 키 설정 메뉴에서 특정 단축키로 지정한 후 단축키를 눌러 ON/OFF 할 수 있다. " />
+    <string name="name" value="Inspiration Effect" />
+    <string name="desc" value="I feel so much smarter all of a sudden. My brain is just buzzing with new ideas. Double-click to toggle the effect, or set up a hotkey for it in your Key Config." />
   </dir>
   <dir name="5010106">
     <string name="name" value="Shining Effect" />
-    <string name="desc" value="반짝반짝 눈이 부셔! 아이콘을 더블클릭하거나 키 설정 메뉴에서 특정 단축키로 지정한 후 단축키를 눌러 ON/OFF 할 수 있다. " />
+    <string name="desc" value="Shining and dazzling! Double-click to toggle the effect, or set up a hotkey for it in your Key Config." />
   </dir>
   <dir name="5010107">
-    <string name="name" value="단풍여우꼬리" />
-    <string name="desc" value="살랑살랑 단풍잎 모양 여우꼬리다. 아이콘을 더블클릭하거나 키 설정 메뉴에서 특정 단축키로 지정한 후 단축키를 눌러 ON/OFF 할 수 있다. " />
+    <string name="name" value="Maple Leaf Fox Tail" />
+    <string name="desc" value="A maple-leaf-shaped fox tail that sways in the breeze. Double-click to toggle the effect, or set up a hotkey for it in your Key Config." />
   </dir>
   <dir name="5010108">
-    <string name="name" value="내가 바로 스타" />
-    <string name="desc" value="내가 바로 스타! 아이콘을 더블클릭하거나 키 설정 메뉴에서 특정 단축키로 지정한 후 단축키를 눌러 ON/OFF 할 수 있다. " />
+    <string name="name" value="I'm the Star!" />
+    <string name="desc" value="You've hit the big time! Double-click to toggle the effect, or set up a hotkey for it in your Key Config." />
   </dir>
   <dir name="5010109">
     <string name="name" value="Je t'aime Paris" />
@@ -13137,7 +13137,7 @@
   </dir>
   <dir name="5220096">
     <string name="name" value="Legendary Familiar Booster Pack" />
-    <string name="desc" value="A booster pack containing 3 random Familiars. The Familiars you can receive range from Rare to Legendary in rank. \n#cYou will receive a Volatile Legendary Familiar Stamp upon using the item. If you collect 15 of them, you can exchange them for a Volatile Unique Family Ticket, and if you collect 30, you can exchange them for a Volatile Legendary Family Ticket.#" />
+    <string name="desc" value="A booster pack containing 3 random Familiars. The Familiars you can receive range from Rare to Legendary in rank. \n#cYou will receive a Volatile Legendary Familiar Stamp upon using the item. If you collect 15 of them, you can exchange them for a Volatile Unique Familiar Ticket, and if you collect 30, you can exchange them for a Volatile Legendary Family Ticket.#" />
   </dir>
   <dir name="5680972">
     <string name="name" value="5,000 메이플포인트 교환권" />
@@ -13150,5 +13150,53 @@
   <dir name="5680974">
     <string name="name" value="25,000 메이플포인트 교환권" />
     <string name="desc" value="#c더블클릭#하면 25,000 메이플 포인트 교환권을 받을 수 있다." />
+  </dir>
+  <dir name="5240227">
+    <string name="name" value="Toy Block" />
+    <string name="desc" value="A Toy Block beloved by #cTown of Toys# pets. Recovers Fullness completely and #cincreases Closeness by 100.#" />
+  </dir>
+  <dir name="5060057">
+    <string name="name" value="Lucky Jewel Box" />
+    <string name="desc" value="When used, the Lucky Jewel Box uses the power of luck to obtain one special item and a number of Nodestones." />
+  </dir>
+  <dir name="5533159">
+    <string name="name" value="Explorer High Fashion Box" />
+    <string name="desc" value="This Explorer High Fashion Box has been specially curated to commemorate the Explorer Redux release. Contains #c1 of the 11 random fashion items#." />
+  </dir>
+  <dir name="5533160">
+    <string name="name" value="Explorer Mass Fashion Box" />
+    <string name="desc" value="This Explorer Mass Fashion Box has been specially curated to commemorate the Explorer Redux release. Contains #c1 of the 11 random fashion items#." />
+  </dir>
+  <dir name="5240228">
+    <string name="name" value="달콤한 선율" />
+    <string name="desc" value="#c쁘띠 심포니 펫#들만 먹을 수 있는 달콤한 맛이 나는 선율이다. 포만감을 모두 회복시켜주고 #c친밀도를 100 상승#시켜준다." />
+  </dir>
+  <dir name="5538481">
+    <string name="name" value="Full Moon Lantern Damage Skin Coupon" />
+    <string name="desc" value="#cDouble-click# to obtain Full Moon Lantern Damage Skin." />
+  </dir>
+  <dir name="5538485">
+    <string name="name" value="모험가를 사랑하는 슈가 채팅 이모티콘 교환권(메롱~)" />
+    <string name="desc" value="#c더블 클릭# 하면 #c모험가를 사랑하는 슈가 채팅 이모티콘 교환권(메롱~)#을 습득합니다." />
+  </dir>
+  <dir name="5538486">
+    <string name="name" value="모험가를 사랑하는 슈가 채팅 이모티콘 교환권(반가워요 모험가님~)" />
+    <string name="desc" value="#c더블 클릭# 하면 #c모험가를 사랑하는 슈가 채팅 이모티콘 교환권(반가워요 모험가님~)#을 습득합니다." />
+  </dir>
+  <dir name="5538487">
+    <string name="name" value="모험가를 사랑하는 슈가 채팅 이모티콘 교환권(멋져요 모험가님!)" />
+    <string name="desc" value="#c더블 클릭# 하면 #c모험가를 사랑하는 슈가 채팅 이모티콘 교환권(멋져요 모험가님!)#을 습득합니다." />
+  </dir>
+  <dir name="5538488">
+    <string name="name" value="모험가를 사랑하는 슈가 채팅 이모티콘 교환권(힘내요 모험가님!)" />
+    <string name="desc" value="#c더블 클릭# 하면 #c모험가를 사랑하는 슈가 채팅 이모티콘 교환권(힘내요 모험가님!)#을 습득합니다." />
+  </dir>
+  <dir name="5538489">
+    <string name="name" value="모험가를 사랑하는 슈가 채팅 이모티콘 교환권(슈가는 너무 기뻐요~)" />
+    <string name="desc" value="#c더블 클릭# 하면 #c모험가를 사랑하는 슈가 채팅 이모티콘 교환권(슈가는 너무 기뻐요~)#을 습득합니다." />
+  </dir>
+  <dir name="5538490">
+    <string name="name" value="모험가를 사랑하는 슈가 채팅 이모티콘 교환권(비상이다 비상~)" />
+    <string name="desc" value="#c더블 클릭# 하면 #c모험가를 사랑하는 슈가 채팅 이모티콘 교환권(비상이다 비상~)#을 습득합니다." />
   </dir>
 </dir>
