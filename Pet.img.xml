@@ -586,7 +586,7 @@
 		<string name="descD" value="Your Candle pet has turned into a doll. You can revive it with the Water of Life."/>
 	</imgdir>
 	<imgdir name="5000354">
-		<string name="name" value="Grape Candle"/>
+		<string name="name" value="Pink Candle"/>
 		<string name="desc" value="A Candle pet that shines ever so brightly.\nEquip to obtain the #cBurning Bright# skill, which grows stronger as you equip more Candle pets (max 3)."/>
 		<string name="descD" value="Your Candle pet has turned into a doll. You can revive it with the Water of Life."/>
 	</imgdir>
@@ -1822,8 +1822,8 @@
 	</imgdir>
 	<imgdir name="5002239">
 		<string name="name" value="Sherbet"/>
-		<string name="desc" value="A sweet, precious kitty named #cSherbet#.\r\nBlessed by the power of moonlight, #cSherbet can pick up items from a greater distance.#\r\nSherbet cannot equip any of the pet equipment.\n\n#cCaution! This pet cannot have its magic duration extended after it ends.#"/>
-		<string name="descD" value="Your small and adorable cat, Sherbet, has turned into a doll. You can revive it with the Water of Life."/>
+		<string name="desc" value="A sweet, precious kitty named #cSherbet#.\r\nBlessed by the power of moonlight, #cSherbet can pick up items from a greater distance.#\r\nSherbet cannot equip any pet equipment.\r\nIf you double-click Sherbet after its magic duration ends, it will disappear.\n\n#cCaution! This pet cannot have its magic duration extended after it ends.#"/>
+		<string name="descD" value="Your small and adorable cat, Sherbet, has turned into a doll. You cannot revive it with the Water of Life.\r\nIf you double-click Sherbet after its magic duration ends, it will disappear."/>
 	</imgdir>
 	<imgdir name="5002243">
 		<string name="name" value="Lil Wolfruit"/>
@@ -1865,6 +1865,11 @@
 		<string name="desc" value="#cLil Glowy# was born in Butterfly Garden. It always shines brightly.\nEquip #cReboot Lil Glowy Butterfly# pets to get the #cButterfly Garden Light# skill; the more #cReboot Lil Glowy Butterfly# pets you equip, the stronger the skill. Channeling the power of moonlight, #cReboot Lil Glowy Butterfly# pets can collect #citems across a larger area than most other pets. Can revive with the Petite Luna Water of Life.# "/>
 		<string name="descD" value="Your pet has turned into a doll. You can revive it with the #cPetite Luna Water of Life#."/>
 	</imgdir>
+	<imgdir name="5002263">
+		<string name="name" value="Mountain Kid"/>
+		<string name="desc" value="A cute, laid-back #cmountain spirit#."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
 	<imgdir name="5002264">
 		<string name="name" value="Red Snail"/>
 		<string name="desc" value="An enigmatic snail. This time, it&apos;ll stay with me for longer."/>
@@ -1904,6 +1909,321 @@
 		<string name="name" value="Duck Floaty"/>
 		<string name="desc" value="A rubber #cDuck Floaty# like you&apos;d see at the beach."/>
 		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002296">
+		<string name="name" value="Nodestony"/>
+		<string name="desc" value="#cNodestony#, a Golden Hand Item, from the Nodestony Pet Set."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002297">
+		<string name="name" value="EXPstony"/>
+		<string name="desc" value="#cEXPstony#, a Golden Hand Item, from the Nodestony Pet Set."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002298">
+		<string name="name" value="Mirrorstony"/>
+		<string name="desc" value="#cMirrorstony#, a Golden Hand Item, from the Nodestony Pet Set."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002306">
+		<string name="name" value="Crunchy"/>
+		<string name="desc" value="#cCrunchy#, a Golden Hand Item, from the Fried Cooking Pet Set."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002307">
+		<string name="name" value="Goldeny"/>
+		<string name="desc" value="#cGoldeny#, a Golden Hand Item, from the Fried Cooking Pet Set."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002308">
+		<string name="name" value="Burnty"/>
+		<string name="desc" value="#cBurnty#, a Golden Hand Item, from the Fried Cooking Pet Set."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002309">
+		<string name="name" value="Aruru"/>
+		<string name="desc" value="#cAruru#, a Golden Hand Item, from the Start of Adventure Pet Set."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002310">
+		<string name="name" value="Dodo"/>
+		<string name="desc" value="#cDodo#, a Golden Hand Item, from the Start of Adventure Pet Set."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002311">
+		<string name="name" value="Bawu"/>
+		<string name="desc" value="#cBawu#, a Golden Hand Item, from the Start of Adventure Pet Set."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002312">
+		<string name="name" value="MW Goddess"/>
+		<string name="desc" value="#cMW Goddess#, a Golden Hand Item, from the Oh My Lil Goddess! Pet Set."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002313">
+		<string name="name" value="G Goddess"/>
+		<string name="desc" value="#cG Goddess#, a Golden Hand Item, from the Oh My Lil Goddess! Pet Set."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002314">
+		<string name="name" value="A Goddess"/>
+		<string name="desc" value="#cA Goddess#, a Golden Hand Item, from the Oh My Lil Goddess! Pet Set."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002315">
+		<string name="name" value="Aco"/>
+		<string name="desc" value="#cAco#, a Golden Hand Item, from the Acorn Guards Pet Set."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002316">
+		<string name="name" value="Cor"/>
+		<string name="desc" value="#cCor#, a Golden Hand Item, from the Acorn Guards Pet Set."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002317">
+		<string name="name" value="Orn"/>
+		<string name="desc" value="#cOrn#, a Golden Hand Item, from the Acorn Guards Pet Set."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002318">
+		<string name="name" value="Baal"/>
+		<string name="desc" value="#cBaal#, a Golden Hand Item, from the Flame Devil Pet Set."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002319">
+		<string name="name" value="Luci"/>
+		<string name="desc" value="#cLuci#, a Golden Hand Item, from the Flame Devil Pet Set."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002320">
+		<string name="name" value="Levi"/>
+		<string name="desc" value="#cLevi#, a Golden Hand Item, from the Flame Devil Pet Set."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002324">
+		<string name="name" value="Strawberry"/>
+		<string name="desc" value="#Strawberry# of the Silver Hand Item, Straw-Choco-Nilla Pet Set."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002325">
+		<string name="name" value="Choco"/>
+		<string name="desc" value="#Choco# of the Silver Hand Item, Straw-Choco-Nilla Pet Set."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002326">
+		<string name="name" value="Nilla"/>
+		<string name="desc" value="#Nilla# of the Silver Hand Item, Straw-Choco-Nilla Pet Set."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002327">
+		<string name="name" value="Spooky Bear"/>
+		<string name="desc" value="#Spooky Bear# of the Silver Hand Item, Spooky Ghost Friends Pet Set."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002328">
+		<string name="name" value="Spooky Bunny"/>
+		<string name="desc" value="#Spooky Bunny# of the Silver Hand Item, Spooky Ghost Friends Pet Set."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002329">
+		<string name="name" value="Spooky Cat"/>
+		<string name="desc" value="#Spooky Cat# of the Silver Hand Item, Spooky Ghost Friends Pet Set."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002330">
+		<string name="name" value="Nunu"/>
+		<string name="desc" value="#Nunu# of the Silver Hand Item, Peep Delivery Pet Set"/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002331">
+		<string name="name" value="Gugu"/>
+		<string name="desc" value="#Gugu# of the Silver Hand Item, Peep Delivery Pet Set"/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002332">
+		<string name="name" value="Bibi"/>
+		<string name="desc" value="#Bibi# of the Silver Hand Item, Peep Delivery Pet Set"/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002299">
+		<string name="name" value="Mini Sugar"/>
+		<string name="desc" value="A cute and lively #cMini Sugar#."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002336">
+		<string name="name" value="Red Snail"/>
+		<string name="desc" value="An enigmatic snail. This time, it&apos;ll stay with me for longer."/>
+		<string name="descD" value="Your slow little buddy, Red Snail, has turned into a doll. You cannot revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002337">
+		<string name="name" value="Mingo Mage"/>
+		<string name="desc" value="It&apos;s #cMingo Mage# from the Black Mage Summer Vacation Pet set which won a Silver Hand Award for its design."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002338">
+		<string name="name" value="Duck Mage"/>
+		<string name="desc" value="It&apos;s #cDuck Mage# from the Black Mage Summer Vacation Pet set which won a Silver Hand Award for its design."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002339">
+		<string name="name" value="Beachy Mage"/>
+		<string name="desc" value="It&apos;s #cBeachy Mage# from the Black Mage Summer Vacation Pet set which won a Silver Hand Award for its design."/>
+		<string name="descD" value=" Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002340">
+		<string name="name" value="Pancakeray"/>
+		<string name="desc" value="#cPancakeray# from the Seaside Bakery Pet set which won a Silver Hand Award for its design."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002341">
+		<string name="name" value="Dacquoturtle"/>
+		<string name="desc" value="#cDacquoturtle# from the Seaside Bakery Pet set which won a Silver Hand Award for its design."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002342">
+		<string name="name" value="Madelwhale"/>
+		<string name="desc" value="#cMadelwhale# from the Seaside Bakery Pet set which won a Silver Hand Award for its design."/>
+		<string name="descD" value=" Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002343">
+		<string name="name" value="Lil Toben"/>
+		<string name="desc" value="#cLil Toben# from the Lil Toben Hair Hero Pet set which won a Silver Hand Award for its design."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002344">
+		<string name="name" value="Arcane Toben"/>
+		<string name="desc" value="#cArcane Toben# from the Lil Toben Hair Hero Pet set which won a Silver Hand Award for its design."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002345">
+		<string name="name" value="Shiny Toben"/>
+		<string name="desc" value="It&apos;s #cShiny Toben# from the Lil Toben Hair Hero Pet set which won a Silver Hand Award for its design."/>
+		<string name="descD" value=" Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002346">
+		<string name="name" value="Cream Bean"/>
+		<string name="desc" value="It&apos;s #cCream Bean# from the Plop Ice Cream Pet set which won a Silver Hand Award for its design."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002347">
+		<string name="name" value="Cream Slime"/>
+		<string name="desc" value="It&apos;s #cCream Slime# from the Plop Ice Cream Pet set which won a Silver Hand Award for its design."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002348">
+		<string name="name" value="Cream Yeti"/>
+		<string name="desc" value="It&apos;s #cCream Yeti# from the Plop Ice Cream Pet set which won a Silver Hand Award for its design."/>
+		<string name="descD" value=" Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002349">
+		<string name="name" value="Sherbet"/>
+		<string name="desc" value="A sweet, precious kitty named #cSherbet#.\r\nBlessed by the power of moonlight, #cSherbet can pick up items from a greater distance.#\r\nSherbet cannot equip any pet equipment.\r\nIf you double-click Sherbet after its magic duration ends, it will disappear.\n\n#cCaution! This pet cannot have its magic duration extended after it ends.#"/>
+		<string name="descD" value="Your small and adorable cat, Sherbet, has turned into a doll. You cannot revive it with the Water of Life.\r\nIf you double-click Sherbet after its magic duration ends, it will disappear."/>
+	</imgdir>
+	<imgdir name="5002350">
+		<string name="name" value="Aro"/>
+		<string name="desc" value="This is #cAro#, a polar bear who journeyed to space to find a planet filled with delicious fish. "/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002351">
+		<string name="name" value="Pola"/>
+		<string name="desc" value="This is #cPola#, the polar bear who journeyed to space to see the twinkling stars. "/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002352">
+		<string name="name" value="Hailey"/>
+		<string name="desc" value="#cHailey#, who has long dreamed of flying, is on a journey with Aro and Pola across the stars. "/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002353">
+		<string name="name" value="Happy Heart"/>
+		<string name="desc" value="This is the ever-joyous #cHappy Heart#. \nEquip to obtain the #cEmotions# skill, which grows stronger as you equip more Emotions pets (max 3). "/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002354">
+		<string name="name" value="Angerbolt"/>
+		<string name="desc" value="#cAngerbolt # is frightening when mad. \nEquip to obtain the #cEmotions# skill, which grows stronger as you equip more Emotions pets (max 3). "/>
+		<string name="descD" value=" Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002355">
+		<string name="name" value="Sad Cloud"/>
+		<string name="desc" value="It&apos;s a very sensitive #cSad Cloud#. \nEquip to obtain the #cEmotions# skill, which grows stronger as you equip more Emotions pets (max 3). "/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002356">
+		<string name="name" value="Toth"/>
+		<string name="desc" value="It&apos;s #cToth#, an individual capable of wielding Death&apos;s Scythe. \nEquip to get the #cImpenetrable Darkness# skill, which grows stronger as you equip more Lil Death&apos;s Scythe pets.\r\nBlessed by the power of moonlight, #cLil Death&apos;s Scythe# pets can pick up items from a greater distance."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002357">
+		<string name="name" value="Vella"/>
+		<string name="desc" value="It&apos;s #cVella#, an individual capable of wielding Death&apos;s Scythe. \nEquip to get the #cImpenetrable Darkness# skill, which grows stronger as you equip more Lil Death&apos;s Scythe pets.\r\nBlessed by the power of moonlight, #cLil Death&apos;s Scythe# pets can pick up items from a greater distance."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002358">
+		<string name="name" value="Lil Death"/>
+		<string name="desc" value="#cLil Death# is the owner of Death&apos;s Scythe and the master of death itself. \nEquip to get the #cImpenetrable Darkness# skill, which grows stronger as you equip more Lil Death&apos;s Scythe pets.\r\nBlessed by the power of moonlight, #cLil Death&apos;s Scythe# pets can pick up items from a greater distance."/>
+		<string name="descD" value="Your small and adorable cat, Sherbet, has turned into a doll. You cannot revive it with the Water of Life.\r\nIf you double-click Sherbet after its magic duration ends, it will disappear."/>
+	</imgdir>
+	<imgdir name="5002365">
+		<string name="name" value="Toth"/>
+		<string name="desc" value="It&apos;s #cToth#, an individual capable of wielding Death&apos;s Scythe. \nEquip to get the #cImpenetrable Darkness# skill, which grows stronger as you equip more Reboot Lil Death&apos;s Scythe pets.\r\nBlessed by the power of moonlight, #cReboot Lil Death&apos;s Scythe# pets can pick up #citems from a greater distance. Can be revived with the Petite Luna Water of Life.#"/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the #cPetite Luna Water of Life#."/>
+	</imgdir>
+	<imgdir name="5002366">
+		<string name="name" value="Vella"/>
+		<string name="desc" value="It&apos;s #cVella#, an individual capable of wielding Death&apos;s Scythe \nEquip to get the #cImpenetrable Darkness# skill, which grows stronger as you equip more Reboot Lil Death&apos;s Scythe pets.\r\nBlessed by the power of moonlight, #cReboot Lil Death&apos;s Scythe# pets can pick up #citems from a greater distance. Can be revived with the Petite Luna Water of Life.#"/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the #cPetite Luna Water of Life#."/>
+	</imgdir>
+	<imgdir name="5002367">
+		<string name="name" value="Lil Death"/>
+		<string name="desc" value="#cLil Death# is the owner of Death&apos;s Scythe and the master of death itself. \nEquip to get the #cImpenetrable Darkness# skill, which grows stronger as you equip more Reboot Lil Death&apos;s Scythe pets.\r\nBlessed by the power of moonlight, #cReboot Lil Death&apos;s Scythe# pets can pick up #citems from a greater distance. Can be revived with the Petite Luna Water of Life.#"/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the #cPetite Luna Water of Life#."/>
+	</imgdir>
+	<imgdir name="5002375">
+		<string name="name" value="Nessie"/>
+		<string name="desc" value="It&apos;s #cNessie# of the &apos;Atlantis&apos; Hidden Pet Set&apos; which won a Silver Hand Award for its design."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002376">
+		<string name="name" value="Mimi"/>
+		<string name="desc" value="It&apos;s #cMimi# of the &apos;Atlantis&apos; Hidden Pet Set&apos; which won a Silver Hand Award for its design."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002377">
+		<string name="name" value="Bijou"/>
+		<string name="desc" value="It&apos;s #cBijou# of the &apos;Atlantis&apos; Hidden Pet Set&apos; which won a Silver Hand Award for its design."/>
+		<string name="descD" value=" Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002378">
+		<string name="name" value="Soda"/>
+		<string name="desc" value="#cSoda# of the &apos;Summer Drink Pet Set&apos; which won a Silver Hand Award for its design."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002379">
+		<string name="name" value="Betty"/>
+		<string name="desc" value="#cBetty# of the &apos;Summer Drink Pet Set&apos; which won a Silver Hand Award for its design."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002380">
+		<string name="name" value="Minty"/>
+		<string name="desc" value="#cMinty# of the &apos;Summer Drink Pet Set&apos; which won a Silver Hand Award for its design."/>
+		<string name="descD" value=" Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002381">
+		<string name="name" value="Komi"/>
+		<string name="desc" value="It&apos;s #cKomi# of the &apos;Tea Cup Fairy Pet Set&apos; which won a Silver Hand Award for its design."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002382">
+		<string name="name" value="Toogi"/>
+		<string name="desc" value="It&apos;s #cTomi# of the &apos;Tea Cup Fairy Pet Set&apos; which won a Silver Hand Award for its design."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002383">
+		<string name="name" value="Rami"/>
+		<string name="desc" value="It&apos;s #Rami# of the &apos;Tea Cup Fairy Pet Set&apos; which won a Silver Hand Award for its design."/>
+		<string name="descD" value=" Your pet has turned into a doll. You can revive it with the Water of Life."/>
 	</imgdir>
 	<imgdir name="5000025">
 		<string name="name" value="Golden Pig"/>
@@ -4427,17 +4747,17 @@
 	</imgdir>
 	<imgdir name="5002069">
 		<string name="name" value="Hamlet"/>
-		<string name="desc" value="Hamlet loves stuffing his little fuzzy cheeks full of food! \nEquip to obtain the #cPudgy Fluff Ball# skill, which grows stronger as you equip more Roly Poly Hamster pets (max 3)."/>
+		<string name="desc" value="Hamlet loves stuffing his little fuzzy cheeks full of food!"/>
 		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
 	</imgdir>
 	<imgdir name="5002070">
 		<string name="name" value="Roly Rosy"/>
-		<string name="desc" value="Roly Rosy loves anything and everything that will brighten up her life! \nEquip to obtain the #cPudgy Fluff Ball# skill, which grows stronger as you equip more Roly Poly Hamster pets (max 3)."/>
+		<string name="desc" value="Roly Rosy loves anything and everything that will brighten up her life!"/>
 		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
 	</imgdir>
 	<imgdir name="5002071">
 		<string name="name" value="Robbie"/>
-		<string name="desc" value="Robbie&apos;s shy and lives with his nose in adventure books. \nEquip to obtain the #cPudgy Fluff Ball# skill, which grows stronger as you equip more Roly Poly Hamster pets (max 3)."/>
+		<string name="desc" value="Robbie&apos;s shy and lives with his nose in adventure books."/>
 		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
 	</imgdir>
 	<imgdir name="5002045">
@@ -5137,12 +5457,27 @@
 	</imgdir>
 	<imgdir name="5002268">
 		<string name="name" value="White Hare"/>
-		<string name="desc" value="Brown Hare is one of the Nihal Desert&apos;s most lovable denizens. \nEquip to obtain the #cNihal&apos;s Mysterious Power# skill, which grows stronger as you equip more Nihal Desert pets (max 3)."/>
+		<string name="desc" value="White Hare is one of the Nihal Desert&apos;s most lovable denizens. \nEquip to obtain the #cNihal&apos;s Mysterious Power# skill, which grows stronger as you equip more Nihal Desert pets (max 3)."/>
 		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
 	</imgdir>
 	<imgdir name="5002269">
 		<string name="name" value="Lil Cactus"/>
 		<string name="desc" value="A Lil Cactus who once ruled the desert. \nEquip to obtain the #cNihal&apos;s Mysterious Power# skill, which grows stronger as you equip more Nihal Desert pets (max 3)."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002397">
+		<string name="name" value="Brown Hare"/>
+		<string name="desc" value="Brown Hare is one of the Nihal Desert&apos;s most cuddly denizens."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002398">
+		<string name="name" value="White Hare"/>
+		<string name="desc" value="White Hare is one of the Nihal Desert&apos;s most lovable denizens."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002399">
+		<string name="name" value="Lil Cactus"/>
+		<string name="desc" value="A Lil Cactus who once ruled the desert."/>
 		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
 	</imgdir>
 	<imgdir name="5002284">
@@ -5220,11 +5555,6 @@
 		<string name="desc" value="This is #cDOGDOG#, who is BUGCAT CAPOO&apos;s trusty friend."/>
 		<string name="descd" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
 	</imgdir>
-	<imgdir name="5002263">
-		<string name="name" value="Mountain Kid"/>
-		<string name="desc" value="A cute, laid-back #cmountain spirit#."/>
-		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
-	</imgdir>
 	<imgdir name="5002287">
 		<string name="desc" value="A dependable#cBrown Ursa#."/>
 		<string name="descd" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
@@ -5254,5 +5584,195 @@
 		<string name="desc" value="A cute #cPurple Ursa#."/>
 		<string name="descd" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
 		<string name="name" value="Purple Ursa"/>
+	</imgdir>
+	<imgdir name="5002404">
+		<string name="name" value="Demon Metus"/>
+		<string name="desc" value="Metus, a mischievous demon who preys on fear."/>
+		<string name="descD" value="Your scary demon has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002405">
+		<string name="name" value="Demon Mors"/>
+		<string name="desc" value="Mors, the melancholy master of death."/>
+		<string name="descD" value="Your scary demon has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002406">
+		<string name="name" value="Invidia"/>
+		<string name="desc" value="Invidia, the demoness of jealousy."/>
+		<string name="descD" value="Your scary demon has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002407">
+		<string name="name" value="Winterberry"/>
+		<string name="desc" value="#cWinterberry# is adorable. Its shiny eyes makes you want to give it snacks."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002293">
+		<string name="desc" value="It&apos;s a reliable #cBlack Ewe#."/>
+		<string name="descd" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+		<string name="name" value="Black Ewe"/>
+	</imgdir>
+	<imgdir name="5002294">
+		<string name="desc" value="It&apos;s a beautiful #cBrown Ewe#."/>
+		<string name="descd" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+		<string name="name" value="Brown Ewe"/>
+	</imgdir>
+	<imgdir name="5002295">
+		<string name="desc" value="It&apos;s an adorable #cWhite Ewe#."/>
+		<string name="descd" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+		<string name="name" value="White Ewe"/>
+	</imgdir>
+	<imgdir name="5002333">
+		<string name="desc" value="It&apos;s a cute #Brown Ti-Bot#."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+		<string name="name" value="Brown Ti-Bot"/>
+	</imgdir>
+	<imgdir name="5002334">
+		<string name="desc" value="It&apos;s a cute #White Ti-Bot#."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+		<string name="name" value="White Ti-Bot"/>
+	</imgdir>
+	<imgdir name="5002335">
+		<string name="desc" value="It&apos;s a cute #Black Ti-Bot#."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+		<string name="name" value="Black Ti-Bot"/>
+	</imgdir>
+	<imgdir name="5002362">
+		<string name="name" value="Happy Beet"/>
+		<string name="desc" value="A Happy Beet pet."/>
+		<string name="descD" value="It was a cute Happy Beet pet, but it turned into a doll after its magic duration expired. You cannot revive it in any way. Double-click to find out how to get a new pet."/>
+	</imgdir>
+	<imgdir name="5002363">
+		<string name="name" value="Happy Carrot"/>
+		<string name="desc" value="A Happy Carrot pet."/>
+		<string name="descD" value="It was a cute Happy Carrot pet, but it turned into a doll after its magic duration expired. You cannot revive it in any way. Double-click to find out how to get a new pet."/>
+	</imgdir>
+	<imgdir name="5002364">
+		<string name="name" value="Happy Leek"/>
+		<string name="desc" value="A Happy Leek pet."/>
+		<string name="descD" value="It was a cute Happy Leek pet, but it turned into a doll after its magic duration expired. You cannot revive it in any way. Double-click to find out how to get a new pet."/>
+	</imgdir>
+	<imgdir name="5002368">
+		<string name="name" value="Sherbet"/>
+		<string name="desc" value="A sweet, precious kitty named #cSherbet#.\r\nBlessed by the power of moonlight, #cSherbet can pick up items from a greater distance.#\r\nSherbet cannot equip any of the pet equipment.\n\n#cCaution! This pet cannot have its magic duration extended after it ends.#"/>
+		<string name="descD" value="Your small and adorable cat, Sherbet, has turned into a doll. You cannot revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002359">
+		<string name="name" value="Pink Fluff"/>
+		<string name="desc" value="It&apos;s a Pink Fluff.\nEquip Pom Pom Fluff pets to get the #cFluffs&apos; Mysterious Power# skill, which grows stronger as you equip more Pom Pom Fluff pets."/>
+		<string name="descd" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002360">
+		<string name="name" value="Yellow Fluff"/>
+		<string name="desc" value="It&apos;s a Yellow Fluff.\nEquip Pom Pom Fluff pets to get the #cFluffs&apos; Mysterious Power# skill, which grows stronger as you equip more Pom Pom Fluff pets."/>
+		<string name="descd" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002361">
+		<string name="name" value="Blue Fluff"/>
+		<string name="desc" value="It&apos;s a Blue Fluff.\nEquip Pom Pom Fluff pets to get the #cFluffs&apos; Mysterious Power# skill, which grows stronger as you equip more Pom Pom Fluff pets."/>
+		<string name="descd" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002369">
+		<string name="name" value="Kabob"/>
+		<string name="desc" value="A cuddly Kabob pet.\nEquip BBQ Essentials pets to get the #cBBQ Essentials&apos; Mysterious Power# skill, which grows stronger as you equip more BBQ Essentials pets."/>
+		<string name="descd" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002370">
+		<string name="name" value="Rack of Ribs"/>
+		<string name="desc" value="A pet rack of anthropomorphic ribs.\nEquip BBQ Essentials pets to get the #cBBQ Essentials&apos; Mysterious Power# skill, which grows stronger as you equip more BBQ Essentials pets."/>
+		<string name="descd" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002371">
+		<string name="name" value="Drumstick"/>
+		<string name="desc" value="A Drumstick pet.\nEquip BBQ Essentials pets to get the #cBBQ Essentials&apos; Mysterious Power# skill, which grows stronger as you equip more BBQ Essentials pets."/>
+		<string name="descd" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002384">
+		<string name="name" value="Dusk"/>
+		<string name="desc" value="#cDusk# watches over the butterflies of Butterfly Garden. He&apos;s always kind and friendly.\nChanneling the power of moonlight, #cReboot Lil Glowy Butterfly# pets can collect #citems across a larger area than most other pets. Can be revived with the Petite Luna Water of Life.#"/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the #cPetite Luna Water of Life#."/>
+	</imgdir>
+	<imgdir name="5002385">
+		<string name="name" value="Dawn"/>
+		<string name="desc" value="#cDawn# takes care of the flowers of Butterfly Garden. She&apos;s always prudent and quiet.\nChanneling the power of moonlight, #cReboot Lil Glowy Butterfly# pets can collect #citems across a larger area than most other pets. Can be revived with the Petite Luna Water of Life.#"/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the #cPetite Luna Water of Life#."/>
+	</imgdir>
+	<imgdir name="5002386">
+		<string name="name" value="Lil Glowy"/>
+		<string name="desc" value="#cLil Glowy# was born in Butterfly Garden. It always shines brightly.\nChanneling the power of moonlight, #cReboot Lil Glowy Butterfly# pets can collect #citems across a larger area than most other pets. Can revive with the Petite Luna Water of Life.#"/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the #cPetite Luna Water of Life#."/>
+	</imgdir>
+	<imgdir name="5002372">
+		<string name="name" value="Drum Bunny"/>
+		<string name="desc" value="A Drum Bunny. \nEquip to obtain the #cTown of Toys&apos; Mysterious Power# skill, which grows stronger as you equip more Town of Toys pets (max 3)."/>
+		<string name="descd" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002373">
+		<string name="name" value="Ducky Family"/>
+		<string name="desc" value="A Ducky Family. \nEquip to obtain the #cTown of Toys&apos; Mysterious Power# skill, which grows stronger as you equip more Town of Toys pets (max 3)."/>
+		<string name="descd" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002374">
+		<string name="name" value="Toy Trojan"/>
+		<string name="desc" value="A Toy Trojan.\nEquip to obtain the #cTown of Toys&apos; Mysterious Power# skill, which grows stronger as you equip more Town of Toys pets (max 3)."/>
+		<string name="descd" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002387">
+		<string name="name" value="Lil Deneb"/>
+		<string name="desc" value="It&apos;s a sweetly-singing #cLil Deneb#."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002388">
+		<string name="name" value="Lil Bootis"/>
+		<string name="desc" value="It&apos;s a softly-crooning #cLil Bootis#."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002389">
+		<string name="name" value="Lil Alphard"/>
+		<string name="desc" value="It&apos;s a happily humming #cLil Alphard#"/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002501">
+		<string name="name" value="Lil Angelbun"/>
+		<string name="desc" value="It&apos;s the cute, coy #cLil Angelbun#.\nEquip to obtain the #cFantasy Bunny pet# skill, which grows stronger as you equip more Fantasy Bunny pets (max 3)."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002502">
+		<string name="name" value="Lil Devilbun"/>
+		<string name="desc" value="It&apos;s the cute, chic #cLil Devilbun#.\nEquip to obtain the #cFantasy Bunny pet# skill, which grows stronger as you equip more Fantasy Bunny pets (max 3)."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002503">
+		<string name="name" value="Lil Fairybun"/>
+		<string name="desc" value="It&apos;s the cute, bubbly #cLil Fairybun#.\nEquip to obtain the #cFantasy Bunny pet# skill, which grows stronger as you equip more Fantasy Bunny pets (max 3)."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002507">
+		<string name="name" value="Lil Deneb"/>
+		<string name="desc" value="It&apos;s a sweetly-singing #cLil Deneb#."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002508">
+		<string name="name" value="Lil Bootis"/>
+		<string name="desc" value="It&apos;s a softly-crooning #cLil Bootis#."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002509">
+		<string name="name" value="Lil Alphard"/>
+		<string name="desc" value="It&apos;s a happily humming #cLil Alphard#"/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002504">
+		<string name="name" value="Chief Slime"/>
+		<string name="desc" value="A #cChief Slime# pet.\nEquip to obtain the #cRamuramu Slime Pet# skill, which grows stronger as you equip more Ramuramu Slime pets (max 3)."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002505">
+		<string name="name" value="Smart Slime"/>
+		<string name="desc" value="A #cSmart Slime# pet.\nEquip to obtain the #cRamuramu Slime Pet# skill, which grows stronger as you equip more Ramuramu Slime pets (max 3)."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002506">
+		<string name="name" value="Bath Slime"/>
+		<string name="desc" value="A #cBath Slime Pet#.\nEquip to obtain the #cRamuramu Slime Pet# skill, which grows stronger as you equip more Ramuramu Slime pets (max 3)."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
 	</imgdir>
 </imgdir>

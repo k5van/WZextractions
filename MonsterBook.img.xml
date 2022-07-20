@@ -5450,7 +5450,7 @@
 		</imgdir>
 	</imgdir>
 	<imgdir name="5130107">
-		<string name="episode" value=" Lv. :  57\nForm : Immortal\nSpecial Trait : Resistant to Poison Attribute Attacks. Vulnerable to Sanctity Attribute Attacks.\n\nUndead monsters that can be found in the Forest of Dead Trees in El Nath. When Riche&apos;s tomb formed the Forest of Dead Trees, the trees in the forest bewitched lifeless beings, turning them into zombies. Because the Coolie Zombies became zombies to protect the forest against their will, they possess nothing but hostility and hatred towards humans. These monsters, who walk with a severe limp, are the followers of Riche and are extremely dangerous as they orally emit potent poison."/>
+		<string name="episode" value="Lv. :  57\nForm : Immortal\nSpecial Trait : Resistant to Poison Attribute Attacks. Vulnerable to Sanctity Attribute Attacks.\n\nUndead monsters that can be found in the Forest of Dead Trees in El Nath. When Lich&apos;s tomb formed the Forest of Dead Trees, the trees in the forest bewitched lifeless beings, turning them into zombies. Because the Coolie Zombies became zombies to protect the forest against their will, they possess nothing but hostility and hatred towards humans. These monsters, who walk with a severe limp, are the followers of Lich and are extremely dangerous as they orally emit potent poison."/>
 		<imgdir name="map">
 			<int name="0" value="211041100"/>
 			<int name="1" value="211041200"/>
@@ -5488,7 +5488,7 @@
 			<int name="2" value="211041700"/>
 			<int name="3" value="211041800"/>
 		</imgdir>
-		<string name="episode" value=" Lv. :  57\nForm : Immortal\nSpecial Trait : Resistant to Poison Attribute Attacks. Vulnerable to Sanctity Attribute Attacks.\n\nUndead monsters that can be found in the Forest of Dead Trees in El Nath. When Riche&apos;s tomb formed the Forest of Dead Trees, the trees in the forest bewitched lifeless beings, turning them into zombies. Whether it was due to an accident in the mine or simply a mutation, but the Miner Zombies have a severe limp and a nearly blind eye on one side."/>
+		<string name="episode" value="Lv. :  57\nForm : Immortal\nSpecial Trait : Resistant to Poison Attribute Attacks. Vulnerable to Sanctity Attribute Attacks.\n\nUndead monsters that can be found in the Forest of Dead Trees in El Nath. When Lich&apos;s tomb formed the Forest of Dead Trees, the trees in the forest bewitched lifeless beings, turning them into zombies. Whether it was due to an accident in the mine or simply a mutation, but the Miner Zombies have a severe limp and a nearly blind eye on one side."/>
 		<imgdir name="reward">
 			<int name="0" value="4000069"/>
 			<int name="1" value="4000082"/>
@@ -6034,7 +6034,7 @@
 		</imgdir>
 	</imgdir>
 	<imgdir name="6090000">
-		<string name="episode" value=" Lv. :  65\nForm : Immortal\n\nThere once lived a revered priest who had incredible powers. However, as he got older, he became more and more frightened at the thought of death, which led him to betray his faith and join the demons instead. Death was inevitable even for this powerful figure, however, for the fallen priest had infuriated the god whom he had once worshipped. After his death, his loyal followers buried him in the Forest of Dead Trees... and not too long after the burial, the forest somehow turned into a lair of zombies rising from the dead. Since then, many heroic adventurers have gathered in the forest to defeat the zombies. As heroic adventurers slowly began to overthrow the land of the zombies little by little, putting them at a disadvantage, the fallen priest was revived as the guardian of the zombies. &apos;Riche&apos; now protects the zombies as the ruler of the Forest of Dead Trees. Although Riche is an Undead monster, he was once an admired priest, hence he is highly resistant to attacks of sanctity attribute, not to mention his powerful magic and elimination skill. To defeat this challenging opponent, you must use strategic approach other than strength."/>
+		<string name="episode" value="Lv. :  65\nForm : Immortal\n\nThere once lived a revered priest who had incredible powers. However, as he got older, he became more and more frightened at the thought of death, which led him to betray his faith and join the demons instead. Death was inevitable even for this powerful figure, however, for the fallen priest had infuriated the god whom he had once worshipped. After his death, his loyal followers buried him in the Forest of Dead Trees... and not too long after the burial, the forest somehow turned into a lair of zombies rising from the dead. Since then, many heroic adventurers have gathered in the forest to defeat the zombies. As heroic adventurers slowly began to overthrow the land of the zombies little by little, putting them at a disadvantage, the fallen priest was revived as the guardian of the zombies. &apos;Lich&apos; now protects the zombies as the ruler of the Forest of Dead Trees. Although Lich is an Undead monster, he was once an admired priest, hence he is highly resistant to attacks of sanctity attribute, not to mention his powerful magic and elimination skill. To defeat this challenging opponent, you must use strategic approach other than strength."/>
 		<imgdir name="map">
 			<int name="0" value="211041400"/>
 		</imgdir>

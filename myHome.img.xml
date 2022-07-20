@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="myHome.img">
+	<imgdir name="community">
+		<string name="NoMoreLikeCount" value="You&apos;ve used up all of your Likes for today."/>
+		<string name="AlreadyRegisteredAccount" value="That character is already on your friends list."/>
+		<string name="NoPermission" value="You don&apos;t have permission to visit that home."/>
+		<string name="ReachedToVisitLimit" value="There are already too many people visiting that home."/>
+		<string name="myHomeInvite" value="You received an invitation to %s&apos;s home."/>
+		<string name="NoRandomAccess" value="There are currently no homes available for a random visit."/>
+		<string name="myHomeDefaultName" value="%s&apos;s Home"/>
+		<string name="ChangeStatusOnlyInMyHome" value="Your status message can be set only in your Home."/>
+		<string name="myHomeName" value="Home Name"/>
+		<string name="nickName" value="Custom Nickname"/>
+		<string name="statusMessage" value="Status Message"/>
+		<string name="none" value="None"/>
+	</imgdir>
+	<imgdir name="manager">
+		<string name="QuestReqNotMet" value="You must complete the pre-requisite quest before viewing that Caretaker&apos;s details."/>
+	</imgdir>
+	<imgdir name="construction">
+		<string name="ConfirmChangeTemplate" value="If you rebuild your home from a new blueprint, you will be unable to enter it for 1 minute. Additionally, all furnishings will be moved to your storage box, and their arrangement will not be saved.\r\nDo you want to continue?"/>
+		<string name="MovedToInventory" value="You unlocked the {0} customization for use."/>
+		<string name="AlreadyRegisteredItem" value="You already own that building customization."/>
+	</imgdir>
+	<imgdir name="furniture">
+		<string name="ConfirmDelete" value="You will receive %d Home coin(s) for selling the selected furnishings.\r\nThis action is irreversible. Do you want to proceed?"/>
+		<string name="ConfirmDeleteNoRefund" value="Selling this furnishing will not yield an Home Coins, and it will be irretrievably destroyed.\r\nAre you sure you want to continue?"/>
+		<string name="GiveCoinFail" value="You were unable to receive any Home Coins. Make sure you have enough space in your inventory."/>
+		<string name="CannotDelete" value="You cannot sell furnishings that are in active use."/>
+		<string name="MovedToInventory" value="%s has been moved to your furnishing storage box."/>
+		<string name="SameTypeInstalled" value="A furnishing with the same function has already been placed. While you can place multiple of the same furnishing, any special functions or effects will not be duplicated."/>
+		<string name="StoreAll" value="All furnishings that are currently placed will be sent to storage. Do you want to proceed?"/>
+		<string name="NoInstance" value="That player does not have a Home."/>
+		<string name="InvalidItem" value="That furnishing is invalid."/>
+		<string name="OutOfFurnitureSlot" value="Your furnishing slots are full."/>
+		<string name="TooFar" value="You need to get closer."/>
+		<string name="AlreadyInUse" value="That furnishing is already in use."/>
+		<imgdir name="Sort">
+			<string name="0" value="Order Obtained"/>
+			<string name="1" value="Order Obtained (Unplaced First)"/>
+			<string name="2" value="Recently Obtained"/>
+			<string name="3" value="Recently Obtained (Unplaced First)"/>
+			<string name="4" value="Name Order"/>
+			<string name="5" value="Name Order (Unsorted)"/>
+		</imgdir>
+		<imgdir name="Vending">
+			<string name="GetConfirm" value="Do you want %s x1?"/>
+			<string name="transactionConfirm" value="A fee of %d mesos will be deducted."/>
+			<string name="TakeBackConfirm" value="Do you want to retrieve the\r\n%s you placed here?"/>
+			<string name="InvalidItem" value="That item can&apos;t be placed here."/>
+			<string name="OutOfStock" value="There are no items left."/>
+			<string name="UnknownError" value="An unknown error occurred."/>
+			<string name="HowMany" value="How many do you want to store?"/>
+			<string name="DailyLimitOver" value="You can only take %d item(s) each day."/>
+			<string name="OnlyOncePerDay" value="Item can be obtained only once a day per display."/>
+		</imgdir>
+		<imgdir name="PasswordGame">
+			<string name="OnlyOne" value="You can only place one Mysterious Treasure Chest furnishing."/>
+			<string name="InvalidItem" value="That item can&apos;t be placed here."/>
+			<string name="HowMany" value="How many will you place?"/>
+			<string name="ConfirmStart" value="Placing this item will activate the mini-game. You will not be able to stow the item or change your home&apos;s blueprint until the game is concluded. Are you sure you still want to place it?"/>
+			<string name="CannotStore" value="You cannot change your home to another blueprint while a furnishing is in use, nor move or retrieve a furnishing that is in use. Please try again later."/>
+			<string name="NotOpen" value="Game has not been prepared."/>
+			<string name="WaitRetry" value="You must wait {} sec before attempting another guess."/>
+			<string name="PasswordSuccess" value="%s cracked the passcode and obtained the chest&apos;s treasure."/>
+			<string name="TimeOver" value="Time is up. The mini-game has ended."/>
+			<string name="CannotDelete" value="You cannot retrieve that furnishing without first claiming the treasure chest&apos;s reward. Claim the reward and try again."/>
+			<string name="isReboot" value="That mini-game cannot be played in Reboot World."/>
+		</imgdir>
+		<imgdir name="punchingGame">
+			<string name="OnlyOne" value="You can only place one Punch Machine furnishing."/>
+			<string name="alreadySummon" value="You are already using the Punch Machine."/>
+			<string name="waiting" value="Another person is currently using the Punch Machine."/>
+			<string name="CannotStore" value="You cannot change your home to another blueprint while a furnishing is in use, nor move or retrieve a furnishing that is in use. Please try again later."/>
+			<string name="askReset" value="Do you want to reset the machine&apos;s rankings?"/>
+			<string name="CannotReset" value="You cannot reset the rankings while the mini-game in progress.\r\nPlease try again when the mini-game ends."/>
+		</imgdir>
+	</imgdir>
+	<imgdir name="typeInfo">
+		<string name="deco" value="No Special Function"/>
+		<string name="rest" value="Rest"/>
+		<string name="trunk" value="Storage"/>
+		<string name="portal" value="Move to Town Portal"/>
+		<string name="jukebox" value="Jukebox"/>
+		<string name="bookStand" value="Guest Book"/>
+		<string name="shop_" value="Shop"/>
+		<string name="DT_" value="Special"/>
+		<string name="story_" value="Story"/>
+		<string name="mannequin" value="Mannequin"/>
+		<string name="petHouse" value="Pet House"/>
+		<string name="alchemy" value="Alchemy"/>
+		<string name="blacksmith" value="Smithing"/>
+		<string name="jewelcraft" value="Accessory Crafting"/>
+		<string name="giftTimeLimit" value="Gift (Duration)"/>
+		<string name="light" value="Lighting"/>
+		<string name="vending" value="Display Case"/>
+		<string name="weather" value="Weather"/>
+		<string name="donation" value="Donation"/>
+	</imgdir>
+	<imgdir name="tag">
+		<string name="bed" value="Bed"/>
+		<string name="chair" value="Chair"/>
+		<string name="table" value="Table"/>
+		<string name="closet" value="Wardrobe"/>
+		<string name="dresser" value="Vanity Table"/>
+		<string name="window" value="Window"/>
+		<string name="bedroom" value="Bedroom"/>
+		<string name="livingroom" value="Living Room"/>
+		<string name="studyroom" value="Study"/>
+		<string name="kitchen" value="Kitchen"/>
+		<string name="bathroom" value="Bathroom"/>
+		<string name="appliance" value="Appliance"/>
+		<string name="frame" value="Picture Frame"/>
+		<string name="deco" value="Decoration"/>
+		<string name="walldeco" value="Wall Art"/>
+		<string name="poster" value="Poster"/>
+		<string name="plants" value="Plant"/>
+		<string name="partition" value="Partition"/>
+		<string name="henesys" value="Henesys"/>
+		<string name="antique" value="Antique"/>
+		<string name="vintage" value="Vintage"/>
+		<string name="ethnic" value="Old World"/>
+		<string name="boss" value="Trophy"/>
+		<string name="light" value="Lighting"/>
+		<string name="halloween" value="Halloween"/>
+		<string name="party" value="Party Supplies"/>
+		<string name="oriental" value="Eastern"/>
+		<string name="newyear" value="Lunar New Year"/>
+		<string name="christmas" value="Christmas"/>
+		<string name="beach" value="Beach"/>
+		<string name="cafe" value="Cafe"/>
+		<string name="resort" value="Resort"/>
+		<string name="photocard" value="Trading Card"/>
+		<string name="mapleExplorer" value="MapleStory Expedition"/>
+		<string name="relic" value="Relic"/>
+		<string name="instrument" value="Instrument"/>
+		<string name="replica" value="Replica"/>
+		<string name="minigame" value="Mini-Game"/>
+		<string name="neoCastle" value="Neo Castle"/>
+	</imgdir>
+</imgdir>

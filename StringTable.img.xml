@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <imgdir name="StringTable.img">
 	<string name="ReloadStringTable" value="/reloadstring"/>
-	<string name="SID_EMOTICON_CMD_ERROR_SPACE" value="Spaces cannot be used."/>
-	<string name="SID_EMOTICON_CMD_ERROR_SLASH" value="The &apos;/&apos; character cannot be used."/>
-	<string name="SID_EMOTICON_CMD_ERROR_SYSTEM_CMD" value="%s is a command scheduled by the system."/>
-	<string name="SID_EMOTICON_CMD_ERROR_CURSE" value="Profanity cannot be used."/>
+	<string name="SID_EMOTICON_CMD_ERROR_SPACE" value="Spaces cannot be included."/>
+	<string name="SID_EMOTICON_CMD_ERROR_SLASH" value="The &apos;/&apos; character cannot be utilized."/>
+	<string name="SID_EMOTICON_CMD_ERROR_SYSTEM_CMD" value="A command scheduled by the %s system."/>
+	<string name="SID_EMOTICON_CMD_ERROR_CURSE" value="Swear words cannot be utilized."/>
 	<string name="SID_MESSENGER_NORAML_MODE_EMOTICON" value="&quot;Emoticon: %s&quot;"/>
 	<string name="SID_EMOTICON_SEND_ERROR_FIELD" value="Chat emoticons can&apos;t be used in this map."/>
 	<string name="SID_EMOTICON_REMOVE_ERROR_DEFAULT" value="Default chat emoticons cannot be removed."/>
 	<string name="SID_EMOTICON_GROUP_FAVORITE" value="View emoticons you&apos;ve set as Favorites. \r\nAdd an emoticon to your Favorites by pressing Change."/>
 	<string name="SID_EMOTICON_SEND_ERROR_BLOCK" value="Chat emoticons can&apos;t be used right now."/>
-	<string name="SID_CHAT_BUTTON_EMOTICON" value="Chat Emoticon"/>
+	<string name="SID_CHAT_BUTTON_EMOTICON" value="Chat Command"/>
 	<string name="SID_EMOTICON_SEND_ERROR_FRIEND" value="Chat emoticons cannot be used in friend chat."/>
 	<string name="SID_EMOTICON_SEND_ERROR_FRIEND_GROUP" value="Chat emoticons cannot be used in group chat."/>
 	<string name="SID_EMOTICON_SEND_ERROR_GUILD" value="Chat emoticons cannot be used in guild chat."/>
@@ -81,4 +81,9 @@
 	<string name="SID_MANNEQUIN_HAIR_COOL_TIME" value="Cannot complete your action right now.\nPlease try again after %d seconds."/>
 	<string name="SID_LINKED_SKILL_LINK_COST_CHECK" value="Would you like to spend %s Mesos and\nactivate this Link Skill?\n(Today&apos;s transfer count: %d)"/>
 	<string name="SID_LINKED_SKILL_LINK_COST_FAIL" value="You need %s Mesos\nto activate this Link Skill.\n(Today&apos;s transfer count: %d)"/>
+	<string name="SID_EMOTICON_CMD_DUPLICATE" value="That key is registered for use for the %s chat emoticon."/>
+	<string name="SID_CHAT_CMD_DUPLICATE" value="That chat shortcut is registered as %s."/>
+	<string name="SID_CHAT_CMD_DELETE_YESNO" value="Are you sure you want to delete registered chat shortcut?"/>
+	<string name="SID_CHAT_CMD_EMPTY" value="No chat shortcut or message provided."/>
+	<string name="SID_SKILL_NEED_CRYSTAL_SKILL_FAIL_GAUGE_MAX" value="Since the crystal is charged completely, it cannot be used."/>
 </imgdir>

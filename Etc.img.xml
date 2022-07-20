@@ -610,8 +610,8 @@
 			<string name="desc" value="The Gatekeeper&apos;s armband."/>
 		</imgdir>
 		<imgdir name="4000152">
-			<string name="name" value="Tanathos Strap"/>
-			<string name="desc" value="A strap from Tanathos"/>
+			<string name="name" value="Thanatos Strap"/>
+			<string name="desc" value="A strap from Thanatos."/>
 		</imgdir>
 		<imgdir name="4000153">
 			<string name="name" value="Snorkle"/>
@@ -1879,7 +1879,7 @@
 		</imgdir>
 		<imgdir name="4000633">
 			<string name="name" value="Red Contract Orb"/>
-			<string name="desc" value="A red orb that was on Riche&apos;s staff. It&apos;s emitting a cold aura."/>
+			<string name="desc" value="A red orb that was on Lich&apos;s staff. It&apos;s emitting a cold aura."/>
 		</imgdir>
 		<imgdir name="4000634">
 			<string name="name" value="Rabbit&apos;s Fang"/>
@@ -4543,11 +4543,11 @@
 		</imgdir>
 		<imgdir name="4001842">
 			<string name="name" value="Diffusion-Line Energy Core (Grade A)"/>
-			<string name="desc" value="A core used as an energy source for Androids. It holds a small amount of energy."/>
+			<string name="desc" value="A core used as an energy source for Androids. It holds a small amount of energy. #cYou can exchange it for AbsoLab Coins by visiting Sensitive Squaroid in Haven.#"/>
 		</imgdir>
 		<imgdir name="4001843">
 			<string name="name" value="Extraordinary Energy Core (Grade S)"/>
-			<string name="desc" value="A core used as an energy source. Lotus used it to control a massive number of androids. It holds a large amount of energy."/>
+			<string name="desc" value="A core used as an energy source. Lotus used it to control a massive number of androids. It holds a large amount of energy. #cYou can exchange it for AbsoLab Coins by visiting Sensitive Squaroid in Haven.#"/>
 		</imgdir>
 		<imgdir name="4001844">
 			<string name="name" value="Chryse Core Fragment"/>
@@ -4597,11 +4597,11 @@
 		</imgdir>
 		<imgdir name="4001868">
 			<string name="name" value="Faint Stigma Spirit Stone"/>
-			<string name="desc" value="A Spirit Stone marked with the brand of the demon. It reeks of a faint energy."/>
+			<string name="desc" value="A Spirit Stone marked with the brand of the demon. It reeks of a faint energy. #cYou can exchange it for Stigma Coins by visiting Quartermaster Sakaro at the Deserted Camp.#"/>
 		</imgdir>
 		<imgdir name="4001869">
 			<string name="name" value="Twisted Stigma Spirit Stone"/>
-			<string name="desc" value="A Spirit Stone marked with the brand of the demon. This one is twisted, and seethes with dark energy."/>
+			<string name="desc" value="A Spirit Stone marked with the brand of the demon. This one is twisted, and seethes with dark energy. #cYou can exchange it for Stigma Coins by visiting Quartermaster Sakaro at the Deserted Camp.#"/>
 		</imgdir>
 		<imgdir name="4001876">
 			<string name="name" value="12th Anniversary Maple Leaf"/>
@@ -4613,11 +4613,11 @@
 		</imgdir>
 		<imgdir name="4001878">
 			<string name="name" value="Arcane River Droplet Stone"/>
-			<string name="desc" value="This clump of Erda was shaped into the form of a stone droplet by the Arcane River. It bears magical power."/>
+			<string name="desc" value="This clump of Erda was shaped into the form of a stone droplet by the Arcane River. It bears magical power. #cYou can exchange it for Phantasma Coins by visiting Kanto in Trueffet Square.#"/>
 		</imgdir>
 		<imgdir name="4001879">
 			<string name="name" value="Butterfly Droplet Stone"/>
-			<string name="desc" value="Lucid&apos;s magical power fills this droplet stone."/>
+			<string name="desc" value="Lucid&apos;s magical power fills this droplet stone. #cYou can exchange it for Phantasma Coin by visiting Kanto in Trueffet Square.#"/>
 		</imgdir>
 		<imgdir name="4001881">
 			<string name="name" value="Unity Training Center Entrance Charm (9 hours)"/>
@@ -4649,11 +4649,11 @@
 		</imgdir>
 		<imgdir name="4001889">
 			<string name="name" value="Stone Origin Droplet"/>
-			<string name="desc" value="This bit of Esferan Erda has formed into a magical stone droplet."/>
+			<string name="desc" value="This bit of Esferan Erda has formed into a magical stone droplet. #cYou can exchange it for Arachno Coins by visiting Kanto at Esfera Base Camp.#"/>
 		</imgdir>
 		<imgdir name="4001890">
 			<string name="name" value="Stone Cobweb Droplet"/>
-			<string name="desc" value="This magical stone droplet is filled with Will&apos;s power."/>
+			<string name="desc" value="This magical stone droplet is filled with Will&apos;s power. #cYou can exchange it for Arachno Coins by visiting Kanto at Esfera Base Camp.#"/>
 		</imgdir>
 		<imgdir name="4001893">
 			<string name="name" value="Spark of Determination"/>
@@ -5671,6 +5671,10 @@
 			<string name="name" value="15-Star Force Legendary Arcane Umbra Weapon Certificate"/>
 			<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
 		</imgdir>
+		<imgdir name="4009497">
+			<string name="name" value="Ancient Turtle Golden Eggs"/>
+			<string name="desc" value="Golden eggs laid by Ancient Turtles."/>
+		</imgdir>
 		<imgdir name="4010000">
 			<string name="name" value="Bronze Ore"/>
 			<string name="desc" value="Light, weak bronze ore. It can be refined to obtain rare brown magic powder."/>
@@ -5789,11 +5793,11 @@
 		</imgdir>
 		<imgdir name="4020009">
 			<string name="name" value="Piece of Time"/>
-			<string name="desc" value="A raw ore of a gem that contains the power of time."/>
+			<string name="desc" value="Ore of a jewel that contains power of time. #cUsed for making powerful equipment.#"/>
 		</imgdir>
 		<imgdir name="4020013">
 			<string name="name" value="Dream Fragment"/>
-			<string name="desc" value="A fragment filled with dreams."/>
+			<string name="desc" value="A dream fragment. #cUsed for making powerful equipment.#"/>
 		</imgdir>
 		<imgdir name="4021000">
 			<string name="name" value="Garnet"/>
@@ -5837,7 +5841,7 @@
 		</imgdir>
 		<imgdir name="4021010">
 			<string name="name" value="Rock of Time"/>
-			<string name="desc" value="A fascinating gem that contains the power of time."/>
+			<string name="desc" value="A mysterious jewel imbued with the power of time. #cUsed for making powerful equipment.#"/>
 		</imgdir>
 		<imgdir name="4021013">
 			<string name="name" value="Basic Item Crystal"/>
@@ -5863,11 +5867,11 @@
 		</imgdir>
 		<imgdir name="4021019">
 			<string name="name" value="Dream Stone"/>
-			<string name="desc" value="A stone that contains the condensed dreams of the Black Mage."/>
+			<string name="desc" value="A stone that contains the condensed dream fragments of the Black Mage. #cUsed for making powerful equipment.#"/>
 		</imgdir>
 		<imgdir name="4021020">
 			<string name="name" value="Confusion Fragment"/>
-			<string name="desc" value="A fragment containing pure confusion. Don&apos;t ask how that works. There&apos;s a small chance of obtaining it by hunting Lv. 180 or higher monsters."/>
+			<string name="desc" value="A fragment containing pure confusion. Don&apos;t ask how that works. There&apos;s a small chance of obtaining it by hunting enemies Lv. 180 or higher. #cUsed for making powerful equipment.#"/>
 		</imgdir>
 		<imgdir name="4021021">
 			<string name="name" value="Philosopher&apos;s Stone"/>
@@ -5875,11 +5879,11 @@
 		</imgdir>
 		<imgdir name="4021022">
 			<string name="name" value="Primal Essence"/>
-			<string name="desc" value="They say this stone dates back to the very formation of the world. Then again, they say a lot of things. Occasionally found from Heartstones, Gold Flowers, Mysterious Ore Veins, Mysterious Legendary Ore Veins, Mysterious Herbs, and Mysterious Legendary Herbs."/>
+			<string name="desc" value="They say this stone dates back to the very formation of the world. Then again, they say a lot of things. Occasionally found when harvesting Heartstones, Gold Flowers, Mysterious Ore Veins, Mysterious Legendary Ore Veins, Mysterious Herbs, and Mysterious Legendary Herbs.\r\n#cUsed for making powerful equipment.#"/>
 		</imgdir>
 		<imgdir name="4021031">
 			<string name="name" value="Twisted Time"/>
-			<string name="desc" value="This rock is so powerful, it can bend time and space. Normal rocks can do that too, but you have to throw them really hard. Used for making powerful equipment and potions. Can be obtained from all monsters at Level 95 or above."/>
+			<string name="desc" value="This rock is so powerful, it can bend time and space.\r\nCan be obtained from any enemy Level 95 or above.#cUsed for making powerful equipment and potions.#"/>
 		</imgdir>
 		<imgdir name="4021032">
 			<string name="name" value="Mana Crystal"/>
@@ -5895,7 +5899,7 @@
 		</imgdir>
 		<imgdir name="4021035">
 			<string name="name" value="Grand Spell Essence"/>
-			<string name="desc" value="This is the stuff actual spells are made of. This one came from a top-shelf spell. Can be extracted from scrolls or obtained from monsters. Used in mana-intensive crafting."/>
+			<string name="desc" value="This is the stuff actual spells are made of. This one came from a top-shelf spell. Can be extracted from scrolls or obtained from enemies. #cUsed for making powerful equipment and potions.#"/>
 		</imgdir>
 		<imgdir name="4021036">
 			<string name="name" value="Cube Fragment"/>
@@ -5915,15 +5919,15 @@
 		</imgdir>
 		<imgdir name="4021040">
 			<string name="name" value="Dimension Fragment"/>
-			<string name="desc" value="A fragment found in the space between Mirror World and Maple World. Used for making #cGold Label Knight Set# items."/>
+			<string name="desc" value="A fragment found in the space between Mirror World and Maple World. #cUsed for making Gold Label Knight Set items#."/>
 		</imgdir>
 		<imgdir name="4021041">
 			<string name="name" value="Cubic Blade"/>
-			<string name="desc" value="A blade that keeps changing itself. Occasionally found in Mysterious Ore Veins and used for making Master Craftsman&apos;s Cubes."/>
+			<string name="desc" value="A blade that keeps changing itself. Occasionally found in Mysterious Ore Veins and #cused for making Master Craftsman&apos;s Cubes#."/>
 		</imgdir>
 		<imgdir name="4021042">
 			<string name="name" value="Cubic Chaos Blade"/>
-			<string name="desc" value="A stronger Cubic Blade. Occasionally found in Mysterious Legendary Ore Veins and used for making Renowned Master Craftsman&apos;s Cubes."/>
+			<string name="desc" value="A stronger Cubic Blade. Occasionally found in Mysterious Legendary Ore Veins and #cused for making Meister&apos;s Cubes#."/>
 		</imgdir>
 		<imgdir name="4021044">
 			<string name="name" value="Magic Whetstone"/>
@@ -6123,23 +6127,23 @@
 		</imgdir>
 		<imgdir name="4023023">
 			<string name="name" value="Dusk Essence"/>
-			<string name="desc" value="The magical essence of dusk itself, occasionally found from Heartstones, Gold Flowers, Mysterious Ore Veins, and Mysterious Herbs. Used in all sorts of crafting."/>
+			<string name="desc" value="The magical essence of dusk itself, occasionally found from Heartstones, Gold Flowers, Mysterious Ore Veins, and Mysterious Herbs. #cUsed for making powerful equipment, potions, and bags#."/>
 		</imgdir>
 		<imgdir name="4023024">
 			<string name="name" value="Brilliant Dusk Essence"/>
-			<string name="desc" value="A purified form of Dusk Essence, occasionally found from Mysterious Legendary Ore Veins and Mysterious Herbs. Used in all sorts of crafting."/>
+			<string name="desc" value="A purified form of Dusk Essence, occasionally found from Mysterious Legendary Ore Veins and Mysterious Herbs. #cUsed for making powerful equipment, potions, and bags#."/>
 		</imgdir>
 		<imgdir name="4023025">
 			<string name="name" value="Unrelenting Flame"/>
-			<string name="desc" value="A strong flame used for making Powerful Rebirth Flames."/>
+			<string name="desc" value="A strong flame #cused for making Powerful Rebirth Flames#."/>
 		</imgdir>
 		<imgdir name="4023026">
 			<string name="name" value="Forever Unrelenting Flame"/>
-			<string name="desc" value="A perpetual flame used for making Eternal Rebirth Flames."/>
+			<string name="desc" value="A perpetual flame #cused for making Eternal Rebirth Flames#."/>
 		</imgdir>
 		<imgdir name="4023027">
 			<string name="name" value="Forever Unrelenting Black Flame"/>
-			<string name="desc" value="A perpetual black flame used for making Black Rebirth Flames."/>
+			<string name="desc" value="A perpetual black flame #cused for making Black Rebirth Flames#."/>
 		</imgdir>
 		<imgdir name="4024000">
 			<string name="name" value="Basic Herb Oil Bottle"/>
@@ -6351,7 +6355,7 @@
 		</imgdir>
 		<imgdir name="4030032">
 			<string name="name" value="Rousseau&apos;s Key"/>
-			<string name="desc" value="Rousseau dropped this mysterious key. You can probably free the #cimprisoned souls# with it."/>
+			<string name="desc" value="Rousseau dropped this mysterious key. You can probably free #cimprisoned souls# with it.\r\n#You&apos;ll need it to help Cecilia in the Rose Garden#."/>
 		</imgdir>
 		<imgdir name="4030033">
 			<string name="name" value="Freed Soul Crystal"/>
@@ -10893,7 +10897,7 @@
 		</imgdir>
 		<imgdir name="4032931">
 			<string name="name" value="Deo&apos;s Thorn"/>
-			<string name="desc" value="A sharp thorn that can be obtained from Deo. Should be good for making a weapon."/>
+			<string name="desc" value="A spiky thorn that can be obtained from Deo."/>
 		</imgdir>
 		<imgdir name="4032932">
 			<string name="name" value="Kenta&apos;s Requested Saddle"/>
@@ -11653,7 +11657,7 @@
 		</imgdir>
 		<imgdir name="4033181">
 			<string name="name" value="Lost in Transit Box"/>
-			<string name="desc" value="This was supposed to go to SOMEBODY, but you can&apos;t tell who. Bring it to Duey."/>
+			<string name="desc" value="This was supposed to go to SOMEBODY, but you can&apos;t tell who. Bring it to Huey."/>
 		</imgdir>
 		<imgdir name="4033182">
 			<string name="name" value="Secret Document"/>
@@ -11752,7 +11756,7 @@
 			<string name="desc" value="Soft...and silky. Very nice stuff."/>
 		</imgdir>
 		<imgdir name="4033212">
-			<string name="name" value="Desert Rabbit Fur"/>
+			<string name="name" value="Hare Fur"/>
 			<string name="desc" value="The fur from a rabbit. It&apos;s soft."/>
 		</imgdir>
 		<imgdir name="4033213">
@@ -13634,19 +13638,19 @@
 		</imgdir>
 		<imgdir name="4033927">
 			<string name="name" value="Frozen Energy"/>
-			<string name="desc" value="Frozen energy obtained from Frozen Solitudes, Frozen Terrors, Frozen Rages, Frozen Anxieties, or Frozen Vanities. An incomprehensible string of letters glows within the burning white flames. "/>
+			<string name="desc" value="Frozen energy obtained from Frozen Solitudes, Frozen Terrors, Frozen Rages, Frozen Anxieties, or Frozen Vanities. An incomprehensible string of letters glows within the cold."/>
 		</imgdir>
 		<imgdir name="4033928">
-			<string name="name" value="Frozen Energy"/>
-			<string name="desc" value="Frozen energy obtained from Frozen Solitudes, Frozen Terrors, Frozen Rages, Frozen Anxieties, or Frozen Vanities. An incomprehensible string of letters glows within the burning white flames. "/>
+			<string name="name" value="Frozen Weapon Energy"/>
+			<string name="desc" value="Frozen weapon energy obtained from Frozen Solitudes, Frozen Terrors, Frozen Rages, Frozen Anxieties, or Frozen Vanities. An image of a weapon shimers in the cold."/>
 		</imgdir>
 		<imgdir name="4033929">
 			<string name="name" value="Burning Energy"/>
-			<string name="desc" value="Burning energy obtained from Burning Solitudes, Burning Terrors, Burning Rages, Burning Anxieties, and Burning  Vanities. A bizarre string of letters glows within the burning red flames."/>
+			<string name="desc" value="Burning energy obtained from Burning Solitudes, Burning Terrors, Burning Rages, Burning Anxieties, or Burning Vanities. A bizarre string of letters glows within the blaze."/>
 		</imgdir>
 		<imgdir name="4033930">
-			<string name="name" value="Burning Energy"/>
-			<string name="desc" value="Burning energy obtained from Burning Solitudes, Burning Terrors, Burning Rages, Burning Anxieties, and Burning  Vanities. A bizarre string of letters glows within the burning red flames."/>
+			<string name="name" value="Burning Weapon Energy"/>
+			<string name="desc" value="Burning weapon energy obtained from Burning Solitudes, Burning Terrors, Burning Rages, Burning Anxieties, or Burning Vanities. An image of a weapon gleams in the blaze."/>
 		</imgdir>
 		<imgdir name="4033931">
 			<string name="name" value="Frozen Energy"/>
@@ -13930,7 +13934,7 @@
 		</imgdir>
 		<imgdir name="4034077">
 			<string name="name" value="Red Sand Crystal"/>
-			<string name="desc" value="A Red Sand Crystal that you obtained after gathering Red Sand Powders. If you drop 1 to 7 of them under the tree in the right corner of the tower&apos;s 29th floor, you can move on to the next floor."/>
+			<string name="desc" value="A Red Sand Crystal that you obtained after gathering Red Sand Powder. If you drop 1 to 4 of them under the tree on the right side of the tower&apos;s 29th floor, you can move on to the next floor."/>
 		</imgdir>
 		<imgdir name="4034103">
 			<string name="name" value="Elixir of Everlasting Youth"/>
@@ -15422,7 +15426,7 @@
 		</imgdir>
 		<imgdir name="4036097">
 			<string name="name" value="Essence of Sunlight"/>
-			<string name="desc" value="The coalesced lifeforce of a Sunlight Spirit."/>
+			<string name="desc" value="The coalesced lifeforce of a Sun Spirit."/>
 		</imgdir>
 		<imgdir name="4036098">
 			<string name="name" value="Essence of Earth"/>
@@ -15442,7 +15446,7 @@
 		</imgdir>
 		<imgdir name="4036102">
 			<string name="name" value="Essence of Sunlight"/>
-			<string name="desc" value="The coalesced lifeforce of a Sunlight Spirit."/>
+			<string name="desc" value="The coalesced lifeforce of a Sun Spirit."/>
 		</imgdir>
 		<imgdir name="4036103">
 			<string name="name" value="Essence of Earth"/>
@@ -18081,8 +18085,28 @@
 			<string name="desc" value="Usable at the #cNeo Core Shop# in #cNeo Castle#."/>
 		</imgdir>
 		<imgdir name="4310310">
-			<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-			<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="name" value="Blooming Coin"/>
+			<string name="desc" value="Can be used in various ways at #cBlooming Forest#.\n\n#cYou will earn 1 Blooming Coin for every 100 Blooming Points you gather.#"/>
+		</imgdir>
+		<imgdir name="4310312">
+			<string name="name" value="Pink Bean"/>
+			<string name="desc" value="A coin obtained by gathering subscribers through broadcasting in #cMaple LIVE#. You can exchange it for various items in the #cLIVE Studio#. "/>
+		</imgdir>
+		<imgdir name="4310313">
+			<string name="name" value="Black Bean"/>
+			<string name="desc" value="A special coin obtained by broadcasting the defeat of strong bosses in #cMaple LIVE#. You can exchange it for rare items in the #cLIVE Studio#. "/>
+		</imgdir>
+		<imgdir name="4310314">
+			<string name="name" value="Subscriber"/>
+			<string name="desc" value="The count increases via Creator Step Up missions in #cMaple LIVE#. You can obtain rewards for increased subscriber counts in #cCreator Step Up#. "/>
+		</imgdir>
+		<imgdir name="4310317">
+			<string name="name" value="Slurpy Coin"/>
+			<string name="desc" value="Can be used in #cSimia&apos;s Sandwich Shop#, as part of the #cChu Chu Festival#."/>
+		</imgdir>
+		<imgdir name="4310318">
+			<string name="name" value="Chu Chu Coin"/>
+			<string name="desc" value="Can be used in various ways at the #cChu Chu Festival#.\n\n#cYou can earn 1 Chu Chu Coin for every 100 Chu Chu Points you gather.#"/>
 		</imgdir>
 		<imgdir name="4320000">
 			<string name="name" value="Damage Meter"/>
@@ -18231,6 +18255,10 @@
 		<imgdir name="4330035">
 			<string name="name" value="10 Slot Production Bag"/>
 			<string name="desc" value="A 10-slot bag for Magic Powder and Item Crystals.\r\n#cYou can have up to 5 Herb, Mineral, Production, or Party Quest bags."/>
+		</imgdir>
+		<imgdir name="4330036">
+			<string name="name" value="Pink 20-Slot Coin Purse"/>
+			<string name="desc" value="A coin purse with 20 slots. It holds all types of coins.\r\n#cYou can only have one coin purse in your inventory.#"/>
 		</imgdir>
 		<imgdir name="4340000">
 			<string name="name" value="Imp Disease Cure"/>
@@ -18474,23 +18502,23 @@
 		</imgdir>
 		<imgdir name="4460000">
 			<string name="name" value="Explorer Book"/>
-			<string name="desc" value="This book is the record of your adventures in Maple World. You can leave it with Sugar on Maple Tree Hill.\n#cDouble-click on the item to open the guide.#"/>
+			<string name="desc" value="This book is the record of your adventures in Maple World."/>
 		</imgdir>
 		<imgdir name="4460001">
 			<string name="name" value="Explorer Book"/>
-			<string name="desc" value="This book is the record of your adventures in Maple World. You can leave it with Sugar on Maple Tree Hill.\n#cDouble-click on the item to open the guide.#"/>
+			<string name="desc" value="This book is the record of your adventures in Maple World."/>
 		</imgdir>
 		<imgdir name="4460002">
 			<string name="name" value="Explorer Book"/>
-			<string name="desc" value="This book is the record of your adventures in Maple World. You can leave it with Sugar on Maple Tree Hill.\n#cDouble-click on the item to open the guide.#"/>
+			<string name="desc" value="This book is the record of your adventures in Maple World."/>
 		</imgdir>
 		<imgdir name="4460003">
 			<string name="name" value="Explorer Book"/>
-			<string name="desc" value="This book is the record of your adventures in Maple World. You can leave it with Sugar on Maple Tree Hill.\n#cDouble-click on the item to open the guide.#"/>
+			<string name="desc" value="This book is the record of your adventures in Maple World."/>
 		</imgdir>
 		<imgdir name="4460004">
 			<string name="name" value="Explorer Book"/>
-			<string name="desc" value="This book is the record of your adventures in Maple World. You can leave it with Sugar on Maple Tree Hill.\n#cDouble-click on the item to open the guide.#"/>
+			<string name="desc" value="This book is the record of your adventures in Maple World."/>
 		</imgdir>
 		<imgdir name="4460005">
 			<string name="name" value="Freud&apos;s Journal"/>
@@ -18824,18 +18852,6 @@
 			<string name="name" value="Frozen Snowflake"/>
 			<string name="desc" value="A beautiful crystal snowflake."/>
 		</imgdir>
-		<imgdir name="4310312">
-			<string name="name" value="Pink Bean"/>
-			<string name="desc" value="A coin obtained by gathering subscribers through broadcasting in #cMaple LIVE#. You can exchange it for various items in the #cLIVE Studio#. "/>
-		</imgdir>
-		<imgdir name="4310313">
-			<string name="name" value="Black Bean"/>
-			<string name="desc" value="A special coin obtained by broadcasting the defeat of strong bosses in #cMaple LIVE#. You can exchange it for rare items in the #cLIVE Studio#. "/>
-		</imgdir>
-		<imgdir name="4310314">
-			<string name="name" value="Subscriber"/>
-			<string name="desc" value="The count increases via Creator Step Up missions in #cMaple LIVE#. You can obtain rewards for increased subscriber counts in #cCreator Step Up#. "/>
-		</imgdir>
 		<imgdir name="4036778">
 			<string name="name" value="Carrot Brooch"/>
 			<string name="desc" value="A carrot-shaped brooch. It&apos;s pretty cute. "/>
@@ -18863,6 +18879,139 @@
 		<imgdir name="4036784">
 			<string name="name" value="Worn-out Bottle"/>
 			<string name="desc" value="A bottle of water. It&apos;s unclear whether the water is still drinkable."/>
+		</imgdir>
+		<imgdir name="4036804">
+			<string name="name" value="Muto Growth Skill"/>
+			<string name="desc" value="Let Muto grow to gain skill points and raise stats during the event."/>
+		</imgdir>
+		<imgdir name="4036806">
+			<string name="name" value="Transparent Candy"/>
+			<string name="desc" value="A special candy that Cassandra wants to eat. It&apos;s clear like glass."/>
+		</imgdir>
+		<imgdir name="4036807">
+			<string name="name" value="Ghost Candy"/>
+			<string name="desc" value="A special candy that Cassandra wants to eat. It&apos;s shaped like a ghost."/>
+		</imgdir>
+		<imgdir name="4036808">
+			<string name="name" value="Mint Chocolate Candy"/>
+			<string name="desc" value="A special candy that Cassandra wants to eat. So Cassandra likes mint chocolate..."/>
+		</imgdir>
+		<imgdir name="4036809">
+			<string name="name" value="Jelly Bean"/>
+			<string name="desc" value="A special candy that Cassandra wants to eat. Its colors all look tasty."/>
+		</imgdir>
+		<imgdir name="4036810">
+			<string name="name" value="Healthy Candy"/>
+			<string name="desc" value="A special candy that Cassandra wants to eat. You feel healthier just looking at it."/>
+		</imgdir>
+		<imgdir name="4036811">
+			<string name="name" value="Skull Candy"/>
+			<string name="desc" value="A special candy that Cassandra wants to eat. Is it okay to eat this?"/>
+		</imgdir>
+		<imgdir name="4036812">
+			<string name="name" value="Nutty Candy"/>
+			<string name="desc" value="A special candy that Cassandra wants to eat. It looks both nutty and sweet."/>
+		</imgdir>
+		<imgdir name="4036813">
+			<string name="name" value="Hot Candy"/>
+			<string name="desc" value="A special candy that Cassandra wants to eat. It&apos;s so hot, you&apos;re amazed it hasn&apos;t melted already."/>
+		</imgdir>
+		<imgdir name="4036814">
+			<string name="name" value="Strawberry Candy"/>
+			<string name="desc" value="A special candy that Cassandra wants to eat. No actual strawberries, but tons of artificial strawberry flavor."/>
+		</imgdir>
+		<imgdir name="4036815">
+			<string name="name" value="Fruit Mix Candy"/>
+			<string name="desc" value="A special candy that Cassandra wants to eat. Has a great sweet-and-sour fruity smell."/>
+		</imgdir>
+		<imgdir name="4036816">
+			<string name="name" value="Laser Show Effect"/>
+		</imgdir>
+		<imgdir name="4036817">
+			<string name="name" value="Twinkling Starlight Effect"/>
+		</imgdir>
+		<imgdir name="4036818">
+			<string name="name" value="Fresh Fruit Effect"/>
+		</imgdir>
+		<imgdir name="4036819">
+			<string name="name" value="Winter Fairy Tale Effect"/>
+		</imgdir>
+		<imgdir name="4036820">
+			<string name="name" value="Pink-Pink Effect"/>
+		</imgdir>
+		<imgdir name="4036821">
+			<string name="name" value="Sunny Day Effect"/>
+		</imgdir>
+		<imgdir name="4036822">
+			<string name="name" value="Superstar Effect"/>
+		</imgdir>
+		<imgdir name="4036823">
+			<string name="name" value="Timid Dance Set"/>
+		</imgdir>
+		<imgdir name="4036824">
+			<string name="name" value="Shake-Shake Set"/>
+		</imgdir>
+		<imgdir name="4036825">
+			<string name="name" value="We&apos;re A Band Set"/>
+		</imgdir>
+		<imgdir name="4036826">
+			<string name="name" value="Group Dance Set"/>
+		</imgdir>
+		<imgdir name="4036827">
+			<string name="name" value="Superstar Set"/>
+		</imgdir>
+		<imgdir name="4036828">
+			<string name="name" value="Theater and Warmth"/>
+		</imgdir>
+		<imgdir name="4036829">
+			<string name="name" value="Wooden Theater and Lighting"/>
+		</imgdir>
+		<imgdir name="4036830">
+			<string name="name" value="Forest"/>
+		</imgdir>
+		<imgdir name="4036831">
+			<string name="name" value="Ice and DJ Pepe"/>
+		</imgdir>
+		<imgdir name="4036832">
+			<string name="name" value="Pink-Pink"/>
+		</imgdir>
+		<imgdir name="4036833">
+			<string name="name" value="Carousel"/>
+		</imgdir>
+		<imgdir name="4036834">
+			<string name="name" value="Universe"/>
+		</imgdir>
+		<imgdir name="4030046">
+			<string name="name" value="New Year&apos;s Soup Rice Cake"/>
+			<string name="desc" value="It&apos;s a tasty rice cake."/>
+		</imgdir>
+		<imgdir name="4310320">
+			<string name="name" value="Melody Coin"/>
+			<string name="desc" value="Can be used in various ways at the #cStarlight Symphony#."/>
+		</imgdir>
+		<imgdir name="4310321">
+			<string name="name" value="Harmony Coin"/>
+			<string name="desc" value="Can be used in various ways at the #cStarlight Symphony#."/>
+		</imgdir>
+		<imgdir name="4036846">
+			<string name="name" value="Sugar&apos;s Hairpin"/>
+			<string name="desc" value="This is Sugar&apos;s precious hairpin."/>
+		</imgdir>
+		<imgdir name="4036847">
+			<string name="name" value="Seal Stone of Victoria Island"/>
+			<string name="desc" value="A mysterious gem, said to contain the power to reshape and restore the continent."/>
+		</imgdir>
+		<imgdir name="4036848">
+			<string name="name" value="Old Wisconsin"/>
+			<string name="desc" value="A hat you found in the bushes. Is this the one Rondo was wearing?"/>
+		</imgdir>
+		<imgdir name="4036849">
+			<string name="name" value="Red Starry Bandana"/>
+			<string name="desc" value="A hat you found in the bushes. Is this the one Rondo was wearing?"/>
+		</imgdir>
+		<imgdir name="4036850">
+			<string name="name" value="Green M-Forcer Helmet"/>
+			<string name="desc" value="A hat you found in the bushes. Is this the one Rondo was wearing?"/>
 		</imgdir>
 		<imgdir name="4000174">
 			<string name="name" value="Money Envelope"/>
@@ -24198,10 +24347,6 @@ Looking at this fills you with hope. It&apos;s terribly fragile, so handle with 
 		<imgdir name="4034272">
 			<string name="name" value="Captured Anxiety"/>
 		</imgdir>
-		<imgdir name="4034275">
-			<string name="name" value="Broken Security Chip"/>
-			<string name="desc" value="This security chip looks completely broken. Will you be able to fix it?"/>
-		</imgdir>
 		<imgdir name="4034313">
 			<string name="name" value="Red M-Forcer Helmet"/>
 			<string name="desc" value="A toy M-Forcer set created in Ludibrium."/>
@@ -25625,7 +25770,7 @@ Looking at this fills you with hope. It&apos;s terribly fragile, so handle with 
 		</imgdir>
 		<imgdir name="4034856">
 			<string name="name" value="Lost Specter&apos;s Handkerchief"/>
-			<string name="desc" value="A keepsake that belongs to an innocent Specter.\r\nWhy does #p9112008# need this?"/>
+			<string name="desc" value="A keepsake that belongs to an innocent Specter.\r\nWhy does the Spooky Specter need this?"/>
 		</imgdir>
 		<imgdir name="4034857">
 			<string name="name" value="Unholy Water"/>
@@ -29051,6 +29196,206 @@ Looking at this fills you with hope. It&apos;s terribly fragile, so handle with 
 		<imgdir name="4036777">
 			<string name="name" value="Raw Chicken Leg"/>
 			<string name="desc" value="The cat, #cHani#&apos;s favorite food"/>
+		</imgdir>
+		<imgdir name="4034275">
+			<string name="name" value="Broken Security Chip"/>
+			<string name="desc" value="This security chip looks completely broken. Will you be able to fix it?"/>
+		</imgdir>
+		<imgdir name="4036536">
+			<string name="name" value="Super Expensive Makeup Kit"/>
+			<string name="desc" value="A high-end makeup kit that probably cost more than you make in a week."/>
+		</imgdir>
+		<imgdir name="4036537">
+			<string name="name" value="Severed Antenna"/>
+			<string name="desc" value="An antenna severed from a Hunterizer. It looks to still be in working order."/>
+		</imgdir>
+		<imgdir name="4036604">
+			<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		</imgdir>
+		<imgdir name="4036605">
+			<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		</imgdir>
+		<imgdir name="4036606">
+			<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		</imgdir>
+		<imgdir name="4036625">
+			<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		</imgdir>
+		<imgdir name="4036629">
+			<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		</imgdir>
+		<imgdir name="4036630">
+			<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		</imgdir>
+		<imgdir name="4036670">
+			<string name="name" value="Golden Fruit Juice"/>
+			<string name="desc" value="The signature beverage of Gold Beach. Its cool, sweet, and tangy taste is heavenly."/>
+		</imgdir>
+		<imgdir name="4036671">
+			<string name="name" value="El Nath Mountain Ice"/>
+			<string name="desc" value="Clear, pristine ice collected from El Nath&apos;s Ice Valley."/>
+		</imgdir>
+		<imgdir name="4036674">
+			<string name="name" value="&#43690;&#43690;&#43690;"/>
+			<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		</imgdir>
+		<imgdir name="4036675">
+			<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		</imgdir>
+		<imgdir name="4036676">
+			<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		</imgdir>
+		<imgdir name="4036677">
+			<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		</imgdir>
+		<imgdir name="4036678">
+			<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		</imgdir>
+		<imgdir name="4036742">
+			<string name="name" value="Lumber"/>
+			<string name="desc" value="Lumber used for expanding your Mushroom House. Used for building just about everything you can think of."/>
+		</imgdir>
+		<imgdir name="4036744">
+			<string name="name" value="Beautiful Brick"/>
+			<string name="desc" value="Brick used for expanding your Mushroom House. Used for constructing sturdy but gorgeous exteriors."/>
+		</imgdir>
+		<imgdir name="4036745">
+			<string name="name" value="Cement Sack"/>
+			<string name="desc" value="Cement used for expanding your Mushroom House. It&apos;s heavy and coarse when dry, but indispensable for laying a foundation."/>
+		</imgdir>
+		<imgdir name="4036746">
+			<string name="name" value="Bundle of Nails"/>
+			<string name="desc" value="Nails used for expanding your Mushroom House. Used to join planks or fix flooring in place."/>
+		</imgdir>
+		<imgdir name="4036747">
+			<string name="name" value="Glass Pane"/>
+			<string name="desc" value="Glass panes used for expanding your Mushroom House. Crucial for windows and roof decorations."/>
+		</imgdir>
+		<imgdir name="4036748">
+			<string name="name" value="House Paint"/>
+			<string name="desc" value="House paint used for expanding your Mushroom House. Used to apply a beautiful layer of color to finish off construction."/>
+		</imgdir>
+		<imgdir name="4036749">
+			<string name="name" value="Lumber"/>
+			<string name="desc" value="Lumber used for expanding your Colonial-Style Home. Used for building just about everything you can think of."/>
+		</imgdir>
+		<imgdir name="4036750">
+			<string name="name" value="Structural Steel"/>
+			<string name="desc" value="Structural steel used for expanding your Colonial-Style Home. An essential component of many structures due to its durability and wide availability. It&apos;s like bones, but for your house!"/>
+		</imgdir>
+		<imgdir name="4036751">
+			<string name="name" value="Beautiful Brick"/>
+			<string name="desc" value="Brick used for expanding your Colonial-Style Home. Used for constructing sturdy but gorgeous exteriors."/>
+		</imgdir>
+		<imgdir name="4036752">
+			<string name="name" value="Cement Sack"/>
+			<string name="desc" value="Cement used for expanding your Colonial-Style Home. It&apos;s heavy and coarse when dry, but indispensable for laying a foundation."/>
+		</imgdir>
+		<imgdir name="4036753">
+			<string name="name" value="Bundle of Nails"/>
+			<string name="desc" value="Nails used for expanding your Colonial-Style Home. Used to join planks or fix flooring in place."/>
+		</imgdir>
+		<imgdir name="4036754">
+			<string name="name" value="Glass Pane"/>
+			<string name="desc" value="Glass panes used for expanding your Colonial-Style Home. Crucial for windows and roof decorations."/>
+		</imgdir>
+		<imgdir name="4036755">
+			<string name="name" value="House Paint"/>
+			<string name="desc" value="House paint used for expanding your Colonial-Style Home. Used to apply a beautiful layer of color to finish off construction."/>
+		</imgdir>
+		<imgdir name="4036756">
+			<string name="name" value="Lumber"/>
+			<string name="desc" value="Lumber used for your Beach Cafe expansion. Used for building just about everything you can think of."/>
+		</imgdir>
+		<imgdir name="4036757">
+			<string name="name" value="Structural Steel"/>
+			<string name="desc" value="Structural steel used for your Beach Cafe expansion. An essential component of many structures due to its durability and wide availability. It&apos;s like bones, but for your house!"/>
+		</imgdir>
+		<imgdir name="4036758">
+			<string name="name" value="Beautiful Brick"/>
+			<string name="desc" value="Brick used for your Beach Cafe expansion. Used for constructing sturdy but gorgeous exteriors."/>
+		</imgdir>
+		<imgdir name="4036759">
+			<string name="name" value="Cement Sack"/>
+			<string name="desc" value="Cement used for your Beach Cafe expansion. It&apos;s heavy and coarse when dry, but indispensable for laying a foundation."/>
+		</imgdir>
+		<imgdir name="4036760">
+			<string name="name" value="Bundle of Nails"/>
+			<string name="desc" value="Nails used for your Beach Cafe expansion. Used to join planks or fix flooring in place."/>
+		</imgdir>
+		<imgdir name="4036761">
+			<string name="name" value="Glass Pane"/>
+			<string name="desc" value="Glass panes used for your Beach Cafe expansion. Crucial for windows and roof decorations."/>
+		</imgdir>
+		<imgdir name="4036762">
+			<string name="name" value="House Paint"/>
+			<string name="desc" value="House paint used for your Beach Cafe expansion. Used to apply a beautiful layer of color to finish off construction."/>
+		</imgdir>
+		<imgdir name="4036837">
+			<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		</imgdir>
+		<imgdir name="4036838">
+			<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		</imgdir>
+		<imgdir name="4036839">
+			<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		</imgdir>
+		<imgdir name="4036840">
+			<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		</imgdir>
+		<imgdir name="4036841">
+			<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		</imgdir>
+		<imgdir name="4036842">
+			<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		</imgdir>
+		<imgdir name="4036843">
+			<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		</imgdir>
+		<imgdir name="4036743">
+			<string name="name" value="Structural Steel"/>
+			<string name="desc" value="Structural steel used for expanding your Mushroom House. An essential component of many structures due to its durability and wide availability. It&apos;s like bones, but for your house!"/>
+		</imgdir>
+		<imgdir name="4310315">
+			<string name="name" value="Querencia Coin"/>
+			<string name="desc" value="A currency obtained by spending Furnishing Coins. It is valuable due to its limited quantity."/>
+		</imgdir>
+		<imgdir name="4310273">
+			<string name="name" value="Home Coin"/>
+			<string name="desc" value="A special coin valued by home builders and interior decorators everywhere.\r\nCan be traded to Kenneth in Querencia in exchange for special items."/>
+		</imgdir>
+		<imgdir name="4009499">
+			<string name="name" value="Red EXP Increase Coupon (15 min)"/>
+			<string name="desc" value="Usable in MapleStory M. When used, EXP increases by 10% for 15 minutes."/>
+		</imgdir>
+		<imgdir name="4009500">
+			<string name="name" value="Orange EXP Increase Coupon (15 min)"/>
+			<string name="desc" value="Usable in MapleStory M. When used, EXP increases by 30% for 15 minutes."/>
+		</imgdir>
+		<imgdir name="4009501">
+			<string name="name" value="Yellow EXP Increase Coupon (15 min)"/>
+			<string name="desc" value="Usable in MapleStory M. When used, EXP increases by 50% for 15 minutes."/>
+		</imgdir>
+		<imgdir name="4009502">
+			<string name="name" value="Automatic Battle Reload Coupon (10 min)"/>
+			<string name="desc" value="Used in MapleStory M. When used, it grants 10 minutes of automatic battle time."/>
 		</imgdir>
 	</imgdir>
 </imgdir>

@@ -496,8 +496,8 @@
 					<vector name="lt" x="124" y="131"/>
 					<vector name="rb" x="185" y="146"/>
 					<string name="Title" value="Mesos Obtained"/>
-					<string name="Desc" value="The higher the Mesos Obtained, the more Mesos monsters drop when defeated. The final value is determined by multiplying the basic obtainable Mesos by any Wealth Acquisition Potion value, then by additionally multiplying the sum of the remaining values. Additive values can apply up to 300%. Consumable items, with the exception of the Wealth Acquisition Potion, can only increase the value up to 100%. Item potential can increase the value up to 100%."/>
-					<string name="DescReboot" value="The higher the Mesos Obtained, the more Mesos monsters drop when defeated. The final value is determined by multiplying the basic obtainable Mesos by any Wealth Acquisition Potion value and reboot passive value, then by additionally multiplying the sum of the remaining values. Additive values can apply up to 300%. Consumable items, with the exception of the Wealth Acquisition Potion, can only increase the value up to 100%. Item potential can increase the value up to 100%."/>
+					<string name="Desc" value="The higher the Mesos Obtained, the more Mesos monsters drop when defeated. The final value is determined by multiplying the basic obtainable Mesos by any Wealth Acquisition Potion value, then by additionally multiplying the sum of the remaining values. Additive values can combine to increase the value by up to 300%. Consumable items, with the exception of the Wealth Acquisition Potion, can only increase the value by up to 100%. Item potential can increase the value by up to 100%."/>
+					<string name="DescReboot" value="The higher the Mesos Obtained, the more Mesos monsters drop when defeated. The final value is determined by multiplying the basic obtainable Mesos by any Wealth Acquisition Potion value and Reboot passive value, then by additionally multiplying the sum of the remaining values. Additive values can combine to increase the value by up to 300%. Consumable items, with the exception of the Wealth Acquisition Potion, can only increase the value by up to 100%. Item potential can increase the value by up to 100%."/>
 				</imgdir>
 			</imgdir>
 			<imgdir name="StatDetail2">
@@ -615,7 +615,7 @@
 					<vector name="rb" x="185" y="146"/>
 					<string name="Title" value="Mesos Obtained"/>
 					<string name="Desc" value="The higher the Mesos Obtained, the more Mesos monsters drop when defeated. The final value is determined by multiplying the basic obtainable Mesos by any Wealth Acquisition Potion value, then by additionally multiplying the sum of the remaining values. Additive values can combine to increase the value by up to 300%. Consumable items, with the exception of the Wealth Acquisition Potion, can only increase the value by up to 100%. Item potential can increase the value by up to 100%."/>
-					<string name="DescReboot" value="The higher the Mesos Obtained, the more Mesos monsters drop when defeated. The final value is determined by multiplying the basic obtainable Mesos by any Wealth Acquisition Potion value and reboot passive value, then by additionally multiplying the sum of the remaining values. Additive values can apply up to 300%. Consumable items, with the exception of the Wealth Acquisition Potion, can only increase the value up to 100%. Item potential can increase the value up to 100%."/>
+					<string name="DescReboot" value="The higher the Mesos Obtained, the more Mesos monsters drop when defeated. The final value is determined by multiplying the basic obtainable Mesos by any Wealth Acquisition Potion value and Reboot passive value, then by additionally multiplying the sum of the remaining values. Additive values can combine to increase the value by up to 300%. Consumable items, with the exception of the Wealth Acquisition Potion, can only increase the value by up to 100%. Item potential can increase the value by up to 100%."/>
 				</imgdir>
 				<imgdir name="19">
 					<vector name="lt" x="124" y="185"/>
@@ -738,8 +738,8 @@
 					<vector name="lt" x="124" y="131"/>
 					<vector name="rb" x="185" y="146"/>
 					<string name="Title" value="Mesos Obtained"/>
-					<string name="Desc" value="The higher the Mesos Obtained, the more Mesos monsters drop when defeated. The final value is determined by multiplying the basic obtainable Mesos by any Wealth Acquisition Potion value and reboot passive value, then by additionally multiplying the sum of the remaining values. Additive values can apply up to 300%. Consumable items, with the exception of the Wealth Acquisition Potion, can only increase the value up to 100%. Item potential can increase the value up to 100%."/>
-					<string name="DescReboot" value="The higher the Mesos Obtained, the more Mesos monsters drop when defeated. The final value is determined by multiplying the basic obtainable Mesos by any Wealth Acquisition Potion value and reboot passive value, then by additionally multiplying the sum of the remaining values. Additive values can apply up to 300%. Consumable items, with the exception of the Wealth Acquisition Potion, can only increase the value up to 100%. Item potential can increase the value up to 100%."/>
+					<string name="Desc" value="The higher the Mesos Obtained, the more Mesos monsters drop when defeated. The final value is determined by multiplying the basic obtainable Mesos by any Wealth Acquisition Potion value, then by additionally multiplying the sum of the remaining values. Additive values can combine to increase the value by up to 300%. Consumable items, with the exception of the Wealth Acquisition Potion, can only increase the value by up to 100%. Item potential can increase the value by up to 100%."/>
+					<string name="DescReboot" value="The higher the Mesos Obtained, the more Mesos monsters drop when defeated. The final value is determined by multiplying the basic obtainable Mesos by any Wealth Acquisition Potion value and Reboot passive value, then by additionally multiplying the sum of the remaining values. Additive values can combine to increase the value by up to 300%. Consumable items, with the exception of the Wealth Acquisition Potion, can only increase the value by up to 100%. Item potential can increase the value by up to 100%."/>
 				</imgdir>
 				<imgdir name="19">
 					<vector name="lt" x="124" y="185"/>
@@ -869,7 +869,7 @@
 					<vector name="rb" x="185" y="146"/>
 					<string name="Title" value="Mesos Obtained"/>
 					<string name="Desc" value="The higher the Mesos Obtained, the more Mesos monsters drop when defeated. The final value is determined by multiplying the basic obtainable Mesos by any Wealth Acquisition Potion value, then by additionally multiplying the sum of the remaining values. Additive values can combine to increase the value by up to 300%. Consumable items, with the exception of the Wealth Acquisition Potion, can only increase the value by up to 100%. Item potential can increase the value by up to 100%."/>
-					<string name="DescReboot" value="The higher the Mesos Obtained, the more Mesos monsters drop when defeated. The final value is determined by multiplying the basic obtainable Mesos by any Wealth Acquisition Potion value and reboot passive value, then by additionally multiplying the sum of the remaining values. Additive values can apply up to 300%. Consumable items, with the exception of the Wealth Acquisition Potion, can only increase the value up to 100%. Item potential can increase the value up to 100%."/>
+					<string name="DescReboot" value="The higher the Mesos Obtained, the more Mesos monsters drop when defeated. The final value is determined by multiplying the basic obtainable Mesos by any Wealth Acquisition Potion value and Reboot passive value, then by additionally multiplying the sum of the remaining values. Additive values can combine to increase the value by up to 300%. Consumable items, with the exception of the Wealth Acquisition Potion, can only increase the value by up to 100%. Item potential can increase the value by up to 100%."/>
 				</imgdir>
 				<imgdir name="19">
 					<vector name="lt" x="124" y="185"/>
@@ -2274,7 +2274,7 @@
 		</imgdir>
 		<imgdir name="102020400">
 			<imgdir name="1">
-				<string name="Title" value="Gusty Peak"/>
+				<string name="Title" value="Initial Excavation Area"/>
 			</imgdir>
 			<imgdir name="2">
 				<string name="Title" value="Big Rocky Road"/>
@@ -3145,13 +3145,13 @@
 				<string name="Title" value="Way to the Beach"/>
 			</imgdir>
 			<imgdir name="1">
-				<string name="Title" value="Nautilus Harbor"/>
+				<string name="Title" value="Ribbon Pig Beach"/>
 			</imgdir>
 			<imgdir name="2">
 				<string name="Title" value="Way to the Beach"/>
 			</imgdir>
 			<imgdir name="3">
-				<string name="Title" value="Nautilus Harbor"/>
+				<string name="Title" value="Ribbon Pig Beach"/>
 			</imgdir>
 		</imgdir>
 		<imgdir name="120010100">
@@ -4083,6 +4083,24 @@
 			<imgdir name="8">
 				<string name="Title" value="Crafting Town"/>
 			</imgdir>
+			<imgdir name="9">
+				<string name="Title" value="Helios Tower Library"/>
+			</imgdir>
+			<imgdir name="10">
+				<string name="Title" value="Black Mountain Entrance"/>
+			</imgdir>
+			<imgdir name="11">
+				<string name="Title" value="Helios Tower Library"/>
+			</imgdir>
+			<imgdir name="12">
+				<string name="Title" value="Ghost Park"/>
+			</imgdir>
+			<imgdir name="13">
+				<string name="Title" value="Helios Tower Library"/>
+			</imgdir>
+			<imgdir name="14">
+				<string name="Title" value="Ghost Park"/>
+			</imgdir>
 		</imgdir>
 		<imgdir name="224000100">
 			<imgdir name="0">
@@ -4149,6 +4167,12 @@
 			<imgdir name="2">
 				<string name="Title" value="                    Stone Tower                    "/>
 				<string name="Desc" value="You should throw a Three-Tailed Foxtail off the top of the Stone Tower to relieve its grudge if you are passing by the Fox Ridge..."/>
+			</imgdir>
+			<imgdir name="3">
+				<string name="Title" value="Goblin Hill"/>
+			</imgdir>
+			<imgdir name="4">
+				<string name="Title" value="Goblin Ridge"/>
 			</imgdir>
 		</imgdir>
 		<imgdir name="230000000">
@@ -6402,7 +6426,7 @@
 		<imgdir name="992001000">
 			<imgdir name="0">
 				<string name="Title" value="       Eliminate Monsters!       "/>
-				<string name="Desc" value="Cause tons of damage or eliminate a ton of monsters to overload the barrier to the next floor!"/>
+				<string name="Desc" value="Defeat the target monster or defeat 100 Ancient Slimes to overload the barrier to the next floor!"/>
 			</imgdir>
 		</imgdir>
 		<imgdir name="992003000">
@@ -6438,7 +6462,7 @@
 		<imgdir name="992007000">
 			<imgdir name="0">
 				<string name="Title" value="     Crazy Lupins...     "/>
-				<string name="Desc" value="Wounded explorers are very weak, so you must be careful when protecting them. I don&apos;t understand how they got injured by Lupins all the way here, though..."/>
+				<string name="Desc" value="Avoid the bananas thrown by the Lupins and reach the top. You&apos;ll feel really bad if you get hit by the banana and fall."/>
 			</imgdir>
 		</imgdir>
 		<imgdir name="992008000">
@@ -6450,15 +6474,15 @@
 		<imgdir name="992009000">
 			<imgdir name="0">
 				<string name="Title" value="   Do you not know how?   "/>
-				<string name="Desc" value="You can move on top of the four stones using the directional keys."/>
+				<string name="Desc" value="You can move on top of the three stones using the directional keys."/>
 			</imgdir>
 			<imgdir name="1">
 				<string name="Title" value="          If you take a closer look..         "/>
 				<string name="Desc" value="A used portal will leave traces. There&apos;s no need to remember where it is!"/>
 			</imgdir>
 			<imgdir name="2">
-				<string name="Title" value="     It gets harder now.      "/>
-				<string name="Desc" value="Slow down and take your time. It&apos;s more important not to make mistakes."/>
+				<string name="Title" value="Just a bit further!"/>
+				<string name="Desc" value="You&apos;re almost there. Slow down and take your time!"/>
 			</imgdir>
 		</imgdir>
 		<imgdir name="992012000">
@@ -6482,27 +6506,15 @@
 		<imgdir name="992023000">
 			<imgdir name="0">
 				<string name="Title" value="        Caution! Falling!        "/>
-				<string name="Desc" value="I will only show you three times, so watch carefully. If you can&apos;t remember, just push someone else!"/>
+				<string name="Desc" value="I will only show you three times, so watch carefully."/>
 			</imgdir>
 			<imgdir name="1">
 				<string name="Title" value="        Caution! Falling!        "/>
-				<string name="Desc" value="I will only show you three times. It might be in your best interest to pay attention. If you&apos;re having trouble, try using the Clever Lady Hotline."/>
+				<string name="Desc" value="I will only show you three times. It might be in your best interest to pay attention."/>
 			</imgdir>
 			<imgdir name="2">
 				<string name="Title" value="        Caution! Falling!        "/>
 				<string name="Desc" value="This is the last time. I hope you&apos;ll be able to reach the end..."/>
-			</imgdir>
-			<imgdir name="3">
-				<string name="Title" value="        If you&apos;re all out...        "/>
-				<string name="Desc" value="Open the Use tab and use Alicia&apos;s Clever Lady Hotline!"/>
-			</imgdir>
-			<imgdir name="4">
-				<string name="Title" value="        If you&apos;re all out...        "/>
-				<string name="Desc" value="Open the Use tab and use Alicia&apos;s Clever Lady Hotline!"/>
-			</imgdir>
-			<imgdir name="5">
-				<string name="Title" value="        If you&apos;re all out...        "/>
-				<string name="Desc" value="Open the Use tab and use Alicia&apos;s Clever Lady Hotline!"/>
 			</imgdir>
 		</imgdir>
 		<imgdir name="992026000">
@@ -6555,6 +6567,47 @@
 			<imgdir name="0">
 				<string name="Title" value="       Finally found it!       "/>
 				<string name="Desc" value="I finally found a way to get to the 48th floor. But I won&apos;t explain it here. I need more space to explain!"/>
+			</imgdir>
+		</imgdir>
+		<imgdir name="993166012">
+			<imgdir name="0">
+				<string name="Title" value="Road to the Future"/>
+			</imgdir>
+			<imgdir name="1">
+				<string name="Title" value="Road of the Present"/>
+			</imgdir>
+			<imgdir name="2">
+				<string name="Title" value="Road to the Past"/>
+			</imgdir>
+		</imgdir>
+		<imgdir name="993166015">
+			<imgdir name="0">
+				<string name="Title" value="Road to the Future"/>
+			</imgdir>
+			<imgdir name="1">
+				<string name="Title" value="Road of the Present"/>
+			</imgdir>
+			<imgdir name="2">
+				<string name="Title" value="Road to the Past"/>
+			</imgdir>
+		</imgdir>
+		<imgdir name="993166017">
+			<imgdir name="0">
+				<string name="Title" value="Road to the Future"/>
+			</imgdir>
+			<imgdir name="1">
+				<string name="Title" value="Road of the Present"/>
+			</imgdir>
+			<imgdir name="2">
+				<string name="Title" value="Road to the Past"/>
+			</imgdir>
+		</imgdir>
+		<imgdir name="224000121">
+			<imgdir name="0">
+				<string name="Title" value="You cannot enter again."/>
+			</imgdir>
+			<imgdir name="1">
+				<string name="Title" value="Tiger Ridge"/>
 			</imgdir>
 		</imgdir>
 		<imgdir name="0">
