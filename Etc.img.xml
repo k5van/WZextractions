@@ -1242,7 +1242,7 @@
 			<string name="desc" value="The sack that the Sand Dwarves used to excavate Lidium stones.  It is currently empty."/>
 		</imgdir>
 		<imgdir name="4000335">
-			<string name="name" value="Kiyo&apos;s Beek"/>
+			<string name="name" value="Kiyo&apos;s Beak"/>
 			<string name="desc" value="Kiyo&apos;s long and bent beak.  It is very hard."/>
 		</imgdir>
 		<imgdir name="4000336">
@@ -1307,7 +1307,7 @@
 		</imgdir>
 		<imgdir name="4000364">
 			<string name="name" value="Wires"/>
-			<string name="desc" value="Coil of electric wires that was a part of Lloyd&apos;s body."/>
+			<string name="desc" value="This coil of electric wires came from Roid&apos;s body."/>
 		</imgdir>
 		<imgdir name="4000365">
 			<string name="name" value="Plug"/>
@@ -6401,6 +6401,10 @@
 			<string name="name" value="Blue Tarot Card"/>
 			<string name="desc" value="Blue Tarot Card"/>
 		</imgdir>
+		<imgdir name="4030046">
+			<string name="name" value="New Year&apos;s Soup Rice Cake"/>
+			<string name="desc" value="It&apos;s a tasty rice cake."/>
+		</imgdir>
 		<imgdir name="4031000">
 			<string name="name" value="Maria&apos;s Letter"/>
 			<string name="desc" value="A letter by Maria. Needs to be delivered to Lucas of Amherst."/>
@@ -8366,7 +8370,7 @@
 			<string name="desc" value="A miniature model of Mute. It was made for research purposes by the alchemists."/>
 		</imgdir>
 		<imgdir name="4031694">
-			<string name="name" value="Lumo&apos;s Leaf"/>
+			<string name="name" value="Rumo&apos;s Leaf"/>
 			<string name="desc" value="A rare leaf from Rumo. It&apos;s full of life energy, but will wilt quickly if handled too much."/>
 		</imgdir>
 		<imgdir name="4031695">
@@ -11649,7 +11653,7 @@
 		</imgdir>
 		<imgdir name="4033179">
 			<string name="name" value="Toy Plane"/>
-			<string name="desc" value="Toy plane sold in Kerning Square. It can&apos;t actually fly though..."/>
+			<string name="desc" value="A toy plane. It can&apos;t actually fly though..."/>
 		</imgdir>
 		<imgdir name="4033180">
 			<string name="name" value="Dark Lord&apos;s Delivery"/>
@@ -14171,6 +14175,10 @@
 		<imgdir name="4034274">
 			<string name="name" value="Wire Bundle"/>
 			<string name="desc" value="This bundle of wires used to be part of an android, but now it&apos;s not."/>
+		</imgdir>
+		<imgdir name="4034275">
+			<string name="name" value="Broken Security Chip"/>
+			<string name="desc" value="This security chip looks completely broken. Will you be able to fix it?"/>
 		</imgdir>
 		<imgdir name="4034276">
 			<string name="name" value="Broken Security Chip"/>
@@ -17834,7 +17842,7 @@
 		</imgdir>
 		<imgdir name="4310091">
 			<string name="name" value="Anheim Coin"/>
-			<string name="desc" value="A coin minted by the Anheim Magic School. Keilbarren, in Kritias Marketplace, accepts these coins in exchange for anti-magic and other useful items."/>
+			<string name="desc" value="A coin minted by the Ranheim Magic School. Keilbarren, in Kritias Marketplace, accepts these coins in exchange for anti-magic and other useful items."/>
 		</imgdir>
 		<imgdir name="4310092">
 			<string name="name" value="Kritias Commemorative Coin"/>
@@ -18108,6 +18116,14 @@
 			<string name="name" value="Chu Chu Coin"/>
 			<string name="desc" value="Can be used in various ways at the #cChu Chu Festival#.\n\n#cYou can earn 1 Chu Chu Coin for every 100 Chu Chu Points you gather.#"/>
 		</imgdir>
+		<imgdir name="4310320">
+			<string name="name" value="Melody Coin"/>
+			<string name="desc" value="Can be used in various ways at the #cStarlight Symphony#."/>
+		</imgdir>
+		<imgdir name="4310321">
+			<string name="name" value="Harmony Coin"/>
+			<string name="desc" value="Can be used in various ways at the #cStarlight Symphony#."/>
+		</imgdir>
 		<imgdir name="4320000">
 			<string name="name" value="Damage Meter"/>
 			<string name="desc" value="A meter that can measure damage."/>
@@ -18230,7 +18246,7 @@
 		</imgdir>
 		<imgdir name="4330029">
 			<string name="name" value="Production 8 Slot Bag"/>
-			<string name="desc" value="A bag with 8 slots. It holds Magic Powder and Item Crystals.\r\n#cYou can have a maximum of 5 Herb, Mineral, Production, or Party Quest bags."/>
+			<string name="desc" value="An 8-slot bag for Production.\r\n#cYou can have a maximum of 5 Herb, Mineral, Production, or Party Quest bags."/>
 		</imgdir>
 		<imgdir name="4330030">
 			<string name="name" value="20 Slot Mineral Bag"/>
@@ -18242,7 +18258,7 @@
 		</imgdir>
 		<imgdir name="4330032">
 			<string name="name" value="20 Slot Production Bag"/>
-			<string name="desc" value="A 20-slot bag for Magic Powder and Item Crystals.\r\n#cYou can have up to 5 Herb, Mineral, Production, or Party Quest bags."/>
+			<string name="desc" value="An 20-slot bag for Production.\r\n#cYou can have a maximum of 5 Herb, Mineral, Production, or Party Quest bags."/>
 		</imgdir>
 		<imgdir name="4330033">
 			<string name="name" value="10 Slot Herb Bag"/>
@@ -18254,7 +18270,7 @@
 		</imgdir>
 		<imgdir name="4330035">
 			<string name="name" value="10 Slot Production Bag"/>
-			<string name="desc" value="A 10-slot bag for Magic Powder and Item Crystals.\r\n#cYou can have up to 5 Herb, Mineral, Production, or Party Quest bags."/>
+			<string name="desc" value="An 10-slot bag for Production.\r\n#cYou can have a maximum of 5 Herb, Mineral, Production, or Party Quest bags."/>
 		</imgdir>
 		<imgdir name="4330036">
 			<string name="name" value="Pink 20-Slot Coin Purse"/>
@@ -18981,18 +18997,6 @@
 		<imgdir name="4036834">
 			<string name="name" value="Universe"/>
 		</imgdir>
-		<imgdir name="4030046">
-			<string name="name" value="New Year&apos;s Soup Rice Cake"/>
-			<string name="desc" value="It&apos;s a tasty rice cake."/>
-		</imgdir>
-		<imgdir name="4310320">
-			<string name="name" value="Melody Coin"/>
-			<string name="desc" value="Can be used in various ways at the #cStarlight Symphony#."/>
-		</imgdir>
-		<imgdir name="4310321">
-			<string name="name" value="Harmony Coin"/>
-			<string name="desc" value="Can be used in various ways at the #cStarlight Symphony#."/>
-		</imgdir>
 		<imgdir name="4036846">
 			<string name="name" value="Sugar&apos;s Hairpin"/>
 			<string name="desc" value="This is Sugar&apos;s precious hairpin."/>
@@ -19012,6 +19016,74 @@
 		<imgdir name="4036850">
 			<string name="name" value="Green M-Forcer Helmet"/>
 			<string name="desc" value="A hat you found in the bushes. Is this the one Rondo was wearing?"/>
+		</imgdir>
+		<imgdir name="4161103">
+			<string name="name" value="Chronicles of Ellin Forest"/>
+			<string name="desc" value="A book documenting the history of Ellin Forest.\n#cDouble-click to open the book.#"/>
+		</imgdir>
+		<imgdir name="4161104">
+			<string name="name" value="Chronicles of Ellin Forest"/>
+			<string name="desc" value="A book documenting the history of Ellin Forest.\n#cDouble-click to open the book.#"/>
+		</imgdir>
+		<imgdir name="4161105">
+			<string name="name" value="Ephenia&apos;s Letter"/>
+			<string name="desc" value="A letter written by Ephenia to Guwaru.\n#cDouble-click to see the contents of the letter.#"/>
+		</imgdir>
+		<imgdir name="4310324">
+			<string name="name" value="Haste Feather"/>
+			<string name="desc" value="Can be used in various ways in #cSuper Haste#."/>
+		</imgdir>
+		<imgdir name="4310325">
+			<string name="name" value="Memory Token"/>
+			<string name="desc" value="Can be used in various ways in #cMaple Momentree#."/>
+		</imgdir>
+		<imgdir name="4310326">
+			<string name="name" value="Challenge Token"/>
+			<string name="desc" value="Can be used in various ways in #cMaple Momentree#."/>
+		</imgdir>
+		<imgdir name="4036852">
+			<string name="name" value="Chronicles of Ellin Forest"/>
+			<string name="desc" value="A book documenting the history of Ellin Forest."/>
+		</imgdir>
+		<imgdir name="4036853">
+			<string name="name" value="Floating Rock Fragment"/>
+			<string name="desc" value="It&apos;s a Floating Rock Fragment. You need to take this to Yuris."/>
+		</imgdir>
+		<imgdir name="4036854">
+			<string name="name" value="Flower Bloomed in Mushroom Hill"/>
+			<string name="desc" value="A flower that bloomed in Mushroom Hill."/>
+		</imgdir>
+		<imgdir name="4036855">
+			<string name="name" value="Tree Rod Vine"/>
+			<string name="desc" value="A vine that was on Tree Rod. It&apos;s good for tying things up."/>
+		</imgdir>
+		<imgdir name="4036856">
+			<string name="name" value="Shabby Bouquet"/>
+			<string name="desc" value="A Shabby Bouquet made by tying the flowers with a vine."/>
+		</imgdir>
+		<imgdir name="4036857">
+			<string name="name" value="Big Mushroom"/>
+			<string name="desc" value="A mushroom big enough to block the rain."/>
+		</imgdir>
+		<imgdir name="4036858">
+			<string name="name" value="Ephenia&apos;s Letter"/>
+			<string name="desc" value="A letter written by Ephenia to Guwaru."/>
+		</imgdir>
+		<imgdir name="4036859">
+			<string name="name" value="Destonen&apos;s Letter"/>
+			<string name="desc" value="A letter written by Destonen to his wife, Yuris."/>
+		</imgdir>
+		<imgdir name="4036860">
+			<string name="name" value="Sweet and Sour Orange"/>
+			<string name="desc" value="A fruit given by Ellin. Take this to Yuris."/>
+		</imgdir>
+		<imgdir name="4036861">
+			<string name="name" value="Fever Medicine"/>
+			<string name="desc" value="A medicine to treat fever."/>
+		</imgdir>
+		<imgdir name="4036862">
+			<string name="name" value="Old Gold Watch"/>
+			<string name="desc" value="An old watch Alex received from his late mother."/>
 		</imgdir>
 		<imgdir name="4000174">
 			<string name="name" value="Money Envelope"/>
@@ -29196,10 +29268,6 @@ Looking at this fills you with hope. It&apos;s terribly fragile, so handle with 
 		<imgdir name="4036777">
 			<string name="name" value="Raw Chicken Leg"/>
 			<string name="desc" value="The cat, #cHani#&apos;s favorite food"/>
-		</imgdir>
-		<imgdir name="4034275">
-			<string name="name" value="Broken Security Chip"/>
-			<string name="desc" value="This security chip looks completely broken. Will you be able to fix it?"/>
 		</imgdir>
 		<imgdir name="4036536">
 			<string name="name" value="Super Expensive Makeup Kit"/>

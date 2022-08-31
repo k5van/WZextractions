@@ -86,4 +86,7 @@
 	<string name="SID_CHAT_CMD_DELETE_YESNO" value="Are you sure you want to delete registered chat shortcut?"/>
 	<string name="SID_CHAT_CMD_EMPTY" value="No chat shortcut or message provided."/>
 	<string name="SID_SKILL_NEED_CRYSTAL_SKILL_FAIL_GAUGE_MAX" value="Since the crystal is charged completely, it cannot be used."/>
+	<string name="SID_ADD_BLACKLIST_MEMO_CURSE" value="Profanity can&apos;t be used in memos."/>
+	<string name="SID_ADD_BLACKLIST_MEMO" value="Please enter a memo on the features to remember."/>
+	<string name="SID_TOOLTIP_BLACKLIST_CHARACTER" value="Added Character:"/>
 </imgdir>

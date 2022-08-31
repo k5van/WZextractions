@@ -656,14 +656,16 @@
 		<string name="s0" value="Today is Utah&apos;s birthday. I should give him a birthday present."/>
 		<string name="s1" value="I don&apos;t like angry ribbon pigs."/>
 		<string name="s2" value="Utah&apos;ll be disappointed if I don&apos;t get him a present."/>
+		<string name="s3" value="Looks like spring has come to Maple World..."/>
+		<string name="s4" value="The scent of flowers... I love it so much..."/>
 		<string name="d0" value="Hey there! I&apos;m Camila."/>
 		<string name="d1" value="Ah, you&apos;re the one that helped me out the other day. Thanks again!"/>
 		<imgdir name="dialogue">
 			<string name="22000" value="Evan? It&apos;s been awhile since I&apos;ve seen you in town. How is Utah? You guys must be busy... You never come over anymore!"/>
 			<string name="22557" value="Wow... Golems are so scary. I never want to see another Golem again..."/>
 		</imgdir>
-		<string name="s3" value="Looks like spring has come to Maple World..."/>
-		<string name="s4" value="The scent of flowers... I love it so much..."/>
+		<string name="s5" value="Looks like spring has come to Maple World..."/>
+		<string name="s6" value="I prepared some pretty clothes and props... Hope you like them..."/>
 	</imgdir>
 	<imgdir name="1012109">
 		<string name="name" value="Jay"/>
@@ -4933,6 +4935,7 @@
 	</imgdir>
 	<imgdir name="1302022">
 		<string name="name" value="Thorr"/>
+		<string name="func" value="Merchant"/>
 	</imgdir>
 	<imgdir name="1302023">
 		<string name="name" value="Jump Pad"/>
@@ -9993,6 +9996,312 @@
 		<string name="n0" value="A Node is made up of condensed Erda."/>
 		<string name="n1" value="Deciding what kind of Node to make use of is a very profound decision."/>
 	</imgdir>
+	<imgdir name="1541000">
+		<string name="name" value="Sugar"/>
+		<string name="d0" value="He-hello..."/>
+		<string name="d1" value="Thank you for helping me."/>
+	</imgdir>
+	<imgdir name="1541001">
+		<string name="name" value="Sugar"/>
+		<string name="d0" value="Let&apos;s go on an adventure!"/>
+		<string name="d1" value="Let&apos;s go on an adventure!"/>
+	</imgdir>
+	<imgdir name="1541002">
+		<string name="name" value="Sugar"/>
+		<string name="d0" value="Which adventure will you choose?"/>
+		<string name="d1" value="Which adventure will you choose?"/>
+	</imgdir>
+	<imgdir name="1541003">
+		<string name="name" value="Olive"/>
+		<string name="d0" value="Rondo is a traitor!"/>
+		<string name="d1" value="Rondo is a traitor!"/>
+	</imgdir>
+	<imgdir name="1541004">
+		<string name="name" value="Rondo"/>
+		<string name="d0" value="Come on, let&apos;s go."/>
+		<string name="d1" value="Come on, let&apos;s go."/>
+		<imgdir name="dialogue">
+			<string name="36313" value="&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		</imgdir>
+	</imgdir>
+	<imgdir name="1541005">
+		<string name="name" value="Rondo"/>
+		<string name="d0" value="We should head back."/>
+		<string name="d1" value="We should head back."/>
+	</imgdir>
+	<imgdir name="1541006">
+		<string name="name" value="Sugar"/>
+		<string name="d0" value="We must protect the Maple Tree."/>
+		<string name="d1" value="&#43690;&#43690;&#43690;&#43690;"/>
+	</imgdir>
+	<imgdir name="1541007">
+		<string name="name" value="Rondo"/>
+		<string name="d0" value="My hat..."/>
+		<string name="d1" value="My hat..."/>
+		<imgdir name="dialogue">
+			<string name="36326" value="It seems you found it anyway."/>
+		</imgdir>
+	</imgdir>
+	<imgdir name="1541008">
+		<string name="name" value="Luminous"/>
+		<string name="d0" value="Who are you?"/>
+		<string name="d1" value="The Black Mage."/>
+	</imgdir>
+	<imgdir name="1541009">
+		<string name="name" value="Tess"/>
+		<string name="d0" value="Uh, why are you here?"/>
+		<string name="d1" value="Where should I start...?"/>
+		<imgdir name="dialogue">
+			<string name="36331" value="Where should I start...?"/>
+		</imgdir>
+	</imgdir>
+	<imgdir name="1541010">
+		<string name="name" value="Le Tierre"/>
+	</imgdir>
+	<imgdir name="1541011">
+		<string name="name" value="Buck Teeth"/>
+	</imgdir>
+	<imgdir name="1541012">
+		<string name="name" value="Gabrielle"/>
+	</imgdir>
+	<imgdir name="1541013">
+		<string name="name" value="Sealed Black Mage"/>
+	</imgdir>
+	<imgdir name="1541014">
+		<string name="name" value="Seal Stone of Time"/>
+	</imgdir>
+	<imgdir name="1541015">
+		<string name="name" value="Seal Stone of Time"/>
+	</imgdir>
+	<imgdir name="1541016">
+		<string name="name" value="Seal Stone of Time"/>
+	</imgdir>
+	<imgdir name="1541017">
+		<string name="name" value="Seal Stone of Time"/>
+	</imgdir>
+	<imgdir name="1541018">
+		<string name="name" value="Cracked Seal Stone of Time"/>
+	</imgdir>
+	<imgdir name="1541019">
+		<string name="name" value="Black Shadow"/>
+	</imgdir>
+	<imgdir name="1541020">
+		<string name="name" value="Sentrobo"/>
+	</imgdir>
+	<imgdir name="1541021">
+		<string name="name" value="Baby Kyrin"/>
+	</imgdir>
+	<imgdir name="1541022">
+		<string name="name" value="Sugar"/>
+	</imgdir>
+	<imgdir name="1541023">
+		<string name="name" value="Tess"/>
+	</imgdir>
+	<imgdir name="1541024">
+		<string name="name" value="Olive"/>
+	</imgdir>
+	<imgdir name="1541025">
+		<string name="name" value="Rondo"/>
+	</imgdir>
+	<imgdir name="1541026">
+		<string name="name" value="Xenon"/>
+	</imgdir>
+	<imgdir name="1541027">
+		<string name="name" value="Athena Pierce"/>
+		<string name="func" value="Bowman Job Instructor"/>
+		<string name="s0" value="Do you want to know about the way of the Bowman?"/>
+	</imgdir>
+	<imgdir name="1541028">
+		<string name="name" value="Forest"/>
+	</imgdir>
+	<imgdir name="1541029">
+		<string name="name" value="Destonen"/>
+	</imgdir>
+	<imgdir name="1541030">
+		<string name="name" value="Kirston"/>
+	</imgdir>
+	<imgdir name="1541031">
+		<string name="name" value="Zion"/>
+	</imgdir>
+	<imgdir name="1541032">
+		<string name="name" value="Kyrin"/>
+	</imgdir>
+	<imgdir name="1541033">
+		<string name="name" value="Beginner"/>
+	</imgdir>
+	<imgdir name="1541034">
+		<string name="name" value="Beginner"/>
+	</imgdir>
+	<imgdir name="1541063">
+		<string name="name" value="Mysterious Voice"/>
+	</imgdir>
+	<imgdir name="1541035">
+		<string name="name" value="Hero (M)"/>
+	</imgdir>
+	<imgdir name="1541036">
+		<string name="name" value="Hero (F)"/>
+	</imgdir>
+	<imgdir name="1541037">
+		<string name="name" value="Paladin (M)"/>
+	</imgdir>
+	<imgdir name="1541038">
+		<string name="name" value="Paladin (F)"/>
+	</imgdir>
+	<imgdir name="1541039">
+		<string name="name" value="Dark Knight (M)"/>
+	</imgdir>
+	<imgdir name="1541040">
+		<string name="name" value="Dark Knight (F)"/>
+	</imgdir>
+	<imgdir name="1541041">
+		<string name="name" value="Fire/Poison Mage (M)"/>
+	</imgdir>
+	<imgdir name="1541042">
+		<string name="name" value="Fire/Poison Mage (F)"/>
+	</imgdir>
+	<imgdir name="1541043">
+		<string name="name" value="Ice/Lightning Mage (M)"/>
+	</imgdir>
+	<imgdir name="1541044">
+		<string name="name" value="Ice/Lightning Mage (F)"/>
+	</imgdir>
+	<imgdir name="1541045">
+		<string name="name" value="Bishop (M)"/>
+	</imgdir>
+	<imgdir name="1541046">
+		<string name="name" value="Bishop (F)"/>
+	</imgdir>
+	<imgdir name="1541047">
+		<string name="name" value="Marksman (M)"/>
+	</imgdir>
+	<imgdir name="1541048">
+		<string name="name" value="Marksman (F)"/>
+	</imgdir>
+	<imgdir name="1541049">
+		<string name="name" value="Bow Master (M)"/>
+	</imgdir>
+	<imgdir name="1541050">
+		<string name="name" value="Bow Master (F)"/>
+	</imgdir>
+	<imgdir name="1541051">
+		<string name="name" value="Shadower (M)"/>
+	</imgdir>
+	<imgdir name="1541052">
+		<string name="name" value="Shadower (F)"/>
+	</imgdir>
+	<imgdir name="1541053">
+		<string name="name" value="Night Lord (M)"/>
+	</imgdir>
+	<imgdir name="1541054">
+		<string name="name" value="Night Lord (F)"/>
+	</imgdir>
+	<imgdir name="1541055">
+		<string name="name" value="Dual Blade (M)"/>
+	</imgdir>
+	<imgdir name="1541056">
+		<string name="name" value="Dual Blade (F)"/>
+	</imgdir>
+	<imgdir name="1541057">
+		<string name="name" value="Buccaneer (M)"/>
+	</imgdir>
+	<imgdir name="1541058">
+		<string name="name" value="Buccaneer (F)"/>
+	</imgdir>
+	<imgdir name="1541059">
+		<string name="name" value="Corsair (M)"/>
+	</imgdir>
+	<imgdir name="1541060">
+		<string name="name" value="Corsair (F)"/>
+	</imgdir>
+	<imgdir name="1541061">
+		<string name="name" value="Cannoneer (M)"/>
+	</imgdir>
+	<imgdir name="1541062">
+		<string name="name" value="Cannoneer (F)"/>
+	</imgdir>
+	<imgdir name="1541064">
+		<string name="name" value="Luminous"/>
+	</imgdir>
+	<imgdir name="1541065">
+		<string name="name" value="Neinheart"/>
+	</imgdir>
+	<imgdir name="1541066">
+		<string name="name" value="Messages"/>
+	</imgdir>
+	<imgdir name="1541067">
+		<string name="name" value="Forest"/>
+	</imgdir>
+	<imgdir name="1541068">
+		<string name="name" value="Maple Tree"/>
+	</imgdir>
+	<imgdir name="1541069">
+		<string name="name" value="Goddess of Maple World"/>
+	</imgdir>
+	<imgdir name="1541070">
+		<string name="name" value="Ryden"/>
+	</imgdir>
+	<imgdir name="1541071">
+		<string name="name" value="Skipper"/>
+	</imgdir>
+	<imgdir name="1541072">
+		<string name="name" value="Cartalion"/>
+	</imgdir>
+	<imgdir name="1541073">
+		<string name="name" value="Tess"/>
+	</imgdir>
+	<imgdir name="1541074">
+		<string name="name" value="Rondo"/>
+		<string name="d0" value="I wonder if there&apos;s anyone like me here?"/>
+		<string name="d1" value="I want to find my own kind."/>
+		<imgdir name="dialogue">
+			<string name="36328" value="I&apos;m... So weak."/>
+		</imgdir>
+	</imgdir>
+	<imgdir name="1541075">
+		<string name="name" value="Tess"/>
+	</imgdir>
+	<imgdir name="1541076">
+		<string name="name" value="Olive"/>
+	</imgdir>
+	<imgdir name="1541077">
+		<string name="name" value="Rondo"/>
+	</imgdir>
+	<imgdir name="1541078">
+		<string name="name" value="Refugee 1"/>
+	</imgdir>
+	<imgdir name="1541079">
+		<string name="name" value="Refugee 2"/>
+	</imgdir>
+	<imgdir name="1541080">
+		<string name="name" value="Refugee 3"/>
+	</imgdir>
+	<imgdir name="1541081">
+		<string name="name" value="Refugee 4"/>
+	</imgdir>
+	<imgdir name="1541082">
+		<string name="name" value="Olive 2"/>
+	</imgdir>
+	<imgdir name="1541083">
+		<string name="name" value="Sugar"/>
+	</imgdir>
+	<imgdir name="1541084">
+		<string name="name" value="Black Shadow"/>
+	</imgdir>
+	<imgdir name="1541085">
+		<string name="name" value="Vasily"/>
+	</imgdir>
+	<imgdir name="1541086">
+		<string name="name" value="Sugar"/>
+	</imgdir>
+	<imgdir name="1541087">
+		<string name="name" value="Olive"/>
+	</imgdir>
+	<imgdir name="1541088">
+		<string name="name" value="Tess"/>
+	</imgdir>
+	<imgdir name="1541089">
+		<string name="name" value="Gatekeeper"/>
+	</imgdir>
 	<imgdir name="2001000">
 		<string name="name" value="Cliff"/>
 		<string name="n0" value="There&apos;s a huge tree in this town."/>
@@ -11200,8 +11509,8 @@
 	<imgdir name="2041029">
 		<string name="name" value="Karen"/>
 		<string name="n0" value="This is the time control room for Ludibrium. Only authorized personnel may enter."/>
-		<string name="n1" value="I can&apos;t believe time controller&apos;s security device is broken. What should I do...?"/>
-		<string name="d0" value="Oh no! Someone destroyed the security device for the time controller!"/>
+		<string name="n1" value="I can&apos;t believe the time controller is broken..."/>
+		<string name="d0" value="Oh no! The time controller&apos;s broken down!"/>
 		<string name="d1" value="Ahhh... I can&apos;t believe you just skipped time like that. The goddess will not forgive you for it."/>
 	</imgdir>
 	<imgdir name="2041030">
@@ -14017,12 +14326,12 @@
 		<string name="s1" value="Geez... When the adventurers come back, I&apos;m giving them a special 50% discount. They must be having such a hard time..."/>
 	</imgdir>
 	<imgdir name="2131000">
-		<string name="func" value="Expedition Leader"/>
-		<string name="n0" value="We have neither enough food nor equipment. If we don&apos;t conserve them..."/>
-		<string name="n1" value="The adventurers who left are probably fine, right?"/>
-		<string name="d0" value="It&apos;s been many days since we fled Ossyria and the Black Mage. I&apos;m trying to get used to Victoria Island, but it&apos;s not easy. I hope my hometown is safe..."/>
-		<string name="d1" value="It&apos;s been many days since we fled Ossyria and the Black Mage. I&apos;m trying to get used to Victoria Island, but it&apos;s not easy. I hope my hometown is safe..."/>
 		<string name="name" value="Athena Pierce"/>
+		<string name="func" value="Chief Explorer"/>
+		<string name="n0" value="We have neither enough food nor equipment. We need to conserve them."/>
+		<string name="n1" value="The adventurers who left are probably fine, right?"/>
+		<string name="d0" value="It&apos;s been many days since we fled from the attacks of the Black Mage."/>
+		<string name="d1" value="We&apos;re trying to get used to this place, but it&apos;s not easy. The airship needs to function for all of us to move to the southern plains"/>
 	</imgdir>
 	<imgdir name="2131001">
 		<string name="name" value="Perzen"/>
@@ -14034,10 +14343,10 @@
 	</imgdir>
 	<imgdir name="2131002">
 		<string name="name" value="Yuris"/>
-		<string name="n0" value="Hello, whoever you are."/>
-		<string name="n1" value="Man, I&apos;m going to get it from Master Perzen again for not acting fairy-like."/>
-		<string name="d0" value="My name is Yuris, and as you can see, I&apos;m a fairy. Though I&apos;m often told I don&apos;t act like a proper fairy. You see, I like to craft things with metal, and I really like martial arts."/>
-		<string name="d1" value="My name is Yuris, and as you can see, I&apos;m a fairy. Though I&apos;m often told I don&apos;t act like a proper fairy. You see, I like to craft things with metal, and I really like martial arts."/>
+		<string name="n0" value="Hello?"/>
+		<string name="n1" value="Isn&apos;t the weather nice? I like the rain."/>
+		<string name="d0" value="I&apos;m a half-elf. My human half likes metalworking."/>
+		<string name="d1" value="I&apos;m a half-elf. My human half likes metalworking."/>
 	</imgdir>
 	<imgdir name="2131003">
 		<string name="name" value="Loha"/>
@@ -14055,7 +14364,7 @@
 	</imgdir>
 	<imgdir name="2131005">
 		<string name="name" value="Sion"/>
-		<string name="n0" value="I wonder how Rius is doing? Everyone should be okay, right?"/>
+		<string name="n0" value="Everyone should be safe, right?"/>
 		<string name="n1" value="To come to Victoria Island... I never would&apos;ve imagined."/>
 		<string name="d0" value="Those who can fight are all outside the village. They have a very important task."/>
 		<string name="d1" value="People inside are also trying their hardest. In their own ways, of course."/>
@@ -14064,22 +14373,21 @@
 		<string name="name" value="Duru"/>
 		<string name="func" value="Storage Keeper"/>
 		<string name="n0" value="*Cough cough cough!*"/>
-		<string name="n1" value="Sheesh! At this rate, I won&apos;t be able to leave for another expedition."/>
-		<string name="d0" value="Altaire Camp is protected by Athena Pierce and Perzen&apos;s magic. Anything outside that is dangerous. But we&apos;re determined to found a new town. All our hope is riding on that."/>
-		<string name="d1" value="Altaire Camp is protected by Athena Pierce and Perzen&apos;s magic. Anything outside that is dangerous. But we&apos;re determined to found a new town. All our hope is riding on that."/>
+		<string name="d0" value="Altaire Camp is protected by Athena Pierce and Perzen&apos;s magic. Anywhere outside of it is filled with danger."/>
+		<string name="d1" value="Altaire Camp is protected by Athena Pierce and Perzen&apos;s magic. Anywhere outside of it is filled with danger."/>
 	</imgdir>
 	<imgdir name="2131007">
 		<string name="name" value="Tess"/>
-		<string name="n0" value="So booored."/>
-		<string name="d0" value="The camp is kinda empty, since most people are outside town. Aaargh, how boring! I wanna go and fight monsters out there too!"/>
-		<string name="d1" value="The camp is kinda empty, since most people are outside town. Aaargh, how boring! I wanna go and fight monsters out there too!"/>
-		<string name="n1" value="I&apos;m a warrior, dagnabbit! I can fight with the best of them, so why aren&apos;t they letting me?"/>
+		<string name="n0" value="I&apos;m worried about mother&apos;s condition."/>
+		<string name="n1" value="What food is good for those who are pregnant?"/>
+		<string name="d0" value="The camp is kinda empty, since most people are outside town."/>
+		<string name="d1" value="The camp is kinda empty, since most people are outside town."/>
 	</imgdir>
 	<imgdir name="2131008">
 		<string name="name" value="Perzen"/>
 		<string name="func" value="Magician&apos;s Representative"/>
-		<string name="d0" value="Some things just cannot be avoided. This must be done to protect Victoria Island. "/>
-		<string name="d1" value="We must protect Victoria Island from the Black Mage. If this place falls to him, then..."/>
+		<string name="d0" value="Sometimes you must do what must be done to protect this place."/>
+		<string name="d1" value="Sometimes you must do what must be done to protect this place."/>
 	</imgdir>
 	<imgdir name="2132000">
 		<string name="name" value="Kanderune"/>
@@ -14092,10 +14400,10 @@
 	<imgdir name="2132001">
 		<string name="name" value="Lohd"/>
 		<string name="func" value="Thief Representative"/>
-		<string name="n0" value="It&apos;s not Lohd! It&apos;s Dark Lord! Dark Lord!"/>
-		<string name="n1" value="I think the number of Mushrooms is growing. I don&apos;t like it. Wild lands suit me better."/>
-		<string name="d0" value="I&apos;ve ranged far from camp, but I haven&apos;t found an area I like. There must be a place that&apos;s wild and dangerous like us thieves!"/>
-		<string name="d1" value="I&apos;ve ranged far from camp, but I haven&apos;t found an area I like. There must be a place that&apos;s wild and dangerous like us thieves!"/>
+		<string name="n0" value="Someone has to make the sacrifice."/>
+		<string name="n1" value="I&apos;m worried whether this place can be developed into a town."/>
+		<string name="d0" value="This place is unsuitable for building a town as it&apos;s wild and dangerous, but we thieves never back down from a challenge."/>
+		<string name="d1" value="This place is unsuitable for building a town as it&apos;s wild and dangerous, but we thieves never back down from a challenge."/>
 	</imgdir>
 	<imgdir name="2132002">
 		<string name="name" value="Rius"/>
@@ -14113,11 +14421,11 @@
 	</imgdir>
 	<imgdir name="2133000">
 		<string name="name" value="Ellin"/>
-		<string name="n0" value="There&apos;s a dangerous man here! Don&apos;t come too close!"/>
-		<string name="n1" value="Geez! We have to take care of this immediately, but the so-called heroes say they&apos;re all busy! What am I supposed to do now?"/>
-		<string name="d0" value="The one they call Mystery Man, who always wears a black robe, began polluting our forest not too long ago. I wonder who he is. Perhaps he&apos;s the Black Magician?"/>
-		<string name="d1" value="The one they call Mystery Man, who always wears a black robe, began polluting our forest not too long ago. I wonder who he is. Perhaps he&apos;s the Black Magician?"/>
 		<string name="func" value="Forest of Poison Haze"/>
+		<string name="n0" value="There&apos;s a dangerous man here! Don&apos;t come too close!"/>
+		<string name="n1" value="We have to take care of this immediately, but how?"/>
+		<string name="d0" value="A mystery man in a black robe has been polluting the forest. I want to know who he is."/>
+		<string name="d1" value="A mystery man in a black robe has been polluting the forest. I want to know who he is."/>
 	</imgdir>
 	<imgdir name="2133001">
 		<string name="name" value="Ellin"/>
@@ -14125,7 +14433,7 @@
 		<string name="n1" value="I wonder what that Mystery Man&apos;s real identity is. "/>
 	</imgdir>
 	<imgdir name="2133002">
-		<string name="name" value="Ellin Forest Milepost"/>
+		<string name="name" value="Ellin Forest Sign"/>
 	</imgdir>
 	<imgdir name="2133003">
 		<string name="name" value="Wooden Desk"/>
@@ -23917,8 +24225,8 @@
 	<imgdir name="3003104">
 		<string name="name" value="Rona"/>
 		<string name="func" value="Daily Quest"/>
-		<string name="d0" value="The guardians of time are responsible for this place."/>
-		<string name="d1" value="The guardians of time are responsible for this place."/>
+		<string name="d0" value="The Guardians of Time are responsible for this place."/>
+		<string name="d1" value="The Guardians of Time are responsible for this place."/>
 		<string name="n0" value="This is completely new territory for us. There is much for us to discover."/>
 		<string name="n1" value="Can you help us with our research?"/>
 	</imgdir>
@@ -25505,7 +25813,7 @@
 		</imgdir>
 	</imgdir>
 	<imgdir name="3003570">
-		<string name="name" value="Temple Keeper"/>
+		<string name="name" value="Guardian of Time"/>
 		<string name="n0" value="We can&apos;t just stay at the temple."/>
 		<string name="n1" value="We&apos;ll join you in the fight."/>
 		<imgdir name="bubble">
@@ -25557,7 +25865,7 @@
 		</imgdir>
 	</imgdir>
 	<imgdir name="3003574">
-		<string name="name" value="Temple Keeper"/>
+		<string name="name" value="Guardian of Time"/>
 		<string name="n0" value="We can&apos;t just stay at the temple."/>
 		<string name="n1" value="We&apos;ll join you in the fight."/>
 		<imgdir name="bubble">
@@ -25689,7 +25997,7 @@
 		<string name="d1" value="I&apos;ll fight alongside you."/>
 	</imgdir>
 	<imgdir name="3003622">
-		<string name="name" value="Temple Keeper"/>
+		<string name="name" value="Guardian of Time"/>
 		<string name="d0" value="This isn&apos;t looking good."/>
 		<string name="d1" value="This isn&apos;t looking good."/>
 	</imgdir>
@@ -25851,7 +26159,7 @@
 		<string name="name" value="Soot Grudge"/>
 	</imgdir>
 	<imgdir name="3003667">
-		<string name="name" value="Temple Keeper"/>
+		<string name="name" value="Guardian of Time"/>
 	</imgdir>
 	<imgdir name="3003668">
 		<string name="name" value="Cygnus Soldier"/>
@@ -25863,7 +26171,7 @@
 		<string name="name" value="Nova Soldier"/>
 	</imgdir>
 	<imgdir name="3003671">
-		<string name="name" value="Temple Keeper"/>
+		<string name="name" value="Guardian of Time"/>
 	</imgdir>
 	<imgdir name="3003672">
 		<string name="name" value="Claudine"/>
@@ -25908,7 +26216,7 @@
 		<string name="name" value="Nova Soldier"/>
 	</imgdir>
 	<imgdir name="3003686">
-		<string name="name" value="Temple Keeper"/>
+		<string name="name" value="Guardian of Time"/>
 	</imgdir>
 	<imgdir name="3003687">
 		<string name="name" value="Legioneye"/>
@@ -26182,7 +26490,7 @@
 		<string name="name" value="Nova Soldier"/>
 	</imgdir>
 	<imgdir name="3003761">
-		<string name="name" value="Temple Keeper"/>
+		<string name="name" value="Guardian of Time"/>
 	</imgdir>
 	<imgdir name="3003762">
 		<string name="name" value="Cygnus Soldier"/>
@@ -26194,7 +26502,7 @@
 		<string name="name" value="Nova Soldier"/>
 	</imgdir>
 	<imgdir name="3003765">
-		<string name="name" value="Temple Keeper"/>
+		<string name="name" value="Guardian of Time"/>
 	</imgdir>
 	<imgdir name="3003766">
 		<string name="name" value="Wounded Soldier"/>
@@ -26392,7 +26700,7 @@
 		</imgdir>
 	</imgdir>
 	<imgdir name="3003799">
-		<string name="name" value="Temple Keeper"/>
+		<string name="name" value="Guardian of Time"/>
 		<string name="d0" value="I feel like we&apos;re being watched... But I don&apos;t really see anything."/>
 		<string name="d1" value="I feel like we&apos;re being watched... But I don&apos;t really see anything."/>
 		<imgdir name="dialogue">
@@ -26402,7 +26710,7 @@
 		</imgdir>
 	</imgdir>
 	<imgdir name="3003800">
-		<string name="name" value="Temple Keeper"/>
+		<string name="name" value="Guardian of Time"/>
 		<string name="d0" value="I feel like we&apos;re being watched... But I don&apos;t really see anything."/>
 		<string name="d1" value="I feel like we&apos;re being watched... But I don&apos;t really see anything."/>
 		<imgdir name="dialogue">
@@ -26438,8 +26746,8 @@
 	<imgdir name="3003810">
 		<string name="name" value="Velivah"/>
 		<string name="func" value="Daily Quest"/>
-		<string name="d0" value="The guardians of time are responsible for this place."/>
-		<string name="d1" value="The guardians of time are responsible for this place."/>
+		<string name="d0" value="The Guardians of Time are responsible for this place."/>
+		<string name="d1" value="The Guardians of Time are responsible for this place."/>
 		<string name="n0" value="This is completely new territory for us. There is much for us to discover."/>
 		<string name="n1" value="Can you help us with our research?"/>
 	</imgdir>
@@ -27274,7 +27582,7 @@
 		<string name="name" value="Nova Soldier"/>
 	</imgdir>
 	<imgdir name="3004223">
-		<string name="name" value="Temple Keeper"/>
+		<string name="name" value="Guardian of Time"/>
 	</imgdir>
 	<imgdir name="3004224">
 		<string name="name" value="Cygnus Soldier"/>
@@ -29272,6 +29580,476 @@
 	</imgdir>
 	<imgdir name="3005188">
 		<string name="name" value="Licky-lips Yeol"/>
+	</imgdir>
+	<imgdir name="3005200">
+		<string name="name" value="Neinheart"/>
+	</imgdir>
+	<imgdir name="3005201">
+		<string name="name" value="Hawkeye"/>
+	</imgdir>
+	<imgdir name="3005202">
+		<string name="name" value="Eckhart"/>
+	</imgdir>
+	<imgdir name="3005203">
+		<string name="name" value="Oz"/>
+	</imgdir>
+	<imgdir name="3005204">
+		<string name="name" value="Mihile"/>
+	</imgdir>
+	<imgdir name="3005205">
+		<string name="name" value="Irena"/>
+	</imgdir>
+	<imgdir name="3005206">
+		<string name="name" value="Archelon"/>
+	</imgdir>
+	<imgdir name="3005207">
+		<string name="name" value="Rusty"/>
+	</imgdir>
+	<imgdir name="3005208">
+		<string name="name" value="Belle"/>
+	</imgdir>
+	<imgdir name="3005209">
+		<string name="name" value="Toogi"/>
+	</imgdir>
+	<imgdir name="3005210">
+		<string name="name" value="Nicky"/>
+	</imgdir>
+	<imgdir name="3005211">
+		<string name="name" value="Blanc"/>
+		<string name="func" value="Seeker"/>
+	</imgdir>
+	<imgdir name="3005212">
+		<string name="name" value="Nell"/>
+		<string name="func" value="Seeker"/>
+	</imgdir>
+	<imgdir name="3005213">
+		<string name="name" value="Baz"/>
+		<string name="func" value="Seeker"/>
+	</imgdir>
+	<imgdir name="3005214">
+		<string name="name" value="Statue"/>
+		<string name="func" value="Decrepit Floor"/>
+	</imgdir>
+	<imgdir name="3005215">
+		<string name="name" value="Statue"/>
+		<string name="func" value="Restored Floor"/>
+	</imgdir>
+	<imgdir name="3005216">
+		<string name="name" value="Statue"/>
+		<string name="func" value="Decrepit Floor"/>
+	</imgdir>
+	<imgdir name="3005217">
+		<string name="name" value="Statue"/>
+		<string name="func" value="Restored Floor"/>
+	</imgdir>
+	<imgdir name="3005218">
+		<string name="name" value="Statue"/>
+		<string name="func" value="Decrepit Floor"/>
+	</imgdir>
+	<imgdir name="3005219">
+		<string name="name" value="Statue"/>
+		<string name="func" value="Restored Floor"/>
+	</imgdir>
+	<imgdir name="3005220">
+		<string name="name" value="???"/>
+	</imgdir>
+	<imgdir name="3005221">
+		<string name="name" value="???"/>
+	</imgdir>
+	<imgdir name="3005222">
+		<string name="name" value="Kalos"/>
+	</imgdir>
+	<imgdir name="3005223">
+		<string name="name" value="Corallite Guardian"/>
+	</imgdir>
+	<imgdir name="3005224">
+		<string name="name" value="Olivine Guardian"/>
+	</imgdir>
+	<imgdir name="3005225">
+		<string name="name" value="Diamond Guardian"/>
+	</imgdir>
+	<imgdir name="3005226">
+		<string name="name" value="Cosim"/>
+	</imgdir>
+	<imgdir name="3005227">
+		<string name="name" value="T-boy"/>
+	</imgdir>
+	<imgdir name="3005228">
+		<string name="name" value="Nicky"/>
+	</imgdir>
+	<imgdir name="3005230">
+		<string name="name" value="Neinheart"/>
+	</imgdir>
+	<imgdir name="3005231">
+		<string name="name" value="Neinheart"/>
+	</imgdir>
+	<imgdir name="3005232">
+		<string name="name" value="Neinheart"/>
+		<string name="d0" value="Astonishing."/>
+		<string name="d1" value="Astonishing."/>
+	</imgdir>
+	<imgdir name="3005233">
+		<string name="name" value="Neinheart"/>
+		<string name="d0" value="This warrants further investigation."/>
+		<string name="d1" value="This warrants further investigation."/>
+		<imgdir name="dialogue">
+			<string name="38210" value="What else have you learned?"/>
+		</imgdir>
+	</imgdir>
+	<imgdir name="3005234">
+		<string name="name" value="Neinheart"/>
+		<string name="d0" value="Is there something you wanted to discuss?"/>
+		<string name="d1" value="Is there something you wanted to discuss?"/>
+	</imgdir>
+	<imgdir name="3005235">
+		<string name="name" value="Neinheart"/>
+		<string name="d0" value="So this is what it&apos;s come to..."/>
+		<string name="d1" value="So this is what it&apos;s come to..."/>
+	</imgdir>
+	<imgdir name="3005236">
+		<string name="name" value="Irena"/>
+	</imgdir>
+	<imgdir name="3005237">
+		<string name="name" value="Irena"/>
+	</imgdir>
+	<imgdir name="3005238">
+		<string name="name" value="Irena"/>
+		<string name="d0" value="It seems some things survived the collapse."/>
+		<string name="d1" value="It seems some things survived the collapse."/>
+		<imgdir name="dialogue">
+			<string name="38207" value="#h0#, are you injured?"/>
+		</imgdir>
+	</imgdir>
+	<imgdir name="3005239">
+		<string name="name" value="Irena"/>
+		<string name="d0" value="Be careful, #h0#."/>
+		<string name="d1" value="Be careful, #h0#."/>
+	</imgdir>
+	<imgdir name="3005240">
+		<string name="name" value="Irena"/>
+	</imgdir>
+	<imgdir name="3005241">
+		<string name="name" value="Irena"/>
+	</imgdir>
+	<imgdir name="3005242">
+		<string name="name" value="Belle"/>
+	</imgdir>
+	<imgdir name="3005243">
+		<string name="name" value="Belle"/>
+	</imgdir>
+	<imgdir name="3005244">
+		<string name="name" value="Belle"/>
+		<string name="d0" value="Such an enormous tower collapsed in an instant..."/>
+		<string name="d1" value="Such an enormous tower collapsed in an instant..."/>
+		<imgdir name="dialogue">
+			<string name="38207" value="I was worried about you! Are you sure you&apos;re all right?"/>
+		</imgdir>
+	</imgdir>
+	<imgdir name="3005245">
+		<string name="name" value="Belle"/>
+		<string name="d0" value="Should I be worried for you?"/>
+		<string name="d1" value="Should I be worried for you?"/>
+	</imgdir>
+	<imgdir name="3005246">
+		<string name="name" value="Belle"/>
+		<string name="d0" value="I&apos;ll leave it to you."/>
+		<string name="d1" value="I&apos;ll leave it to you."/>
+	</imgdir>
+	<imgdir name="3005247">
+		<string name="name" value="Belle"/>
+	</imgdir>
+	<imgdir name="3005248">
+		<string name="name" value="Nicky"/>
+		<string name="d0" value="If you&apos;re looking for trouble, keep walking."/>
+		<string name="d1" value="If you&apos;re looking for trouble, keep walking."/>
+	</imgdir>
+	<imgdir name="3005249">
+		<string name="name" value="Nicky"/>
+		<string name="d0" value="This is bad."/>
+		<string name="d1" value="This is bad."/>
+	</imgdir>
+	<imgdir name="3005250">
+		<string name="name" value="Nicky"/>
+		<string name="d0" value="I guess I&apos;ll keep waiting."/>
+		<string name="d1" value="I guess I&apos;ll keep waiting."/>
+	</imgdir>
+	<imgdir name="3005251">
+		<string name="name" value="Nicky"/>
+	</imgdir>
+	<imgdir name="3005252">
+		<string name="name" value="Nicky"/>
+	</imgdir>
+	<imgdir name="3005253">
+		<string name="name" value="Nicky"/>
+		<string name="d0" value="&#43690;&#43690;&#43690;"/>
+		<string name="d1" value="&#43690;&#43690;&#43690;"/>
+	</imgdir>
+	<imgdir name="3005254">
+		<string name="name" value="Archelon"/>
+		<string name="d0" value="Captain Archelon will happily open the gateway for his friends."/>
+		<string name="d1" value="Captain Archelon will happily open the gateway for his friends."/>
+	</imgdir>
+	<imgdir name="3005255">
+		<string name="name" value="Blanc"/>
+		<string name="func" value="Seeker"/>
+		<string name="n0" value="There have been seekers in my family for generations."/>
+		<string name="n1" value="I heard about this place from my grandmother."/>
+	</imgdir>
+	<imgdir name="3005256">
+		<string name="name" value="Nell"/>
+		<string name="func" value="Seeker"/>
+		<string name="n0" value="Arcus is pretty neat."/>
+		<string name="n1" value="It&apos;s been a while since I&apos;ve had a roof over my head."/>
+	</imgdir>
+	<imgdir name="3005257">
+		<string name="name" value="Baz"/>
+		<string name="func" value="Seeker"/>
+		<string name="n0" value="Seems like you&apos;ve also come quite a ways. Got any good stories?"/>
+		<string name="n1" value="Let me know if you think of any good stories."/>
+	</imgdir>
+	<imgdir name="3005258">
+		<string name="name" value="Arcus Gate"/>
+	</imgdir>
+	<imgdir name="3005259">
+		<string name="name" value="Statue"/>
+	</imgdir>
+	<imgdir name="3005260">
+		<string name="name" value="Statue"/>
+	</imgdir>
+	<imgdir name="3005261">
+		<string name="name" value="Statue"/>
+	</imgdir>
+	<imgdir name="3005262">
+		<string name="name" value="Statue"/>
+	</imgdir>
+	<imgdir name="3005263">
+		<string name="name" value="Statue"/>
+	</imgdir>
+	<imgdir name="3005264">
+		<string name="name" value="Statue"/>
+	</imgdir>
+	<imgdir name="3005265">
+		<string name="name" value="Kalos"/>
+		<string name="func" value="Guardian"/>
+	</imgdir>
+	<imgdir name="3005266">
+		<string name="name" value="Gate"/>
+	</imgdir>
+	<imgdir name="3005267">
+		<string name="name" value="Kalos&apos;s Residual Determination"/>
+	</imgdir>
+	<imgdir name="3005300">
+		<string name="name" value="Kao"/>
+	</imgdir>
+	<imgdir name="3005301">
+		<string name="name" value="Neinheart"/>
+	</imgdir>
+	<imgdir name="3005302">
+		<string name="name" value="Misplaced Outfit"/>
+	</imgdir>
+	<imgdir name="3005303">
+		<string name="name" value="Barr"/>
+	</imgdir>
+	<imgdir name="3005304">
+		<string name="name" value="Orchid"/>
+	</imgdir>
+	<imgdir name="3005305">
+		<string name="name" value="Hilla"/>
+	</imgdir>
+	<imgdir name="3005306">
+		<string name="name" value="Lotus"/>
+	</imgdir>
+	<imgdir name="3005307">
+		<string name="name" value="Ollie"/>
+	</imgdir>
+	<imgdir name="3005308">
+		<string name="name" value="Cygnus"/>
+	</imgdir>
+	<imgdir name="3005309">
+		<string name="name" value="Tana"/>
+	</imgdir>
+	<imgdir name="3005310">
+		<string name="name" value="White Mage"/>
+	</imgdir>
+	<imgdir name="3005311">
+		<string name="name" value="Cygnus Soldier"/>
+	</imgdir>
+	<imgdir name="3005312">
+		<string name="name" value="Genesis Crux"/>
+	</imgdir>
+	<imgdir name="3005313">
+		<string name="name" value="T-boy"/>
+	</imgdir>
+	<imgdir name="3005331">
+		<string name="name" value="Patriarch Leon"/>
+	</imgdir>
+	<imgdir name="3005332">
+		<string name="name" value="???"/>
+	</imgdir>
+	<imgdir name="3005333">
+		<string name="name" value="Protective Mask"/>
+	</imgdir>
+	<imgdir name="3005334">
+		<string name="name" value="Gray Mask"/>
+	</imgdir>
+	<imgdir name="3005335">
+		<string name="name" value="Music Box"/>
+	</imgdir>
+	<imgdir name="3005336">
+		<string name="name" value="Flutist Mask"/>
+	</imgdir>
+	<imgdir name="3005337">
+		<string name="name" value="Bird Beak Mask"/>
+	</imgdir>
+	<imgdir name="3005338">
+		<string name="name" value="Red Flower Mask"/>
+	</imgdir>
+	<imgdir name="3005339">
+		<string name="name" value="Resident"/>
+	</imgdir>
+	<imgdir name="3005340">
+		<string name="name" value="Soldier"/>
+	</imgdir>
+	<imgdir name="3005341">
+		<string name="name" value="Researcher"/>
+	</imgdir>
+	<imgdir name="3005342">
+		<string name="name" value="Resident 1"/>
+	</imgdir>
+	<imgdir name="3005343">
+		<string name="name" value="Resident 2"/>
+	</imgdir>
+	<imgdir name="3005344">
+		<string name="name" value="Jean"/>
+	</imgdir>
+	<imgdir name="3005345">
+		<string name="name" value="Tana"/>
+	</imgdir>
+	<imgdir name="3005358">
+		<string name="name" value="Shubert"/>
+	</imgdir>
+	<imgdir name="3005359">
+		<string name="name" value="Necklace"/>
+	</imgdir>
+	<imgdir name="3005360">
+		<string name="name" value="Submarine"/>
+	</imgdir>
+	<imgdir name="3005361">
+		<string name="name" value="Simia"/>
+	</imgdir>
+	<imgdir name="3005362">
+		<string name="name" value="Pibik"/>
+	</imgdir>
+	<imgdir name="3005363">
+		<string name="name" value="Pimi"/>
+	</imgdir>
+	<imgdir name="3005364">
+		<string name="name" value="Pidol"/>
+	</imgdir>
+	<imgdir name="3005365">
+		<string name="name" value="Lyon"/>
+	</imgdir>
+	<imgdir name="3005366">
+		<string name="name" value="Lyck"/>
+	</imgdir>
+	<imgdir name="3005367">
+		<string name="name" value="Muto 1"/>
+	</imgdir>
+	<imgdir name="3005368">
+		<string name="name" value="Muto 2"/>
+	</imgdir>
+	<imgdir name="3005369">
+		<string name="name" value="Shubert"/>
+	</imgdir>
+	<imgdir name="3005370">
+		<string name="name" value="Ollie"/>
+	</imgdir>
+	<imgdir name="3005371">
+		<string name="name" value="Melange"/>
+	</imgdir>
+	<imgdir name="3005372">
+		<string name="name" value="Will 1"/>
+	</imgdir>
+	<imgdir name="3005373">
+		<string name="name" value="Tana"/>
+	</imgdir>
+	<imgdir name="3005374">
+		<string name="name" value="Attack"/>
+	</imgdir>
+	<imgdir name="3005375">
+		<string name="name" value="Will 2"/>
+	</imgdir>
+	<imgdir name="3005376">
+		<string name="name" value="Seal Stone"/>
+	</imgdir>
+	<imgdir name="3005377">
+		<string name="name" value="Carlisle"/>
+	</imgdir>
+	<imgdir name="3005378">
+		<string name="name" value="Claudine"/>
+	</imgdir>
+	<imgdir name="3005379">
+		<string name="name" value="Athena Pierce"/>
+	</imgdir>
+	<imgdir name="3005380">
+		<string name="name" value="Cygnus"/>
+	</imgdir>
+	<imgdir name="3005381">
+		<string name="name" value="Seren"/>
+	</imgdir>
+	<imgdir name="3005382">
+		<string name="name" value="Checky"/>
+	</imgdir>
+	<imgdir name="3005383">
+		<string name="name" value="Hawkeye"/>
+	</imgdir>
+	<imgdir name="3005384">
+		<string name="name" value="Flora Foot Soldier"/>
+	</imgdir>
+	<imgdir name="3005385">
+		<string name="name" value="Havoc"/>
+	</imgdir>
+	<imgdir name="3005386">
+		<string name="name" value="Seren 2"/>
+	</imgdir>
+	<imgdir name="3005387">
+		<string name="name" value="Court Knight"/>
+	</imgdir>
+	<imgdir name="3005388">
+		<string name="name" value="Templar"/>
+	</imgdir>
+	<imgdir name="3005389">
+		<string name="name" value="Carlisle 2"/>
+	</imgdir>
+	<imgdir name="3005390">
+		<string name="name" value="Grand Master"/>
+	</imgdir>
+	<imgdir name="3005391">
+		<string name="name" value="Spisa"/>
+	</imgdir>
+	<imgdir name="3005392">
+		<string name="name" value="Nerota"/>
+	</imgdir>
+	<imgdir name="3005393">
+		<string name="name" value="Spisan King"/>
+	</imgdir>
+	<imgdir name="3005394">
+		<string name="name" value="Nerota King"/>
+	</imgdir>
+	<imgdir name="3005395">
+		<string name="name" value="Gilmore"/>
+	</imgdir>
+	<imgdir name="3005396">
+		<string name="name" value="Aaron"/>
+	</imgdir>
+	<imgdir name="3005397">
+		<string name="name" value="Edea"/>
+	</imgdir>
+	<imgdir name="3005398">
+		<string name="name" value="Neinheart"/>
+	</imgdir>
+	<imgdir name="3005399">
+		<string name="name" value="Ollie"/>
 	</imgdir>
 	<imgdir name="9000000">
 		<string name="name" value="Paul"/>
@@ -36612,6 +37390,113 @@
 		<string name="s1" value="You want to know what am I wearing? It&apos;s a SECRET."/>
 		<string name="d1" value="How to be strong like me? Start with push-ups..."/>
 	</imgdir>
+	<imgdir name="9062604">
+		<string name="name" value="Gunny"/>
+		<string name="func" value="Ring in the new year with Rice Cake Soup"/>
+		<string name="n0" value="The new year is already here!"/>
+		<string name="d0" value="The new year is already here!"/>
+	</imgdir>
+	<imgdir name="9062605">
+		<string name="name" value="Stella"/>
+		<string name="func" value="Starlight Symphony"/>
+		<string name="n0" value="Can you hear music of the stars?"/>
+		<string name="d0" value="Can you hear music of the stars?"/>
+	</imgdir>
+	<imgdir name="9062606">
+		<string name="name" value="Deneb"/>
+		<string name="func" value="Starlight Symphony, Assemble!"/>
+		<string name="n0" value="I&apos;ll visit you alongside the shimmering starlight!"/>
+		<string name="d0" value="I&apos;ll visit you alongside the shimmering starlight!"/>
+	</imgdir>
+	<imgdir name="9062607">
+		<string name="name" value="Beta Bootis"/>
+		<string name="func" value="Gemini Match"/>
+	</imgdir>
+	<imgdir name="9062608">
+		<string name="name" value="Alphard"/>
+		<string name="func" value="Stellar Ensemble"/>
+		<string name="n0" value="What time is it?"/>
+		<string name="d0" value="What time is it?"/>
+	</imgdir>
+	<imgdir name="9062609">
+		<string name="name" value="Rigel"/>
+		<string name="func" value="Starlight Melody Shop"/>
+	</imgdir>
+	<imgdir name="9062610">
+		<string name="name" value="Rigel"/>
+		<string name="func" value="Starlight Melody Shop"/>
+	</imgdir>
+	<imgdir name="9062611">
+		<string name="name" value="Castor"/>
+		<string name="func" value="Starlight Harmony Shop"/>
+	</imgdir>
+	<imgdir name="9062612">
+		<string name="name" value="Castor"/>
+		<string name="func" value="Starlight Harmony Shop"/>
+	</imgdir>
+	<imgdir name="9062613">
+		<string name="name" value="Aldebaran"/>
+		<string name="func" value="Starlight Meso Shop"/>
+	</imgdir>
+	<imgdir name="9062614">
+		<string name="name" value="Aldebaran"/>
+		<string name="func" value="Starlight Meso Shop"/>
+	</imgdir>
+	<imgdir name="9062615">
+		<string name="name" value="Deneb"/>
+		<string name="func" value="Starlight Symphony"/>
+	</imgdir>
+	<imgdir name="9062616">
+		<string name="name" value="Beta Bootis"/>
+		<string name="func" value="Starlight Symphony"/>
+	</imgdir>
+	<imgdir name="9062617">
+		<string name="name" value="Sheliak"/>
+		<string name="func" value="Starlight Symphony"/>
+	</imgdir>
+	<imgdir name="9062618">
+		<string name="name" value="Rigel"/>
+		<string name="func" value="Starlight Symphony"/>
+	</imgdir>
+	<imgdir name="9062619">
+		<string name="name" value="Castor"/>
+		<string name="func" value="Starlight Symphony"/>
+	</imgdir>
+	<imgdir name="9062620">
+		<string name="name" value="Aldebaran"/>
+		<string name="func" value="Starlight Symphony"/>
+	</imgdir>
+	<imgdir name="9062621">
+		<string name="name" value="Athena Pierce"/>
+	</imgdir>
+	<imgdir name="9062622">
+		<string name="name" value="Dances with Balrog"/>
+	</imgdir>
+	<imgdir name="9062623">
+		<string name="name" value="Dark Lord"/>
+	</imgdir>
+	<imgdir name="9062624">
+		<string name="name" value="Kyrin"/>
+	</imgdir>
+	<imgdir name="9062625">
+		<string name="name" value="Grendel the Really Old"/>
+	</imgdir>
+	<imgdir name="9062626">
+		<string name="name" value="Goddess of Maple World"/>
+	</imgdir>
+	<imgdir name="9062627">
+		<string name="name" value="Pink Bean"/>
+		<string name="func" value="Tubby Magpie"/>
+		<string name="n0" value="Huzzah, huzzah~ The new year is here!"/>
+		<string name="d0" value="Huzzah, huzzah~ The new year is here!"/>
+	</imgdir>
+	<imgdir name="9062628">
+		<string name="name" value="Spiegelmann"/>
+		<string name="n0" value="Hurry and get your Starlight Box!"/>
+		<string name="n1" value="Hurry and get your Starlight Box!"/>
+		<string name="d0" value="Hurry and get your Starlight Box!"/>
+		<string name="d1" value="Hurry and get your Starlight Box!"/>
+	</imgdir>
 	<imgdir name="9063000">
 		<string name="name" value="Spark of Determination"/>
 	</imgdir>
@@ -37458,7 +38343,7 @@
 		<string name="n1" value="I wonder what this mystery man is after?"/>
 	</imgdir>
 	<imgdir name="9076121">
-		<string name="name" value="Ellin Forest Milepost"/>
+		<string name="name" value="Ellin Forest Sign"/>
 	</imgdir>
 	<imgdir name="9076122">
 		<string name="name" value="Spright"/>
@@ -37629,6 +38514,12 @@
 		<string name="name" value="Gate"/>
 	</imgdir>
 	<imgdir name="9091025">
+		<string name="name" value="Gate"/>
+	</imgdir>
+	<imgdir name="9091027">
+		<string name="name" value="Gate"/>
+	</imgdir>
+	<imgdir name="9091028">
 		<string name="name" value="Gate"/>
 	</imgdir>
 	<imgdir name="9100000">
@@ -39657,894 +40548,439 @@
 	<imgdir name="9999999">
 		<string name="name" value="test"/>
 	</imgdir>
-	<imgdir name="1541000">
-		<string name="name" value="Sugar"/>
-		<string name="d0" value="He-hello..."/>
-		<string name="d1" value="Thank you for helping me."/>
-	</imgdir>
-	<imgdir name="1541001">
-		<string name="name" value="Sugar"/>
-		<string name="d0" value="Let&apos;s go on an adventure!"/>
-		<string name="d1" value="Let&apos;s go on an adventure!"/>
-	</imgdir>
-	<imgdir name="1541002">
-		<string name="name" value="Sugar"/>
-		<string name="d0" value="Which adventure will you choose?"/>
-		<string name="d1" value="Which adventure will you choose?"/>
-	</imgdir>
-	<imgdir name="1541003">
-		<string name="name" value="Olive"/>
-		<string name="d0" value="Rondo is a traitor!"/>
-		<string name="d1" value="Rondo is a traitor!"/>
-	</imgdir>
-	<imgdir name="1541004">
-		<string name="name" value="Rondo"/>
-		<string name="d0" value="Come on, let&apos;s go."/>
-		<string name="d1" value="Come on, let&apos;s go."/>
-		<imgdir name="dialogue">
-			<string name="36313" value="&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-		</imgdir>
-	</imgdir>
-	<imgdir name="1541005">
-		<string name="name" value="Rondo"/>
-		<string name="d0" value="We should head back."/>
-		<string name="d1" value="We should head back."/>
-	</imgdir>
-	<imgdir name="1541006">
-		<string name="name" value="Sugar"/>
-		<string name="d0" value="We must protect the Maple Tree."/>
-		<string name="d1" value="&#43690;&#43690;&#43690;&#43690;"/>
-	</imgdir>
-	<imgdir name="1541007">
-		<string name="name" value="Rondo"/>
-		<string name="d0" value="My hat..."/>
-		<string name="d1" value="My hat..."/>
-		<imgdir name="dialogue">
-			<string name="36326" value="It seems you found it anyway."/>
-		</imgdir>
-	</imgdir>
-	<imgdir name="1541008">
-		<string name="name" value="Luminous"/>
-		<string name="d0" value="Who are you?"/>
-		<string name="d1" value="The Black Mage."/>
-	</imgdir>
-	<imgdir name="1541009">
-		<string name="name" value="Tess"/>
-		<string name="d0" value="Uh, why are you here?"/>
-		<string name="d1" value="Where should I start...?"/>
-		<imgdir name="dialogue">
-			<string name="36331" value="Where should I start...?"/>
-		</imgdir>
-	</imgdir>
-	<imgdir name="1541010">
-		<string name="name" value="Le Tierre"/>
-	</imgdir>
-	<imgdir name="1541011">
-		<string name="name" value="Buck Teeth"/>
-	</imgdir>
-	<imgdir name="1541012">
-		<string name="name" value="Gabrielle"/>
-	</imgdir>
-	<imgdir name="1541013">
-		<string name="name" value="Sealed Black Mage"/>
-	</imgdir>
-	<imgdir name="1541014">
-		<string name="name" value="Seal Stone of Time"/>
-	</imgdir>
-	<imgdir name="1541015">
-		<string name="name" value="Seal Stone of Time"/>
-	</imgdir>
-	<imgdir name="1541016">
-		<string name="name" value="Seal Stone of Time"/>
-	</imgdir>
-	<imgdir name="1541017">
-		<string name="name" value="Seal Stone of Time"/>
-	</imgdir>
-	<imgdir name="1541018">
-		<string name="name" value="Cracked Seal Stone of Time"/>
-	</imgdir>
-	<imgdir name="1541019">
-		<string name="name" value="Black Shadow"/>
-	</imgdir>
-	<imgdir name="1541020">
-		<string name="name" value="Sentrobo"/>
-	</imgdir>
-	<imgdir name="1541021">
-		<string name="name" value="Baby Kyrin"/>
-	</imgdir>
-	<imgdir name="1541022">
-		<string name="name" value="Sugar"/>
-	</imgdir>
-	<imgdir name="1541023">
-		<string name="name" value="Tess"/>
-	</imgdir>
-	<imgdir name="1541024">
-		<string name="name" value="Olive"/>
-	</imgdir>
-	<imgdir name="1541025">
-		<string name="name" value="Rondo"/>
-	</imgdir>
-	<imgdir name="1541026">
-		<string name="name" value="Xenon"/>
-	</imgdir>
-	<imgdir name="1541027">
-		<string name="name" value="Athena Pierce"/>
-		<string name="func" value="Bowman Job Instructor"/>
-		<string name="s0" value="Do you want to know about the way of the Bowman?"/>
-	</imgdir>
-	<imgdir name="1541028">
-		<string name="name" value="Forest"/>
-	</imgdir>
-	<imgdir name="1541029">
+	<imgdir name="2131009">
 		<string name="name" value="Destonen"/>
+		<string name="func" value="Pirate Representative"/>
+		<string name="d0" value="I&apos;m worried about my wife, back at camp."/>
+		<string name="d1" value="She&apos;s almost due..."/>
 	</imgdir>
-	<imgdir name="1541030">
-		<string name="name" value="Kirston"/>
+	<imgdir name="2131010">
+		<string name="name" value="Destonen"/>
+		<string name="func" value="Pirate Representative"/>
+		<string name="d0" value="I&apos;m worried about my wife, back at camp."/>
+		<string name="d1" value="She&apos;s almost due..."/>
 	</imgdir>
-	<imgdir name="1541031">
+	<imgdir name="2131011">
+		<string name="name" value="Floating Rock Fragment"/>
+	</imgdir>
+	<imgdir name="2131012">
+		<string name="name" value="Big Mushroom"/>
+	</imgdir>
+	<imgdir name="2131013">
+		<string name="name" value="Flower Bloomed in Mushroom Hill"/>
+	</imgdir>
+	<imgdir name="2131014">
 		<string name="name" value="Zion"/>
 	</imgdir>
-	<imgdir name="1541032">
-		<string name="name" value="Kyrin"/>
-	</imgdir>
-	<imgdir name="1541033">
-		<string name="name" value="Beginner"/>
-	</imgdir>
-	<imgdir name="1541034">
-		<string name="name" value="Beginner"/>
-	</imgdir>
-	<imgdir name="1541063">
-		<string name="name" value="Mysterious Voice"/>
-	</imgdir>
-	<imgdir name="1541035">
-		<string name="name" value="Hero (M)"/>
-	</imgdir>
-	<imgdir name="1541036">
-		<string name="name" value="Hero (F)"/>
-	</imgdir>
-	<imgdir name="1541037">
-		<string name="name" value="Paladin (M)"/>
-	</imgdir>
-	<imgdir name="1541038">
-		<string name="name" value="Paladin (F)"/>
-	</imgdir>
-	<imgdir name="1541039">
-		<string name="name" value="Dark Knight (M)"/>
-	</imgdir>
-	<imgdir name="1541040">
-		<string name="name" value="Dark Knight (F)"/>
-	</imgdir>
-	<imgdir name="1541041">
-		<string name="name" value="Fire/Poison Mage (M)"/>
-	</imgdir>
-	<imgdir name="1541042">
-		<string name="name" value="Fire/Poison Mage (F)"/>
-	</imgdir>
-	<imgdir name="1541043">
-		<string name="name" value="Ice/Lightning Mage (M)"/>
-	</imgdir>
-	<imgdir name="1541044">
-		<string name="name" value="Ice/Lightning Mage (F)"/>
-	</imgdir>
-	<imgdir name="1541045">
-		<string name="name" value="Bishop (M)"/>
-	</imgdir>
-	<imgdir name="1541046">
-		<string name="name" value="Bishop (F)"/>
-	</imgdir>
-	<imgdir name="1541047">
-		<string name="name" value="Marksman (M)"/>
-	</imgdir>
-	<imgdir name="1541048">
-		<string name="name" value="Marksman (F)"/>
-	</imgdir>
-	<imgdir name="1541049">
-		<string name="name" value="Bow Master (M)"/>
-	</imgdir>
-	<imgdir name="1541050">
-		<string name="name" value="Bow Master (F)"/>
-	</imgdir>
-	<imgdir name="1541051">
-		<string name="name" value="Shadower (M)"/>
-	</imgdir>
-	<imgdir name="1541052">
-		<string name="name" value="Shadower (F)"/>
-	</imgdir>
-	<imgdir name="1541053">
-		<string name="name" value="Night Lord (M)"/>
-	</imgdir>
-	<imgdir name="1541054">
-		<string name="name" value="Night Lord (F)"/>
-	</imgdir>
-	<imgdir name="1541055">
-		<string name="name" value="Dual Blade (M)"/>
-	</imgdir>
-	<imgdir name="1541056">
-		<string name="name" value="Dual Blade (F)"/>
-	</imgdir>
-	<imgdir name="1541057">
-		<string name="name" value="Buccaneer (M)"/>
-	</imgdir>
-	<imgdir name="1541058">
-		<string name="name" value="Buccaneer (F)"/>
-	</imgdir>
-	<imgdir name="1541059">
-		<string name="name" value="Corsair (M)"/>
-	</imgdir>
-	<imgdir name="1541060">
-		<string name="name" value="Corsair (F)"/>
-	</imgdir>
-	<imgdir name="1541061">
-		<string name="name" value="Cannoneer (M)"/>
-	</imgdir>
-	<imgdir name="1541062">
-		<string name="name" value="Cannoneer (F)"/>
-	</imgdir>
-	<imgdir name="1541064">
-		<string name="name" value="Luminous"/>
-	</imgdir>
-	<imgdir name="1541065">
-		<string name="name" value="Neinheart"/>
-	</imgdir>
-	<imgdir name="1541066">
-		<string name="name" value="Messages"/>
-	</imgdir>
-	<imgdir name="1541067">
-		<string name="name" value="Forest"/>
-	</imgdir>
-	<imgdir name="1541068">
-		<string name="name" value="Maple Tree"/>
-	</imgdir>
-	<imgdir name="1541069">
-		<string name="name" value="Goddess of Maple World"/>
-	</imgdir>
-	<imgdir name="1541070">
-		<string name="name" value="Ryden"/>
-	</imgdir>
-	<imgdir name="1541071">
-		<string name="name" value="Skipper"/>
-	</imgdir>
-	<imgdir name="1541072">
-		<string name="name" value="Cartalion"/>
-	</imgdir>
-	<imgdir name="1541073">
-		<string name="name" value="Tess"/>
-	</imgdir>
-	<imgdir name="1541074">
-		<string name="name" value="Rondo"/>
-		<string name="d0" value="I wonder if there&apos;s anyone like me here?"/>
-		<string name="d1" value="I want to find my own kind."/>
-		<imgdir name="dialogue">
-			<string name="36328" value="I&apos;m... So weak."/>
-		</imgdir>
-	</imgdir>
-	<imgdir name="1541075">
-		<string name="name" value="Tess"/>
-	</imgdir>
-	<imgdir name="1541076">
-		<string name="name" value="Olive"/>
-	</imgdir>
-	<imgdir name="1541077">
-		<string name="name" value="Rondo"/>
-	</imgdir>
-	<imgdir name="1541078">
-		<string name="name" value="Refugee 1"/>
-	</imgdir>
-	<imgdir name="1541079">
-		<string name="name" value="Refugee 2"/>
-	</imgdir>
-	<imgdir name="1541080">
-		<string name="name" value="Refugee 3"/>
-	</imgdir>
-	<imgdir name="1541081">
-		<string name="name" value="Refugee 4"/>
-	</imgdir>
-	<imgdir name="1541082">
-		<string name="name" value="Olive 2"/>
-	</imgdir>
-	<imgdir name="1541083">
-		<string name="name" value="Sugar"/>
-	</imgdir>
-	<imgdir name="1541084">
-		<string name="name" value="Black Shadow"/>
-	</imgdir>
-	<imgdir name="1541085">
-		<string name="name" value="Vasily"/>
-	</imgdir>
-	<imgdir name="1541086">
-		<string name="name" value="Sugar"/>
-	</imgdir>
-	<imgdir name="1541087">
-		<string name="name" value="Olive"/>
-	</imgdir>
-	<imgdir name="1541088">
-		<string name="name" value="Tess"/>
-	</imgdir>
-	<imgdir name="1541089">
-		<string name="name" value="Gatekeeper"/>
-	</imgdir>
-	<imgdir name="3005200">
-		<string name="name" value="Neinheart"/>
-	</imgdir>
-	<imgdir name="3005201">
-		<string name="name" value="Hawkeye"/>
-	</imgdir>
-	<imgdir name="3005202">
-		<string name="name" value="Eckhart"/>
-	</imgdir>
-	<imgdir name="3005203">
-		<string name="name" value="Oz"/>
-	</imgdir>
-	<imgdir name="3005204">
-		<string name="name" value="Mihile"/>
-	</imgdir>
-	<imgdir name="3005205">
-		<string name="name" value="Irena"/>
-	</imgdir>
-	<imgdir name="3005206">
-		<string name="name" value="Archelon"/>
-	</imgdir>
-	<imgdir name="3005207">
-		<string name="name" value="Rusty"/>
-	</imgdir>
-	<imgdir name="3005208">
-		<string name="name" value="Belle"/>
-	</imgdir>
-	<imgdir name="3005209">
-		<string name="name" value="Toogi"/>
-	</imgdir>
-	<imgdir name="3005210">
-		<string name="name" value="Nicky"/>
-	</imgdir>
-	<imgdir name="3005211">
-		<string name="name" value="Blanc"/>
-		<string name="func" value="Seeker"/>
-	</imgdir>
-	<imgdir name="3005212">
-		<string name="name" value="Nell"/>
-		<string name="func" value="Seeker"/>
-	</imgdir>
-	<imgdir name="3005213">
-		<string name="name" value="Baz"/>
-		<string name="func" value="Seeker"/>
-	</imgdir>
-	<imgdir name="3005214">
-		<string name="name" value="Statue"/>
-		<string name="func" value="Decrepit Floor"/>
-	</imgdir>
-	<imgdir name="3005215">
-		<string name="name" value="Statue"/>
-		<string name="func" value="Restored Floor"/>
-	</imgdir>
-	<imgdir name="3005216">
-		<string name="name" value="Statue"/>
-		<string name="func" value="Decrepit Floor"/>
-	</imgdir>
-	<imgdir name="3005217">
-		<string name="name" value="Statue"/>
-		<string name="func" value="Restored Floor"/>
-	</imgdir>
-	<imgdir name="3005218">
-		<string name="name" value="Statue"/>
-		<string name="func" value="Decrepit Floor"/>
-	</imgdir>
-	<imgdir name="3005219">
-		<string name="name" value="Statue"/>
-		<string name="func" value="Restored Floor"/>
-	</imgdir>
-	<imgdir name="3005220">
-		<string name="name" value="???"/>
-	</imgdir>
-	<imgdir name="3005221">
-		<string name="name" value="???"/>
-	</imgdir>
-	<imgdir name="3005222">
-		<string name="name" value="Kalos"/>
-	</imgdir>
-	<imgdir name="3005223">
-		<string name="name" value="Corallite Guardian"/>
-	</imgdir>
-	<imgdir name="3005224">
-		<string name="name" value="Olivine Guardian"/>
-	</imgdir>
-	<imgdir name="3005225">
-		<string name="name" value="Diamond Guardian"/>
-	</imgdir>
-	<imgdir name="3005226">
-		<string name="name" value="Cosim"/>
-	</imgdir>
-	<imgdir name="3005227">
-		<string name="name" value="T-boy"/>
-	</imgdir>
-	<imgdir name="3005228">
-		<string name="name" value="Nicky"/>
-	</imgdir>
-	<imgdir name="3005230">
-		<string name="name" value="Neinheart"/>
-	</imgdir>
-	<imgdir name="3005231">
-		<string name="name" value="Neinheart"/>
-	</imgdir>
-	<imgdir name="3005232">
-		<string name="name" value="Neinheart"/>
-		<string name="d0" value="Astonishing."/>
-		<string name="d1" value="Astonishing."/>
-	</imgdir>
-	<imgdir name="3005233">
-		<string name="name" value="Neinheart"/>
-		<string name="d0" value="This warrants further investigation."/>
-		<string name="d1" value="This warrants further investigation."/>
-		<imgdir name="dialogue">
-			<string name="38210" value="What else have you learned?"/>
-		</imgdir>
-	</imgdir>
-	<imgdir name="3005234">
-		<string name="name" value="Neinheart"/>
-		<string name="d0" value="Is there something you wanted to discuss?"/>
-		<string name="d1" value="Is there something you wanted to discuss?"/>
-	</imgdir>
-	<imgdir name="3005235">
-		<string name="name" value="Neinheart"/>
-		<string name="d0" value="So this is what it&apos;s come to..."/>
-		<string name="d1" value="So this is what it&apos;s come to..."/>
-	</imgdir>
-	<imgdir name="3005236">
-		<string name="name" value="Irena"/>
-	</imgdir>
-	<imgdir name="3005237">
-		<string name="name" value="Irena"/>
-	</imgdir>
-	<imgdir name="3005238">
-		<string name="name" value="Irena"/>
-		<string name="d0" value="It seems some things survived the collapse."/>
-		<string name="d1" value="It seems some things survived the collapse."/>
-		<imgdir name="dialogue">
-			<string name="38207" value="#h0#, are you injured?"/>
-		</imgdir>
-	</imgdir>
-	<imgdir name="3005239">
-		<string name="name" value="Irena"/>
-		<string name="d0" value="Be careful, #h0#."/>
-		<string name="d1" value="Be careful, #h0#."/>
-	</imgdir>
-	<imgdir name="3005240">
-		<string name="name" value="Irena"/>
-	</imgdir>
-	<imgdir name="3005241">
-		<string name="name" value="Irena"/>
-	</imgdir>
-	<imgdir name="3005242">
-		<string name="name" value="Belle"/>
-	</imgdir>
-	<imgdir name="3005243">
-		<string name="name" value="Belle"/>
-	</imgdir>
-	<imgdir name="3005244">
-		<string name="name" value="Belle"/>
-		<string name="d0" value="Such an enormous tower collapsed in an instant..."/>
-		<string name="d1" value="Such an enormous tower collapsed in an instant..."/>
-		<imgdir name="dialogue">
-			<string name="38207" value="I was worried about you! Are you sure you&apos;re all right?"/>
-		</imgdir>
-	</imgdir>
-	<imgdir name="3005245">
-		<string name="name" value="Belle"/>
-		<string name="d0" value="Should I be worried for you?"/>
-		<string name="d1" value="Should I be worried for you?"/>
-	</imgdir>
-	<imgdir name="3005246">
-		<string name="name" value="Belle"/>
-		<string name="d0" value="I&apos;ll leave it to you."/>
-		<string name="d1" value="I&apos;ll leave it to you."/>
-	</imgdir>
-	<imgdir name="3005247">
-		<string name="name" value="Belle"/>
-	</imgdir>
-	<imgdir name="3005248">
-		<string name="name" value="Nicky"/>
-		<string name="d0" value="If you&apos;re looking for trouble, keep walking."/>
-		<string name="d1" value="If you&apos;re looking for trouble, keep walking."/>
-	</imgdir>
-	<imgdir name="3005249">
-		<string name="name" value="Nicky"/>
-		<string name="d0" value="This is bad."/>
-		<string name="d1" value="This is bad."/>
-	</imgdir>
-	<imgdir name="3005250">
-		<string name="name" value="Nicky"/>
-		<string name="d0" value="I guess I&apos;ll keep waiting."/>
-		<string name="d1" value="I guess I&apos;ll keep waiting."/>
-	</imgdir>
-	<imgdir name="3005251">
-		<string name="name" value="Nicky"/>
-	</imgdir>
-	<imgdir name="3005252">
-		<string name="name" value="Nicky"/>
-	</imgdir>
-	<imgdir name="3005253">
-		<string name="name" value="Nicky"/>
-		<string name="d0" value="&#43690;&#43690;&#43690;"/>
-		<string name="d1" value="&#43690;&#43690;&#43690;"/>
-	</imgdir>
-	<imgdir name="3005254">
-		<string name="name" value="Archelon"/>
-		<string name="d0" value="Captain Archelon will happily open the gateway for his friends."/>
-		<string name="d1" value="Captain Archelon will happily open the gateway for his friends."/>
-	</imgdir>
-	<imgdir name="3005255">
-		<string name="name" value="Blanc"/>
-		<string name="func" value="Seeker"/>
-		<string name="n0" value="There have been seekers in my family for generations."/>
-		<string name="n1" value="I heard about this place from my grandmother."/>
-	</imgdir>
-	<imgdir name="3005256">
-		<string name="name" value="Nell"/>
-		<string name="func" value="Seeker"/>
-		<string name="n0" value="Arcus is pretty neat."/>
-		<string name="n1" value="It&apos;s been a while since I&apos;ve had a roof over my head."/>
-	</imgdir>
-	<imgdir name="3005257">
-		<string name="name" value="Baz"/>
-		<string name="func" value="Seeker"/>
-		<string name="n0" value="Seems like you&apos;ve also come quite a ways. Got any good stories?"/>
-		<string name="n1" value="Let me know if you think of any good stories."/>
-	</imgdir>
-	<imgdir name="3005258">
-		<string name="name" value="Arcus Gate"/>
-	</imgdir>
-	<imgdir name="3005259">
-		<string name="name" value="Statue"/>
-	</imgdir>
-	<imgdir name="3005260">
-		<string name="name" value="Statue"/>
-	</imgdir>
-	<imgdir name="3005261">
-		<string name="name" value="Statue"/>
-	</imgdir>
-	<imgdir name="3005262">
-		<string name="name" value="Statue"/>
-	</imgdir>
-	<imgdir name="3005263">
-		<string name="name" value="Statue"/>
-	</imgdir>
-	<imgdir name="3005264">
-		<string name="name" value="Statue"/>
-	</imgdir>
-	<imgdir name="3005265">
-		<string name="name" value="Kalos"/>
-		<string name="func" value="Guardian"/>
-	</imgdir>
-	<imgdir name="3005266">
-		<string name="name" value="Gate"/>
-	</imgdir>
-	<imgdir name="3005267">
-		<string name="name" value="Kalos&apos;s Residual Determination"/>
-	</imgdir>
-	<imgdir name="3005300">
-		<string name="name" value="Kao"/>
-	</imgdir>
-	<imgdir name="3005301">
-		<string name="name" value="Neinheart"/>
-	</imgdir>
-	<imgdir name="3005302">
-		<string name="name" value="Misplaced Outfit"/>
-	</imgdir>
-	<imgdir name="3005303">
-		<string name="name" value="Barr"/>
-	</imgdir>
-	<imgdir name="3005304">
-		<string name="name" value="Orchid"/>
-	</imgdir>
-	<imgdir name="3005305">
-		<string name="name" value="Hilla"/>
-	</imgdir>
-	<imgdir name="3005306">
-		<string name="name" value="Lotus"/>
-	</imgdir>
-	<imgdir name="3005307">
+	<imgdir name="2131015">
+		<string name="name" value="Flower Bloomed in Mushroom Hill"/>
+	</imgdir>
+	<imgdir name="2131016">
+		<string name="name" value="Baby Kyrin"/>
+		<string name="n0" value="zzzz..."/>
+		<string name="n1" value="Goo..."/>
+		<string name="d0" value="*pouting*"/>
+		<string name="d1" value="Hrrgh!"/>
+	</imgdir>
+	<imgdir name="3004484">
+		<string name="name" value="Wick"/>
+	</imgdir>
+	<imgdir name="3005400">
 		<string name="name" value="Ollie"/>
 	</imgdir>
-	<imgdir name="3005308">
-		<string name="name" value="Cygnus"/>
-	</imgdir>
-	<imgdir name="3005309">
-		<string name="name" value="Tana"/>
-	</imgdir>
-	<imgdir name="3005310">
-		<string name="name" value="White Mage"/>
-	</imgdir>
-	<imgdir name="3005311">
-		<string name="name" value="Cygnus Soldier"/>
-	</imgdir>
-	<imgdir name="3005312">
-		<string name="name" value="Genesis Crux"/>
-	</imgdir>
-	<imgdir name="3005313">
-		<string name="name" value="T-boy"/>
-	</imgdir>
-	<imgdir name="3005331">
-		<string name="name" value="Patriarch Leon"/>
-	</imgdir>
-	<imgdir name="3005332">
-		<string name="name" value="???"/>
-	</imgdir>
-	<imgdir name="3005333">
-		<string name="name" value="Protective Mask"/>
-	</imgdir>
-	<imgdir name="3005334">
-		<string name="name" value="Gray Mask"/>
-	</imgdir>
-	<imgdir name="3005335">
-		<string name="name" value="Music Box"/>
-	</imgdir>
-	<imgdir name="3005336">
-		<string name="name" value="Flutist Mask"/>
-	</imgdir>
-	<imgdir name="3005337">
-		<string name="name" value="Bird Beak Mask"/>
-	</imgdir>
-	<imgdir name="3005338">
-		<string name="name" value="Red Flower Mask"/>
-	</imgdir>
-	<imgdir name="3005339">
-		<string name="name" value="Resident"/>
-	</imgdir>
-	<imgdir name="3005340">
-		<string name="name" value="Soldier"/>
-	</imgdir>
-	<imgdir name="3005341">
-		<string name="name" value="Researcher"/>
-	</imgdir>
-	<imgdir name="3005342">
-		<string name="name" value="Resident 1"/>
-	</imgdir>
-	<imgdir name="3005343">
-		<string name="name" value="Resident 2"/>
-	</imgdir>
-	<imgdir name="3005344">
-		<string name="name" value="Jean"/>
-	</imgdir>
-	<imgdir name="3005345">
-		<string name="name" value="Tana"/>
-	</imgdir>
-	<imgdir name="3005358">
-		<string name="name" value="Shubert"/>
-	</imgdir>
-	<imgdir name="3005359">
-		<string name="name" value="Necklace"/>
-	</imgdir>
-	<imgdir name="3005360">
-		<string name="name" value="Submarine"/>
-	</imgdir>
-	<imgdir name="3005361">
-		<string name="name" value="Simia"/>
-	</imgdir>
-	<imgdir name="3005362">
-		<string name="name" value="Pibik"/>
-	</imgdir>
-	<imgdir name="3005363">
-		<string name="name" value="Pimi"/>
-	</imgdir>
-	<imgdir name="3005364">
-		<string name="name" value="Pidol"/>
-	</imgdir>
-	<imgdir name="3005365">
-		<string name="name" value="Lyon"/>
-	</imgdir>
-	<imgdir name="3005366">
-		<string name="name" value="Lyck"/>
-	</imgdir>
-	<imgdir name="3005367">
-		<string name="name" value="Muto 1"/>
-	</imgdir>
-	<imgdir name="3005368">
-		<string name="name" value="Muto 2"/>
-	</imgdir>
-	<imgdir name="3005369">
-		<string name="name" value="Shubert"/>
-	</imgdir>
-	<imgdir name="3005370">
-		<string name="name" value="Ollie"/>
-	</imgdir>
-	<imgdir name="3005371">
+	<imgdir name="3005401">
 		<string name="name" value="Melange"/>
 	</imgdir>
-	<imgdir name="3005372">
-		<string name="name" value="Will 1"/>
+	<imgdir name="3005402">
+		<string name="name" value="Shubert"/>
 	</imgdir>
-	<imgdir name="3005373">
+	<imgdir name="3005403">
+		<string name="name" value="Will"/>
+	</imgdir>
+	<imgdir name="3005404">
+		<string name="name" value="Will (Ritual)"/>
+	</imgdir>
+	<imgdir name="3005405">
+		<string name="name" value="Will (Boss)"/>
+	</imgdir>
+	<imgdir name="3005406">
 		<string name="name" value="Tana"/>
 	</imgdir>
-	<imgdir name="3005374">
-		<string name="name" value="Attack"/>
+	<imgdir name="3005407">
+		<string name="name" value="Tana (Ritual)"/>
 	</imgdir>
-	<imgdir name="3005375">
-		<string name="name" value="Will 2"/>
+	<imgdir name="3005408">
+		<string name="name" value="Dimensional Gate"/>
 	</imgdir>
-	<imgdir name="3005376">
-		<string name="name" value="Seal Stone"/>
+	<imgdir name="3005409">
+		<string name="name" value="Light Executor"/>
 	</imgdir>
-	<imgdir name="3005377">
-		<string name="name" value="Carlisle"/>
+	<imgdir name="3005410">
+		<string name="name" value="Mirror Gate"/>
 	</imgdir>
-	<imgdir name="3005378">
-		<string name="name" value="Claudine"/>
+	<imgdir name="3005411">
+		<string name="name" value="Black Mage"/>
 	</imgdir>
-	<imgdir name="3005379">
-		<string name="name" value="Athena Pierce"/>
+	<imgdir name="3005412">
+		<string name="name" value="White Mage"/>
 	</imgdir>
-	<imgdir name="3005380">
-		<string name="name" value="Cygnus"/>
+	<imgdir name="3005413">
+		<string name="name" value="Guardian of Time"/>
 	</imgdir>
-	<imgdir name="3005381">
-		<string name="name" value="Seren"/>
+	<imgdir name="3005414">
+		<string name="name" value="Genesis Crux"/>
 	</imgdir>
-	<imgdir name="3005382">
-		<string name="name" value="Checky"/>
+	<imgdir name="3005415">
+		<string name="name" value="Temple Keeper"/>
 	</imgdir>
-	<imgdir name="3005383">
-		<string name="name" value="Hawkeye"/>
+	<imgdir name="3005416">
+		<string name="name" value="Kao"/>
 	</imgdir>
-	<imgdir name="3005384">
-		<string name="name" value="Flora Foot Soldier"/>
+	<imgdir name="3005420">
+		<string name="name" value="Dimensional Crack"/>
+		<string name="d0" value="(You feel a mysterious and familiar power coming from the Dimensional Crack.)"/>
 	</imgdir>
-	<imgdir name="3005385">
-		<string name="name" value="Havoc"/>
+	<imgdir name="3005421">
+		<string name="name" value="Dimensional Crack"/>
+		<string name="d0" value="(You feel a mysterious and familiar power coming from the Dimensional Crack.)"/>
 	</imgdir>
-	<imgdir name="3005386">
-		<string name="name" value="Seren 2"/>
+	<imgdir name="3005422">
+		<string name="name" value="Dimensional Crack"/>
+		<string name="d0" value="(You feel a mysterious and familiar power coming from the Dimensional Crack.)"/>
 	</imgdir>
-	<imgdir name="3005387">
-		<string name="name" value="Court Knight"/>
+	<imgdir name="3005423">
+		<string name="name" value="Dimensional Crack"/>
+		<string name="d0" value="(You feel a mysterious and familiar power coming from the Dimensional Crack.)"/>
 	</imgdir>
-	<imgdir name="3005388">
-		<string name="name" value="Templar"/>
+	<imgdir name="3005424">
+		<string name="name" value="Dimensional Crack"/>
+		<string name="d0" value="(You feel a mysterious and familiar power coming from the Dimensional Crack.)"/>
 	</imgdir>
-	<imgdir name="3005389">
-		<string name="name" value="Carlisle 2"/>
+	<imgdir name="3005425">
+		<string name="name" value="Dimensional Crack"/>
+		<string name="d0" value="(You feel a mysterious and familiar power coming from the Dimensional Crack.)"/>
 	</imgdir>
-	<imgdir name="3005390">
-		<string name="name" value="Grand Master"/>
+	<imgdir name="3005426">
+		<string name="name" value="Dimensional Crack"/>
+		<string name="d0" value="(You feel a mysterious and familiar power coming from the Dimensional Crack.)"/>
 	</imgdir>
-	<imgdir name="3005391">
-		<string name="name" value="Spisa"/>
+	<imgdir name="3005427">
+		<string name="name" value="Dimensional Crack"/>
+		<string name="d0" value="(You feel a mysterious and familiar power coming from the Dimensional Crack.)"/>
 	</imgdir>
-	<imgdir name="3005392">
-		<string name="name" value="Nerota"/>
+	<imgdir name="9062629">
+		<string name="name" value="I&apos;m Pink Bean"/>
+		<string name="n0" value="I&apos;m Pink Bean!"/>
+		<string name="d0" value="I&apos;m Pink Bean!"/>
 	</imgdir>
-	<imgdir name="3005393">
-		<string name="name" value="Spisan King"/>
+	<imgdir name="9062630">
+		<string name="name" value="Real Pink Bean"/>
+		<string name="n0" value="I&apos;m the real Pink Bean!"/>
+		<string name="d0" value="I&apos;m the real Pink Bean!"/>
 	</imgdir>
-	<imgdir name="3005394">
-		<string name="name" value="Nerota King"/>
+	<imgdir name="9062631">
+		<string name="name" value="Allegedly Pink Bean"/>
+		<string name="n0" value="Anyone can see I&apos;m Pink Bean!"/>
+		<string name="d0" value="Anyone can see I&apos;m Pink Bean!"/>
 	</imgdir>
-	<imgdir name="3005395">
-		<string name="name" value="Gilmore"/>
+	<imgdir name="9062632">
+		<string name="name" value="Yeti"/>
 	</imgdir>
-	<imgdir name="3005396">
-		<string name="name" value="Aaron"/>
+	<imgdir name="9062633">
+		<string name="name" value="Slime"/>
 	</imgdir>
-	<imgdir name="3005397">
-		<string name="name" value="Edea"/>
+	<imgdir name="9062634">
+		<string name="name" value="Clothes Store"/>
+		<string name="func" value="Pop-up Store"/>
 	</imgdir>
-	<imgdir name="3005398">
-		<string name="name" value="Neinheart"/>
+	<imgdir name="9062635">
+		<string name="name" value="Clothes Store"/>
+		<string name="func" value="Pop-up Store"/>
 	</imgdir>
-	<imgdir name="3005399">
-		<string name="name" value="Ollie"/>
+	<imgdir name="9062636">
+		<string name="name" value="Props Store"/>
+		<string name="func" value="Pop-up Store"/>
 	</imgdir>
-	<imgdir name="9062604">
-		<string name="name" value="Gunny"/>
-		<string name="func" value="Ring in the new year with Rice Cake Soup"/>
-		<string name="n0" value="The new year is already here!"/>
-		<string name="d0" value="The new year is already here!"/>
+	<imgdir name="9062637">
+		<string name="name" value="Props Store"/>
+		<string name="func" value="Pop-up Store"/>
 	</imgdir>
-	<imgdir name="9062605">
-		<string name="name" value="Stella"/>
-		<string name="func" value="Starlight Symphony"/>
-		<string name="n0" value="Can you hear music of the stars?"/>
-		<string name="d0" value="Can you hear music of the stars?"/>
+	<imgdir name="9062638">
+		<string name="name" value="- Mount Store"/>
+		<string name="func" value="Pop-up Store"/>
 	</imgdir>
-	<imgdir name="9062606">
-		<string name="name" value="Deneb"/>
-		<string name="func" value="Starlight Symphony, Assemble!"/>
-		<string name="n0" value="I&apos;ll visit you alongside the shimmering starlight!"/>
-		<string name="d0" value="I&apos;ll visit you alongside the shimmering starlight!"/>
+	<imgdir name="9062639">
+		<string name="name" value="- Mount Store"/>
+		<string name="func" value="Pop-up Store"/>
 	</imgdir>
-	<imgdir name="9062607">
-		<string name="name" value="Beta Bootis"/>
-		<string name="func" value="Gemini Match"/>
+	<imgdir name="9062640">
+		<string name="name" value="Jisoo"/>
+		<string name="func" value="BLACKPINK"/>
 	</imgdir>
-	<imgdir name="9062608">
-		<string name="name" value="Alphard"/>
-		<string name="func" value="Stellar Ensemble"/>
-		<string name="n0" value="What time is it?"/>
-		<string name="d0" value="What time is it?"/>
+	<imgdir name="9062641">
+		<string name="name" value="Cassandra"/>
+		<string name="func" value="Haste Store"/>
 	</imgdir>
-	<imgdir name="9062609">
-		<string name="name" value="Rigel"/>
-		<string name="func" value="Starlight Melody Shop"/>
+	<imgdir name="9062642">
+		<string name="name" value="Camila"/>
+		<string name="func" value="Pop-up Store"/>
 	</imgdir>
-	<imgdir name="9062610">
-		<string name="name" value="Rigel"/>
-		<string name="func" value="Starlight Melody Shop"/>
+	<imgdir name="9062643">
+		<string name="name" value="Ellie"/>
 	</imgdir>
-	<imgdir name="9062611">
-		<string name="name" value="Castor"/>
-		<string name="func" value="Starlight Harmony Shop"/>
+	<imgdir name="9062644">
+		<string name="name" value="Lith Harbor"/>
 	</imgdir>
-	<imgdir name="9062612">
-		<string name="name" value="Castor"/>
-		<string name="func" value="Starlight Harmony Shop"/>
+	<imgdir name="9062645">
+		<string name="name" value="Ellie"/>
+		<string name="d0" value="Abubu!"/>
 	</imgdir>
-	<imgdir name="9062613">
-		<string name="name" value="Aldebaran"/>
-		<string name="func" value="Starlight Meso Shop"/>
+	<imgdir name="9062646">
+		<string name="name" value="Ellie"/>
+		<string name="d0" value="I&apos;m excited!"/>
 	</imgdir>
-	<imgdir name="9062614">
-		<string name="name" value="Aldebaran"/>
-		<string name="func" value="Starlight Meso Shop"/>
+	<imgdir name="9062647">
+		<string name="name" value="Ellie"/>
+		<string name="d0" value="Did you know? One plus one equals Ellie!"/>
 	</imgdir>
-	<imgdir name="9062615">
-		<string name="name" value="Deneb"/>
-		<string name="func" value="Starlight Symphony"/>
+	<imgdir name="9062648">
+		<string name="name" value="Ellie"/>
+		<string name="d0" value="Am I all grown up now?"/>
 	</imgdir>
-	<imgdir name="9062616">
-		<string name="name" value="Beta Bootis"/>
-		<string name="func" value="Starlight Symphony"/>
+	<imgdir name="9062649">
+		<string name="name" value="Lith Harbor"/>
+		<string name="d0" value="Abubu..."/>
 	</imgdir>
-	<imgdir name="9062617">
-		<string name="name" value="Sheliak"/>
-		<string name="func" value="Starlight Symphony"/>
+	<imgdir name="9062650">
+		<string name="name" value="Lith Harbor"/>
+		<string name="d0" value="Thank you for playing with me..."/>
 	</imgdir>
-	<imgdir name="9062618">
-		<string name="name" value="Rigel"/>
-		<string name="func" value="Starlight Symphony"/>
+	<imgdir name="9062651">
+		<string name="name" value="Lith Harbor"/>
+		<string name="d0" value="I was waiting for you..."/>
 	</imgdir>
-	<imgdir name="9062619">
-		<string name="name" value="Castor"/>
-		<string name="func" value="Starlight Symphony"/>
+	<imgdir name="9062652">
+		<string name="name" value="Lith Harbor"/>
+		<string name="d0" value="I&apos;ll be grown up soon, right?"/>
 	</imgdir>
-	<imgdir name="9062620">
-		<string name="name" value="Aldebaran"/>
-		<string name="func" value="Starlight Symphony"/>
+	<imgdir name="9062653">
+		<string name="name" value="Herman"/>
+		<string name="func" value="Memory Token Shop"/>
+		<string name="d0" value="I, Herman, watch over the lovable children!"/>
 	</imgdir>
-	<imgdir name="9062621">
-		<string name="name" value="Athena Pierce"/>
+	<imgdir name="9062654">
+		<string name="name" value="Herman"/>
+		<string name="func" value="Memory Token Shop"/>
 	</imgdir>
-	<imgdir name="9062622">
-		<string name="name" value="Dances with Balrog"/>
+	<imgdir name="9062655">
+		<string name="name" value="Lippe"/>
+		<string name="func" value="Meso Shop"/>
+		<string name="d0" value="Oh! You came at just the right time."/>
 	</imgdir>
-	<imgdir name="9062623">
-		<string name="name" value="Dark Lord"/>
+	<imgdir name="9062656">
+		<string name="name" value="Lippe"/>
+		<string name="func" value="Meso Shop"/>
 	</imgdir>
-	<imgdir name="9062624">
-		<string name="name" value="Kyrin"/>
+	<imgdir name="9062657">
+		<string name="name" value="Kenly"/>
+		<string name="func" value="Challenge Token Shop"/>
+		<string name="n0" value="It&apos;s the challenge that keeps us going!"/>
+		<string name="d0" value="It&apos;s the challenge that keeps us going!"/>
 	</imgdir>
-	<imgdir name="9062625">
-		<string name="name" value="Grendel the Really Old"/>
+	<imgdir name="9062658">
+		<string name="name" value="Kenly"/>
+		<string name="func" value="Challenge Token Shop"/>
 	</imgdir>
-	<imgdir name="9062626">
-		<string name="name" value="Goddess of Maple World"/>
+	<imgdir name="9062659">
+		<string name="name" value="Tirith"/>
+		<string name="func" value="Defeat Moles"/>
+		<string name="d0" value="The moles have appeared."/>
 	</imgdir>
-	<imgdir name="9062627">
-		<string name="name" value="Pink Bean"/>
-		<string name="func" value="Tubby Magpie"/>
-		<string name="n0" value="Huzzah, huzzah~ The new year is here!"/>
-		<string name="d0" value="Huzzah, huzzah~ The new year is here!"/>
+	<imgdir name="9062660">
+		<string name="name" value="Tirith"/>
+		<string name="func" value="Defeat Moles"/>
+		<string name="d0" value="The moles have appeared."/>
 	</imgdir>
-	<imgdir name="9062628">
-		<string name="name" value="Spiegelmann"/>
-		<string name="n0" value="Hurry and get your Starlight Box!"/>
-		<string name="n1" value="Hurry and get your Starlight Box!"/>
-		<string name="d0" value="Hurry and get your Starlight Box!"/>
-		<string name="d1" value="Hurry and get your Starlight Box!"/>
+	<imgdir name="9062661">
+		<string name="name" value="Baby Food"/>
+		<string name="func" value="Power Up! Cooking Collection"/>
+		<string name="n0" value="It&apos;s a nutritious Growing Baby Food."/>
+		<string name="d0" value="It&apos;s a nutritious Growing Baby Food."/>
 	</imgdir>
-	<imgdir name="9091027">
-		<string name="name" value="Gate"/>
+	<imgdir name="9062662">
+		<string name="name" value="Yummy Dessert"/>
+		<string name="func" value="Power Up! Cooking Collection"/>
+		<string name="n0" value="It&apos;s a really sweet dessert."/>
+		<string name="d0" value="It&apos;s a really sweet dessert."/>
 	</imgdir>
-	<imgdir name="9091028">
-		<string name="name" value="Gate"/>
+	<imgdir name="9062663">
+		<string name="name" value="Healthy Hamburger"/>
+		<string name="func" value="Power Up! Cooking Collection"/>
+		<string name="n0" value="Delicious Healthy Hamburger that is also good for you."/>
+		<string name="d0" value="Delicious Healthy Hamburger that is also good for you."/>
+	</imgdir>
+	<imgdir name="9062664">
+		<string name="name" value="Chef&apos;s Choice"/>
+		<string name="func" value="Power Up! Cooking Collection"/>
+		<string name="n0" value="Carefully selected by Kenly."/>
+		<string name="d0" value="Carefully selected by Kenly."/>
+	</imgdir>
+	<imgdir name="9062665">
+		<string name="name" value="Magic Wardrobe"/>
+		<string name="d0" value="The fear you feel in your heart... You must overcome it!"/>
+	</imgdir>
+	<imgdir name="9062666">
+		<string name="name" value="Magic Wardrobe"/>
+		<string name="d0" value="The fear you feel in your heart... You must overcome it!"/>
+	</imgdir>
+	<imgdir name="9062667">
+		<string name="name" value="Magic Wardrobe"/>
+		<string name="d0" value="The fear you feel in your heart... You must overcome it!"/>
+	</imgdir>
+	<imgdir name="9062668">
+		<string name="name" value="Willy"/>
+		<string name="func" value="Extreme Dolphin Fountain"/>
+		<string name="n0" value="Towards the sky!"/>
+		<string name="d0" value="Towards the sky!"/>
+	</imgdir>
+	<imgdir name="9062669">
+		<string name="name" value="Willy"/>
+		<string name="func" value="Extreme Dolphin Fountain"/>
+		<string name="n0" value="Erupt to the sky!"/>
+		<string name="d0" value="Erupt to the sky!"/>
+	</imgdir>
+	<imgdir name="9062670">
+		<string name="name" value="Lucky"/>
+		<string name="func" value="Memory Piggy Bank"/>
+		<string name="n0" value="I came to Momentree in search of memories!"/>
+		<string name="d0" value="I came to Momentree in search of memories!"/>
+	</imgdir>
+	<imgdir name="9062671">
+		<string name="name" value="Ellie"/>
+	</imgdir>
+	<imgdir name="9062672">
+		<string name="name" value="Lith Harbor"/>
+	</imgdir>
+	<imgdir name="9062673">
+		<string name="name" value="Ellie"/>
+	</imgdir>
+	<imgdir name="9062674">
+		<string name="name" value="Lith Harbor"/>
+	</imgdir>
+	<imgdir name="9062675">
+		<string name="name" value="Lith Harbor"/>
+	</imgdir>
+	<imgdir name="9062676">
+		<string name="name" value="Lith Harbor"/>
+	</imgdir>
+	<imgdir name="9062677">
+		<string name="name" value="Lith Harbor"/>
+	</imgdir>
+	<imgdir name="9062678">
+		<string name="name" value="Lith Harbor"/>
+	</imgdir>
+	<imgdir name="9062679">
+		<string name="name" value="Ellie"/>
+	</imgdir>
+	<imgdir name="9062680">
+		<string name="name" value="Ellie"/>
+	</imgdir>
+	<imgdir name="9062681">
+		<string name="name" value="Ellie"/>
+	</imgdir>
+	<imgdir name="9062682">
+		<string name="name" value="Ellie"/>
+	</imgdir>
+	<imgdir name="9062683">
+		<string name="name" value="Herman"/>
+	</imgdir>
+	<imgdir name="9062684">
+		<string name="name" value="Lippe"/>
+	</imgdir>
+	<imgdir name="9062685">
+		<string name="name" value="Kenly"/>
+	</imgdir>
+	<imgdir name="9062686">
+		<string name="name" value="Tirith"/>
+	</imgdir>
+	<imgdir name="9062687">
+		<string name="name" value="Willy"/>
+		<string name="func" value="Extreme Dolphin Fountain"/>
+	</imgdir>
+	<imgdir name="9062688">
+		<string name="name" value="Willy"/>
+		<string name="func" value="Extreme Dolphin Fountain"/>
+	</imgdir>
+	<imgdir name="9062689">
+		<string name="name" value="Magic Wardrobe"/>
+	</imgdir>
+	<imgdir name="9062690">
+		<string name="name" value="Herman"/>
+		<string name="func" value="Nostalgic Puzzle Game!"/>
+	</imgdir>
+	<imgdir name="9062691">
+		<string name="name" value="Cake"/>
+		<string name="d0" value="It&apos;s a delicious-looking cake."/>
+	</imgdir>
+	<imgdir name="9062692">
+		<string name="name" value="Scribbles"/>
+	</imgdir>
+	<imgdir name="9062693">
+		<string name="name" value="Map"/>
+	</imgdir>
+	<imgdir name="9062694">
+		<string name="name" value="Robot"/>
+	</imgdir>
+	<imgdir name="9062695">
+		<string name="name" value="Photo"/>
+	</imgdir>
+	<imgdir name="9062696">
+		<string name="name" value="Flaming Mike"/>
+		<string name="func" value="Ignition Warm-Up!"/>
+		<string name="n0" value="It&apos;s so hot. Help me out."/>
+		<string name="d0" value="It&apos;s so hot. Help me out."/>
+	</imgdir>
+	<imgdir name="9062698">
+		<string name="name" value="Lith Harbor"/>
+	</imgdir>
+	<imgdir name="9062699">
+		<string name="name" value="Ellie"/>
+	</imgdir>
+	<imgdir name="9062700">
+		<string name="name" value="Lith Harbor"/>
+	</imgdir>
+	<imgdir name="9062701">
+		<string name="name" value="Ellie"/>
+	</imgdir>
+	<imgdir name="9062702">
+		<string name="name" value="Wonky the Fairy"/>
+		<string name="func" value="MapleStory 7,000 Days"/>
+	</imgdir>
+	<imgdir name="9062703">
+		<string name="name" value="Wonky the Fairy"/>
+		<string name="func" value="MapleStory 7,000 Days"/>
+	</imgdir>
+	<imgdir name="9062704">
+		<string name="name" value="Wonky the Fairy"/>
+		<string name="func" value="MapleStory 7,000 Days"/>
+	</imgdir>
+	<imgdir name="9062705">
+		<string name="name" value="Wonky the Fairy"/>
+		<string name="func" value="MapleStory 7,000 Days"/>
+	</imgdir>
+	<imgdir name="9062706">
+		<string name="name" value="Wonky the Fairy"/>
+		<string name="func" value="MapleStory 7,000 Days"/>
+	</imgdir>
+	<imgdir name="9062707">
+		<string name="name" value="Wonky the Fairy"/>
+		<string name="func" value="MapleStory 7,000 Days"/>
+	</imgdir>
+	<imgdir name="9062710">
+		<string name="name" value="Wonky the Fairy"/>
+		<string name="func" value="MapleStory 7,000 Days"/>
+		<string name="s0" value="Congratulations on MapleStory&apos;s 7,000th day!"/>
+		<string name="d0" value="Congratulations on MapleStory&apos;s 7,000th day!"/>
 	</imgdir>
 	<imgdir name="1064030">
 		<string name="name" value="Crimson Queen"/>

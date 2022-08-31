@@ -32,10 +32,6 @@
 		<string name="name" value="Under the Maple Tree..."/>
 		<string name="desc" value="A white chair commemorating the 4th anniversary of MapleStory. Sit on it to recover HP 35 and MP 10 every 10 seconds."/>
 	</imgdir>
-	<imgdir name="3010028">
-		<string name="name" value="Davy John Chair"/>
-		<string name="desc" value="It is a Limited Edition Davy John Chair. Sit on it to recover HP 50 per 10 seconds."/>
-	</imgdir>
 	<imgdir name="3010049">
 		<string name="name" value="Igloo"/>
 		<string name="desc" value="An igloo made of solid ice, just like all the other proper igloos in the world. \n#cRestores 40 HP and 30 MP every 10 seconds.#"/>
@@ -3795,6 +3791,10 @@
 		<string name="name" value="Ancient Guardian Chair"/>
 		<string name="desc" value="This chair protects the ancient ruins. Restores 50 HP and 50 MP every 10 seconds."/>
 	</imgdir>
+	<imgdir name="3018778">
+		<string name="name" value="Perfumer&apos;s Room"/>
+		<string name="desc" value="A beautiful room that shines with fragrance. #cRestores 50 HP and 50 MP every 10 seconds.#"/>
+	</imgdir>
 	<imgdir name="3018680">
 		<string name="name" value="Peplock Holmes Detective Office Chair"/>
 		<string name="desc" value="A chair from the office of Maple World&apos;s greatest detective. Restores 50 HP and 50 MP every 10 seconds"/>
@@ -3930,6 +3930,43 @@
 		<string name="name" value="Toben Hair is a Legend For Real Chair"/>
 		<string name="desc" value="Radiates with the greatness of Toben Hair.\r\nShould I model my style after him too?\r\nRestores 50 HP and 50 MP every 10 seconds.#"/>
 	</imgdir>
+	<imgdir name="3018788">
+		<string name="name" value="Cygnus Garden Chair"/>
+		<string name="desc" value="A chair inspired by Cygnus Garden.\r\n#c Restores 50 HP and 50 MP every 10 seconds#."/>
+	</imgdir>
+	<imgdir name="3018789">
+		<string name="name" value="Aquarium Town Chair"/>
+		<string name="desc" value="A chair inspired by Aquarium town.\r\n#c Restores 50 HP and 50 MP every 10 seconds#."/>
+	</imgdir>
+	<imgdir name="3018790">
+		<string name="name" value="Ludibrium Chair"/>
+		<string name="desc" value="A chair inspired by Ludibrium.\r\n#c Restores 50 HP and 50 MP every 10 seconds#."/>
+	</imgdir>
+	<imgdir name="3018806">
+		<string name="name" value="Death&apos;s Scythe Throne"/>
+		<string name="desc" value="A chair that lets you sit beside the Luna pets on Death&apos;s Scythe Throne. \r\n#cYou can command and feed the Petite Luna pets that are sitting with you.\r\nRestores 100 HP and 100 MP every 10 seconds.#"/>
+	</imgdir>
+	<imgdir name="3018808">
+		<string name="name" value="Tubby Magpie Pink Bean Chair"/>
+		<string name="desc" value="A chair commemorating the Lunar New Year you spent with Pink Bean after his transformation into an adorable magpie.\r\n#cRestores 50 HP and 50 MP every 10 seconds.#"/>
+	</imgdir>
+	<imgdir name="3018809">
+		<string name="name" value="Starlight Symphony Concert Chair"/>
+		<string name="desc" value="A chair where you can enjoy beautiful music conducted by Stella.\r\n#cRestores 50 HP and 50 MP every 10 seconds.#"/>
+		<int name="fixWidth" value="310"/>
+	</imgdir>
+	<imgdir name="3018818">
+		<string name="name" value="Beyond the Barrier"/>
+		<string name="desc" value="On the other side of the barrier. #cRestores 50 HP and 50 MP every 10 seconds.#"/>
+	</imgdir>
+	<imgdir name="3018819">
+		<string name="name" value="Symphony of Maple"/>
+		<string name="desc" value="Sit around with your friends and enjoy a #cSymphony of MapleStory#!\r\n#cRestores 100 HP and 100 MP every 10 seconds.#"/>
+	</imgdir>
+	<imgdir name="3018820">
+		<string name="name" value="Extreme Toastie"/>
+		<string name="desc" value="It&apos;s a delicious collaboration between #cMapleStory#k and #cIsaac Toast#!\r\n#cRestores 100 HP and 100 MP every 10 seconds.#"/>
+	</imgdir>
 	<imgdir name="3049000">
 		<string name="name" value="Basic Extractor"/>
 		<string name="desc" value="Use to set up an extractor. Extractors can be used by other players for a fee.\n#cCreates an extractor for Lv. 50 and lower equipment.#"/>
@@ -3995,8 +4032,8 @@
 		<string name="desc" value="Holds 20 chairs in your Set-up tab. \r\n#cYou can only use five Chair Bags at once.#"/>
 	</imgdir>
 	<imgdir name="3080015">
-		<string name="name" value="Twenty-Title Holder"/>
-		<string name="desc" value="Holds 20 titles in your Set-Up tab.\r\n#cYou can only hold 5 Title Bag."/>
+		<string name="name" value="20 Slot Title Bag"/>
+		<string name="desc" value="Holds 20 titles in your Set-Up tab.\r\n#cYou can only hold 5 Title Bags."/>
 	</imgdir>
 	<imgdir name="3080016">
 		<string name="name" value="40 Slot Chair Bag"/>
@@ -5903,7 +5940,7 @@ If you feed #cFruit# to the Parrot, it might change color and gain a level. The 
 	</imgdir>
 	<imgdir name="3700617">
 		<string name="name" value="Official Knight Teacher"/>
-		<string name="desc" value="Helped Arthur, a knight-in-training, become a proud official knight.\r\n\r\n#cAll Stats +20\nAttack Power &amp; Magic ATT +15\nMax HP +1000\nMax MP +1000\nBoss Damage +15%\nDamage Against Normal Monsters +15%\nIgnore Defense +15% \nStar Force +30\nArcane Power +30\r\n\nDouble-click to turn ON/OFF.\n#cStats expire on MM/DD/YY.#"/>
+		<string name="desc" value="Helped Arthur, a knight-in-training, become a proud official knight.\r\n\r\n#cAll Stats +20\nAttack Power &amp; Magic ATT +15\nMax HP +1000\nMax MP +1000\nBoss Damage +15%\nDamage Against Normal Monsters +15%\nIgnore Defense +15% \nStar Force +30\nArcane Power +30\r\n\nDouble-click to turn ON/OFF.\nStats expire on 08/05/2020.#"/>
 		<int name="fixWidth" value="310"/>
 	</imgdir>
 	<imgdir name="3700619">
@@ -6007,6 +6044,15 @@ If you feed #cFruit# to the Parrot, it might change color and gain a level. The 
 		<string name="name" value="I&apos;m Quite Hasty"/>
 		<string name="desc" value="You took down 100,000 foes in 2 weeks! That&apos;s pretty fast!\r\n\r\n#cAttack Power &amp; Magic ATT +20 \nAll Stats +50 \nBoss Damage +30% \nDEF Ignored +30% \nMax HP &amp; MP +2,500 \r\n\r\nClick to toggle ON/OFF. Stats will be retained until MM/DD/YYYY HH:MM AM/PM UTC.#"/>
 		<int name="fixWidth" value="310"/>
+	</imgdir>
+	<imgdir name="3700703">
+		<string name="name" value="Budding Sprout"/>
+		<string name="desc" value="A verdant Maple tree&apos;s sprout. Something tells you it could do with some warmth.\r\n\r\n#c- All Stats +10\r\n- Max HP/MP +500\r\n- Attack Power &amp; Magic ATT +5\r\n- Bonus EXP +10%\r\n- Star Force +30\n\nDuration: 90 Days\r\n\nClick to toggle ON/OFF.#"/>
+		<int name="fixWidth" value="310"/>
+	</imgdir>
+	<imgdir name="3700705">
+		<string name="name" value="Dreaming of Adventure"/>
+		<string name="desc" value="The Dreaming of Adventure title is given to heroes who completed the Explorer Remaster content.\r\n\r\n#cStar Force +30#\r\n#cAll Stats +10, Attack Power &amp; Magic ATT +10,\r\nMax HP &amp; MP +500,\r\nEXP +10%\r\n\nClick to turn ON/OFF.#"/>
 	</imgdir>
 	<imgdir name="3800010">
 		<string name="name" value="L Forest I"/>
@@ -6448,7 +6494,7 @@ If you feed #cFruit# to the Parrot, it might change color and gain a level. The 
 	</imgdir>
 	<imgdir name="3801190">
 		<string name="name" value="Storage Room 8-Slot Expansion"/>
-		<string name="desc" value="Expand your #cStorage Room by 8 slots#. You can expand up to 128 slots.\r\n(It may take time for the expansion to register.)"/>
+		<string name="desc" value="Expand your #cStorage Room by 8 slots#. You can expand up to 152 slots.\r\n(It may take time for the expansion to register.)"/>
 	</imgdir>
 	<imgdir name="3801191">
 		<string name="name" value="Whispering Flower"/>
@@ -9547,55 +9593,78 @@ If you feed #cFruit# to the Parrot, it might change color and gain a level. The 
 		<string name="name" value="Open Rainbow Box"/>
 		<string name="desc" value="It&apos;s an Open Rainbow Box. A shiny rainbow came out of the box.\n#cThis item disappears upon logging out.#"/>
 	</imgdir>
-	<imgdir name="3018778">
-		<string name="name" value="Perfumer&apos;s Room"/>
-		<string name="desc" value="A beautiful room that shines with fragrance. #cRestores 50 HP and 50 MP every 10 seconds.#"/>
+	<imgdir name="3018829">
+		<string name="name" value="Jisoo in your MAPLE"/>
+		<string name="desc" value="A chair commemorating #cBLACKPINK&apos;s Jisoo#, the second MapleStory ambassador.\r\n#cRestores 100 HP and 100 MP every 10 seconds.#"/>
 	</imgdir>
-	<imgdir name="3018788">
-		<string name="name" value="Cygnus Garden Chair"/>
-		<string name="desc" value="A chair inspired by Cygnus Garden.\r\n#c Restores 50 HP and 50 MP every 10 seconds#."/>
+	<imgdir name="3018830">
+		<string name="name" value="Hopping Gift Wrap Truck"/>
+		<string name="desc" value="Truck filled with gifts. #cRestores 50 HP and 50 MP every 10 seconds.#"/>
 	</imgdir>
-	<imgdir name="3018789">
-		<string name="name" value="Aquarium Town Chair"/>
-		<string name="desc" value="A chair inspired by Aquarium town.\r\n#c Restores 50 HP and 50 MP every 10 seconds#."/>
+	<imgdir name="3018834">
+		<string name="name" value="Pink Bean and Swing Chair"/>
+		<string name="desc" value="A chair celebrating a happy April Fools&apos; Day with cute Pink Bean.\r\n#cRestores 50 HP and 50 MP every 10 seconds.#"/>
 	</imgdir>
-	<imgdir name="3018790">
-		<string name="name" value="Ludibrium Chair"/>
-		<string name="desc" value="A chair inspired by Ludibrium.\r\n#c Restores 50 HP and 50 MP every 10 seconds#."/>
+	<imgdir name="3018837">
+		<string name="name" value="Speeding Train Chair"/>
+		<string name="desc" value="It&apos;s a Speeding Train Chair. \r\n#cRestores 50 HP and 50 MP every 10 seconds.#"/>
 	</imgdir>
-	<imgdir name="3018806">
-		<string name="name" value="Death&apos;s Scythe Throne"/>
-		<string name="desc" value="A chair that lets you sit beside the Luna pets on Death&apos;s Scythe Throne. \r\n#cYou can command and feed the Petite Luna pets that are sitting with you.\r\nRestores 100 HP and 100 MP every 10 seconds.#"/>
+	<imgdir name="3018844">
+		<string name="name" value="Distant Melody"/>
+		<string name="desc" value="A gentle, swaying melody. #cRestores 50 HP and 50 MP every 10 seconds.#"/>
 	</imgdir>
-	<imgdir name="3018808">
-		<string name="name" value="Tubby Magpie Pink Bean Chair"/>
-		<string name="desc" value="A chair commemorating the Lunar New Year you spent with Pink Bean after his transformation into an adorable magpie.\r\n#cRestores 50 HP and 50 MP every 10 seconds.#"/>
+	<imgdir name="3018849">
+		<string name="name" value="Lachelein Pop-Up Card Chair"/>
+		<string name="desc" value="Lachelein has been reborn as a pop-up book!\r\n#cRestores 100 HP and 100 MP every 10 seconds.#"/>
 	</imgdir>
-	<imgdir name="3018809">
-		<string name="name" value="Starlight Symphony Concert Chair"/>
-		<string name="desc" value="A chair where you can enjoy beautiful music conducted by Stella.\r\n#cRestores 50 HP and 50 MP every 10 seconds.#"/>
+	<imgdir name="3018852">
+		<string name="name" value="Jumping Mole Chair"/>
+		<string name="desc" value="A Jumping Mole Chair for those who participated in #cDefeat Moles#.\r\n#cRestores 50 HP and 50 MP every 10 seconds.#\r\n\r\n"/>
+	</imgdir>
+	<imgdir name="3018853">
+		<string name="name" value="Group Jumping Mole Chair"/>
+		<string name="desc" value="A Group Jumping Mole Chair for those who obtained a high score in #cDefeat Moles#.\r\n#cRestores 100 HP and 100 MP every 10 seconds.#\r\n\r\n"/>
+	</imgdir>
+	<imgdir name="3018854">
+		<string name="name" value="Maple Momentree Chair"/>
+		<string name="desc" value="A chair commemorating the 18th Anniversary Maple Momentree.\r\n#cRestores 50 HP and 50 MP every 10 seconds.#"/>
+	</imgdir>
+	<imgdir name="3018861">
+		<string name="name" value="Stained Glass Chair"/>
+		<string name="desc" value="A beautiful light filters through stained glass!\r\n#cRestores 100 HP and 100 MP every 10 seconds.#"/>
+	</imgdir>
+	<imgdir name="3018862">
+		<string name="name" value="Rith and Ellie&apos;s Puzzles Chair"/>
+		<string name="desc" value="A chair where the cuties Rith and Ellie play with puzzles.\r\n#cRestores 50 HP and 50 MP every 10 seconds.#"/>
+	</imgdir>
+	<imgdir name="3018870">
+		<string name="name" value="Promise Gazebo"/>
+		<string name="desc" value="I am waiting here for you. #cRestores 50 HP and 50 MP every 10 seconds.#"/>
+	</imgdir>
+	<imgdir name="3018876">
+		<string name="name" value="7000-Day Together Chair"/>
+		<string name="desc" value="A chair where Wonky the Fairy and monster friends celebrate 7,000 days.\r\n#cRestores 50 HP and 50 MP every 10 seconds.#"/>
+	</imgdir>
+	<imgdir name="3018877">
+		<string name="name" value="Sweet Bread Picnic"/>
+		<string name="desc" value="Sweet joy! It&apos;s bread picnic time!\r\n#cRestores 100 HP and 100 MP every 10 seconds.#"/>
+	</imgdir>
+	<imgdir name="3080018">
+		<string name="name" value="Forty-Title Holder"/>
+		<string name="desc" value="Holds 40 titles in your Set-Up tab.\r\n#cYou can only hold 5 Title Bags."/>
+	</imgdir>
+	<imgdir name="3080019">
+		<string name="name" value="40 Slot Chair Bag"/>
+		<string name="desc" value="Holds 40 chairs in your Set-up tab. \r\n#cYou can only use five Chair Bags at once.#"/>
+	</imgdir>
+	<imgdir name="3700706">
+		<string name="name" value="I&apos;m Always So quick"/>
+		<string name="desc" value="You took down 100,000 foes in 2 weeks! You&apos;re always so quick!\r\n\r\n#cAttack Power &amp; Magic ATT +20 \nAll Stats +50 \nBoss Damage +30% \nDEF Ignored +30% \nMax HP &amp; MP +2,500 \r\n\r\nClick to toggle ON/OFF. Stats will be retained until MM/DD/YYYY HH:MM AM/PM UTC.#"/>
 		<int name="fixWidth" value="310"/>
 	</imgdir>
-	<imgdir name="3018818">
-		<string name="name" value="Beyond the Barrier"/>
-		<string name="desc" value="On the other side of the barrier. #cRestores 50 HP and 50 MP every 10 seconds.#"/>
-	</imgdir>
-	<imgdir name="3018819">
-		<string name="name" value="Symphony of Maple"/>
-		<string name="desc" value="Sit around with your friends and enjoy a #cSymphony of MapleStory#!\r\n#cRestores 100 HP and 100 MP every 10 seconds.#"/>
-	</imgdir>
-	<imgdir name="3018820">
-		<string name="name" value="Extreme Toastie"/>
-		<string name="desc" value="It&apos;s a delicious collaboration between #cMapleStory#k and #cIsaac Toast#!\r\n#cRestores 100 HP and 100 MP every 10 seconds.#"/>
-	</imgdir>
-	<imgdir name="3700703">
-		<string name="name" value="Budding Sprout"/>
-		<string name="desc" value="A verdant Maple&apos; trees sprout. Something tells you it could do with some warmth.\r\n\r\n#c- All Stats +10\r\n- Max HP/MP +500\r\n- Attack Power &amp; Magic ATT +5\r\n- Bonus EXP +10%\r\n- Star Force +30\n\nDuration: 90 Days\r\n\nClick to toggle ON/OFF.#"/>
-		<int name="fixWidth" value="310"/>
-	</imgdir>
-	<imgdir name="3700705">
-		<string name="name" value="Dreaming of Adventure"/>
-		<string name="desc" value="The Dreaming of Adventure title is given to heroes who completed the Explorer Remaster content.\r\n\r\n#cStar Force +30#\r\n#cAll Stats +10, Attack Power &amp; Magic ATT +10,\r\nMax HP &amp; MP +500,\r\nEXP +10%\r\n\nClick to turn ON/OFF.#"/>
+	<imgdir name="3010028">
+		<string name="name" value="Davy John Chair"/>
+		<string name="desc" value="It is a Limited Edition Davy John Chair. Sit on it to recover HP 50 per 10 seconds."/>
 	</imgdir>
 	<imgdir name="3018779">
 		<string name="name" value="Restricted Library"/>
@@ -17693,7 +17762,7 @@ Keep it in your Inventory Set-up tab for 30 minutes to receive a Shiny Easter Eg
 	</imgdir>
 	<imgdir name="3080017">
 		<string name="name" value="40 Slot Chair Bag"/>
-		<string name="desc" value="Holds 40 chairs in your Set-up tab. \r\n#cYou can only use two Chair Bags at once.#"/>
+		<string name="desc" value="Holds 40 chairs in your Set-up tab. \r\n#cYou can only use five Chair Bags at once.#"/>
 	</imgdir>
 	<imgdir name="3018505">
 		<string name="name" value="Pink Bean Sleepover"/>
@@ -18548,7 +18617,7 @@ The summoned #cBUGCAT CAPOO# will increase a specific stat. Level up #cCAPOO&apo
 	</imgdir>
 	<imgdir name="3018845">
 		<string name="name" value="Marble Universe Chair"/>
-		<string name="desc" value="Embrace you cosmic chill inside a beautiful universe contained within a marble.\n#cRestores 100 HP and 100 MP every 10 seconds.#"/>
+		<string name="desc" value="Embrace your cosmic chill inside a beautiful universe contained within a marble.\n#cRestores 100 HP and 100 MP every 10 seconds.#"/>
 	</imgdir>
 	<imgdir name="3018846">
 		<string name="name" value="Cozy Box"/>
@@ -18657,5 +18726,41 @@ The summoned #cBUGCAT CAPOO# will increase a specific stat. Level up #cCAPOO&apo
 	</imgdir>
 	<imgdir name="3801477">
 		<string name="name" value="Blessed Pendant"/>
+	</imgdir>
+	<imgdir name="3012048">
+		<string name="name" value="Rock Spirit Sparkling Couple&apos;s Chair"/>
+		<string name="desc" value="A Rock Spirit Sparkling Couple&apos;s Chair. When two of these chairs are used in close proximity, the special couple chair effect will activate. \n\n#cRestores 100 HP and 100 MP every 10 seconds.\n#\n"/>
+	</imgdir>
+	<imgdir name="3018889">
+		<string name="name" value="Mysterious Light Chair"/>
+		<string name="desc" value="A Mysterious Light Chair. \n\n#cRestores 100 HP and 100 MP every 10 seconds.\n#\n"/>
+	</imgdir>
+	<imgdir name="3018890">
+		<string name="name" value="Inside A Drawing Machine Chair"/>
+		<string name="desc" value="An Inside A Drawing Machine Chair. \n\n#cRestores 100 HP and 100 MP every 10 seconds.\n#\n"/>
+	</imgdir>
+	<imgdir name="3018891">
+		<string name="name" value="Until the Dawn Chair"/>
+		<string name="desc" value="An Until the Dawn Chair. \n\n#cRestores 100 HP and 100 MP every 10 seconds.\n#\n"/>
+	</imgdir>
+	<imgdir name="3018774">
+		<string name="name" value="Crowded Chair"/>
+		<string name="desc" value="Aren&apos;t we all a little too close here?\r\nRestores 100 HP and 100 MP every 10 seconds."/>
+	</imgdir>
+	<imgdir name="3018900">
+		<string name="name" value="Pastel Luna Chair"/>
+		<string name="desc" value="A Pastel Luna Chair. \n\n#cRestores 100 HP and 100 MP every 10 seconds.\n#\n"/>
+	</imgdir>
+	<imgdir name="3018901">
+		<string name="name" value="Hard-Working Rabbits Chair"/>
+		<string name="desc" value="A Hard-Working Rabbits Chair. \n\n#cRestores 100 HP and 100 MP every 10 seconds.\n#\n"/>
+	</imgdir>
+	<imgdir name="3018902">
+		<string name="name" value="Halloween Special Performance Chair"/>
+		<string name="desc" value="A Halloween Special Performance Chair. \n\n#cRestores 100 HP and 100 MP every 10 seconds.\n#\n"/>
+	</imgdir>
+	<imgdir name="3018903">
+		<string name="name" value="Mischievous Ghost Chair"/>
+		<string name="desc" value="A Mischievous Ghost Chair. \n\n#cRestores 100 HP and 100 MP every 10 seconds.\n#\n"/>
 	</imgdir>
 </imgdir>

@@ -24,7 +24,7 @@
 	</imgdir>
 	<imgdir name="furniture">
 		<string name="ConfirmDelete" value="You will receive %d Home coin(s) for selling the selected furnishings.\r\nThis action is irreversible. Do you want to proceed?"/>
-		<string name="ConfirmDeleteNoRefund" value="Selling this furnishing will not yield an Home Coins, and it will be irretrievably destroyed.\r\nAre you sure you want to continue?"/>
+		<string name="ConfirmDeleteNoRefund" value="Selling this furnishing will not yield any Home Coins, and it will be irretrievably destroyed.\r\nAre you sure you want to continue?"/>
 		<string name="GiveCoinFail" value="You were unable to receive any Home Coins. Make sure you have enough space in your inventory."/>
 		<string name="CannotDelete" value="You cannot sell furnishings that are in active use."/>
 		<string name="MovedToInventory" value="%s has been moved to your furnishing storage box."/>

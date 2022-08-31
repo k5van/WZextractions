@@ -1925,6 +1925,11 @@
 		<string name="desc" value="#cMirrorstony#, a Golden Hand Item, from the Nodestony Pet Set."/>
 		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
 	</imgdir>
+	<imgdir name="5002299">
+		<string name="name" value="Mini Sugar"/>
+		<string name="desc" value="A cute and lively #cMini Sugar#."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
 	<imgdir name="5002306">
 		<string name="name" value="Crunchy"/>
 		<string name="desc" value="#cCrunchy#, a Golden Hand Item, from the Fried Cooking Pet Set."/>
@@ -2045,11 +2050,6 @@
 		<string name="desc" value="#Bibi# of the Silver Hand Item, Peep Delivery Pet Set"/>
 		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
 	</imgdir>
-	<imgdir name="5002299">
-		<string name="name" value="Mini Sugar"/>
-		<string name="desc" value="A cute and lively #cMini Sugar#."/>
-		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
-	</imgdir>
 	<imgdir name="5002336">
 		<string name="name" value="Red Snail"/>
 		<string name="desc" value="An enigmatic snail. This time, it&apos;ll stay with me for longer."/>
@@ -2163,7 +2163,7 @@
 	<imgdir name="5002358">
 		<string name="name" value="Lil Death"/>
 		<string name="desc" value="#cLil Death# is the owner of Death&apos;s Scythe and the master of death itself. \nEquip to get the #cImpenetrable Darkness# skill, which grows stronger as you equip more Lil Death&apos;s Scythe pets.\r\nBlessed by the power of moonlight, #cLil Death&apos;s Scythe# pets can pick up items from a greater distance."/>
-		<string name="descD" value="Your small and adorable cat, Sherbet, has turned into a doll. You cannot revive it with the Water of Life.\r\nIf you double-click Sherbet after its magic duration ends, it will disappear."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
 	</imgdir>
 	<imgdir name="5002365">
 		<string name="name" value="Toth"/>
@@ -2224,6 +2224,46 @@
 		<string name="name" value="Rami"/>
 		<string name="desc" value="It&apos;s #Rami# of the &apos;Tea Cup Fairy Pet Set&apos; which won a Silver Hand Award for its design."/>
 		<string name="descD" value=" Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002390">
+		<string name="name" value="Raarr!"/>
+		<string name="desc" value="Freeze, hands up! #cGrrr# is trying to be intimidating."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002391">
+		<string name="name" value="Kyaa"/>
+		<string name="desc" value="Freeze, hands up! It&apos;s #cKyaa#."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002392">
+		<string name="name" value="Rawr"/>
+		<string name="desc" value="Freeze, hands up! #cRawr# just wants to imitate everyone for fun."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002393">
+		<string name="name" value="Milk Roll"/>
+		<string name="desc" value="#cMilk Roll# with a moist and milky flavor.\nEquip to obtain the #cSweet Roll Cake# skill, which grows stronger as you equip more Sweet Roll Cake pets (max 3). "/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002394">
+		<string name="name" value="Berry Roll"/>
+		<string name="desc" value="#cBerry Roll# made with fresh strawberries.\nEquip to obtain the #cSweet Roll Cake# skill, which grows stronger as you equip more Sweet Roll Cake pets (max 3). "/>
+		<string name="descD" value=" Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002395">
+		<string name="name" value="Green Roll"/>
+		<string name="desc" value="#cGreen Roll# with a rich scent of green tea.\nEquip to obtain the #cSweet Roll Cake# skill, which grows stronger as you equip more Sweet Roll Cake pets (max 3). "/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002396">
+		<string name="name" value="CCPB"/>
+		<string name="desc" value="#cCCPB# transformed into sweet cotton candy.\r\nBlessed by the power of moonlight, #cCCPB can pick up items from a greater distance.#\r\nCCPB cannot equip any pet equipment.\r\nIf you double-click CCPB after its magic duration ends, it will disappear.\n\n#cCaution! This pet cannot have its magic duration extended after it ends.#"/>
+		<string name="descD" value="Shiny CCPB has turned into a doll. You cannot revive it with the Water of Life.\r\nIf you double-click CCPB after its magic duration ends, it will disappear."/>
+	</imgdir>
+	<imgdir name="5002500">
+		<string name="name" value="CCPB"/>
+		<string name="desc" value="#cCCPB# transformed into sweet cotton candy.\r\nBlessed by the power of moonlight, #cCCPB can pick up items from a greater distance.#\r\nCCPB cannot equip any pet equipment.\r\nIf you double-click CCPB after its magic duration ends, it will disappear.\n\n#cCaution! This pet cannot have its magic duration extended after it ends.#"/>
+		<string name="descD" value="Shiny CCPB has turned into a doll. You cannot revive it with the Water of Life.\r\nIf you double-click CCPB after its magic duration ends, it will disappear."/>
 	</imgdir>
 	<imgdir name="5000025">
 		<string name="name" value="Golden Pig"/>
@@ -5773,6 +5813,51 @@
 	<imgdir name="5002506">
 		<string name="name" value="Bath Slime"/>
 		<string name="desc" value="A #cBath Slime Pet#.\nEquip to obtain the #cRamuramu Slime Pet# skill, which grows stronger as you equip more Ramuramu Slime pets (max 3)."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002511">
+		<string name="name" value="Maple Leaf"/>
+		<string name="desc" value="A #cMaple Leaf Pet#.\nEquip to obtain the #cLeaf Friends Pet# skill, which grows stronger as you equip more Leaf Friends pets (max 3)."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002512">
+		<string name="name" value="Ginkgo Leaf"/>
+		<string name="desc" value="A #cGinkgo Leaf Pet#.\nEquip to obtain the #cLeaf Friends Pet# skill, which grows stronger as you equip more Leaf Friends pets (max 3)."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002513">
+		<string name="name" value="Green Leaf"/>
+		<string name="desc" value="A #cGreen Leaf Pet#.\nEquip to obtain the #cLeaf Friends Pet# skill, which grows stronger as you equip more Leaf Friends pets (max 3)."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002522">
+		<string name="name" value="Maple Leaf"/>
+		<string name="desc" value="A #cMaple Leaf pet#."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002523">
+		<string name="name" value="Ginkgo Leaf"/>
+		<string name="desc" value="A #cGinkgo Leaf pet#."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002524">
+		<string name="name" value="Green Leaf"/>
+		<string name="desc" value="A #cGreen Leaf pet#."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002519">
+		<string name="name" value="Ghost Stump"/>
+		<string name="desc" value="A #cGhost Stump Pet#.\nEquip to obtain the #cStump Pals Pet# skill, which grows stronger as you equip more Stump Pals pets (max 3)."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002520">
+		<string name="name" value="Dark Stump"/>
+		<string name="desc" value="A #cDark Stump Pet#.\nEquip to obtain the #cStump Pals Pet# skill, which grows stronger as you equip more Stump Pals pets (max 3)."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002521">
+		<string name="name" value="D. Axe Stump"/>
+		<string name="desc" value="A #cDark Axe Stump Pet#.\nEquip to obtain the #cStump Pals Pet# skill, which grows stronger as you equip more Stump Pals pets (max 3)."/>
 		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
 	</imgdir>
 </imgdir>

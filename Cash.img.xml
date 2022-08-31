@@ -466,6 +466,10 @@
 		<string name="name" value="Maple Pop Star Dreams!"/>
 		<string name="desc" value="Maple Pop Star Dreams! Double-click to toggle the effect on/off, or set up a hotkey for it in your Key Config."/>
 	</imgdir>
+	<imgdir name="5010202">
+		<string name="name" value="Maple Leaf&apos;s Blessing"/>
+		<string name="desc" value="Summon a Golden Maple Leaf. Double-click to toggle the effect, or set up a hotkey for it in your Key Config."/>
+	</imgdir>
 	<imgdir name="5010999">
 		<string name="name" value="Changing to a Monster"/>
 		<string name="desc" value="Not sold in Cash Shop. An effect shown while changing into a monster."/>
@@ -719,6 +723,10 @@
 		<string name="desc" value="Warps you to your desired location on the World Map upon use. Just select your destination from the World Map. #cWarping only works in certain areas. \n#cCooldown: 5 minutes# \nUsable until the end of the month in which the Monthly Mega Pack is claimed."/>
 	</imgdir>
 	<imgdir name="5044020">
+		<string name="name" value="Hyper Teleport Rock"/>
+		<string name="desc" value="Warps you to your desired location on the World Map upon use. Just select your destination when the World Map appears. #cWarping only works in certain areas. \n#cCooldown: 15 minutes#"/>
+	</imgdir>
+	<imgdir name="5044021">
 		<string name="name" value="Hyper Teleport Rock"/>
 		<string name="desc" value="Warps you to your desired location on the World Map upon use. Just select your destination when the World Map appears. #cWarping only works in certain areas. \n#cCooldown: 15 minutes#"/>
 	</imgdir>
@@ -1691,11 +1699,11 @@
 	</imgdir>
 	<imgdir name="5133000">
 		<string name="name" value="Buff Freezer"/>
-		<string name="desc" value="Using this will preserve most of your #buffs# when you get KO&apos;d. \n#cSome# buffs will not carry over. You can choose whether to use this item in the revival confirm window."/>
+		<string name="desc" value="Using this will preserve most of your buffs when you get KO&apos;d. \n#cSome# buffs will not carry over. You can choose whether to use this item in the revival confirm window. Upon confirming, #cit is used in the order that it is stored in your inventory.#"/>
 	</imgdir>
 	<imgdir name="5133001">
 		<string name="name" value="Buff Freezer"/>
-		<string name="desc" value="Using this will preserve most of your #buffs# when you get KO&apos;d. \n#cSome# buffs will not carry over. You can choose whether to use this item in the revival confirm window."/>
+		<string name="desc" value="Using this will preserve most of your buffs when you get KO&apos;d. \n#cSome# buffs will not carry over. You can choose whether to use this item in the revival confirm window. Upon confirming, #cit is used in the order that it is stored in your inventory.#"/>
 	</imgdir>
 	<imgdir name="5140000">
 		<string name="name" value="Regular Store Permit"/>
@@ -2030,6 +2038,14 @@
 		<string name="name" value="Golden Hand Awards Silver Hand Hair Coupon"/>
 		<string name="desc" value="#cDouble-click# to apply the hairstyle of your choice from the list.\nTalk to Lauren at the Henesys Hair Salon to change your Android&apos;s hair."/>
 	</imgdir>
+	<imgdir name="5150199">
+		<string name="name" value="Adventurer&apos;s Friend Hair Coupon"/>
+		<string name="desc" value="#cDouble-click# to use this coupon to change your hair to either #cNew Rondo Hair# or #cNew Olive Hair# once, based on your gender."/>
+	</imgdir>
+	<imgdir name="5150201">
+		<string name="name" value="Fairy Bros&apos; Explorer Hair Selector Coupon"/>
+		<string name="desc" value="#cDouble-click# to apply the hairstyle of your choice from the list.\nTalk to Lauren at the Henesys Hair Salon to change your Android&apos;s hair."/>
+	</imgdir>
 	<imgdir name="5151000">
 		<string name="name" value="Henesys Hair Color Coupon (REG)"/>
 		<string name="desc" value="#cDouble-click# to change your hair color#c at random#, or talk to Lauren at Henesys Hair Salon to change your Android&apos;s hair. Usable once."/>
@@ -2352,6 +2368,14 @@
 	</imgdir>
 	<imgdir name="5152265">
 		<string name="name" value="Golden Hand Awards Silver Hand Face Coupon"/>
+		<string name="desc" value="#cDouble-click# to apply the face of your choice from the list.\nTalk to Lauren at the Henesys Hair Salon to change your Android&apos;s face."/>
+	</imgdir>
+	<imgdir name="5152268">
+		<string name="name" value="Adventurer&apos;s Friend Face Coupon"/>
+		<string name="desc" value="#cDouble-click# to use this coupon to change your face to either #cNew Rondo Face# or #cNew Olive Face# once, based on your gender."/>
+	</imgdir>
+	<imgdir name="5152270">
+		<string name="name" value="Fairy Bros&apos; Explorer Face Selector Coupon"/>
 		<string name="desc" value="#cDouble-click# to apply the face of your choice from the list.\nTalk to Lauren at the Henesys Hair Salon to change your Android&apos;s face."/>
 	</imgdir>
 	<imgdir name="5152300">
@@ -8111,29 +8135,53 @@
 		<string name="name" value="Maple Auction Red Ticket"/>
 		<string name="desc" value="The Maple Auction Red Ticket offers the following benefits for #c30 days.#\nService fee discount: 5% to 3%\nUnlimited searches\nAdditional auction slots: 10 purchase and 10 sell slots\nAdvanced searches\nAuction bidding time extension: 24 and 48 hours"/>
 	</imgdir>
-	<imgdir name="5010202">
-		<string name="name" value="Maple Leaf&apos;s Blessing"/>
-		<string name="desc" value="Summon a Golden Maple Leaf. Double-click to toggle the effect, or set up a hotkey for it in your Key Config."/>
+	<imgdir name="5157036">
+		<string name="name" value="Aren Hair Coupon"/>
+		<string name="desc" value="#cDouble-click# to change your hair to the selected hairstyle. Can only be used on male characters."/>
 	</imgdir>
-	<imgdir name="5044021">
-		<string name="name" value="Hyper Teleport Rock"/>
-		<string name="desc" value="Warps you to your desired location on the World Map upon use. Just select your destination when the World Map appears. #cWarping only works in certain areas. \n#cCooldown: 15 minutes#"/>
+	<imgdir name="5157037">
+		<string name="name" value="Foggy Aren Hair Coupon"/>
+		<string name="desc" value="#cDouble-click# to change your hair to the selected hairstyle. Can only be used on male characters."/>
 	</imgdir>
-	<imgdir name="5150199">
-		<string name="name" value="Adventurer&apos;s Friend Hair Coupon"/>
-		<string name="desc" value="#cDouble-click# to use this coupon to change your hair to either #cNew Rondo Hair# or #cNew Olive Hair# once, based on your gender."/>
+	<imgdir name="5157038">
+		<string name="name" value="Amelie Hair Coupon"/>
+		<string name="desc" value="#cDouble-click# to change your hair to the selected hairstyle. Can only be used on female characters."/>
 	</imgdir>
-	<imgdir name="5150201">
-		<string name="name" value="Fairy Bros&apos; Explorer Hair Selector Coupon"/>
-		<string name="desc" value="#cDouble-click# to apply the hairstyle of your choice from the list.\nTalk to Lauren at the Henesys Hair Salon to change your Android&apos;s hair."/>
+	<imgdir name="5157039">
+		<string name="name" value="Foggy Amelie Hair Coupon"/>
+		<string name="desc" value="#cDouble-click# to change your hair to the selected hairstyle. Can only be used on female characters."/>
 	</imgdir>
-	<imgdir name="5152268">
-		<string name="name" value="Adventurer&apos;s Friend Face Coupon"/>
-		<string name="desc" value="#cDouble-click# to use this coupon to change your face to either #cNew Rondo Face# or #cNew Olive Face# once, based on your gender."/>
+	<imgdir name="5204045">
+		<string name="name" value="Sweet Bread Picnic"/>
+		<string name="desc" value="Sweet joy! It&apos;s bread picnic time!\r\n#cRestores 100 HP and 100 MP every 10 seconds.#"/>
 	</imgdir>
-	<imgdir name="5152270">
-		<string name="name" value="Fairy Bros&apos; Explorer Face Selector Coupon"/>
-		<string name="desc" value="#cDouble-click# to apply the face of your choice from the list.\nTalk to Lauren at the Henesys Hair Salon to change your Android&apos;s face."/>
+	<imgdir name="5530889">
+		<string name="name" value="Momentree Ticket x1 Coupon"/>
+		<string name="desc" value="Double-click and use to obtain #cMomentree Ticket x1#, which can be exchanged for various rewards."/>
+	</imgdir>
+	<imgdir name="5533161">
+		<string name="name" value="Maple World Cone Hat Box"/>
+		<string name="desc" value="Celebratory cone hats fashioned by the 6 towns of Maple World. You can earn 1 of the 6 types of hats. \r\n(You have an equal chance to obtain any of the items in the Maple World Cone Hat Box.)"/>
+	</imgdir>
+	<imgdir name="5533162">
+		<string name="name" value="Victoria Island Floral Crown Box"/>
+		<string name="desc" value="Celebratory floral crowns fashioned by the 6 towns of Victoria Island. You can earn 1 of the 6 types of hats. \r\n(You have an equal chance to obtain any of the items in the Victoria Island Floral Crown Box.)"/>
+	</imgdir>
+	<imgdir name="5680975">
+		<string name="name" value="Aren Hair Selection Coupon (M)"/>
+		<string name="desc" value="Double-click to select your choice of either the Aren Hair Coupon or Foggy Aren Hair Coupon."/>
+	</imgdir>
+	<imgdir name="5680976">
+		<string name="name" value="Amelie Hair Selection Coupon (F)"/>
+		<string name="desc" value="Double-click to select your choice of either the Amelie Hair Coupon or Foggy Amelie Hair Coupon."/>
+	</imgdir>
+	<imgdir name="5680980">
+		<string name="name" value="Little Devil Label Ring (30 Day) Coupon"/>
+		<string name="desc" value="#cDouble-click# this coupon to receive a Little Devil Label Ring (30 Day)."/>
+	</imgdir>
+	<imgdir name="5680981">
+		<string name="name" value="Little Devil Chat Ring (30 Day) Coupon"/>
+		<string name="desc" value="#cDouble-click# this coupon to receive a Little Devil Chat Ring (30 Day)."/>
 	</imgdir>
 	<imgdir name="5010008">
 		<string name="name" value="Mr. Jackpot"/>
@@ -8768,7 +8816,7 @@ ATT, MATT + 100"/>
 	</imgdir>
 	<imgdir name="5152053">
 		<string name="name" value="Royal Face Coupon"/>
-		<string name="desc" value="#cDouble-click# to change your face to one selected at#c random#, or talk to Lauren at Henesys Hair Salon to change your Android&apos;s face. Usable once."/>
+		<string name="desc" value="#cDouble-click# to change your face to one selected at\r\nrandom, or talk to Lauren\r\nat Henesys Hair Salon to change your Android&apos;s face. Usable once."/>
 	</imgdir>
 	<imgdir name="5152108">
 		<string name="name" value="White Eye Color"/>
@@ -13183,15 +13231,15 @@ Upon using the cube, the value of all potentials #cwill become consistent with t
 	</imgdir>
 	<imgdir name="5680972">
 		<string name="name" value="5,000-Maple-Point Coupon"/>
-		<string name="desc" value="#cDouble-click# to receive a 5,000 Maple Point Coupon."/>
+		<string name="desc" value="#cDouble-click# to receive a 5,000-Maple-Point Coupon."/>
 	</imgdir>
 	<imgdir name="5680973">
 		<string name="name" value="10,000-Maple-Point Coupon"/>
-		<string name="desc" value="#cDouble-click# to receive a 10,000 Maple Point Coupon."/>
+		<string name="desc" value="#cDouble-click# to receive a 10,000-Maple-Point Coupon."/>
 	</imgdir>
 	<imgdir name="5680974">
 		<string name="name" value="25,000-Maple-Point Coupon"/>
-		<string name="desc" value="#cDouble-click# to receive a 25,000 Maple Point Coupon."/>
+		<string name="desc" value="#cDouble-click# to receive a 25,000-Maple-Point Coupon."/>
 	</imgdir>
 	<imgdir name="5240227">
 		<string name="name" value="Toy Block"/>
@@ -13300,5 +13348,37 @@ Upon using the cube, the value of all potentials #cwill become consistent with t
 	<imgdir name="5680809">
 		<string name="name" value="[Home] Furnishing Slot Expansion Coupon"/>
 		<string name="desc" value="Double-click to use. Increases your home&apos;s furnishing slots by 6."/>
+	</imgdir>
+	<imgdir name="5240231">
+		<string name="name" value="Leaf Friends Shared Pet Food"/>
+		<string name="desc" value="This Pet Snack can only be consumed by #cLeaf Friends# pets. Restores Fullness completely and#c increases Closeness by 100.#"/>
+	</imgdir>
+	<imgdir name="5538512">
+		<string name="name" value="Super Idol Angelic Buster Chat Emoticon Coupon (Showtime!)"/>
+		<string name="desc" value="#cDouble-click# to acquire a #cSuper Idol Angelic Buster Chat Emoticon Coupon (Showtime!)#."/>
+	</imgdir>
+	<imgdir name="5538513">
+		<string name="name" value="Super Idol Angelic Buster Chat Emoticon Coupon (Hmph!)"/>
+		<string name="desc" value="#cDouble-click# to acquire a #cSuper Idol Angelic Buster Chat Emoticon Coupon (Hmph!)#."/>
+	</imgdir>
+	<imgdir name="5538514">
+		<string name="name" value="Super Idol Angelic Buster Chat Emoticon Coupon (Special Heart Beam)"/>
+		<string name="desc" value="#cDouble-click# to acquire a #cSuper Idol Angelic Buster Chat Emoticon Coupon (Special Heart Beam)#."/>
+	</imgdir>
+	<imgdir name="5538515">
+		<string name="name" value="Super Idol Angelic Buster Chat Emoticon Coupon (Loading...)"/>
+		<string name="desc" value="#cDouble-click# to acquire a #cSuper Idol Angelic Buster Chat Emoticon Coupon (Loading...)#."/>
+	</imgdir>
+	<imgdir name="5538516">
+		<string name="name" value="Super Idol Angelic Buster Chat Emoticon Coupon (Shy Pop)"/>
+		<string name="desc" value="#cDouble-click# to acquire a #cSuper Idol Angelic Buster Chat Emoticon Coupon (Shy Pop)#."/>
+	</imgdir>
+	<imgdir name="5538517">
+		<string name="name" value="Super Idol Angelic Buster Chat Emoticon Coupon (Bye!)"/>
+		<string name="desc" value="#cDouble-click# to acquire a #cSuper Idol Angelic Buster Chat Emoticon Coupon (Bye!)#."/>
+	</imgdir>
+	<imgdir name="5240232">
+		<string name="name" value="Stump Pals Shared Pet Food"/>
+		<string name="desc" value="This Pet Snack can only be consumed by #cStump Pal# pets. Restores Fullness completely and#c increases Closeness by 100.#"/>
 	</imgdir>
 </imgdir>

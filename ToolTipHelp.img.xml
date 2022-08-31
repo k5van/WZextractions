@@ -5731,10 +5731,10 @@
 		</imgdir>
 		<imgdir name="300000100">
 			<imgdir name="0">
-				<string name="Title" value="Ludibrium: Time Control Room"/>
+				<string name="Title" value="Time Control Room"/>
 			</imgdir>
 			<imgdir name="1">
-				<string name="Title" value="Altaire Camp"/>
+				<string name="Title" value="Camp Entrance"/>
 			</imgdir>
 		</imgdir>
 		<imgdir name="300010000">
@@ -5742,60 +5742,13 @@
 				<string name="Title" value="Altaire Camp"/>
 			</imgdir>
 			<imgdir name="1">
-				<string name="Title" value="Western Region of Mossy Tree Forest"/>
+				<string name="Title" value="Desolate Land"/>
 			</imgdir>
 			<imgdir name="2">
-				<string name="Title" value="Mushroom Hill Entrance"/>
+				<string name="Title" value="Boulder Mountain Entrance"/>
 			</imgdir>
 			<imgdir name="3">
-				<string name="Title" value="Southern Region of Mossy Tree Forest"/>
-			</imgdir>
-		</imgdir>
-		<imgdir name="300010200">
-			<imgdir name="0">
-				<string name="Title" value="Boulder Mountain Entrance"/>
-				<string name="Desc" value="If you&apos;re a lost adventurer, go this way..."/>
-			</imgdir>
-			<imgdir name="1">
-				<string name="Title" value="Western Region of Mossy Tree Forest 1"/>
-			</imgdir>
-		</imgdir>
-		<imgdir name="300010300">
-			<imgdir name="0">
-				<string name="Title" value="Western Region of Mossy Tree Forest"/>
-				<string name="Desc" value="The camp is beyond the western region of the forest. -Rios-"/>
-			</imgdir>
-			<imgdir name="1">
-				<string name="Title" value="Southern Region of Mossy Tree Forest"/>
-			</imgdir>
-			<imgdir name="2">
-				<string name="Title" value="Toward the Boulder Mountain"/>
-			</imgdir>
-		</imgdir>
-		<imgdir name="300020000">
-			<imgdir name="0">
-				<string name="Title" value="Mossy Tree Forest Entrance"/>
-				<string name="Desc" value="If you&apos;re a lost adventurer, go this way..."/>
-			</imgdir>
-			<imgdir name="1">
-				<string name="Title" value="Southern Region of Mossy Tree Forest 2"/>
-			</imgdir>
-		</imgdir>
-		<imgdir name="300020210">
-			<imgdir name="0">
 				<string name="Title" value="Mushroom Hill Entrance"/>
-			</imgdir>
-		</imgdir>
-		<imgdir name="300030000">
-			<imgdir name="0">
-				<string name="Title" value="Danger Zone.  Explorations Not Allowed!"/>
-				<string name="Desc" value="Due to strange occurrences as of late, explorations are not being allowed. -Athena Pierce-"/>
-			</imgdir>
-			<imgdir name="1">
-				<string name="Title" value="Altaire Camp"/>
-			</imgdir>
-			<imgdir name="2">
-				<string name="Title" value="Mossy Tree Forest Trail"/>
 			</imgdir>
 		</imgdir>
 		<imgdir name="300030300">
@@ -6403,6 +6356,39 @@
 				<string name="Title" value="[Dungeon] Labyrinth of Suffering Deep Core"/>
 			</imgdir>
 		</imgdir>
+		<imgdir name="993166012">
+			<imgdir name="0">
+				<string name="Title" value="Road to the Future"/>
+			</imgdir>
+			<imgdir name="1">
+				<string name="Title" value="Road of the Present"/>
+			</imgdir>
+			<imgdir name="2">
+				<string name="Title" value="Road to the Past"/>
+			</imgdir>
+		</imgdir>
+		<imgdir name="993166015">
+			<imgdir name="0">
+				<string name="Title" value="Road to the Future"/>
+			</imgdir>
+			<imgdir name="1">
+				<string name="Title" value="Road of the Present"/>
+			</imgdir>
+			<imgdir name="2">
+				<string name="Title" value="Road to the Past"/>
+			</imgdir>
+		</imgdir>
+		<imgdir name="993166017">
+			<imgdir name="0">
+				<string name="Title" value="Road to the Future"/>
+			</imgdir>
+			<imgdir name="1">
+				<string name="Title" value="Road of the Present"/>
+			</imgdir>
+			<imgdir name="2">
+				<string name="Title" value="Road to the Past"/>
+			</imgdir>
+		</imgdir>
 		<imgdir name="933032000">
 			<imgdir name="0">
 				<string name="Title" value="               Goddess Phonograph               "/>
@@ -6569,45 +6555,17 @@
 				<string name="Desc" value="I finally found a way to get to the 48th floor. But I won&apos;t explain it here. I need more space to explain!"/>
 			</imgdir>
 		</imgdir>
-		<imgdir name="993166012">
-			<imgdir name="0">
-				<string name="Title" value="Road to the Future"/>
-			</imgdir>
-			<imgdir name="1">
-				<string name="Title" value="Road of the Present"/>
-			</imgdir>
-			<imgdir name="2">
-				<string name="Title" value="Road to the Past"/>
-			</imgdir>
-		</imgdir>
-		<imgdir name="993166015">
-			<imgdir name="0">
-				<string name="Title" value="Road to the Future"/>
-			</imgdir>
-			<imgdir name="1">
-				<string name="Title" value="Road of the Present"/>
-			</imgdir>
-			<imgdir name="2">
-				<string name="Title" value="Road to the Past"/>
-			</imgdir>
-		</imgdir>
-		<imgdir name="993166017">
-			<imgdir name="0">
-				<string name="Title" value="Road to the Future"/>
-			</imgdir>
-			<imgdir name="1">
-				<string name="Title" value="Road of the Present"/>
-			</imgdir>
-			<imgdir name="2">
-				<string name="Title" value="Road to the Past"/>
-			</imgdir>
-		</imgdir>
 		<imgdir name="224000121">
 			<imgdir name="0">
 				<string name="Title" value="You cannot enter again."/>
 			</imgdir>
 			<imgdir name="1">
 				<string name="Title" value="Tiger Ridge"/>
+			</imgdir>
+		</imgdir>
+		<imgdir name="300020200">
+			<imgdir name="0">
+				<string name="Title" value="Mossy Tree Forest"/>
 			</imgdir>
 		</imgdir>
 		<imgdir name="0">
@@ -8613,9 +8571,9 @@
 			<imgdir name="out00">
 				<string name="Title" value="Front Yard"/>
 				<imgdir name="Npc">
-					<string name="0" value="Utah"/>
-					<string name="1" value="Cerebes"/>
-					<string name="2" value="Hen"/>
+					<string name="0" value="1013101"/>
+					<string name="1" value="1013102"/>
+					<string name="2" value="1013104"/>
 				</imgdir>
 			</imgdir>
 		</imgdir>
@@ -8647,7 +8605,9 @@
 			<imgdir name="jobin00">
 				<string name="Title" value="Magic Library"/>
 				<imgdir name="Npc">
-					<string name="0" value="Grendel the Really Old"/>
+					<string name="0" value="1032001"/>
+					<string name="1" value="1032116"/>
+					<string name="2" value="2159464"/>
 				</imgdir>
 			</imgdir>
 		</imgdir>
@@ -8663,8 +8623,12 @@
 			<imgdir name="in00">
 				<string name="Title" value="1st Floor Living Room"/>
 				<imgdir name="Npc">
-					<string name="0" value="Renard"/>
-					<string name="1" value="Shula"/>
+					<string name="0" value="1501000"/>
+					<string name="1" value="1501001"/>
+					<string name="2" value="1501003"/>
+					<string name="3" value="1501002"/>
+					<string name="4" value="1501005"/>
+					<string name="5" value="1501006"/>
 				</imgdir>
 			</imgdir>
 		</imgdir>
@@ -8719,7 +8683,7 @@
 			<imgdir name="in03">
 				<string name="Title" value="Lith Harbor Info Shop"/>
 				<imgdir name="Npc">
-					<string name="0" value="Tru"/>
+					<string name="0" value="1002104"/>
 				</imgdir>
 			</imgdir>
 		</imgdir>
@@ -8727,7 +8691,15 @@
 			<imgdir name="in01">
 				<string name="Title" value="Station to Ereve"/>
 				<imgdir name="Npc">
-					<string name="0" value="Kiriru"/>
+					<string name="0" value="1100007"/>
+					<string name="1" value="1104304"/>
+					<string name="2" value="1104305"/>
+					<string name="3" value="1104306"/>
+					<string name="4" value="1104307"/>
+					<string name="5" value="1104308"/>
+					<string name="6" value="1104310"/>
+					<string name="7" value="1104309"/>
+					<string name="8" value="1104312"/>
 				</imgdir>
 			</imgdir>
 		</imgdir>
@@ -8743,7 +8715,7 @@
 			<imgdir name="under00">
 				<string name="Title" value="Stairway to the Underground Temple"/>
 				<imgdir name="Npc">
-					<string name="0" value="Suspicious Man"/>
+					<string name="0" value="1061016"/>
 				</imgdir>
 			</imgdir>
 		</imgdir>
@@ -8768,14 +8740,20 @@
 			<imgdir name="in00">
 				<string name="Title" value="Banquet Hall"/>
 				<imgdir name="Npc">
-					<string name="0" value="Mushking"/>
-					<string name="1" value="Violetta"/>
-					<string name="2" value="Head Security Officer"/>
-					<string name="3" value="Gamma and Omega"/>
-					<string name="4" value="Mikhail"/>
-					<string name="5" value="Ghostie"/>
-					<string name="6" value="Anne Nah"/>
-					<string name="7" value="Thorr"/>
+					<string name="0" value="1302001"/>
+					<string name="1" value="1302000"/>
+					<string name="2" value="1302010"/>
+					<string name="3" value="1302011"/>
+					<string name="4" value="1302021"/>
+					<string name="5" value="1302022"/>
+					<string name="6" value="1302013"/>
+					<string name="7" value="1302007"/>
+					<string name="8" value="1302012"/>
+					<string name="9" value="1302004"/>
+					<string name="10" value="1302015"/>
+					<string name="11" value="1302016"/>
+					<string name="12" value="1302017"/>
+					<string name="13" value="1302018"/>
 				</imgdir>
 			</imgdir>
 		</imgdir>
@@ -8811,7 +8789,7 @@
 			<imgdir name="west00">
 				<string name="Title" value="Knights&apos; Chamber"/>
 				<imgdir name="Npc">
-					<string name="0" value="Kidan"/>
+					<string name="0" value="1102003"/>
 				</imgdir>
 			</imgdir>
 		</imgdir>
@@ -8819,14 +8797,15 @@
 			<imgdir name="east00">
 				<string name="Title" value="Ereve"/>
 				<imgdir name="Npc">
-					<string name="0" value="Cygnus"/>
-					<string name="1" value="Shinsoo"/>
-					<string name="2" value="Neinheart"/>
-					<string name="3" value="Mihile"/>
-					<string name="4" value="Oz"/>
-					<string name="5" value="Irena"/>
-					<string name="6" value="Eckhart"/>
-					<string name="7" value="Hawkeye"/>
+					<string name="0" value="1101000"/>
+					<string name="1" value="1101002"/>
+					<string name="2" value="1101003"/>
+					<string name="3" value="1101004"/>
+					<string name="4" value="1101005"/>
+					<string name="5" value="1101006"/>
+					<string name="6" value="1101007"/>
+					<string name="7" value="1101001"/>
+					<string name="8" value="9062009"/>
 				</imgdir>
 			</imgdir>
 		</imgdir>
@@ -8888,7 +8867,7 @@
 			<imgdir name="west00">
 				<string name="Title" value="Forest of Beginning 3"/>
 				<imgdir name="Npc">
-					<string name="0" value="Kizan"/>
+					<string name="0" value="1102005"/>
 				</imgdir>
 				<imgdir name="Mob">
 					<string name="0" value="0100122"/>
@@ -8899,7 +8878,7 @@
 			<imgdir name="west00">
 				<string name="Title" value="Forest of Beginning 4"/>
 				<imgdir name="Npc">
-					<string name="0" value="Kinu"/>
+					<string name="0" value="1102006"/>
 				</imgdir>
 				<imgdir name="Mob">
 					<string name="0" value="0100121"/>
@@ -8910,7 +8889,7 @@
 			<imgdir name="west00">
 				<string name="Title" value="Forest of Beginning 5"/>
 				<imgdir name="Npc">
-					<string name="0" value="Kia"/>
+					<string name="0" value="1102007"/>
 				</imgdir>
 				<imgdir name="Mob">
 					<string name="0" value="0100121"/>
@@ -8921,7 +8900,7 @@
 			<imgdir name="west00">
 				<string name="Title" value="Way out of the Forest of Beginning"/>
 				<imgdir name="Npc">
-					<string name="0" value="Kisha"/>
+					<string name="0" value="1102008"/>
 				</imgdir>
 			</imgdir>
 		</imgdir>
@@ -8932,20 +8911,29 @@
 			<imgdir name="east00">
 				<string name="Title" value="Rien"/>
 				<imgdir name="Npc">
-					<string name="0" value="Lilin"/>
-					<string name="1" value="Giant Polearm"/>
-					<string name="2" value="Pusla"/>
-					<string name="3" value="Puno"/>
-					<string name="4" value="Puri Puri"/>
-					<string name="6" value="Gaga"/>
-					<string name="7" value="Cassandra"/>
-					<string name="5" value="Maple Administrator"/>
+					<string name="0" value="1201000"/>
+					<string name="1" value="1200001"/>
+					<string name="2" value="1200002"/>
+					<string name="3" value="1200000"/>
+					<string name="4" value="9010010"/>
+					<string name="5" value="9010000"/>
+					<string name="6" value="9010009"/>
+					<string name="7" value="1201001"/>
+					<string name="8" value="1201002"/>
+					<string name="9" value="9000086"/>
+					<string name="10" value="9000088"/>
+					<string name="11" value="9000087"/>
+					<string name="12" value="9000123"/>
+					<string name="13" value="9062009"/>
+					<string name="14" value="9000124"/>
+					<string name="15" value="9010106"/>
+					<string name="16" value="9010109"/>
 				</imgdir>
 			</imgdir>
 			<imgdir name="west00">
 				<string name="Title" value="Entrance to Rien Training Center"/>
 				<imgdir name="Npc">
-					<string name="0" value="Puo"/>
+					<string name="0" value="1202006"/>
 				</imgdir>
 			</imgdir>
 		</imgdir>
@@ -8959,7 +8947,8 @@
 			<imgdir name="east00">
 				<string name="Title" value="Penguin Port"/>
 				<imgdir name="Npc">
-					<string name="0" value="Puro"/>
+					<string name="0" value="1200003"/>
+					<string name="1" value="2159453"/>
 				</imgdir>
 			</imgdir>
 		</imgdir>
@@ -8970,8 +8959,8 @@
 			<imgdir name="west00">
 				<string name="Title" value="Cold Forest 2"/>
 				<imgdir name="Npc">
-					<string name="0" value="Puen"/>
-					<string name="1" value="Puir"/>
+					<string name="0" value="1202002"/>
+					<string name="1" value="1202003"/>
 				</imgdir>
 			</imgdir>
 		</imgdir>
@@ -8979,7 +8968,7 @@
 			<imgdir name="west00">
 				<string name="Title" value="Cold Forest 3"/>
 				<imgdir name="Npc">
-					<string name="0" value="Purun"/>
+					<string name="0" value="1202004"/>
 				</imgdir>
 				<imgdir name="Mob">
 					<string name="0" value="9300383"/>
@@ -8990,7 +8979,7 @@
 			<imgdir name="west00">
 				<string name="Title" value="Cold Forest 4"/>
 				<imgdir name="Npc">
-					<string name="0" value="Putzki"/>
+					<string name="0" value="1202005"/>
 				</imgdir>
 			</imgdir>
 		</imgdir>
@@ -9004,9 +8993,10 @@
 			<imgdir name="in00">
 				<string name="Title" value="Hall of Heroes"/>
 				<imgdir name="Npc">
-					<string name="0" value="Heracle"/>
-					<string name="1" value="Leah"/>
-					<string name="2" value="Lenario"/>
+					<string name="0" value="2010007"/>
+					<string name="1" value="2010009"/>
+					<string name="2" value="2012041"/>
+					<string name="3" value="2010010"/>
 				</imgdir>
 			</imgdir>
 		</imgdir>
@@ -9017,7 +9007,14 @@
 			<imgdir name="eliza">
 				<string name="Title" value="King Sage Cat"/>
 				<imgdir name="Npc">
-					<string name="0" value="Eliza"/>
+					<string name="0" value="2012026"/>
+					<string name="1" value="2012027"/>
+					<string name="2" value="2012028"/>
+					<string name="3" value="2012029"/>
+					<string name="4" value="2012030"/>
+					<string name="5" value="2012031"/>
+					<string name="6" value="2012032"/>
+					<string name="7" value="2012033"/>
 				</imgdir>
 			</imgdir>
 		</imgdir>
@@ -9140,6 +9137,30 @@
 			<string name="in00" value="To the Past"/>
 		</imgdir>
 		<imgdir name="229000000">
+			<imgdir name="in00">
+				<string name="Title" value="Sophelia&apos;s Room"/>
+				<imgdir name="Npc">
+					<string name="0" value="2120005"/>
+				</imgdir>
+			</imgdir>
+			<imgdir name="in03">
+				<string name="Title" value="Library"/>
+				<imgdir name="Mob">
+					<string name="0" value="9500184"/>
+				</imgdir>
+			</imgdir>
+			<imgdir name="in10">
+				<string name="Title" value="Guest Room 1"/>
+				<imgdir name="Npc">
+					<string name="0" value="2120026"/>
+				</imgdir>
+			</imgdir>
+			<imgdir name="in11">
+				<string name="Title" value="Guest Room 2"/>
+				<imgdir name="Mob">
+					<string name="0" value="9500192"/>
+				</imgdir>
+			</imgdir>
 			<imgdir name="in12">
 				<string name="Title" value="Guest Room 3"/>
 				<imgdir name="Mob">
@@ -9154,30 +9175,6 @@
 			</imgdir>
 			<string name="in01" value="Second Floor Corridor"/>
 			<string name="in02" value="Chimney"/>
-			<imgdir name="in10">
-				<string name="Title" value="Guest Room 1"/>
-				<imgdir name="Npc">
-					<string name="0" value="Mimet"/>
-				</imgdir>
-			</imgdir>
-			<imgdir name="in11">
-				<string name="Title" value="Guest Room 2"/>
-				<imgdir name="Mob">
-					<string name="0" value="9500192"/>
-				</imgdir>
-			</imgdir>
-			<imgdir name="in00">
-				<string name="Title" value="Sophelia&apos;s Room"/>
-				<imgdir name="Npc">
-					<string name="0" value="Sophelia"/>
-				</imgdir>
-			</imgdir>
-			<imgdir name="in03">
-				<string name="Title" value="Library"/>
-				<imgdir name="Mob">
-					<string name="0" value="9500184"/>
-				</imgdir>
-			</imgdir>
 		</imgdir>
 		<imgdir name="229000200">
 			<string name="in02" value="Frame Room"/>
@@ -9248,7 +9245,8 @@
 			<imgdir name="west00">
 				<string name="Title" value="Leafre Station Entrance"/>
 				<imgdir name="Npc">
-					<string name="0" value="Mue"/>
+					<string name="0" value="2082000"/>
+					<string name="1" value="9072000"/>
 				</imgdir>
 			</imgdir>
 		</imgdir>
@@ -9262,7 +9260,7 @@
 			<imgdir name="in00">
 				<string name="Title" value="Isolated Forest"/>
 				<imgdir name="Npc">
-					<string name="0" value="Nix"/>
+					<string name="0" value="2081012"/>
 				</imgdir>
 			</imgdir>
 		</imgdir>
@@ -9270,7 +9268,7 @@
 			<imgdir name="in00">
 				<string name="Title" value="Isolated Forest"/>
 				<imgdir name="Npc">
-					<string name="0" value="Nix"/>
+					<string name="0" value="2081012"/>
 				</imgdir>
 			</imgdir>
 		</imgdir>
@@ -9281,7 +9279,7 @@
 			<imgdir name="in00">
 				<string name="Title" value="Isolated Forest"/>
 				<imgdir name="Npc">
-					<string name="0" value="Nix"/>
+					<string name="0" value="2081012"/>
 				</imgdir>
 			</imgdir>
 		</imgdir>
@@ -9291,6 +9289,7 @@
 				<imgdir name="Npc">
 					<string name="0" value="Nix"/>
 				</imgdir>
+				<string name="0" value="2081012"/>
 			</imgdir>
 		</imgdir>
 		<imgdir name="240020500">
@@ -9374,7 +9373,7 @@
 			<imgdir name="pt_east">
 				<string name="Title" value="Stone Colossus Arm"/>
 				<imgdir name="Npc">
-					<string name="0" value="Stone Colossus"/>
+					<string name="0" value="2210007"/>
 				</imgdir>
 			</imgdir>
 		</imgdir>
@@ -9390,7 +9389,7 @@
 			<imgdir name="pt_down">
 				<string name="Title" value="Stone Colossus Arm"/>
 				<imgdir name="Npc">
-					<string name="0" value="Stone Colossus"/>
+					<string name="0" value="2210007"/>
 				</imgdir>
 			</imgdir>
 		</imgdir>
@@ -9406,7 +9405,7 @@
 			<imgdir name="pt_out">
 				<string name="Title" value="Stone Colossus Arm"/>
 				<imgdir name="Npc">
-					<string name="0" value="Stone Colossus"/>
+					<string name="0" value="2210007"/>
 				</imgdir>
 			</imgdir>
 		</imgdir>
@@ -9430,7 +9429,7 @@
 			<imgdir name="pt_out">
 				<string name="Title" value="Stone Colossus Arm"/>
 				<imgdir name="Npc">
-					<string name="0" value="Stone Colossus"/>
+					<string name="0" value="2210014"/>
 				</imgdir>
 			</imgdir>
 		</imgdir>
@@ -9670,8 +9669,12 @@
 			<imgdir name="west00">
 				<string name="Title" value="Three Doors"/>
 				<imgdir name="Npc">
-					<string name="0" value="Temple Keeper"/>
-					<string name="1" value="Bastille"/>
+					<string name="0" value="2140000"/>
+					<string name="1" value="2144001"/>
+					<string name="2" value="2140006"/>
+					<string name="3" value="2140004"/>
+					<string name="4" value="2140008"/>
+					<string name="5" value="1520021"/>
 				</imgdir>
 			</imgdir>
 		</imgdir>
@@ -9734,37 +9737,55 @@
 			<imgdir name="out00">
 				<string name="Title" value="Top of the Citadel"/>
 				<imgdir name="Npc">
-					<string name="0" value="Johan"/>
-					<string name="1" value="Jahara"/>
-					<string name="2" value="Dr. Pepper"/>
-					<string name="3" value="Pai-jin"/>
-					<string name="4" value="Woon-lai"/>
-					<string name="5" value="Gurney"/>
-					<string name="6" value="Ridley"/>
+					<string name="0" value="2134000"/>
+					<string name="1" value="2134001"/>
+					<string name="2" value="2134002"/>
+					<string name="3" value="2134003"/>
+					<string name="4" value="2134004"/>
+					<string name="5" value="2134005"/>
+					<string name="6" value="2134006"/>
+					<string name="7" value="2134007"/>
+					<string name="8" value="2134008"/>
+					<string name="9" value="2134009"/>
+					<string name="10" value="2134010"/>
+					<string name="11" value="2134011"/>
+					<string name="12" value="2134012"/>
 				</imgdir>
 			</imgdir>
 			<imgdir name="out01">
 				<string name="Title" value="Top of the Citadel"/>
 				<imgdir name="Npc">
-					<string name="0" value="Johan"/>
-					<string name="1" value="Jahara"/>
-					<string name="2" value="Dr. Pepper"/>
-					<string name="3" value="Pai-jin"/>
-					<string name="4" value="Woon-lai"/>
-					<string name="5" value="Gurney"/>
-					<string name="6" value="Ridley"/>
+					<string name="0" value="2134000"/>
+					<string name="1" value="2134001"/>
+					<string name="2" value="2134002"/>
+					<string name="3" value="2134003"/>
+					<string name="4" value="2134004"/>
+					<string name="5" value="2134005"/>
+					<string name="6" value="2134006"/>
+					<string name="7" value="2134007"/>
+					<string name="8" value="2134008"/>
+					<string name="9" value="2134009"/>
+					<string name="10" value="2134010"/>
+					<string name="11" value="2134011"/>
+					<string name="12" value="2134012"/>
 				</imgdir>
 			</imgdir>
 			<imgdir name="out02">
 				<string name="Title" value="Top of the Citadel"/>
 				<imgdir name="Npc">
-					<string name="0" value="Johan"/>
-					<string name="1" value="Jahara"/>
-					<string name="2" value="Dr. Pepper"/>
-					<string name="3" value="Pai-jin"/>
-					<string name="4" value="Woon-lai"/>
-					<string name="5" value="Gurney"/>
-					<string name="6" value="Ridley"/>
+					<string name="0" value="2134000"/>
+					<string name="1" value="2134001"/>
+					<string name="2" value="2134002"/>
+					<string name="3" value="2134003"/>
+					<string name="4" value="2134004"/>
+					<string name="5" value="2134005"/>
+					<string name="6" value="2134006"/>
+					<string name="7" value="2134007"/>
+					<string name="8" value="2134008"/>
+					<string name="9" value="2134009"/>
+					<string name="10" value="2134010"/>
+					<string name="11" value="2134011"/>
+					<string name="12" value="2134012"/>
 				</imgdir>
 			</imgdir>
 		</imgdir>
@@ -9772,19 +9793,37 @@
 			<imgdir name="FCPzone_start">
 				<string name="Title" value="Top of the Citadel"/>
 				<imgdir name="Npc">
-					<string name="0" value="Jahara"/>
-					<string name="1" value="Dr. Pepper"/>
-					<string name="2" value="Pai-jin"/>
-					<string name="3" value="Ridley"/>
+					<string name="0" value="2134000"/>
+					<string name="1" value="2134001"/>
+					<string name="2" value="2134002"/>
+					<string name="3" value="2134003"/>
+					<string name="4" value="2134004"/>
+					<string name="5" value="2134005"/>
+					<string name="6" value="2134006"/>
+					<string name="7" value="2134007"/>
+					<string name="8" value="2134008"/>
+					<string name="9" value="2134009"/>
+					<string name="10" value="2134010"/>
+					<string name="11" value="2134011"/>
+					<string name="12" value="2134012"/>
 				</imgdir>
 			</imgdir>
 			<imgdir name="FCPzone_out">
 				<string name="Title" value="Top of the Citadel"/>
 				<imgdir name="Npc">
-					<string name="0" value="Jahara"/>
-					<string name="1" value="Dr. Pepper"/>
-					<string name="2" value="Pai-jin"/>
-					<string name="3" value="Ridley"/>
+					<string name="0" value="2134000"/>
+					<string name="1" value="2134001"/>
+					<string name="2" value="2134002"/>
+					<string name="3" value="2134003"/>
+					<string name="4" value="2134004"/>
+					<string name="5" value="2134005"/>
+					<string name="6" value="2134006"/>
+					<string name="7" value="2134007"/>
+					<string name="8" value="2134008"/>
+					<string name="9" value="2134009"/>
+					<string name="10" value="2134010"/>
+					<string name="11" value="2134011"/>
+					<string name="12" value="2134012"/>
 				</imgdir>
 			</imgdir>
 		</imgdir>
@@ -9792,7 +9831,19 @@
 			<imgdir name="out00">
 				<string name="Title" value="Top of the Citadel"/>
 				<imgdir name="Npc">
-					<string name="0" value="Ridley"/>
+					<string name="0" value="2134000"/>
+					<string name="1" value="2134001"/>
+					<string name="2" value="2134002"/>
+					<string name="3" value="2134003"/>
+					<string name="4" value="2134004"/>
+					<string name="5" value="2134005"/>
+					<string name="6" value="2134006"/>
+					<string name="7" value="2134007"/>
+					<string name="8" value="2134008"/>
+					<string name="9" value="2134009"/>
+					<string name="10" value="2134010"/>
+					<string name="11" value="2134011"/>
+					<string name="12" value="2134012"/>
 				</imgdir>
 			</imgdir>
 		</imgdir>
@@ -9836,13 +9887,15 @@
 			<imgdir name="in02">
 				<string name="Title" value="Edelstein Temporary Airport"/>
 				<imgdir name="Npc">
-					<string name="0" value="Ace"/>
+					<string name="0" value="2150008"/>
+					<string name="1" value="9072000"/>
 				</imgdir>
 			</imgdir>
 			<imgdir name="in03">
 				<string name="Title" value="Edelstein Hair Salon"/>
 				<imgdir name="Npc">
-					<string name="0" value="Fabio"/>
+					<string name="0" value="2150003"/>
+					<string name="1" value="2121018"/>
 				</imgdir>
 			</imgdir>
 		</imgdir>
@@ -9853,9 +9906,11 @@
 			<imgdir name="east00">
 				<string name="Title" value="Power Plant Lobby"/>
 				<imgdir name="Npc">
-					<string name="0" value="Le Tierre"/>
-					<string name="1" value="Buck Teeth"/>
-					<string name="2" value="Gabrielle"/>
+					<string name="0" value="2154002"/>
+					<string name="1" value="2154004"/>
+					<string name="2" value="2154005"/>
+					<string name="3" value="2154016"/>
+					<string name="4" value="1541005"/>
 				</imgdir>
 			</imgdir>
 		</imgdir>
@@ -10266,7 +10321,7 @@
 			<imgdir name="pt00">
 				<string name="Title" value="Where the Fox Tree Touches"/>
 				<imgdir name="Npc">
-					<string name="0" value="Staff"/>
+					<string name="0" value="3002029"/>
 				</imgdir>
 			</imgdir>
 		</imgdir>
@@ -10274,7 +10329,8 @@
 			<imgdir name="west00">
 				<string name="Title" value="Fox Tree Top"/>
 				<imgdir name="Npc">
-					<string name="0" value="Maru"/>
+					<string name="0" value="3002020"/>
+					<string name="1" value="3002026"/>
 				</imgdir>
 			</imgdir>
 		</imgdir>
@@ -10295,6 +10351,28 @@
 		<imgdir name="410000340">
 			<imgdir name="east00">
 				<string name="Title" value="Mansion Corridor 1"/>
+			</imgdir>
+		</imgdir>
+		<imgdir name="410003020">
+			<imgdir name="west00">
+				<string name="Title" value="Train with No Destination 1"/>
+				<int name="barrierAut" value="200"/>
+				<imgdir name="Mob">
+					<string name="0" value="8645204"/>
+				</imgdir>
+			</imgdir>
+		</imgdir>
+		<imgdir name="410003080">
+			<imgdir name="west00">
+				<string name="Title" value="Hotel Arcus Saloon"/>
+				<imgdir name="Npc">
+					<string name="0" value="3005001"/>
+					<string name="1" value="3005012"/>
+					<string name="2" value="3005023"/>
+					<string name="3" value="3005024"/>
+					<string name="4" value="3005016"/>
+					<string name="5" value="3005028"/>
+				</imgdir>
 			</imgdir>
 		</imgdir>
 		<imgdir name="450003000">
@@ -10360,8 +10438,8 @@
 			<imgdir name="east00">
 				<string name="Title" value="Jellyfish Above Surface"/>
 				<imgdir name="Npc">
-					<string name="0" value="Shubert"/>
-					<string name="1" value="Ollie"/>
+					<string name="0" value="3004820"/>
+					<string name="1" value="3004821"/>
 				</imgdir>
 			</imgdir>
 		</imgdir>
@@ -10424,8 +10502,24 @@
 			<imgdir name="east00">
 				<string name="Title" value="Crash Site"/>
 				<imgdir name="Npc">
-					<string name="0" value="Silent Chest"/>
-					<string name="1" value="Dark Chest"/>
+					<string name="0" value="3003789"/>
+					<string name="1" value="3003788"/>
+					<string name="2" value="3003787"/>
+					<string name="3" value="3003790"/>
+					<string name="4" value="3003791"/>
+					<string name="5" value="3003792"/>
+					<string name="6" value="3003793"/>
+					<string name="7" value="3003794"/>
+					<string name="8" value="3003795"/>
+					<string name="9" value="3003796"/>
+					<string name="10" value="3003797"/>
+					<string name="11" value="3003798"/>
+					<string name="12" value="3003799"/>
+					<string name="13" value="3003800"/>
+					<string name="14" value="3003704"/>
+					<string name="15" value="3003745"/>
+					<string name="16" value="3003744"/>
+					<string name="17" value="3003715"/>
 				</imgdir>
 			</imgdir>
 		</imgdir>
@@ -10463,8 +10557,12 @@
 			<imgdir name="east00">
 				<string name="Title" value="Labyrinth of Suffering Deep Core"/>
 				<imgdir name="Npc">
-					<string name="0" value="Silent Chest"/>
-					<string name="1" value="Dark Chest"/>
+					<string name="0" value="3003748"/>
+					<string name="1" value="3003749"/>
+					<string name="2" value="9010022"/>
+					<string name="3" value="9000123"/>
+					<string name="4" value="9000124"/>
+					<string name="5" value="3003810"/>
 				</imgdir>
 			</imgdir>
 		</imgdir>
@@ -10516,12 +10614,19 @@
 			<imgdir name="east00">
 				<string name="Title" value="End of the World 1-1"/>
 				<imgdir name="Npc">
-					<string name="0" value="Cygnus Soldier"/>
-					<string name="1" value="Cygnus Soldier"/>
-					<string name="2" value="Cygnus Soldier"/>
-					<string name="3" value="Cygnus Soldier"/>
-					<string name="4" value="Velivah"/>
-					<string name="5" value="Lorelai"/>
+					<string name="0" value="3003960"/>
+					<string name="1" value="3003659"/>
+					<string name="2" value="3003659"/>
+					<string name="3" value="3003659"/>
+					<string name="4" value="3003659"/>
+					<string name="5" value="3003965"/>
+					<string name="6" value="9010022"/>
+					<string name="7" value="9000123"/>
+					<string name="8" value="9000124"/>
+					<string name="9" value="3003810"/>
+					<string name="10" value="3003811"/>
+					<string name="11" value="3003645"/>
+					<string name="12" value="3003644"/>
 				</imgdir>
 			</imgdir>
 			<imgdir name="in00">
@@ -10532,11 +10637,11 @@
 			<imgdir name="east00">
 				<string name="Title" value="End of the World 2-1"/>
 				<imgdir name="Npc">
-					<string name="0" value="Claudine"/>
-					<string name="1" value="Resistance Soldier"/>
-					<string name="2" value="Resistance Soldier"/>
-					<string name="3" value="Resistance Soldier"/>
-					<string name="4" value="Resistance Soldier"/>
+					<string name="0" value="3003660"/>
+					<string name="1" value="3003660"/>
+					<string name="2" value="3003660"/>
+					<string name="3" value="3003660"/>
+					<string name="4" value="3003961"/>
 				</imgdir>
 			</imgdir>
 		</imgdir>
@@ -10571,8 +10676,15 @@
 			<imgdir name="east00">
 				<string name="Title" value="The Jellyfish"/>
 				<imgdir name="Npc">
-					<string name="0" value="Shubert"/>
-					<string name="1" value="Ollie"/>
+					<string name="0" value="3004804"/>
+					<string name="1" value="3004810"/>
+					<string name="2" value="9000123"/>
+					<string name="3" value="9000124"/>
+					<string name="4" value="9010106"/>
+					<string name="5" value="9010109"/>
+					<string name="6" value="9010022"/>
+					<string name="7" value="3004822"/>
+					<string name="8" value="3004823"/>
 				</imgdir>
 			</imgdir>
 			<imgdir name="west00">
@@ -11373,27 +11485,6 @@
 			</imgdir>
 			<imgdir name="pt02">
 				<string name="Title" value="Sky-Touched Land 2"/>
-			</imgdir>
-		</imgdir>
-		<imgdir name="410003020">
-			<imgdir name="west00">
-				<string name="Title" value="Train with No Destination 1"/>
-				<int name="barrierAut" value="200"/>
-				<imgdir name="Mob">
-					<string name="0" value="8645204"/>
-				</imgdir>
-			</imgdir>
-		</imgdir>
-		<imgdir name="410003080">
-			<imgdir name="west00">
-				<string name="Title" value="Hotel Arcus Saloon"/>
-				<imgdir name="Npc">
-					<string name="0" value="Rusty"/>
-					<string name="1" value="Archelon"/>
-					<string name="2" value="Belle"/>
-					<string name="3" value="Irena"/>
-					<string name="4" value="Senya"/>
-				</imgdir>
 			</imgdir>
 		</imgdir>
 		<imgdir name="100030000">
