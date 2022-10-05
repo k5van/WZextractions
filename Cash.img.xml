@@ -13381,4 +13381,20 @@ Upon using the cube, the value of all potentials #cwill become consistent with t
 		<string name="name" value="Stump Pals Shared Pet Food"/>
 		<string name="desc" value="This Pet Snack can only be consumed by #cStump Pal# pets. Restores Fullness completely and#c increases Closeness by 100.#"/>
 	</imgdir>
+	<imgdir name="5240233">
+		<string name="name" value="Express Delivery Postman Shared Pet Food"/>
+		<string name="desc" value="This Pet Snack can only be consumed by #cExpress Delivery Postman# pets. Restores Fullness completely and#c increases Closeness by 100.#"/>
+	</imgdir>
+	<imgdir name="5538571">
+		<string name="name" value="aa"/>
+		<string name="desc" value="aa"/>
+	</imgdir>
+	<imgdir name="5538572">
+		<string name="name" value="aa"/>
+		<string name="desc" value="aa"/>
+	</imgdir>
+	<imgdir name="5538573">
+		<string name="name" value="aa"/>
+		<string name="desc" value="aa"/>
+	</imgdir>
 </imgdir>

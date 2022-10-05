@@ -2226,8 +2226,8 @@
 		<string name="descD" value=" Your pet has turned into a doll. You can revive it with the Water of Life."/>
 	</imgdir>
 	<imgdir name="5002390">
-		<string name="name" value="Raarr!"/>
-		<string name="desc" value="Freeze, hands up! #cGrrr# is trying to be intimidating."/>
+		<string name="name" value="Grr"/>
+		<string name="desc" value="Freeze, hands up! #cGrr# is trying to be intimidating."/>
 		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
 	</imgdir>
 	<imgdir name="5002391">
@@ -5858,6 +5858,36 @@
 	<imgdir name="5002521">
 		<string name="name" value="D. Axe Stump"/>
 		<string name="desc" value="A #cDark Axe Stump Pet#.\nEquip to obtain the #cStump Pals Pet# skill, which grows stronger as you equip more Stump Pals pets (max 3)."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002525">
+		<string name="name" value="Sheepostman"/>
+		<string name="desc" value="A #cSheepostman Pet#.\nEquip to obtain the #cExpress Delivery Postman Pet# skill, which grows stronger as you equip more Express Delivery Postman pets (max 3)."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002526">
+		<string name="name" value="Elepostman"/>
+		<string name="desc" value="An #cElepostman Pet#.\nEquip to obtain the #cExpress Delivery Postman Pet# skill, which grows stronger as you equip more Express Delivery Postman pets (max 3)."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002527">
+		<string name="name" value="Slostman"/>
+		<string name="desc" value="A #cSlostman Pet#.\nEquip to obtain the #cExpress Delivery Postman Pet# skill, which grows stronger as you equip more Express Delivery Postman pets (max 3)."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002420">
+		<string name="name" value="Pumpkin Jack"/>
+		<string name="desc" value="Mischievous Halloween Pumpkin Jack"/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002421">
+		<string name="name" value="Pumpkin Zack"/>
+		<string name="desc" value="Mischievous Halloween Pumpkin Zack"/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002422">
+		<string name="name" value="Pumpkin Mack"/>
+		<string name="desc" value="Mischievous Halloween Pumpkin Mack"/>
 		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
 	</imgdir>
 </imgdir>

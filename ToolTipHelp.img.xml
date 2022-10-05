@@ -8534,6 +8534,18 @@
 				<string name="Title" value="Rest Here to Gain Insight."/>
 			</imgdir>
 		</imgdir>
+		<imgdir name="867158000">
+			<imgdir name="0">
+				<string name="Title" value="Human Cannonball Attraction"/>
+				<string name="Desc" value="Press the Up Arrow Key at the cannon entrance!"/>
+			</imgdir>
+		</imgdir>
+		<imgdir name="867158100">
+			<imgdir name="0">
+				<string name="Title" value="Return to festival venue"/>
+				<string name="Desc" value="You&apos;ll automatically exit when you rise above the water level."/>
+			</imgdir>
+		</imgdir>
 	</imgdir>
 	<imgdir name="PortalTooltip">
 		<imgdir name="100000000">

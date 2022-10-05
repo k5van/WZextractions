@@ -357,7 +357,7 @@
 	</imgdir>
 	<imgdir name="0001002">
 		<string name="name" value="Nimble Feet"/>
-		<string name="desc" value="[Master Level : 3]\nEnables the character to move around quickly for a short amount of time. \n#cTerms between skills : 1 min.#"/>
+		<string name="desc" value="[Master Level: 3]\nTemporarily enables the user to move around quickly. \n#cCooldown: 1 min#"/>
 		<string name="h1" value="MP Cost: 4, Duration: 4 sec, Movement Speed: 10"/>
 		<string name="h2" value="MP Cost: 7, Duration: 8 sec, Movement Speed: 15"/>
 		<string name="h3" value="MP Cost: 10, Duration: 12 sec, Movement Speed: 20"/>
@@ -1223,7 +1223,7 @@
 	</imgdir>
 	<imgdir name="1001010">
 		<string name="name" value="Leap Attack"/>
-		<string name="desc" value="Ambush the enemy by rapidly dropping to ground from mid-air.\nCan only be used if there&apos;s a platform within range below you. Use along with a left or right arrow keys to drop yourself diagonally.\nCan also be used by pressing the downward and left or right arrow keys plus the attack key, instead of manually activating the skill."/>
+		<string name="desc" value="Ambush the enemy by rapidly dropping to ground from mid-air.\nCan only be used if there&apos;s a platform within range below you. Use along with a left or right arrow keys to drop yourself diagonally.\nCan also be used by pressing the downward, left, or right arrow keys plus the attack key, instead of manually activating the skill."/>
 		<string name="h" value="MP Cost: #mpCon, Damage: #damage%, Number of Attacks: #attackCount, Max Enemies Hit: #mobCount"/>
 	</imgdir>
 	<imgdir name="1001011">
@@ -2048,7 +2048,7 @@
 		<string name="h" value="MP Cost: #mpCon, Weapon&apos;s Attack Speed increased for #time sec"/>
 	</imgdir>
 	<imgdir name="1301006">
-		<string name="name" value="Iron Will"/>
+		<string name="name" value="Iron Wall"/>
 		<string name="desc" value="Increases the Defense of party members for a short time."/>
 		<string name="h" value="MP Cost: #mpCon, DEF: +#pdd, Duration: #time sec"/>
 		<string name="pdesc" value="Increases the Weapon Defense and Magic Defense of team members for a fixed period of time."/>
@@ -2056,7 +2056,7 @@
 	</imgdir>
 	<imgdir name="1301007">
 		<string name="name" value="Hyper Body"/>
-		<string name="desc" value="Increases Max HP and Max MP for a short time.\nRequired Skill: #cIron Will Lv. 3#"/>
+		<string name="desc" value="Increases Max HP and Max MP for a short time.\nRequired Skill: #cIron Wall Lv. 3#"/>
 		<string name="h" value="MP Cost: #mpCon, Max HP and Max MP: +#x%, Duration: #time sec"/>
 	</imgdir>
 	<imgdir name="1301008">
@@ -2190,7 +2190,7 @@
 	<imgdir name="1311012">
 		<string name="name" value="Rush"/>
 		<string name="desc" value="Dashes forward and pushes back multiple monsters. Can be resisted by some monsters."/>
-		<string name="h" value="MP Cost: #mpCon, Max Enemies Hit: #mobCount, Damage: #damage%, Number of Attacks: #attackCount. If you continuously press and hold the key, lasts up to #time sec. Attack with #y% damage when you release the key"/>
+		<string name="h" value="MP Cost: #mpCon, Damage: #damage%, Max Enemies Pushed: #mobCount"/>
 	</imgdir>
 	<imgdir name="1311014">
 		<string name="name" value="Evil Eye Shock"/>
@@ -4597,7 +4597,7 @@
 	<imgdir name="3011004">
 		<string name="name" value="Cardinal Deluge"/>
 		<string name="desc" value="#c[Cardinal Force]#\nAn archery technique that zeroes in on targets within range. Guided shots target the boss with the highest HP first, and are unaffected by attack reflection.\n#cLevel 20 required to learn Cardinal Deluge Amplification.#"/>
-		<string name="h" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="h" value="MP Cost: #mpCon, Max Enemies Hit: #mobCount. Blasts an arrow that deals #damage% damage #attackCount times."/>
 	</imgdir>
 	<imgdir name="3011005">
 		<string name="name" value="Double Jump"/>
@@ -5856,7 +5856,7 @@
 	</imgdir>
 	<imgdir name="4300000">
 		<string name="name" value="Katara Mastery"/>
-		<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="desc" value="Increases Dagger and Katara Mastery.\n#cLv. 5 required to learn Katara Booster.# \n#cLv. 10 required to learn Katara Expert.#"/>
 		<string name="h" value="Dagger and Katara Mastery: +#mastery%"/>
 	</imgdir>
 	<imgdir name="4300008">
@@ -7930,7 +7930,7 @@
 	</imgdir>
 	<imgdir name="10001002">
 		<string name="name" value="Nimble Feet"/>
-		<string name="desc" value="[Master Level : 3]\nEnables the character to move around quickly for a short amount of time. \n#cTerms between skills : 1 min.#"/>
+		<string name="desc" value="[Master Level: 3]\nTemporarily enables the user to move around quickly. \n#cCooldown: 1 min#"/>
 		<string name="h1" value="MP Cost: 4, Duration: 4 sec, Movement Speed: 10"/>
 		<string name="h2" value="MP Cost: 7, Duration: 8 sec, Movement Speed: 15"/>
 		<string name="h3" value="MP Cost: 10, Duration: 12 sec, Movement Speed: 20"/>
@@ -38894,7 +38894,7 @@ Decrease the Speed of enemy in the area by #s%, and enemy&apos;s DEF Ignored by 
 	</imgdir>
 	<imgdir name="155111005">
 		<string name="name" value="Gust Buff"/>
-		<string name="desc" value="Increases Speed and Avoidability when Gust Cast hits."/>
+		<string name="desc" value="Increases Attack Speed and Avoidability when Gust Cast hits."/>
 		<string name="h" value="Duration: #time, Attack Speed: +1, Avoidability: +#indieEvaR%"/>
 	</imgdir>
 	<imgdir name="155111006">
@@ -39568,7 +39568,7 @@ Manifest the power of the river within a Dragon Vein to allow travel along the r
 	<imgdir name="162120011">
 		<string name="name" value="Nature Master"/>
 		<string name="desc" value="Become one with nature to better wield its powers. Using Eruption skills allows you to draw out even greater potential from Dragon Veins, increasing the power of Eruption skills. Does not stack with 3rd job Manifestation skill passive effects.\nRequired Skills: #cManifestation: Where the River Courses Lv. 20+#, #cManifestation: Wind Swing Lv. 20+#, #cManifestation: Sunlight Filled Ground Lv. 20+#"/>
-		<string name="h" value="Eruption Skill Duration: +#q sec\n#cHeaving River#\nSurge Max Enemies Hit: +#q2, Number of Attacks: +#dot, Damage: #u%. Periodically creates a big surge with Max Enemies Hit: #mobCount, Damage: #damage%, Number of Attacks: #attackCount. Max Surge Count: A normal surge and a big surge, for a total of #u2.\n#cWhirlwind#\nIncreases whirlwind range, Max Enemies Hit: +#w2, Damage: #w%\n#cSunrise Well#\nGiant Max Enemies Hit: +#x, Damage: #v%. Increases lava area creation range, Lava Area Damage: #v2%, Volcanic Bomb Damage: #z%, Damage Over Time for enemies hit with volcanic bombs: #y%. Creates volcanic bombs more frequently, #s at a time, up to #s2 time(s)."/>
+		<string name="h" value="Eruption Skill Duration: #q sec\n#cHeaving River#\nSurge Max Enemies Hit: +#q2, Number of Attacks: +#dot, Damage: #u%. Periodically creates a big surge with Max Enemies Hit: #mobCount, Damage: #damage%, Number of Attacks: #attackCount. Max Surge Count: A normal surge and a big surge, for a total of #u2.\n#cWhirlwind#\nIncreases whirlwind range, Max Enemies Hit: +#w2, Damage: #w%\n#cSunrise Well#\nGiant Max Enemies Hit: +#x, Damage: #v%. Increases lava area creation range, Lava Area Damage: #v2%, Volcanic Bomb Damage: #z%, Damage Over Time for enemies hit with volcanic bombs: #y%. Creates volcanic bombs more frequently, #s at a time, up to #s2 time(s)."/>
 	</imgdir>
 	<imgdir name="162121012">
 		<string name="name" value="Eruption: Heaving River"/>
@@ -39633,7 +39633,7 @@ Manifest the power of the river within a Dragon Vein to allow travel along the r
 	<imgdir name="162120026">
 		<string name="name" value="In-depth Geomancy"/>
 		<string name="desc" value="Increases the power of skills by mastering geomancy."/>
-		<string name="h" value="Mountain Kid Appearance Rate: +#prop%, Increases Mountain Kid attack range\nMountain Kid Damage: +#u%p, Boss Monster Damage: +#v%p\nMountain Seed Damage: +#w%p, Mountain Seed Duration: +#time sec\nWakeup Call Damage: +#v2%p\nDragon Vein Traces Damage: +#q%p"/>
+		<string name="h" value="Mountain Kid Appearance Rate: +#prop%, Increases Mountain Kid attack range\nMountain Kid Damage: +#u%p, Boss Monster Damage: +#v%p\nMountain Seed Damage: +#w%p, Mountain Seed Duration: #time sec\nWakeup Call Damage: +#v2%p\nDragon Vein Traces Damage: +#q%p"/>
 	</imgdir>
 	<imgdir name="162120027">
 		<string name="name" value="Insight"/>
@@ -45168,7 +45168,7 @@ Manifest the power of the river within a Dragon Vein to allow travel along the r
 		<string name="h" value="#cAttack Power: +#padX, Magic ATT: +#madX#"/>
 	</imgdir>
 	<imgdir name="80000747">
-		<string name="name" value="Freeze, Hands Up Lv. 1"/>
+		<string name="name" value="Freeze, Hands Up Lv. 2"/>
 		<string name="desc" value="Kyaa! Aren&apos;t I scary?!\nIncreases your Attack Power and Magic ATT by 7."/>
 		<string name="h" value="#cAttack Power: +#padX, Magic ATT: +#madX#"/>
 	</imgdir>
@@ -48740,7 +48740,7 @@ For every 15 enemies near your level you defeat,\nthe #cFilm Gauge fills 1 slot#
 	</imgdir>
 	<imgdir name="40011005">
 		<string name="name" value="Echo of Hero"/>
-		<string name="desc" value="[Master Level : 1]\n Increase weapon attack and magic attack on all players around. \n#cTerms between skills : 2 hours#"/>
+		<string name="desc" value="[Master Level : 1]\n Increase weapon attack and magic attack on all players around. \n#cCooldown: 2 hours#"/>
 		<string name="h1" value="MP -30 Weapon attack +4%, Magic attack +4%  for 40Minutes"/>
 	</imgdir>
 	<imgdir name="40011006">
@@ -49117,7 +49117,7 @@ For every 15 enemies near your level you defeat,\nthe #cFilm Gauge fills 1 slot#
 	</imgdir>
 	<imgdir name="40021005">
 		<string name="name" value="Echo of Hero"/>
-		<string name="desc" value="[Master Level : 1]\n Increase weapon attack and magic attack on all players around. \n#cTerms between skills : 2 hours#"/>
+		<string name="desc" value="[Master Level : 1]\n Increase weapon attack and magic attack on all players around. \n#cCooldown: 2 hours#"/>
 		<string name="h1" value="Weapon attack +4%, Magic attack +4%  for 40Minutes"/>
 	</imgdir>
 	<imgdir name="40021006">
@@ -49939,7 +49939,7 @@ For every 15 enemies near your level you defeat,\nthe #cFilm Gauge fills 1 slot#
 	<imgdir name="42120011">
 		<string name="name" value="Haku Perfected"/>
 		<string name="desc" value="Liberate Haku&apos;s Mana, upgrading #cHaku Reborn# to #cHaku Reborn 2#. With his powers unfettered, Haku can take human form longer and use even more powerful Spirit Walker skills.\nRequired Skill: #cHaku Reborn Lv. 10#"/>
-		<string name="h" value="Mana Cost: #epCon, Transformation Duration: #time sec. Cooldown: #cooltime sec\n\nHaku&apos;s Spirit Walker Skills\n#c[Haku&apos;s Gift]#: When Kanna&apos;s HP is below 90%, restores #hp% of max HP. (Cooldown: #u sec)\n#c[Foxfire]#: Summons a barrier made up of 3 wisps of foxfire for #w sec. When Kanna is hit, the foxfire absorbs the damage instead, then attacks back by exploding for #y% damage. (Cooldown: #z sec)\n#c[Breath of the Unseen]#: Kanna&apos;s final damage increased by 3% for each party member (Always Applied).\n#c[Haku&apos;s Blessing]#: Increases Magic ATT for you and your party members by #x% of the Magic ATT of the Fan Haku has equipped in Equip tab (Always Applied. To check the effect, mouse over the Fan being equipped)"/>
+		<string name="h" value="Mana Cost: #epCon, Transformation Duration: #time sec. Cooldown: #cooltime sec\n\nHaku&apos;s Spirit Walker Skills\n#c[Haku&apos;s Gift]#: When Kanna&apos;s HP is below 90%, restores #hp% of max HP. (Cooldown: #u sec)\n#c[Foxfire]#: Summons a barrier made up of 3 wisps of foxfire for #w sec. When Kanna is hit, the foxfire absorbs the damage instead, then attacks back by exploding for #y% damage. (Cooldown: #z sec)\n#c[Breath of the Unseen]#: Kanna&apos;s final damage increased by 5% for each party member (Always Applied).\n#c[Haku&apos;s Blessing]#: Increases Magic ATT for you and your party members by #x% of the Magic ATT of the Fan Haku has equipped in Equip tab (Always Applied. To check the effect, mouse over the Fan being equipped)"/>
 	</imgdir>
 	<imgdir name="42120024">
 		<string name="name" value="Haku Reborn 2"/>
@@ -56122,5 +56122,140 @@ Celestial Rank S: 5% EXP per stack."/>
 		<string name="name" value="Lv. 3 Stump Pals Pet"/>
 		<string name="desc" value="The power of the Stump Pals surges! Increases your Attack Power and Magic ATT by 7."/>
 		<string name="h" value="#cAttack Power: +#padX, Magic ATT: +#madX#"/>
+	</imgdir>
+	<imgdir name="80012390">
+		<string name="name" value="Gigantic Bunny Mount (90 Day)"/>
+		<string name="desc" value="[Master Level: 1]\nAllows you to ride a Gigantic Bunny mount."/>
+		<string name="h1" value="DEF: +10, Speed: +170, Jump: +120"/>
+	</imgdir>
+	<imgdir name="80012391">
+		<string name="name" value="Permanent Gigantic Bunny Mount"/>
+		<string name="desc" value="[Master Level: 1]\nAllows you to ride a Gigantic Bunny mount."/>
+		<string name="h1" value="DEF: +10, Speed: +170, Jump: +120"/>
+	</imgdir>
+	<imgdir name="80010182">
+		<string name="name" value="Lv. 1 Express Delivery Postman Pet"/>
+		<string name="desc" value="The power of the Express Delivery Postman surges! Increases your Attack Power and Magic ATT by 3."/>
+		<string name="h" value="#cAttack Power: +#padX, Magic ATT: +#madX#"/>
+	</imgdir>
+	<imgdir name="80010183">
+		<string name="name" value="Lv. 2 Express Delivery Postman Pet"/>
+		<string name="desc" value="The power of the Express Delivery Postman surges! Increases your Attack Power and Magic ATT by 5."/>
+		<string name="h" value="#cAttack Power: +#padX, Magic ATT: +#madX#"/>
+	</imgdir>
+	<imgdir name="80010184">
+		<string name="name" value="Lv. 3 Express Delivery Postman Pet"/>
+		<string name="desc" value="The power of the Express Delivery Postman surges! Increases your Attack Power and Magic ATT by 7."/>
+		<string name="h" value="#cAttack Power: +#padX, Magic ATT: +#madX#"/>
+	</imgdir>
+	<imgdir name="80012227">
+		<string name="name" value="Starfish Diving Suit Mount"/>
+		<string name="desc" value="You can earn Troupe Coins periodically by glacier diving in Rien while wearing a diving suit."/>
+		<string name="h" value="Obtain 4 Troupe Points every 10 seconds"/>
+	</imgdir>
+	<imgdir name="80012228">
+		<string name="name" value="Octopus Diving Suit Mount"/>
+		<string name="desc" value="You can earn Troupe Coins periodically by glacier diving in Rien while wearing a diving suit."/>
+		<string name="h" value="Obtain 4 Troupe Points every 10 seconds"/>
+	</imgdir>
+	<imgdir name="80012229">
+		<string name="name" value="Seal Diving Suit Mount"/>
+		<string name="desc" value="You can earn Troupe Coins periodically by glacier diving in Rien while wearing a diving suit."/>
+		<string name="h" value="Obtain 4 Troupe Points every 10 seconds"/>
+	</imgdir>
+	<imgdir name="80012230">
+		<string name="name" value="Ride Attractions"/>
+		<string name="desc" value="You can enjoy a variety of rides at the #c&lt;Ride Attractions&gt;# prepared by Spiegelmann, and earn a lot of EXP and EXP booster perks.\nThe effect increases based on your designer rank. \n#cBeginner: 110% / When fever activates: 120%\nJunior: 130% / When fever activates: 140%\nSenior: 150% / When fever activates: 160%\nVeteran or higher: 170% / When fever activates: 180%#\n\nThe #c&lt;Ride Attractions&gt;# will end when you have ridden 50 times in one day.\n\n#cRight-click to turn ON/OFF#"/>
+		<string name="h" value="A certain amount of EXP is immediately awarded based on your designer rank, and then the EXP booster effect is activated.\n\n#cObtain 5 Troupe Points every time you defeat monsters.#"/>
+	</imgdir>
+	<imgdir name="80012231">
+		<string name="name" value="Ride Attractions"/>
+		<string name="desc" value="Enjoy a variety of #c&lt;Ride Attractions&gt;# prepared by Spiegelmann, and earn a lot of EXP and EXP booster perks.\nThe effect increases based on your designer rank. The #c&lt;Ride Attractions&gt;# will close when you have ridden them 30 times in one day.\n\n#cRight-click to turn ON/OFF#"/>
+		<string name="h" value="A certain amount of EXP is immediately awarded based on your designer rank, and then the EXP booster effect is activated.\n\n#cObtain 5 Troupe Points every time you defeat monsters.#"/>
+	</imgdir>
+	<imgdir name="80012232">
+		<string name="name" value="Ride Attractions"/>
+		<string name="desc" value="Enjoy a variety of #c&lt;Ride Attractions&gt;# prepared by Spiegelmann, and earn a lot of EXP and EXP booster perks.\nThe effect increases based on your designer rank. The #c&lt;Ride Attractions&gt;# will close when you have ridden them 30 times in one day.\n\n#cRight-click to turn ON/OFF#"/>
+		<string name="h" value="A certain amount of EXP is immediately awarded based on your designer rank, and then the EXP booster effect is activated.\n\n#cObtain 5 Troupe Points every time you defeat monsters.#"/>
+	</imgdir>
+	<imgdir name="80012233">
+		<string name="name" value="Ride Attractions"/>
+		<string name="desc" value="Enjoy a variety of #c&lt;Ride Attractions&gt;# prepared by Spiegelmann, and earn a lot of EXP and EXP booster perks.\nThe effect increases based on your designer rank. The #c&lt;Ride Attractions&gt;# will close when you have ridden them 30 times in one day.\n\n#cRight-click to turn ON/OFF#"/>
+		<string name="h" value="A certain amount of EXP is immediately awarded based on your designer rank, and then the EXP booster effect is activated.\n\n#cObtain 5 Troupe Points every time you defeat monsters.#"/>
+	</imgdir>
+	<imgdir name="80012234">
+		<string name="name" value="Ride Attractions"/>
+		<string name="desc" value="Enjoy a variety of #c&lt;Ride Attractions&gt;# prepared by Spiegelmann, and earn a lot of EXP and EXP booster perks.\nThe effect increases based on your designer rank. The #c&lt;Ride Attractions&gt;# will close when you have ridden them 30 times in one day.\n\n#cRight-click to turn ON/OFF#"/>
+		<string name="h" value="A certain amount of EXP is immediately awarded based on your designer rank, and then the EXP booster effect is activated.\n\n#cObtain 5 Troupe Points every time you defeat monsters.#"/>
+	</imgdir>
+	<imgdir name="80012235">
+		<string name="name" value="Ride Attractions"/>
+		<string name="desc" value="Enjoy a variety of #c&lt;Ride Attractions&gt;# prepared by Spiegelmann, and earn a lot of EXP and EXP booster perks.\nThe effect increases based on your designer rank. The #c&lt;Ride Attractions&gt;# will close when you have ridden them 30 times in one day.\n\n#cRight-click to turn ON/OFF#"/>
+		<string name="h" value="A certain amount of EXP is immediately awarded based on your designer rank, and then the EXP booster effect is activated.\n\n#cObtain 5 Troupe Points every time you defeat monsters.#"/>
+	</imgdir>
+	<imgdir name="80012236">
+		<string name="name" value="Ride Attractions"/>
+		<string name="desc" value="Enjoy a variety of #c&lt;Ride Attractions&gt;# prepared by Spiegelmann, and earn a lot of EXP and EXP booster perks.\nThe effect increases based on your designer rank. The #c&lt;Ride Attractions&gt;# will close when you have ridden them 30 times in one day.\n\n#cRight-click to turn ON/OFF#"/>
+		<string name="h" value="A certain amount of EXP is immediately awarded based on your designer rank, and then the EXP booster effect is activated.\n\n#cObtain 5 Troupe Points every time you defeat monsters.#"/>
+	</imgdir>
+	<imgdir name="80012237">
+		<string name="name" value="Ride Attractions"/>
+		<string name="desc" value="Enjoy a variety of #c&lt;Ride Attractions&gt;# prepared by Spiegelmann, and earn a lot of EXP and EXP booster perks.\nThe effect increases based on your designer rank. The #c&lt;Ride Attractions&gt;# will close when you have ridden them 30 times in one day.\n\n#cRight-click to turn ON/OFF#"/>
+		<string name="h" value="A certain amount of EXP is immediately awarded based on your designer rank, and then the EXP booster effect is activated.\n\n#cObtain 5 Troupe Points every time you defeat monsters.#"/>
+	</imgdir>
+	<imgdir name="80012238">
+		<string name="name" value="Ride Attractions"/>
+		<string name="desc" value="Enjoy a variety of #c&lt;Ride Attractions&gt;# prepared by Spiegelmann, and earn a lot of EXP and EXP booster perks.\nThe effect increases based on your designer rank. The #c&lt;Ride Attractions&gt;# will close when you have ridden them 30 times in one day.\n\n#cRight-click to turn ON/OFF#"/>
+		<string name="h" value="A certain amount of EXP is immediately awarded based on your designer rank, and then the EXP booster effect is activated.\n\n#cObtain 5 Troupe Points every time you defeat monsters.#"/>
+	</imgdir>
+	<imgdir name="80012239">
+		<string name="name" value="Ride Attractions"/>
+		<string name="desc" value="The EXP buff effect you receive on the #c&lt;Ride Attractions&gt;# prepared by Spiegelmann.\nThe effect increases based on your designer rank.\n#cBeginner: 110% / When fever activates: 120%\nJunior: 130% / When fever activates: 140%\nSenior: 150% / When fever activates: 160%\nVeteran or higher: 170% / When fever activates: 180%#"/>
+		<string name="h" value="+#indieExp% EXP for #time sec"/>
+	</imgdir>
+	<imgdir name="80012240">
+		<string name="name" value="Human Cannonball Attraction"/>
+		<string name="desc" value="Blast your way to new enhancement material items with Spiegelmann&apos;s special #c&lt;Human Cannonball Attraction&gt;#!\nYou&apos;ll gain special items based on the region you&apos;re playing in, such as Maple World, Arcane River, and Grandis (after Cernium), with even more items available at higher designer ranks.\nYou can fire off the #c&lt;Human Cannonball Attraction&gt;#, #cby using the skill key directly#, up to 30 times a day. When the date changes, your count will reset.\n\n#cRight-click to turn ON/OFF#"/>
+		<string name="h" value="Obtain various enhancement material items based on your designer rank and region.\n\n#cObtain 5 Troupe Points every time you defeat monsters#"/>
+	</imgdir>
+	<imgdir name="80012241">
+		<string name="name" value="Stage 1 Festival Cannon"/>
+		<string name="desc" value="Spiegelmann prepared this magical #cStage 1 Festival Cannon# for beginner designers.\nCollect #cmagic bullet materials# by defeating enemies, then #cfire the cannon by using the skill key directly#.\nSince this cannon is a rough prototype, it&apos;ll fire #cSloppy Confetti Pieces#."/>
+		<string name="h" value="Activate this skill to fire #cSloppy Confetti Pieces#. Acquire those pieces to obtain various enhancement material items, based on your designer rank and region.\n#cCooldown: #cooltimeMS sec#."/>
+	</imgdir>
+	<imgdir name="80012242">
+		<string name="name" value="Stage 2 Festival Cannon"/>
+		<string name="desc" value="Spiegelmann prepared this magical #cStage 2 Festival Cannon# for junior designers.\nCollect #cmagic bullet materials# by defeating enemies, then #cfire the cannon by using the skill key directly#.\nSince this cannon is somewhat enhanced, it&apos;ll fire #cNormal Confetti Pieces#."/>
+		<string name="h" value="Activate this skill to fire #cNormal Confetti Pieces#. Acquire those pieces to obtain various enhancement material items, based on your designer rank and region.\n#cCooldown: #cooltimeMS sec#."/>
+	</imgdir>
+	<imgdir name="80012243">
+		<string name="name" value="Stage 3 Festival Cannon"/>
+		<string name="desc" value="Spiegelmann prepared this magical #cStage 3 Festival Cannon# for senior designers.\nCollect #cmagic bullet materials# by defeating enemies, then #cfire the cannon by using the skill key directly#.\nSince this cannon is enhanced, it&apos;ll fire #cFancy Confetti Pieces#."/>
+		<string name="h" value="Activate this skill to fire #cFancy Confetti Pieces#. Acquire those pieces to obtain various enhancement material items, based on your designer rank and region.\n#cCooldown: #cooltimeMS sec#."/>
+	</imgdir>
+	<imgdir name="80012244">
+		<string name="name" value="Stage 4 Festival Cannon"/>
+		<string name="desc" value="Spiegelmann prepared this magical #cStage 4 Festival Cannon# for veteran and master designers.\nCollect #cmagic bullet materials# by defeating enemies, then #cfire the cannon by using the skill key directly#.\nSince this cannon is greatly enhanced, it&apos;ll fire #cSpecial Confetti Pieces#."/>
+		<string name="h" value="Activate this skill to fire #cFancy Confetti Pieces#. Acquire those pieces to obtain various enhancement material items, based on your designer rank and region.\n#cCooldown: #cooltimeMS sec#."/>
+	</imgdir>
+	<imgdir name="80012257">
+		<string name="name" value="Festival Designer"/>
+		<string name="desc" value="A special ability granted to the festival designer.\n\nDuring the #cevent period#, All Stats, Attack Power &amp; Magic ATT, Ignore Defense, Critical, Critical Damage, etc. increase.\nThe higher your #cfestival designer rank# (up to veteran rank), the stronger the stats."/>
+		<string name="h" value="All Stats +#strX\nAttack Power &amp; Magic ATT +#padX\nIgnore Defense +#ignoreMobpdpR%\nCritical Rate +#cr%\nCritical Damage +#criticaldamage%"/>
+	</imgdir>
+	<imgdir name="80012268">
+		<string name="name" value="Starfish Diving Suit Mount"/>
+		<string name="desc" value="[Master Level: 1]\nTravel in the #cStarfish Diving Suit#, which you received after enjoying the diving experience of #cNight Troupe Rien#."/>
+		<string name="h" value="DEF: +10, Speed: 170, Jump: 120"/>
+	</imgdir>
+	<imgdir name="80012269">
+		<string name="name" value="Octopus Diving Suit Mount"/>
+		<string name="desc" value="[Master Level: 1]\nTravel in the #cOctopus Diving Suit# which you received after enjoying the diving experience of #cNight Troupe Rien#."/>
+		<string name="h" value="DEF: +10, Speed: 170, Jump: 120"/>
+	</imgdir>
+	<imgdir name="80012270">
+		<string name="name" value="Fish Diving Suit Mount"/>
+		<string name="desc" value="[Master Level: 1]\nTravel in the #cFish Diving Suit# which you received after enjoying the diving experience of #cNight Troupe Rien#."/>
+		<string name="h" value="DEF: +10, Speed: 170, Jump: 120"/>
 	</imgdir>
 </imgdir>

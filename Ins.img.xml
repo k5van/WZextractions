@@ -18763,4 +18763,60 @@ The summoned #cBUGCAT CAPOO# will increase a specific stat. Level up #cCAPOO&apo
 		<string name="name" value="Mischievous Ghost Chair"/>
 		<string name="desc" value="A Mischievous Ghost Chair. \n\n#cRestores 100 HP and 100 MP every 10 seconds.\n#\n"/>
 	</imgdir>
+	<imgdir name="3018921">
+		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+	</imgdir>
+	<imgdir name="3012049">
+		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+	</imgdir>
+	<imgdir name="3018923">
+		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+	</imgdir>
+	<imgdir name="3018924">
+		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+	</imgdir>
+	<imgdir name="3018747">
+		<string name="name" value="Super Bumper Car Chair"/>
+		<string name="desc" value="A Round-We-Go Bumper Car! Once you fall in, you can&apos;t get out!\n#cRestores 50 HP and 50 MP every 10 seconds.#"/>
+	</imgdir>
+	<imgdir name="3700697">
+		<string name="name" value="Rien Troupe"/>
+		<string name="desc" value="A special title given to those who put in the effort to design the Night Troupe&apos;s fantastic #cRien# festival."/>
+	</imgdir>
+	<imgdir name="3018927">
+		<string name="name" value="Hopping Gift Wrap Truck"/>
+		<string name="desc" value="Truck filled with gifts. #cRestores 50 HP and 50 MP every 10 seconds.#"/>
+	</imgdir>
+	<imgdir name="3018928">
+		<string name="name" value="Mysterious Hat Shop"/>
+		<string name="desc" value="A mysterious hat shop that appeared like dream in the night.\n#cRestores 50 HP and 50 MP every 10 seconds.#"/>
+	</imgdir>
+	<imgdir name="3018944">
+		<string name="name" value="Team Pink Bean Boss Blitz Chair"/>
+		<string name="desc" value="An iconic gaming chair for Team Pink Bean fans to commemorate the 2022 Boss Blitz competition."/>
+	</imgdir>
+	<imgdir name="3018945">
+		<string name="name" value="Team Orange Mushroom Boss Blitz Chair"/>
+		<string name="desc" value="An iconic gaming chair for Team Orange Mushroom fans to commemorate the 2022 Boss Blitz competition."/>
+	</imgdir>
+	<imgdir name="3018946">
+		<string name="name" value="Team Green Slime Boss Blitz Chair"/>
+		<string name="desc" value="An iconic gaming chair for Team Green Slime fans to commemorate the 2022 Boss Blitz competition."/>
+	</imgdir>
+	<imgdir name="3018947">
+		<string name="name" value="Team Pink Bean Boss Blitz Chair"/>
+		<string name="desc" value="An iconic gaming chair for Team Pink Bean fans to commemorate the 2022 Boss Blitz competition."/>
+	</imgdir>
+	<imgdir name="3018948">
+		<string name="name" value="Team Orange Mushroom Boss Blitz Chair"/>
+		<string name="desc" value="An iconic gaming chair for Team Orange Mushroom fans to commemorate the 2022 Boss Blitz competition."/>
+	</imgdir>
+	<imgdir name="3018949">
+		<string name="name" value="Team Green Slime Boss Blitz Chair"/>
+		<string name="desc" value="An iconic gaming chair for Team Green Slime fans to commemorate the 2022 Boss Blitz competition."/>
+	</imgdir>
 </imgdir>

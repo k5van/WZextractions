@@ -48779,7 +48779,7 @@
 			<string name="mapName" value="Battle Exit"/>
 		</imgdir>
 	</imgdir>
-	<imgdir name="jp">
+	<imgdir name="japan">
 		<imgdir name="800000000">
 			<string name="streetName" value="Zipangu"/>
 			<string name="mapName" value="Mushroom Shrine"/>
@@ -65146,6 +65146,50 @@
 		<imgdir name="867154300">
 			<string name="streetName" value="&lt;Night Troupe&gt;"/>
 			<string name="mapName" value="Circus Stage"/>
+		</imgdir>
+		<imgdir name="867158000">
+			<string name="streetName" value="&lt;Night Troupe&gt;"/>
+			<string name="mapName" value="Dreams and Illusions Festival Venue"/>
+		</imgdir>
+		<imgdir name="867158001">
+			<string name="streetName" value="&lt;Night Troupe&gt;"/>
+			<string name="mapName" value="Dreams and Illusions Festival Venue"/>
+		</imgdir>
+		<imgdir name="867158002">
+			<string name="streetName" value="&lt;Night Troupe&gt;"/>
+			<string name="mapName" value="Enter Giant Iceberg Breaker"/>
+		</imgdir>
+		<imgdir name="867158003">
+			<string name="streetName" value="&lt;Night Troupe&gt;"/>
+			<string name="mapName" value="Exit Giant Iceberg Breaker"/>
+		</imgdir>
+		<imgdir name="867158004">
+			<string name="streetName" value="&lt;Night Troupe&gt;"/>
+			<string name="mapName" value="Circus Stage"/>
+		</imgdir>
+		<imgdir name="867158100">
+			<string name="streetName" value="&lt;Night Troupe&gt;"/>
+			<string name="mapName" value="In the Rien Sea"/>
+		</imgdir>
+		<imgdir name="867158200">
+			<string name="streetName" value="&lt;Night Troupe&gt;"/>
+			<string name="mapName" value="Giant Iceberg Breaker Festival Venue"/>
+		</imgdir>
+		<imgdir name="867158300">
+			<string name="streetName" value="&lt;Night Troupe&gt;"/>
+			<string name="mapName" value="Round-We-Go Bumper Car Battle Arena"/>
+		</imgdir>
+		<imgdir name="867158400">
+			<string name="streetName" value="&lt;Night Troupe&gt;"/>
+			<string name="mapName" value="In Front of Bumper Car Battle Arena Entrance"/>
+		</imgdir>
+		<imgdir name="867158401">
+			<string name="streetName" value="&lt;Night Troupe&gt;"/>
+			<string name="mapName" value="In Front of Bumper Car Battle Arena Exit"/>
+		</imgdir>
+		<imgdir name="867158402">
+			<string name="streetName" value="&lt;Night Troupe&gt;"/>
+			<string name="mapName" value="Bumper Car Battle Arena Exit"/>
 		</imgdir>
 	</imgdir>
 	<imgdir name="Wz2_myHome">

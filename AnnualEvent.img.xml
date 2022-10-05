@@ -8,19 +8,18 @@
 		<string name="4" value="Master Designer"/>
 	</imgdir>
 	<imgdir name="mainEvent">
-		<string name="1" value="[Event Period]\r\n10/06/2021 14:00 PM UTC -\r\n10/12/2021 23:59 PM UTC"/>
-		<string name="2" value="[Event Period]\r\n10/13/2021 00:00 AM UTC -\r\n10/19/2021 23:59 PM UTC"/>
-		<string name="3" value="[Event Period]\r\n10/20/2021 00:00 AM UTC -\r\n10/26/2021 23:59 PM UTC"/>
-		<string name="4" value="[Event Period]\r\n10/27/2021 00:00 AM UTC -\r\n11/02/2021 23:59 PM UTC"/>
+		<string name="1" value="You can use this week&apos;s ticket during 10/05/2022 - 10/11/2022!"/>
+		<string name="2" value="You can use this week&apos;s ticket during 10/12/2022 - 10/18/2022!"/>
+		<string name="3" value="You can use this week&apos;s ticket during 10/19/2022 - 10/25/2022!"/>
+		<string name="4" value="You can use this week&apos;s ticket during 10/26/2022 - 11/01/2022!"/>
 		<string name="5" value="The event has ended."/>
 		<string name="noEvent" value=""/>
 	</imgdir>
 	<imgdir name="Skill">
-		<string name="0" value="Do you want to spend Troupe Coin x{} and learn the {} skill?"/>
+		<string name="0" value="Spend Troupe Coin x{} on {}?"/>
 		<string name="1" value="You need {} Troupe Coins to learn this skill."/>
 		<string name="2" value="This skill is at max level."/>
-		<string name="3" value="This skill can be learned when you reach the {} rank.
-"/>
+		<string name="3" value="Only {} and up\ncan learn this skill."/>
 		<string name="4" value="You haven&apos;t completed the prerequisite skill."/>
 	</imgdir>
 </imgdir>

@@ -52348,16 +52348,16 @@
 		<string name="d0" value="Fireworks are such a delight!"/>
 	</imgdir>
 	<imgdir name="9400955">
-		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="Trudy&apos;s Bakery"/>
 	</imgdir>
 	<imgdir name="9400956">
-		<string name="name" value="&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="Trudy"/>
 		<string name="d0" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
 		<string name="d1" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-		<string name="n0" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="n0" value="Wow, they&apos;re so pretty. These marigold look like the epitome of autumn. Hehe, I want to gather them up and make them into a bouquet!"/>
 	</imgdir>
 	<imgdir name="9400957">
-		<string name="name" value="&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="Hallowkitty"/>
 	</imgdir>
 	<imgdir name="9400969">
 		<string name="name" value="Security Guard"/>
@@ -53632,7 +53632,7 @@
 		<string name="name" value="Antique Wardrobe"/>
 	</imgdir>
 	<imgdir name="9400958">
-		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="Hidden Door"/>
 	</imgdir>
 	<imgdir name="9401060">
 		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
@@ -53894,5 +53894,118 @@
 	</imgdir>
 	<imgdir name="9401383">
 		<string name="name" value="blankDummy"/>
+	</imgdir>
+	<imgdir name="9401462">
+		<string name="name" value="Spiegelmann"/>
+		<string name="func" value="Troupe Leader"/>
+		<string name="n0" value="Welcome to the long-awaited festival of the century! A world of dreams and illusions! Welcome to the wonders of the &lt;Night Troupe&gt;!"/>
+		<string name="n1" value="Imagination becomes reality! YOUR imagination, as you grace our festival with your amazing design skills!"/>
+		<string name="d0" value="Welcome to the long-awaited festival of the century! A world of dreams and illusions! Welcome to the wonders of the &lt;Night Troupe&gt;!"/>
+		<string name="d1" value="Imagination becomes reality! YOUR imagination, as you grace our festival with your amazing design skills!"/>
+	</imgdir>
+	<imgdir name="9401463">
+		<string name="name" value="Cassandra"/>
+		<string name="func" value="Spinner Guide"/>
+		<string name="n0" value="Hey, designer. Need some Troupe Coins?"/>
+		<string name="n1" value="All you&apos;ve gotta do is land on the Jr. Pepe! Just don&apos;t land on the lovely Cassandra, or she&apos;ll spirit your winnings away!"/>
+		<string name="d0" value="Hey, designer. Need some Troupe Coins?"/>
+		<string name="d1" value="All you&apos;ve gotta do is land on the Jr. Pepe! Just don&apos;t land on the lovely Cassandra, or she&apos;ll spirit your winnings away!"/>
+	</imgdir>
+	<imgdir name="9401464">
+		<string name="name" value="Architect Alviola"/>
+		<string name="func" value="Giant Iceberg Breaker"/>
+		<string name="n0" value="Participate in the Giant Iceberg Breaker! Gather the ice to build an igloo, and get Troupe Coins!"/>
+		<string name="n1" value="Please help Malamute by gathering the ice needed to build the igloo!"/>
+		<string name="d0" value="Participate in the Giant Iceberg Breaker to gather the ice to build an igloo and get more Troupe Coins!"/>
+		<string name="d1" value="Please help Malamute complete the igloo by gathering the ice needed to build it!"/>
+	</imgdir>
+	<imgdir name="9401465">
+		<string name="name" value="Diving Instructor Dachi"/>
+		<string name="func" value="Thrilling Glacier Diving"/>
+		<string name="n0" value="Do you want to take on the cold sea of Riena Strait and enjoy a thrilling ice dive?"/>
+		<string name="n1" value="Anyone who gets diving lessons from me can go enjoy diving in the glacier! Let&apos;s discover the fantastic world beneath the Rien Sea!"/>
+		<string name="d0" value="Do you want to take on the cold sea of Riena Strait and enjoy a thrilling ice dive?"/>
+		<string name="d1" value="Anyone who gets diving lessons from me can go enjoy diving in the glacier! Let&apos;s discover the fantastic world beneath the Rien Sea!"/>
+	</imgdir>
+	<imgdir name="9401466">
+		<string name="name" value="Diving Suit Seller Dabo"/>
+		<string name="func" value="Thrilling Glacier Diving"/>
+		<string name="n0" value="I guess you need a diving suit for the diving experience?"/>
+		<string name="d0" value="I guess you need a diving suit for the diving experience?"/>
+	</imgdir>
+	<imgdir name="9401467">
+		<string name="name" value="Frostwitch Barbara"/>
+		<string name="func" value="Festival Sponsorship Guide"/>
+		<string name="n0" value="A sponsored event for the Rien Development Fund, benefiting baby animals of Riena Strait, is in progress!"/>
+		<string name="n1" value="Are you just going to pass on helping the poor baby animals...?"/>
+		<string name="d0" value="A sponsored event for the Rien Development Fund, benefiting baby animals of Riena Strait, is in progress!"/>
+		<string name="d1" value="Don&apos;t you think your kind and generous heart might be able to warm up the Rien Sea...?"/>
+	</imgdir>
+	<imgdir name="9401468">
+		<string name="name" value="Guide Lilin"/>
+		<string name="func" value="Round-We-Go Bumper Car"/>
+		<string name="n0" value="I couldn&apos;t miss the festival in Rien, so I came prepared. Participate in a bumper car battle on the ice. It&apos;s unlike anything you&apos;ve ever seen before!"/>
+		<string name="n1" value="Bet you&apos;d love to join the battle in a super bumper car."/>
+		<string name="d0" value="I couldn&apos;t miss the festival in Rien, so I came prepared. Participate in a bumper car battle on the ice. It&apos;s unlike anything you&apos;ve ever seen before!"/>
+		<string name="d1" value="It might be more fun if you participate in the battle by riding a super bumper car."/>
+	</imgdir>
+	<imgdir name="9401469">
+		<string name="name" value="Bumper Car Maniac Putan"/>
+		<string name="func" value="Round-We-Go Bumper Car"/>
+		<string name="n0" value="My name is Putan! I&apos;m a bumper car master. Do you want my bumper car? Then you should join right now!"/>
+		<string name="n1" value="I&apos;ve always dreamed of becoming a bumper car master. Now, it&apos;s time to make that dream come true!"/>
+		<string name="d0" value="My name is Putan! I&apos;m a bumper car master. Do you want my bumper car? Then you should join right now!"/>
+		<string name="d1" value="I&apos;ve always dreamed of becoming a bumper car master. Now, it&apos;s time to make that dream come true!"/>
+	</imgdir>
+	<imgdir name="9401470">
+		<string name="name" value="Baby Penguin"/>
+		<string name="n0" value="Kyu Kyu?"/>
+		<string name="n1" value="Tweeep."/>
+	</imgdir>
+	<imgdir name="9401471">
+		<string name="name" value="Malamute Pup"/>
+		<string name="n0" value="Woof!"/>
+		<string name="n1" value="Yipyip yip yip yip!"/>
+	</imgdir>
+	<imgdir name="9401472">
+		<string name="name" value="Baby Seal"/>
+		<string name="n0" value="Eeoooow!"/>
+		<string name="n1" value="Arf arf!"/>
+	</imgdir>
+	<imgdir name="9401473">
+		<string name="name" value="Spiegelmann"/>
+		<string name="func" value="Troupe Leader"/>
+	</imgdir>
+	<imgdir name="9401474">
+		<string name="name" value="Cassandra"/>
+	</imgdir>
+	<imgdir name="9401475">
+		<string name="name" value="Architect Alviola"/>
+	</imgdir>
+	<imgdir name="9401476">
+		<string name="name" value="Diving Instructor Dachi"/>
+	</imgdir>
+	<imgdir name="9401477">
+		<string name="name" value="Diving Suit Seller Dabo"/>
+	</imgdir>
+	<imgdir name="9401478">
+		<string name="name" value="Frostwitch Barbara"/>
+	</imgdir>
+	<imgdir name="9401479">
+		<string name="name" value="Guide Lilin"/>
+	</imgdir>
+	<imgdir name="9401480">
+		<string name="name" value="Bumper Car Maniac Putan"/>
+	</imgdir>
+	<imgdir name="9401481">
+		<string name="name" value="Architect Alviola"/>
+		<string name="func" value="Giant Iceberg Breaker"/>
+	</imgdir>
+	<imgdir name="9401483">
+		<string name="name" value="Spinner"/>
+	</imgdir>
+	<imgdir name="9401488">
+		<string name="name" value="Bumper Car Maniac Putan"/>
+		<string name="func" value="Round-We-Go Bumper Car"/>
 	</imgdir>
 </imgdir>
