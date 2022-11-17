@@ -17,7 +17,7 @@
 	</imgdir>
 	<imgdir name="Skill">
 		<string name="0" value="Spend Troupe Coin x{} on {}?"/>
-		<string name="1" value="You need {} Troupe Coins to learn this skill."/>
+		<string name="1" value="You need {} more Troupe Coins to learn this skill."/>
 		<string name="2" value="This skill is at max level."/>
 		<string name="3" value="Only {} and up\ncan learn this skill."/>
 		<string name="4" value="You haven&apos;t completed the prerequisite skill."/>

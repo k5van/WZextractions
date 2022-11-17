@@ -11841,7 +11841,7 @@
 		</imgdir>
 		<imgdir name="4033232">
 			<string name="name" value="Peridot"/>
-			<string name="desc" value="An emerald-colored jewel on Empress Cygnus&apos;s crown. This sun-powered jewel is the Empress&apos;s source of power."/>
+			<string name="desc" value="An emerald-colored gem. This bright gem has received the sun&apos;s power, and seems to have the Spirit&apos;s energy in it."/>
 		</imgdir>
 		<imgdir name="4033233">
 			<string name="name" value="Spiegelmann&apos;s Fancy Wreath"/>
@@ -16897,8 +16897,8 @@
 			<string name="desc" value="A recording of the conversation I had with the book containing Cygnus&apos; thoughts."/>
 		</imgdir>
 		<imgdir name="4161047">
-			<string name="name" value="Noblesse Guide"/>
-			<string name="desc" value="A guide for Noblesses.\n#cThe book can be opened by double-clicking on it.#  "/>
+			<string name="name" value="Book of the Noblesse"/>
+			<string name="desc" value="Old looking book. \n#cDouble-click to open it.#"/>
 		</imgdir>
 		<imgdir name="4161048">
 			<string name="name" value="Legend&apos;s Guide"/>
@@ -16983,6 +16983,18 @@
 		<imgdir name="4161102">
 			<string name="name" value="Kritias - The Day&apos;s Recollections"/>
 			<string name="desc" value="An old book that contains notes about the history of Kritias. \n#cDouble-click to open it.#"/>
+		</imgdir>
+		<imgdir name="4161103">
+			<string name="name" value="Chronicles of Ellin Forest"/>
+			<string name="desc" value="A book documenting the history of Ellin Forest.\n#cDouble-click to open the book.#"/>
+		</imgdir>
+		<imgdir name="4161104">
+			<string name="name" value="Chronicles of Ellin Forest"/>
+			<string name="desc" value="A book documenting the history of Ellin Forest.\n#cDouble-click to open the book.#"/>
+		</imgdir>
+		<imgdir name="4161105">
+			<string name="name" value="Ephenia&apos;s Letter"/>
+			<string name="desc" value="A letter written by Ephenia to Guwaru.\n#cDouble-click to see the contents of the letter.#"/>
 		</imgdir>
 		<imgdir name="4162000">
 			<string name="name" value="7th Anniversary Diary"/>
@@ -18124,6 +18136,18 @@
 			<string name="name" value="Harmony Coin"/>
 			<string name="desc" value="Can be used in various ways at the #cStarlight Symphony#."/>
 		</imgdir>
+		<imgdir name="4310324">
+			<string name="name" value="Haste Feather"/>
+			<string name="desc" value="Can be used in various ways in #cSuper Haste#."/>
+		</imgdir>
+		<imgdir name="4310325">
+			<string name="name" value="Memory Token"/>
+			<string name="desc" value="Can be used in various ways in #cMaple Momentree#."/>
+		</imgdir>
+		<imgdir name="4310326">
+			<string name="name" value="Challenge Token"/>
+			<string name="desc" value="Can be used in various ways in #cMaple Momentree#."/>
+		</imgdir>
 		<imgdir name="4320000">
 			<string name="name" value="Damage Meter"/>
 			<string name="desc" value="A meter that can measure damage."/>
@@ -19017,30 +19041,6 @@
 			<string name="name" value="Green M-Forcer Helmet"/>
 			<string name="desc" value="A hat you found in the bushes. Is this the one Rondo was wearing?"/>
 		</imgdir>
-		<imgdir name="4161103">
-			<string name="name" value="Chronicles of Ellin Forest"/>
-			<string name="desc" value="A book documenting the history of Ellin Forest.\n#cDouble-click to open the book.#"/>
-		</imgdir>
-		<imgdir name="4161104">
-			<string name="name" value="Chronicles of Ellin Forest"/>
-			<string name="desc" value="A book documenting the history of Ellin Forest.\n#cDouble-click to open the book.#"/>
-		</imgdir>
-		<imgdir name="4161105">
-			<string name="name" value="Ephenia&apos;s Letter"/>
-			<string name="desc" value="A letter written by Ephenia to Guwaru.\n#cDouble-click to see the contents of the letter.#"/>
-		</imgdir>
-		<imgdir name="4310324">
-			<string name="name" value="Haste Feather"/>
-			<string name="desc" value="Can be used in various ways in #cSuper Haste#."/>
-		</imgdir>
-		<imgdir name="4310325">
-			<string name="name" value="Memory Token"/>
-			<string name="desc" value="Can be used in various ways in #cMaple Momentree#."/>
-		</imgdir>
-		<imgdir name="4310326">
-			<string name="name" value="Challenge Token"/>
-			<string name="desc" value="Can be used in various ways in #cMaple Momentree#."/>
-		</imgdir>
 		<imgdir name="4036852">
 			<string name="name" value="Chronicles of Ellin Forest"/>
 			<string name="desc" value="A book documenting the history of Ellin Forest."/>
@@ -19084,6 +19084,122 @@
 		<imgdir name="4036862">
 			<string name="name" value="Old Gold Watch"/>
 			<string name="desc" value="An old watch Alex received from his late mother."/>
+		</imgdir>
+		<imgdir name="4310329">
+			<string name="name" value="Ignition Coins"/>
+			<string name="desc" value="Can be used in various ways in #cIgnition Flame Festival#."/>
+		</imgdir>
+		<imgdir name="4310330">
+			<string name="name" value="Flare Coins"/>
+			<string name="desc" value="Can be used in various ways in #cIgnition Flame Festival#."/>
+		</imgdir>
+		<imgdir name="4036863">
+			<string name="name" value="The Lost Treasure"/>
+			<string name="desc" value="Ereve&apos;s treasure that has been stolen by Baroq."/>
+		</imgdir>
+		<imgdir name="4036864">
+			<string name="name" value="Boogie Map"/>
+			<string name="desc" value="A lost map. Luckily it doesn&apos;t seem damaged."/>
+		</imgdir>
+		<imgdir name="4036865">
+			<string name="name" value="Boogie Compass"/>
+			<string name="desc" value="A lost compass. Luckily it doesn&apos;t seem damaged."/>
+		</imgdir>
+		<imgdir name="4036866">
+			<string name="name" value="Boogie Brooch"/>
+			<string name="desc" value="A lost brooch. Luckily it doesn&apos;t seem damaged."/>
+		</imgdir>
+		<imgdir name="4036867">
+			<string name="name" value="Proof of Exam"/>
+			<string name="desc" value="The Proof of passing the exam that tests your worth as the Official Knight."/>
+		</imgdir>
+		<imgdir name="4036868">
+			<string name="name" value="Hersha&apos;s Report"/>
+			<string name="desc" value="A report written by Hersha, a Cygnus Knights informant."/>
+		</imgdir>
+		<imgdir name="4036869">
+			<string name="name" value="Matthias&apos;s Report"/>
+			<string name="desc" value="A report written by Matthias, a Cygnus Knights informant."/>
+		</imgdir>
+		<imgdir name="4036870">
+			<string name="name" value="Black Ancient Book"/>
+			<string name="desc" value="Old Ancient Book. It is written in an unidentified language, making it impossible to read."/>
+		</imgdir>
+		<imgdir name="4036871">
+			<string name="name" value="Alliance Invitation"/>
+			<string name="desc" value="A letter from Cygnus to the head of the Resistance"/>
+		</imgdir>
+		<imgdir name="4036875">
+			<string name="name" value="Fruit Hidden by Wild Pig"/>
+			<string name="desc" value="A fruit hidden by the Wild Pigs. It&apos;s colorful."/>
+		</imgdir>
+		<imgdir name="4036876">
+			<string name="name" value="White Sparrow Egg"/>
+			<string name="desc" value="White egg of the Glutinous Rice Sparrow. It&apos;s very small."/>
+		</imgdir>
+		<imgdir name="4036873">
+			<string name="name" value="Mysterious Scale"/>
+			<string name="desc" value="A scale found on the frenzied Drake. There is a suspicious stain on it."/>
+		</imgdir>
+		<imgdir name="4036874">
+			<string name="name" value="Suspicious Letter"/>
+			<string name="desc" value="A suspicious Letter sealed in blue. Do not open it unprompted."/>
+		</imgdir>
+		<imgdir name="4036872">
+			<string name="name" value="Knight&apos;s Token"/>
+			<string name="desc" value="A token required to pass the Entry Test."/>
+		</imgdir>
+		<imgdir name="4036877">
+			<string name="name" value="Empress Aria&apos;s Keepsake"/>
+			<string name="desc" value="This was Empress Aria&apos;s treasured possession. It was buried deep under a pile of dust for a long time. No one knows what&apos;s inside."/>
+		</imgdir>
+		<imgdir name="4036878">
+			<string name="name" value="Peridot"/>
+			<string name="desc" value="An emerald-colored jewel on Empress Cygnus&apos;s crown. Seems to contain the Spirit&apos;s power."/>
+		</imgdir>
+		<imgdir name="4036879">
+			<string name="name" value="Sinister Orange Mushroom Puppet"/>
+			<string name="desc" value="It looks like an Orange Mushroom, but there&apos;s something creepy in the eyes."/>
+		</imgdir>
+		<imgdir name="4036880">
+			<string name="name" value="Berserk Horny Mushroom Puppet"/>
+			<string name="desc" value="It looks like a Horny Mushroom, but there&apos;s something creepy in the eyes."/>
+		</imgdir>
+		<imgdir name="4036881">
+			<string name="name" value="Working Rue Battery"/>
+			<string name="desc" value="A serviceable rue battery. It still has some energy left."/>
+		</imgdir>
+		<imgdir name="4036882">
+			<string name="name" value="Tino Feather"/>
+			<string name="desc" value="A feather from a Tino. It&apos;s light as a, um, feather."/>
+		</imgdir>
+		<imgdir name="4036883">
+			<string name="name" value="Proof of Exam"/>
+			<string name="desc" value="The Proof of passing the exam that tests your worth as the Official Knight."/>
+		</imgdir>
+		<imgdir name="4036884">
+			<string name="name" value="Proof of Exam"/>
+			<string name="desc" value="The Proof of passing the exam that tests your worth as the Official Knight."/>
+		</imgdir>
+		<imgdir name="4036885">
+			<string name="name" value="Proof of Exam"/>
+			<string name="desc" value="The Proof of passing the exam that tests your worth as the Official Knight."/>
+		</imgdir>
+		<imgdir name="4036886">
+			<string name="name" value="Proof of Exam"/>
+			<string name="desc" value="The Proof of passing the exam that tests your worth as the Official Knight."/>
+		</imgdir>
+		<imgdir name="4036894">
+			<string name="name" value="Angler Robot Energy Source"/>
+			<string name="desc" value="The energy source that powers the Angler Robot. It&apos;s produced with cutting-edge technology and meticulous details."/>
+		</imgdir>
+		<imgdir name="4036895">
+			<string name="name" value="Small Battery"/>
+			<string name="desc" value="Haram&apos;s battery that he charged with energy for his son over time. It has an air of warmth about it."/>
+		</imgdir>
+		<imgdir name="4036896">
+			<string name="name" value="Energy Power"/>
+			<string name="desc" value="Energy source manufactured to restore Seri&apos;s ill body."/>
 		</imgdir>
 		<imgdir name="4000174">
 			<string name="name" value="Money Envelope"/>
@@ -29290,8 +29406,8 @@ Looking at this fills you with hope. It&apos;s terribly fragile, so handle with 
 			<string name="desc" value="It is a bright-yellow flower that brings tidings of happiness."/>
 		</imgdir>
 		<imgdir name="4036625">
-			<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-			<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="name" value="Maplemas Neighborly Gift"/>
+			<string name="desc" value="A gift box to go with your Maplemas Tree. Trade gifts with neighbors for a more abundant Maplemas.\r\n#cClick the Maplemas Tree placed in another player&apos;s home# to trade for another gift box."/>
 		</imgdir>
 		<imgdir name="4036629">
 			<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
@@ -29310,24 +29426,24 @@ Looking at this fills you with hope. It&apos;s terribly fragile, so handle with 
 			<string name="desc" value="Clear, pristine ice collected from El Nath&apos;s Ice Valley."/>
 		</imgdir>
 		<imgdir name="4036674">
-			<string name="name" value="&#43690;&#43690;&#43690;"/>
-			<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="name" value="Beeswax"/>
+			<string name="desc" value="Beeswax from a beehive. It can be used as material for candles."/>
 		</imgdir>
 		<imgdir name="4036675">
-			<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-			<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="name" value="Strong Scent Flower Fish Petal"/>
+			<string name="desc" value="Despite its appearance, its scent is very sweet. It can be used as material for candles."/>
 		</imgdir>
 		<imgdir name="4036676">
-			<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-			<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="name" value="Trudy&apos;s Special Cake"/>
+			<string name="desc" value="Trudy picked out the most delicious cake in her bakery. You can taste the rarity."/>
 		</imgdir>
 		<imgdir name="4036677">
-			<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-			<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="name" value="Amy&apos;s Handmade Candle"/>
+			<string name="desc" value="Many people came together to make these candles. Each one gives off the sweet scent of the Flower Fish."/>
 		</imgdir>
 		<imgdir name="4036678">
-			<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
-			<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="name" value="Fine-quality Birk Fur"/>
+			<string name="desc" value="A fine-quality fur from a Birk of Leafre. It&apos;s perfect for making beddings."/>
 		</imgdir>
 		<imgdir name="4036742">
 			<string name="name" value="Lumber"/>
@@ -29464,6 +29580,14 @@ Looking at this fills you with hope. It&apos;s terribly fragile, so handle with 
 		<imgdir name="4009502">
 			<string name="name" value="Automatic Battle Reload Coupon (10 min)"/>
 			<string name="desc" value="Used in MapleStory M. When used, it grants 10 minutes of automatic battle time."/>
+		</imgdir>
+		<imgdir name="4001911">
+			<string name="name" value="Flame Pass"/>
+			<string name="desc" value="A Flame Pass which you can use at the Ignition Flame Festival. Consumes 1 at a time.#c\nPlease check the expiration date carefully.#"/>
+		</imgdir>
+		<imgdir name="4001912">
+			<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+			<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
 		</imgdir>
 	</imgdir>
 </imgdir>

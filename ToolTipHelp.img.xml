@@ -79,9 +79,6 @@
 				<string name="Title" value="Stat Auto-Assign (Gunslinger)"/>
 				<string name="Desc" value="Distributes the remaining AP according to Gunslinger requirements."/>
 			</imgdir>
-			<imgdir name="QuestLocation">
-				<string name="Desc" value="Shows you where you need to go to do this quest."/>
-			</imgdir>
 			<imgdir name="PvPBtRookie">
 				<string name="Title" value="Rookie Channel"/>
 				<string name="Desc" value="You must be between Lv. 30 and Lv. 69 to participate in this channel. You can use up to your 2nd job skills (5th for Evan and 3rd for Dual Blade). Item potential is not used."/>
@@ -194,12 +191,15 @@
 			<imgdir name="SkillAlert">
 				<imgdir name="hyper">
 					<string name="Title" value="Hyper Skill"/>
-					<string name="Desc" value="These powerful skills become available after Lv. 140. \n\n#cPassive Hyper Skills# boost your existing skills in different ways. You&apos;ll gain 1 SP at Levels 140, 150, 165, 180, and 190. \n\n#cActive Hyper Skills# are powerful active skills. A new one is unlocked at Levels 140, 160, and 190. Hyper Skills are not affected by some effects that would decrease cooldown and some effects that would increase their duration, including Potentials."/>
+					<string name="Desc" value="These powerful skills become available after Lv. 140. \n\n#cPassive Hyper Skills# boost your existing skills in different ways. You&apos;ll gain 1 SP at Levels 140, 150, 165, 180, and 190. \n\n#cActive Hyper Skills# are powerful active skills. A new one is unlocked at Levels 140, 160, and 190. Hyper Skills are not affected by effects that would reset cooldown and increase their duration, including Ability."/>
 				</imgdir>
 				<imgdir name="5th">
 					<string name="Title" value="V Matrix"/>
 					<string name="Desc" value="Place Nodes on the V Matrix to equip 5th Job Skills, Skill Boosts, and Special Skills. 5th Job Skills are not affected by cooldown reset, buff duration increase effects, or summon duration increase effects."/>
 				</imgdir>
+			</imgdir>
+			<imgdir name="QuestLocation">
+				<string name="Desc" value="Shows you where you need to go to do this quest."/>
 			</imgdir>
 			<imgdir name="BtSailingOut">
 				<string name="Title" value="Exit Voyage"/>
@@ -1055,12 +1055,12 @@
 				<string name="Desc" value="Adds 4 slots (1 row) to Etc Inventory\n3800 NX"/>
 			</imgdir>
 			<imgdir name="Charge">
-				<string name="Title" value="Recharging Cash"/>
+				<string name="Title" value="Charging NX"/>
 				<string name="Desc" value="NX can be added through various means - mobile device, credit card, real-time account transfers, various gift certificates, etc...\nIf you don&apos;t have enough NX, you must purchase some before attempting an item purchase."/>
 			</imgdir>
 			<imgdir name="Check">
-				<string name="Title" value="Check Cash"/>
-				<string name="Desc" value="Checking the remaining Cash"/>
+				<string name="Title" value="Refresh NX"/>
+				<string name="Desc" value="Refresh to update your remaining NX Cash"/>
 			</imgdir>
 			<imgdir name="Coupon">
 				<string name="Title" value="Redeem Coupon"/>
@@ -5751,6 +5751,11 @@
 				<string name="Title" value="Mushroom Hill Entrance"/>
 			</imgdir>
 		</imgdir>
+		<imgdir name="300020200">
+			<imgdir name="0">
+				<string name="Title" value="Mossy Tree Forest"/>
+			</imgdir>
+		</imgdir>
 		<imgdir name="300030300">
 			<imgdir name="0">
 				<string name="Title" value="Queen&apos;s Hiding Place"/>
@@ -6563,9 +6568,9 @@
 				<string name="Title" value="Tiger Ridge"/>
 			</imgdir>
 		</imgdir>
-		<imgdir name="300020200">
+		<imgdir name="910240000">
 			<imgdir name="0">
-				<string name="Title" value="Mossy Tree Forest"/>
+				<string name="Title" value="Perion Southern Ridge"/>
 			</imgdir>
 		</imgdir>
 		<imgdir name="0">

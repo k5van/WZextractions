@@ -240,8 +240,14 @@
 			<string name="11_0" value="Arcane River"/>
 			<string name="11_1" value="Arcane River"/>
 			<string name="11_2" value="Arcane River"/>
+			<string name="12" value="Friends"/>
+			<string name="12_0" value="Friends"/>
+			<string name="12_1" value="Friends"/>
+			<string name="80" value="Special"/>
+			<string name="80_0" value="Special"/>
 		</imgdir>
 	</imgdir>
+	<string name="999" value="Victoria Island"/>
 	<imgdir name="EquipEssence">
 		<string name="Extract_Drop_Fail" value="This item cannot be extracted."/>
 		<string name="Extract_Process_Try" value="Once essence has been extracted from this equipment, it will be irrevocably destroyed.\nProceed with the extraction?"/>

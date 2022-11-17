@@ -89,4 +89,9 @@
 	<string name="SID_ADD_BLACKLIST_MEMO_CURSE" value="Profanity can&apos;t be used in memos."/>
 	<string name="SID_ADD_BLACKLIST_MEMO" value="Please enter a memo on the features to remember."/>
 	<string name="SID_TOOLTIP_BLACKLIST_CHARACTER" value="Added Character:"/>
+	<string name="SID_SKILL_TAB_TOOLTIP_0" value="Can be used once you reach #Lv. %d# and complete \n#the job advancement quests#."/>
+	<string name="SID_SKILL_TAB_TOOLTIP_1" value="Must complete the #job advancement quest# to use."/>
+	<string name="SID_HIDDEN_CATCH_KICK_ALERT" value="You received a warning for not spotting the differences in one minute. The next warning will result in an automatic exit."/>
+	<string name="SID_HIDDEN_CATCH_KICK" value="You failed to spot the differences 2x in one minute. You will automatically exit."/>
+	<string name="SID_COORDI_PRESET_TOOLTIP" value="Character&apos;s equip status can be changed after clicking the Apply button. The items equipped on the 1st preset will be automatically equipped on the rest of the presets. 2nd and 3rd presets can be replaced with other items apart from the 1st preset, and you can double-click the automatically equipped items to equip or unequip them."/>
 </imgdir>

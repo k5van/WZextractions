@@ -2265,6 +2265,36 @@
 		<string name="desc" value="#cCCPB# transformed into sweet cotton candy.\r\nBlessed by the power of moonlight, #cCCPB can pick up items from a greater distance.#\r\nCCPB cannot equip any pet equipment.\r\nIf you double-click CCPB after its magic duration ends, it will disappear.\n\n#cCaution! This pet cannot have its magic duration extended after it ends.#"/>
 		<string name="descD" value="Shiny CCPB has turned into a doll. You cannot revive it with the Water of Life.\r\nIf you double-click CCPB after its magic duration ends, it will disappear."/>
 	</imgdir>
+	<imgdir name="5002510">
+		<string name="name" value="Lil Shinsoo"/>
+		<string name="desc" value="Cute and delightful #cLil Shinsoo#."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002514">
+		<string name="name" value="Sleepy"/>
+		<string name="desc" value="A baby penguin, #cSleepy#, dozing off in the summer heat."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002515">
+		<string name="name" value="Coocoo"/>
+		<string name="desc" value="A baby penguin, #cCoocoo#, dozing off in the summer heat."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002516">
+		<string name="name" value="Waddle"/>
+		<string name="desc" value="A baby penguin, #cWaddle#, dozing off in the summer heat."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002517">
+		<string name="name" value="Rock Soul"/>
+		<string name="desc" value="Floating on the balloon, a lovely #cRock Soul#."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002518">
+		<string name="name" value="Pebble Soul"/>
+		<string name="desc" value="Floating on the balloon, a lovely #cPebble Soul#."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
 	<imgdir name="5000025">
 		<string name="name" value="Golden Pig"/>
 		<string name="desc" value="This designed Golden Pig will definately bring you a Good Luck!"/>
@@ -5636,7 +5666,7 @@
 		<string name="descD" value="Your scary demon has turned into a doll. You can revive it with the Water of Life."/>
 	</imgdir>
 	<imgdir name="5002406">
-		<string name="name" value="Invidia"/>
+		<string name="name" value="Dem. Invidia"/>
 		<string name="desc" value="Invidia, the demoness of jealousy."/>
 		<string name="descD" value="Your scary demon has turned into a doll. You can revive it with the Water of Life."/>
 	</imgdir>
@@ -5888,6 +5918,51 @@
 	<imgdir name="5002422">
 		<string name="name" value="Pumpkin Mack"/>
 		<string name="desc" value="Mischievous Halloween Pumpkin Mack"/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002534">
+		<string name="name" value="Gupi Pet"/>
+		<string name="desc" value="A Gupi pet.\nEquip The Three Bowmen pets to get #cThe Three Bowmen&apos;s Mysterious Power# skill, which grows stronger as you equip more The Three Bowmen pets."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002535">
+		<string name="name" value="Dolpi Pet"/>
+		<string name="desc" value="A Dolpi pet.\nEquip The Three Bowmen pets to get #cThe Three Bowmen&apos;s Mysterious Power# skill, which grows stronger as you equip more The Three Bowmen pets."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002536">
+		<string name="name" value="Lepi Pet"/>
+		<string name="desc" value="A Lepi pet.\nEquip The Three Bowmen pets to get #cThe Three Bowmen&apos;s Mysterious Power# skill, which grows stronger as you equip more of The Three Bowmen pets."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002540">
+		<string name="desc" value="It&apos;s a reliable #cBlack Ewe#."/>
+		<string name="descd" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+		<string name="name" value="Black Ewe"/>
+	</imgdir>
+	<imgdir name="5002541">
+		<string name="desc" value="It&apos;s a beautiful #cBrown Ewe#."/>
+		<string name="descd" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+		<string name="name" value="Brown Ewe"/>
+	</imgdir>
+	<imgdir name="5002542">
+		<string name="desc" value="It&apos;s an adorable #cWhite Ewe#."/>
+		<string name="descd" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+		<string name="name" value="White Ewe"/>
+	</imgdir>
+	<imgdir name="5002539">
+		<string name="name" value="Gold Meso"/>
+		<string name="desc" value="It&apos;s a Gold Meso pet.\nEquip Live Meso pets to get the #cLive Meso pets&apos; Mysterious Power# skill, which grows stronger as you equip more Live Meso pets."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002538">
+		<string name="name" value="Silver Meso"/>
+		<string name="desc" value="It&apos;s a Silver Meso pet.\nEquip Live Meso pets to get the #cLive Meso pets&apos; Mysterious Power# skill, which grows stronger as you equip more Live Meso pets."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002537">
+		<string name="name" value="Bronze Meso"/>
+		<string name="desc" value="It&apos;s a Bronze Meso pet.\nEquip Live Meso pets to get the #cLive Meso pets&apos; Mysterious Power# skill, which grows stronger as you equip more Live Meso pets."/>
 		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
 	</imgdir>
 </imgdir>
