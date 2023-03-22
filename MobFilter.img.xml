@@ -3,4 +3,5 @@
 	<string name="1" value="Star Force Monster"/>
 	<string name="2" value="Arcane River Monster"/>
 	<string name="5" value="Star Force Elite Monster"/>
+	<string name="-10" value="Arcane/Sacred Region Mob"/>
 </imgdir>

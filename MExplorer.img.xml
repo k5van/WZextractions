@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="MExplorer.img">
+	<imgdir name="interact">
+		<string name="GatherTypeMissmatch" value="You must equip a proper tool to harvest this resource."/>
+		<string name="TooFar" value="You are too far away."/>
+		<string name="Unknown" value="An unknown error occurred. (Error code: %s)"/>
+	</imgdir>
+	<imgdir name="stat">
+	</imgdir>
+	<imgdir name="fieldSet">
+	</imgdir>
+	<imgdir name="skill">
+		<imgdir name="2000">
+			<string name="name" value="Efficient Diet"/>
+			<string name="desc" value="You can gain more Fullness from the same food."/>
+			<string name="h" value="Fullness recovery items recover #recoverySatietyR% more Fullness."/>
+		</imgdir>
+		<imgdir name="2001">
+			<string name="name" value="Max Fullness Increase"/>
+			<string name="desc" value="Permanently increases your max Fullness. It does not increase your stomach size."/>
+			<string name="h" value="Max Fullness +#maxSatietyX"/>
+		</imgdir>
+		<imgdir name="2002">
+			<string name="name" value="Max Acting Power Increase"/>
+			<string name="desc" value="Permanently increases your max Acting Power."/>
+			<string name="h" value="Max Acting Power +#maxStaminaX"/>
+		</imgdir>
+		<imgdir name="2003">
+			<string name="name" value="Max HP Increase"/>
+			<string name="desc" value="Increases your max HP. \r\n\r\n #c* Required Trait: Max Acting Power Increase Level 10 or higher"/>
+			<string name="h" value="Max HP +#maxHPX"/>
+		</imgdir>
+		<imgdir name="2004">
+			<string name="name" value="Weather Adaptation Boost"/>
+			<string name="desc" value="Reduces the Heat Wave and Squall&apos;s effect on your Fullness and Acting Power."/>
+			<string name="h" value="Weather Adaptation +#reduceWeatherEff%"/>
+		</imgdir>
+		<imgdir name="2005">
+			<string name="name" value="Tough Lifeline"/>
+			<string name="desc" value="Grants you a Protective Shield when your HP is 10% or lower."/>
+			<string name="h" value="Defense +#pdrate%"/>
+		</imgdir>
+		<imgdir name="2006">
+			<string name="name" value="Danger Escape"/>
+			<string name="desc" value="Increases your Speed when your Acting Power is 30% or lower. \r\n\r\n #c* Required Trait: Max HP Increase Level 10 or higher"/>
+			<string name="h" value="Speed: +#speed"/>
+		</imgdir>
+		<imgdir name="2007">
+			<string name="name" value="Field Bishop"/>
+			<string name="desc" value="Allows you to make potions that recover both Acting Power and HP. \r\n - Level 1: Acting Power Recovery Potion (XL) recipe added \r\n - Level 2: HP Recovery Potion (XL) recipe added \r\n\r\n #c* Required Trait: Efficient Diet Level 10 or higher"/>
+		</imgdir>
+		<imgdir name="2008">
+			<string name="name" value="Emergency Food"/>
+			<string name="desc" value="Emergency food that tastes bad but has a long shelf life is provided in your supplies. \r\n - Stage 1: Energy Bar x1 given \r\n - Stage 2: Energy Bar x2 given \r\n - Stage 3: Canned Food x2 given\r\n\r\n #c* Required Trait: Field Bishop Level 2 or higher, Survival Architect Level 1 or higher"/>
+		</imgdir>
+		<imgdir name="2009">
+			<string name="name" value="Master of Harvesting"/>
+			<string name="desc" value="Increases your harvesting speed."/>
+			<string name="h" value="Harvesting time -#reduceGatherTimeR%"/>
+		</imgdir>
+		<imgdir name="2010">
+			<string name="name" value="Resource Gatherer"/>
+			<string name="desc" value="Grants a chance to obtain more resources when harvesting."/>
+			<string name="h" value="Chance to find additional resource +#extraNeutralDropR%"/>
+		</imgdir>
+		<imgdir name="2011">
+			<string name="name" value="Loot Collector"/>
+			<string name="desc" value="Grants a chance to find additional loot when defeating enemies."/>
+			<string name="h" value="Chance to find additional loot +#extraMobDropR%"/>
+		</imgdir>
+		<imgdir name="2012">
+			<string name="name" value="Clever Harvesting"/>
+			<string name="desc" value="Harvesting tools last longer."/>
+			<string name="h" value="Durability decrease rate on harvesting -#noGatherCostR%"/>
+		</imgdir>
+		<imgdir name="2013">
+			<string name="name" value="Thrifty Carpenter"/>
+			<string name="desc" value="Reduces the amount of logs used in production."/>
+			<string name="h" value="Log consumption -#reduceWoodCountR%"/>
+		</imgdir>
+		<imgdir name="2014">
+			<string name="name" value="Thrifty Mason"/>
+			<string name="desc" value="Reduces the amount of stones used in production."/>
+			<string name="h" value="Stone consumption -#reduceStoneCountR%"/>
+		</imgdir>
+		<imgdir name="2015">
+			<string name="name" value="Survival Architect"/>
+			<string name="desc" value="Allows you to make a bigger storage room, a longer-lasting bonfire, and more durable stone walls. \r\n - Level 1: Improved Storage Room recipe added \r\n - Level 2: Improved Bonfire recipe added \r\n Level 3: Sturdy Advanced Stone Wall recipe added\r\n\r\n #c* Required Trait: Clever Harvesting Level 10 or higher"/>
+		</imgdir>
+		<imgdir name="2016">
+			<string name="name" value="Repair Durability"/>
+			<string name="desc" value="You can make potions that repair durability of a weapon or a tool. \r\n - Level 1: Whetstone recipe added\r\n\r\n #c* Required Trait: Master of Harvesting Level 15 or higher"/>
+		</imgdir>
+		<imgdir name="2017">
+			<string name="name" value="Preparations to Advance"/>
+			<string name="desc" value="A Survival Worktable given as part of your supplies. \r\n - Level 1: Survival Worktable given upon entry\r\n\r\n #c* Required Trait: Survival Architect Level 3 or higher, Innate Talent Level 10 or higher"/>
+		</imgdir>
+		<imgdir name="2018">
+			<string name="name" value="Swift Hands"/>
+			<string name="desc" value="Increases your Attack Speed."/>
+			<string name="h" value="Attack Speed -#attackSpeed"/>
+		</imgdir>
+		<imgdir name="2019">
+			<string name="name" value="Quick Feet"/>
+			<string name="desc" value="Increases your Movement Speed."/>
+			<string name="h" value="Speed: +#speed"/>
+		</imgdir>
+		<imgdir name="2020">
+			<string name="name" value="Appropriate Potion Consumption"/>
+			<string name="desc" value="Improves Acting Power recovery potion&apos;s absorption to increase the recovery amount."/>
+			<string name="h" value="Acting Power Recovery Items recover #recoveryStaminaR% more Acting Power."/>
+		</imgdir>
+		<imgdir name="2021">
+			<string name="name" value="Nocturnal Enhancement"/>
+			<string name="desc" value="Attack Power increases at night."/>
+			<string name="h" value="Attack power +#padX during night time"/>
+		</imgdir>
+		<imgdir name="2022">
+			<string name="name" value="Clever Attack"/>
+			<string name="desc" value="Weapons last longer."/>
+			<string name="h" value="Durability decrease rate on harvesting -#noAttackCostR%"/>
+		</imgdir>
+		<imgdir name="2023">
+			<string name="name" value="Combative Instinct"/>
+			<string name="desc" value="You have a chance to recover HP when you inflict damage to enemies."/>
+			<string name="h" value="Chance to recover HP +#HPAbsorbProb%"/>
+		</imgdir>
+		<imgdir name="2024">
+			<string name="name" value="Innate Talent"/>
+			<string name="desc" value="Increases Basic Attack Power. \r\n\r\n #c* Required Trait: Swift Hands Level 3 or higher"/>
+			<string name="h" value="Attack Power +#padX"/>
+		</imgdir>
+		<imgdir name="2025">
+			<string name="name" value="High Quality Attack Power Potion"/>
+			<string name="desc" value="You can make a further improved Attack Power potions. \r\n - Stage 1: Attack Power Explosion Potion recipe added\r\n\r\n #c* Required Trait: Appropriate Potion Consumption Level 10 or higher"/>
+		</imgdir>
+		<imgdir name="2026">
+			<string name="name" value="Combative Move"/>
+			<string name="desc" value="A useful weapon given as part of your supplies. \r\n - Level 1: Special Iron Sword given upon entry\r\n\r\n #c* Required Trait: High Quality Attack Power Potion Level 1 or higher, Danger Escape Level 5 or higher"/>
+		</imgdir>
+		<imgdir name="2027">
+			<string name="name" value="Protection of Solid Earth"/>
+			<string name="desc" value="Blessed by the energy of sturdy earth, HP increases."/>
+			<string name="h" value="Max Life Force is increased by {maxHP:g}"/>
+		</imgdir>
+		<imgdir name="2028">
+			<string name="name" value="Protection of Seething Earth"/>
+			<string name="desc" value="Blessed by the energy of seething earth, Attack Power increases."/>
+			<string name="h" value="Attack Power is increased by {attackPower:g}"/>
+		</imgdir>
+		<imgdir name="2029">
+			<string name="name" value="Protection of Abundant Earth"/>
+			<string name="desc" value="Blessed by the abundance of the earth, Fullness increases."/>
+			<string name="h" value="Max Fullness is increased by {maxSatiety:g}"/>
+		</imgdir>
+		<imgdir name="2030">
+			<string name="name" value="Hunger"/>
+			<string name="desc" value="You are extremely hungry! Your Acting Power continues to drain."/>
+		</imgdir>
+		<imgdir name="2031">
+			<string name="name" value="Exhausted"/>
+			<string name="desc" value="You ran out of Acting Power! Your Speed and Jump are lowered, and your attacks and harvesting are less effective."/>
+		</imgdir>
+		<imgdir name="2032">
+			<string name="name" value="Comfort"/>
+			<string name="desc" value="You are full and feeling strong. You continuously recover HP over time."/>
+		</imgdir>
+		<imgdir name="2033">
+			<string name="name" value="Getting over the Fear"/>
+			<string name="desc" value="The bright light helps you get over the fear, increasing Attack Power and Defense."/>
+		</imgdir>
+		<imgdir name="2034">
+			<string name="name" value="Squall"/>
+			<string name="desc" value="A sudden shower falls upon the island. The harsh weather makes you use more Acting Power."/>
+		</imgdir>
+		<imgdir name="2035">
+			<string name="name" value="Heat Wave"/>
+			<string name="desc" value="A heat wave emerges. You feel tired faster, and you feel more hungry."/>
+		</imgdir>
+		<imgdir name="2036">
+			<string name="name" value="Fog"/>
+			<string name="desc" value="A thick fog blankets the surroundings, making it harder to see."/>
+		</imgdir>
+		<imgdir name="2037">
+			<string name="name" value="Gentle breeze"/>
+			<string name="desc" value="A nice breeze surrounds you. You use less Acting Power and Fullness drains more slowly."/>
+		</imgdir>
+		<imgdir name="2038">
+			<string name="name" value="Swimming in the Dark"/>
+			<string name="desc" value="There is no way to swim safely in the pitch-black darkness!\r\n\r\nLife Force and Acting Power drain quickly."/>
+		</imgdir>
+		<imgdir name="3004">
+			<string name="name" value="Magic Wings"/>
+			<string name="desc" value="You can fly with this pair of Magic Wings. \r\n#c - Enables the Flying Skill\r\n - Max Mount Duration: 180 seconds"/>
+			<string name="h" value="Speed 160%, Jump 140%, Soaring"/>
+		</imgdir>
+		<imgdir name="3005">
+			<string name="name" value="Airplane"/>
+			<string name="desc" value="You can fly through the air quickly aboard this airplane. \r\n#c - Enables the Flying Skill\r\n - Max Mount Duration: 300 seconds"/>
+			<string name="h" value="Speed 200%, Jump 150%, Double Jump, Soaring"/>
+		</imgdir>
+		<imgdir name="2039">
+			<string name="name" value="Protection of Sturdy Earth"/>
+			<string name="desc" value="Blessed by the sturdy earth, HP increases."/>
+		</imgdir>
+		<imgdir name="2040">
+			<string name="name" value="Protection of Seething Earth"/>
+			<string name="desc" value="Blessed by the seething earth, Attack Power increases."/>
+		</imgdir>
+		<imgdir name="2041">
+			<string name="name" value="Protection of Abundant Earth"/>
+			<string name="desc" value="Blessed by the abundant earth, Fullness increases."/>
+		</imgdir>
+		<imgdir name="4000">
+			<string name="name" value="Attack Power enhancement"/>
+			<string name="desc" value="You&apos;ll start with a higher Attack Power."/>
+			<string name="h" value="When you start, Attack Power is increased by {attackPowerRate:g}%"/>
+		</imgdir>
+		<imgdir name="4001">
+			<string name="name" value="Tower Attack Power enhancement"/>
+			<string name="desc" value="Can be placed by further enhancing the Attack Power of the tower to be installed."/>
+			<string name="h" value="When you start, Attack Power of the tower is increased by {towerAttack:g}%"/>
+		</imgdir>
+		<imgdir name="4002">
+			<string name="name" value="Defense enhancement"/>
+			<string name="desc" value="You&apos;ll start with a higher Defense."/>
+			<string name="h" value="When you start, Defense is increased by {defensePower:g}%"/>
+		</imgdir>
+		<imgdir name="4003">
+			<string name="name" value="Attack speed enhancement"/>
+			<string name="desc" value="You&apos;ll start with a higher Attack Speed."/>
+			<string name="h" value="When you start, Attack Speed is increased by {x:g} stage"/>
+		</imgdir>
+		<imgdir name="4004">
+			<string name="name" value="Nocturnal Enhancement"/>
+			<string name="desc" value="Attack Power increases at night."/>
+			<string name="h" value="Damage dealt at night is increased by {attackPowerNight:g}"/>
+		</imgdir>
+		<imgdir name="4005">
+			<string name="name" value="Max life force enhancement"/>
+			<string name="desc" value="You&apos;ll start with a higher HP."/>
+			<string name="h" value="When you start, max HP is increased by {maxHP:g}"/>
+		</imgdir>
+		<imgdir name="4006">
+			<string name="name" value="Max Fullness enhancement"/>
+			<string name="desc" value="You&apos;ll start with higher Fullness."/>
+			<string name="h" value="When you start, max Fullness is increased by {maxSatiety:g}"/>
+		</imgdir>
+		<imgdir name="4007">
+			<string name="name" value="Max Acting power enhancement"/>
+			<string name="desc" value="You&apos;ll start with higher Acting Power."/>
+			<string name="h" value="When you start, max Acting Power is increased by {maxStamina:g}"/>
+		</imgdir>
+		<imgdir name="4008">
+			<string name="name" value="Speed enhancement"/>
+			<string name="desc" value="You&apos;ll start with faster Speed."/>
+			<string name="h" value="When you start, Speed is increased by {speed:g}"/>
+		</imgdir>
+		<imgdir name="4009">
+			<string name="name" value="Jump enhancement"/>
+			<string name="desc" value="You&apos;ll start with higher Jump."/>
+			<string name="h" value="When you start, Jump is increased by {jump:g}"/>
+		</imgdir>
+		<imgdir name="4010">
+			<string name="name" value="Survival Architect"/>
+			<string name="desc" value="Harvesting tool and survival worktable are provided as supplies upon entry."/>
+			<string name="h" value="- Stage 1: &lt;Stone Axe, Stone Pickax&gt; are given \r\n- Stage 2: &lt;Survival Worktable, Stone Axe, Stone Pickax&gt; are given \r\n- Stage 3: &lt;Industrial Worktable, Steel Axe, Steel Pickax&gt; are given"/>
+		</imgdir>
+		<imgdir name="4011">
+			<string name="name" value="Emergency Food"/>
+			<string name="desc" value="Emergency food that tastes bad but has a long shelf life is provided as a supply upon entry."/>
+			<string name="h" value="- Level 1: &lt;Energy Bar x1, Hardtack x1&gt; are given \r\n - Level 2: &lt;Energy Bar x1, Hardtack x1, Canned Food x1&gt; are given \r\n - Level 3: &lt;Energy Bar x1, Hardtack x1, Canned Food x1, Chocolate x1&gt; are given"/>
+		</imgdir>
+		<imgdir name="4012">
+			<string name="name" value="Combative Move"/>
+			<string name="desc" value="When entering, you&apos;ll start with a pretty useful weapon equipped."/>
+			<string name="h" value="- Level 1: &lt;Wooden Sword&gt; is equipped as default \r\n- Level 2: &lt;Iron Sword&gt; is equipped as default \r\n- Level 3: &lt;Golden Sword&gt; is equipped as default"/>
+		</imgdir>
+		<imgdir name="4013">
+			<string name="name" value="Clever Battle"/>
+			<string name="desc" value="When entering, you&apos;ll start with armor equipped that can protect your body."/>
+			<string name="h" value="- Level 1: &lt;Leather Armor, Sandals&gt; are equipped as default \r\n- Level 2: &lt;Gladiator Armor, Sloppy Leather Shoes&gt; are equipped as default \r\n- Level 3: &lt;Plate Armor, Studded Shoes, Leather Hat&gt; are equipped as default"/>
+		</imgdir>
+		<imgdir name="4014">
+			<string name="name" value="Exploration Designer"/>
+			<string name="desc" value="When entering, you will be given building facilities necessary for exploration."/>
+			<string name="h" value="- Level 1: &lt;Bonfire x1&gt; is given \r\n - Level 2: &lt;Bonfire x1, Palm Tent x1&gt; are given \r\n - Level 3: &lt;Bonfire x1, Palm Tent x1, Wooden Box x1&gt; are given"/>
+		</imgdir>
+		<imgdir name="4015">
+			<string name="name" value="Harvesting Power enhancement"/>
+			<string name="desc" value="Harvesting power of harvesting Tool is increased."/>
+			<string name="h" value="Harvesting Tool&apos;s resource harvesting power is increased by {gatherPowerRate:g}%"/>
+		</imgdir>
+		<imgdir name="2046">
+			<string name="name" value="Heat and shower immunity"/>
+			<string name="desc" value="Not affected by the penalty of Fullness and Acting Power due to heat and shower."/>
+		</imgdir>
+	</imgdir>
+	<imgdir name="notice">
+		<string name="NotEnoughSpace" value="There is not enough space to install. Please try again elsewhere."/>
+		<string name="UnabletoPlace" value="You cannot install underwater. Please try again elsewhere."/>
+		<string name="BagInBagForbidden" value="You cannot put bags inside another bag."/>
+		<string name="PlacementReqNotMet" value="The facility cannot be installed in this location. Please try again in the designated location."/>
+		<string name="Challenge_Not_Open" value="You can proceed with this mission after the challenge mode is activated."/>
+		<string name="Inventory_Full" value="You cannot have any more items."/>
+	</imgdir>
+	<imgdir name="popupMessage">
+		<string name="invenCheck" value="There&apos;s not enough space in your inventory. Check your inventory and try again."/>
+		<string name="NoItemsToRepair" value="There is no weapon or tool for repairs."/>
+		<string name="doNotThrowBag" value="You cannot drop a bag that contains items."/>
+	</imgdir>
+	<imgdir name="tooltip">
+		<string name="UnabletoCraft" value="The worktable is too far or you don&apos;t have enough materials."/>
+		<string name="masterLevel" value="[Master Level: {}]"/>
+		<string name="currentLevel" value="[Current Level: {}]"/>
+		<string name="nextLevel" value="[Next Level: {}]"/>
+		<string name="UnabletoCook" value="Please try again near a bonfire or a countertop after putting in at least 1 ingredient."/>
+		<string name="timeLimited" value="Time Remaining {:.1}"/>
+		<string name="durability" value="Durability {0} / {1}"/>
+	</imgdir>
+	<imgdir name="select_chapter">
+		<imgdir name="chapter1">
+			<string name="str" value="There are countless rumors and stories tangled in The Misty Island.
+There&apos;s a large ruin in the center.
+What is the identity of the center ruin that appeared.
+Let&apos;s pursue the whereabouts of the hidden truth and uncover the truth that has come to the island."/>
+			<imgdir name="reward">
+				<int name="0" value="2711023"/>
+				<int name="1" value="2633349"/>
+				<int name="2" value="2048759"/>
+				<int name="3" value="2634440"/>
+				<int name="4" value="4036314"/>
+			</imgdir>
+			<imgdir name="reward_reboot">
+				<int name="0" value="2711023"/>
+				<int name="1" value="2633349"/>
+				<int name="2" value="2048759"/>
+				<int name="3" value="2634440"/>
+				<int name="4" value="4036314"/>
+			</imgdir>
+		</imgdir>
+		<imgdir name="chapter2">
+			<string name="str" value="Goblins and Lizardmen swarm to claim the Lava Stone. Their greed has brought upon an anomaly on the island. Why are they trying to conquer Lava Stone so much? 
+We need to find a way to solve this situation as soon as possible."/>
+			<imgdir name="reward">
+				<int name="0" value="2711021"/>
+				<int name="1" value="2633349"/>
+				<int name="2" value="2048758"/>
+				<int name="3" value="2634439"/>
+				<int name="4" value="4036314"/>
+			</imgdir>
+			<imgdir name="reward_reboot">
+				<int name="0" value="2711021"/>
+				<int name="1" value="2633349"/>
+				<int name="2" value="2048758"/>
+				<int name="3" value="2634439"/>
+				<int name="4" value="4036314"/>
+			</imgdir>
+		</imgdir>
+		<imgdir name="chapter3">
+			<string name="str" value="There is only one way to protect the island. It&apos;s no longer possible to avoid a head-on confrontation with the Goblins. We must stop them before they go into a state of frenzy.
+What is the final battle the expedition will face, and the fate of The Misty Island...?"/>
+			<imgdir name="reward">
+				<int name="0" value="2711021"/>
+				<int name="1" value="2633625"/>
+				<int name="2" value="2048766"/>
+				<int name="3" value="1202287"/>
+				<int name="4" value="2048779"/>
+				<int name="5" value="4036314"/>
+			</imgdir>
+			<imgdir name="reward_reboot">
+				<int name="0" value="2711021"/>
+				<int name="1" value="2634345"/>
+				<int name="2" value="2048766"/>
+				<int name="3" value="1202287"/>
+				<int name="4" value="2048779"/>
+				<int name="5" value="4036314"/>
+			</imgdir>
+		</imgdir>
+		<imgdir name="endless">
+			<string name="str" value="Protecting the ruins was successful, but it is said that the Misty Island is still surrounded in mystery. Let&apos;s clean up the remaining remnants and investigate the island. Thus, our exploration will continue..."/>
+			<imgdir name="reward">
+				<int name="0" value="4036314"/>
+			</imgdir>
+			<imgdir name="reward_reboot">
+				<int name="0" value="4036314"/>
+			</imgdir>
+		</imgdir>
+	</imgdir>
+</imgdir>

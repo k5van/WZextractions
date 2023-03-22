@@ -1355,7 +1355,7 @@
 		</imgdir>
 		<imgdir name="4000438">
 			<string name="name" value="Tree Trunk"/>
-			<string name="desc" value="A strange tree trunk that&apos;s wrapped all over Lord Tree."/>
+			<string name="desc" value="A strange tree trunk that&apos;s wrapped all over Tree Rod."/>
 		</imgdir>
 		<imgdir name="4000439">
 			<string name="name" value="Rubble"/>
@@ -1575,7 +1575,7 @@
 		</imgdir>
 		<imgdir name="4000539">
 			<string name="name" value="Cherry Bubble"/>
-			<string name="desc" value="Refreshing cherry-flavored bubble from a cherry bubble tea."/>
+			<string name="desc" value="Refreshing cherry bubble from a cherry flavored bubble tea."/>
 		</imgdir>
 		<imgdir name="4000540">
 			<string name="name" value="Melon Bubble"/>
@@ -5903,7 +5903,7 @@
 		</imgdir>
 		<imgdir name="4021036">
 			<string name="name" value="Cube Fragment"/>
-			<string name="desc" value="A cube fragment that retains traces of the cube energy, the force governing all cubes. Can be received by extracting Master Craftsman&apos;s Cubes, and by mining and from mob/boss drops and used to make Master Craftsman&apos;s Cubes and Renowned Master Craftsman&apos;s Cubes."/>
+			<string name="desc" value="A cube fragment that retains traces of the cube energy, the force governing all cubes. Can be extracted from Mystical Cubes and used to make Hard Cubes and Solid Cubes."/>
 		</imgdir>
 		<imgdir name="4021037">
 			<string name="name" value="Cube Crystal"/>
@@ -5923,11 +5923,11 @@
 		</imgdir>
 		<imgdir name="4021041">
 			<string name="name" value="Cubic Blade"/>
-			<string name="desc" value="A blade that keeps changing itself. Occasionally found in Mysterious Ore Veins and #cused for making Master Craftsman&apos;s Cubes#."/>
+			<string name="desc" value="A blade that keeps changing itself. Occasionally found in Mysterious Ore Veins and #cused for making Hard Cubes#."/>
 		</imgdir>
 		<imgdir name="4021042">
 			<string name="name" value="Cubic Chaos Blade"/>
-			<string name="desc" value="A stronger Cubic Blade. Occasionally found in Mysterious Legendary Ore Veins and #cused for making Meister&apos;s Cubes#."/>
+			<string name="desc" value="A stronger Cubic Blade. Occasionally found in Mysterious Legendary Ore Veins. #cUsed for making Solid Cubes#."/>
 		</imgdir>
 		<imgdir name="4021044">
 			<string name="name" value="Magic Whetstone"/>
@@ -6234,32 +6234,32 @@
 			<string name="desc" value="A mushroom-shaped Omok piece to play Omok."/>
 		</imgdir>
 		<imgdir name="4030002">
-			<string name="name" value="Tetris Piece"/>
-			<string name="desc" value="Funny-looking piece."/>
+			<string name="name" value=""/>
+			<string name="desc" value=""/>
 		</imgdir>
 		<imgdir name="4030003">
-			<string name="name" value="Tetris Piece"/>
-			<string name="desc" value="Funny-looking piece"/>
+			<string name="name" value=""/>
+			<string name="desc" value=""/>
 		</imgdir>
 		<imgdir name="4030004">
-			<string name="name" value="Tetris Piece"/>
-			<string name="desc" value="Funny-looking piece"/>
+			<string name="name" value=""/>
+			<string name="desc" value=""/>
 		</imgdir>
 		<imgdir name="4030005">
-			<string name="name" value="Tetris Piece"/>
-			<string name="desc" value="Funny-looking piece"/>
+			<string name="name" value=""/>
+			<string name="desc" value=""/>
 		</imgdir>
 		<imgdir name="4030006">
-			<string name="name" value="Tetris Piece"/>
-			<string name="desc" value="Funny-looking piece"/>
+			<string name="name" value=""/>
+			<string name="desc" value=""/>
 		</imgdir>
 		<imgdir name="4030007">
-			<string name="name" value="Tetris Piece"/>
-			<string name="desc" value="Funny-looking piece"/>
+			<string name="name" value=""/>
+			<string name="desc" value=""/>
 		</imgdir>
 		<imgdir name="4030008">
-			<string name="name" value="Tetris Piece"/>
-			<string name="desc" value="Funny-looking piece"/>
+			<string name="name" value=""/>
+			<string name="desc" value=""/>
 		</imgdir>
 		<imgdir name="4030009">
 			<string name="name" value="Omok Table"/>
@@ -8186,8 +8186,8 @@
 			<string name="desc" value="A food that has been wrapped so that it will stay in one piece."/>
 		</imgdir>
 		<imgdir name="4031581">
-			<string name="name" value="Sand Picture Member Badge"/>
-			<string name="desc" value="A badge that is only given to those qualified to join Sand Picture."/>
+			<string name="name" value="Sand Bandits Member Badge"/>
+			<string name="desc" value="A badge that is only given to those qualified to join the Sand Bandits."/>
 		</imgdir>
 		<imgdir name="4031582">
 			<string name="name" value="Entry Pass to the Palace"/>
@@ -8527,7 +8527,7 @@
 		</imgdir>
 		<imgdir name="4031788">
 			<string name="name" value="Red Marble"/>
-			<string name="desc" value="A glowing Red Marble Master Goblin prepared for Do Gong. Apparently it helps mastering spells."/>
+			<string name="desc" value="A glowing Red Marble, which the King Sage Cat prepared for Do Gong. Apparently, it helps with mastering spells."/>
 		</imgdir>
 		<imgdir name="4031789">
 			<string name="name" value="Antidote Marble"/>
@@ -13129,8 +13129,8 @@
 			<string name="desc" value="This peace treaty between Leafre and the Hoblins was signed by Rex, the Hoblin King. "/>
 		</imgdir>
 		<imgdir name="4033791">
-			<string name="name" value="Master Goblin Essence"/>
-			<string name="desc" value="The essence of Master Goblin."/>
+			<string name="name" value="King Sage Cat Essence"/>
+			<string name="desc" value="The essence of the King Sage Cat"/>
 		</imgdir>
 		<imgdir name="4033792">
 			<string name="name" value="Manon&apos;s Tail Meat"/>
@@ -15098,7 +15098,7 @@
 		</imgdir>
 		<imgdir name="4034960">
 			<string name="name" value="Savory Stir Fry"/>
-			<string name="desc" value="A stir fry that&apos;s tasty enough to blow your mind."/>
+			<string name="desc" value="Mind-blowingly delicious!"/>
 		</imgdir>
 		<imgdir name="4034961">
 			<string name="name" value="Nummy Noodles"/>
@@ -15106,7 +15106,7 @@
 		</imgdir>
 		<imgdir name="4034962">
 			<string name="name" value="Steamy Surprise"/>
-			<string name="desc" value="It&apos;s an unusual combination, but this steamed food tastes great."/>
+			<string name="desc" value="Unusual, but it tastes great."/>
 		</imgdir>
 		<imgdir name="4034963">
 			<string name="name" value="Weird Wrap"/>
@@ -15114,11 +15114,11 @@
 		</imgdir>
 		<imgdir name="4034964">
 			<string name="name" value="Gamey Soup"/>
-			<string name="desc" value="It&apos;s an interesting taste sensation, that&apos;s for sure."/>
+			<string name="desc" value="Tastes interesting, to say the least."/>
 		</imgdir>
 		<imgdir name="4034965">
 			<string name="name" value="Mystery Roast"/>
-			<string name="desc" value="What&apos;s inside this roast? As long as it&apos;s good, who cares?"/>
+			<string name="desc" value="What&apos;s in it? Who cares? It&apos;s good!"/>
 		</imgdir>
 		<imgdir name="4034966">
 			<string name="name" value="Berry Bouquet"/>
@@ -15126,11 +15126,11 @@
 		</imgdir>
 		<imgdir name="4034967">
 			<string name="name" value="Fried Squish"/>
-			<string name="desc" value="Squish a bunch of tasty stuff together, and get something tasty! Amazing!"/>
+			<string name="desc" value="Tasty plus tasty equals extra tasty!"/>
 		</imgdir>
 		<imgdir name="4034968">
 			<string name="name" value="Dumpling Delights"/>
-			<string name="desc" value="These dumplings delight as they go down the hatch."/>
+			<string name="desc" value="These dumplings do indeed delight."/>
 		</imgdir>
 		<imgdir name="4034969">
 			<string name="name" value="Funky Pizza"/>
@@ -16161,15 +16161,15 @@
 			<string name="desc" value="Item option changes when you make one-handed blunt weapon with this stimulator. However, creating item may result in failure by 10%."/>
 		</imgdir>
 		<imgdir name="4130005">
-			<string name="name" value="Two-Handed Sword Forging Stimulator"/>
+			<string name="name" value="Two-handed Sword Forging Stimulator"/>
 			<string name="desc" value="Item option changes when you make two-handed sword with this stimulator. However, creating item may result in failure by 10%."/>
 		</imgdir>
 		<imgdir name="4130006">
-			<string name="name" value="Two-Handed Axe Forging Stimulator"/>
+			<string name="name" value="Two-handed Axe Forging Stimulator"/>
 			<string name="desc" value="Item option changes when you make two-handed axe with this stimulator. However, creating item may result in failure by 10%."/>
 		</imgdir>
 		<imgdir name="4130007">
-			<string name="name" value="Two-Handed Mace Forging Stimulator"/>
+			<string name="name" value="Two-handed Mace Forging Stimulator"/>
 			<string name="desc" value="Item option changes when you make two-handed mace with this stimulator. However, creating item may result in failure by 10%."/>
 		</imgdir>
 		<imgdir name="4130008">
@@ -16249,15 +16249,15 @@
 			<string name="desc" value="An old piece of paper that has instructions on how to produce a one-handed blunt weapon."/>
 		</imgdir>
 		<imgdir name="4131003">
-			<string name="name" value="Two-Handed Sword Forging Manual"/>
+			<string name="name" value="Two-handed Sword Forging Manual"/>
 			<string name="desc" value="An old piece of paper that has instructions on how to produce a two-handed sword."/>
 		</imgdir>
 		<imgdir name="4131004">
-			<string name="name" value="Two-Handed Axe Forging Manual"/>
+			<string name="name" value="Two-handed Axe Forging Manual"/>
 			<string name="desc" value="An old piece of paper that has instructions on how to produce a two-handed axe."/>
 		</imgdir>
 		<imgdir name="4131005">
-			<string name="name" value="Two-Handed Mace Forging Manual"/>
+			<string name="name" value="Two-handed Mace Forging Manual"/>
 			<string name="desc" value="An old piece of paper that has instructions on how to produce a two-handed blunt weapon."/>
 		</imgdir>
 		<imgdir name="4131006">
@@ -18148,6 +18148,14 @@
 			<string name="name" value="Challenge Token"/>
 			<string name="desc" value="Can be used in various ways in #cMaple Momentree#."/>
 		</imgdir>
+		<imgdir name="4310329">
+			<string name="name" value="Ignition Coins"/>
+			<string name="desc" value="Can be used in various ways in #cIgnition Flame Festival#."/>
+		</imgdir>
+		<imgdir name="4310330">
+			<string name="name" value="Flare Coins"/>
+			<string name="desc" value="Can be used in various ways in #cIgnition Flame Festival#."/>
+		</imgdir>
 		<imgdir name="4320000">
 			<string name="name" value="Damage Meter"/>
 			<string name="desc" value="A meter that can measure damage."/>
@@ -19085,14 +19093,6 @@
 			<string name="name" value="Old Gold Watch"/>
 			<string name="desc" value="An old watch Alex received from his late mother."/>
 		</imgdir>
-		<imgdir name="4310329">
-			<string name="name" value="Ignition Coins"/>
-			<string name="desc" value="Can be used in various ways in #cIgnition Flame Festival#."/>
-		</imgdir>
-		<imgdir name="4310330">
-			<string name="name" value="Flare Coins"/>
-			<string name="desc" value="Can be used in various ways in #cIgnition Flame Festival#."/>
-		</imgdir>
 		<imgdir name="4036863">
 			<string name="name" value="The Lost Treasure"/>
 			<string name="desc" value="Ereve&apos;s treasure that has been stolen by Baroq."/>
@@ -19130,7 +19130,7 @@
 			<string name="desc" value="A letter from Cygnus to the head of the Resistance"/>
 		</imgdir>
 		<imgdir name="4036875">
-			<string name="name" value="Fruit Hidden by Wild Pig"/>
+			<string name="name" value="Wild Pig&apos;s Stolen Fruit"/>
 			<string name="desc" value="A fruit hidden by the Wild Pigs. It&apos;s colorful."/>
 		</imgdir>
 		<imgdir name="4036876">
@@ -19158,7 +19158,7 @@
 			<string name="desc" value="An emerald-colored jewel on Empress Cygnus&apos;s crown. Seems to contain the Spirit&apos;s power."/>
 		</imgdir>
 		<imgdir name="4036879">
-			<string name="name" value="Sinister Orange Mushroom Puppet"/>
+			<string name="name" value="Cynical Orange Mushroom Puppet"/>
 			<string name="desc" value="It looks like an Orange Mushroom, but there&apos;s something creepy in the eyes."/>
 		</imgdir>
 		<imgdir name="4036880">
@@ -19200,6 +19200,38 @@
 		<imgdir name="4036896">
 			<string name="name" value="Energy Power"/>
 			<string name="desc" value="Energy source manufactured to restore Seri&apos;s ill body."/>
+		</imgdir>
+		<imgdir name="4037073">
+			<string name="name" value="EXP Coupon"/>
+			<string name="desc" value="A reward for leveling up Rock Spirit. You can exchange it for EXP."/>
+		</imgdir>
+		<imgdir name="4037074">
+			<string name="name" value="EXP Coupon x300"/>
+			<string name="desc" value="You can get EXP Coupon x#c300#."/>
+		</imgdir>
+		<imgdir name="4037075">
+			<string name="name" value="EXP Coupon x600"/>
+			<string name="desc" value="You can get EXP Coupon x#c600#."/>
+		</imgdir>
+		<imgdir name="4037076">
+			<string name="name" value="EXP Coupon x800"/>
+			<string name="desc" value="You can get EXP Coupon x#c800#."/>
+		</imgdir>
+		<imgdir name="4037077">
+			<string name="name" value="EXP Coupon x1200"/>
+			<string name="desc" value="You can get EXP Coupon x#c1200#."/>
+		</imgdir>
+		<imgdir name="4037078">
+			<string name="name" value="EXP Coupon and Chair"/>
+			<string name="desc" value="You can get #cEXP Coupon x300# and #cPermanent Rainy Day Rock Spirit Chair#."/>
+		</imgdir>
+		<imgdir name="4037079">
+			<string name="name" value="EXP Coupon and Rock Spiritroid"/>
+			<string name="desc" value="You can get #cEXP Coupon x600# and #cRock Spiritroid Coupon (7 Day)#."/>
+		</imgdir>
+		<imgdir name="4037080">
+			<string name="name" value="EXP Coupon and Damage Skin"/>
+			<string name="desc" value="You can get #cEXP Coupon x800# and #cRock Spirit Action Damage Skin (Unit) (7 Day)#."/>
 		</imgdir>
 		<imgdir name="4000174">
 			<string name="name" value="Money Envelope"/>
@@ -20971,7 +21003,7 @@ Looking at this fills you with hope. It&apos;s terribly fragile, so handle with 
 		</imgdir>
 		<imgdir name="4009338">
 			<string name="name" value="Destroyed Sword Fragment"/>
-			<string name="desc" value="Giant Two-Handed Sword Fragment"/>
+			<string name="desc" value="Giant Two-handed Sword Fragment"/>
 		</imgdir>
 		<imgdir name="4009339">
 			<string name="name" value="Destroyed Flame Wand"/>
@@ -22851,8 +22883,8 @@ Looking at this fills you with hope. It&apos;s terribly fragile, so handle with 
 			<string name="desc" value="A wing from Auf Haven."/>
 		</imgdir>
 		<imgdir name="4032358">
-			<string name="name" value="Core Blaze Tip"/>
-			<string name="desc" value="A tip from Core Blaze"/>
+			<string name="name" value="Blaze Core Tip"/>
+			<string name="desc" value="A tip from the Blaze Core"/>
 		</imgdir>
 		<imgdir name="4032359">
 			<string name="name" value="Asia&apos;s Letter"/>
@@ -29588,6 +29620,10 @@ Looking at this fills you with hope. It&apos;s terribly fragile, so handle with 
 		<imgdir name="4001912">
 			<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
 			<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		</imgdir>
+		<imgdir name="4310327">
+			<string name="name" value="Neo Tokyo Coin"/>
+			<string name="desc" value="A coin you can get by playing #cNeo Tokyo#. Can be exchanged for rewards from #cNolan# in the #c2102 Secret Command Center.#"/>
 		</imgdir>
 	</imgdir>
 </imgdir>

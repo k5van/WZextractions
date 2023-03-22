@@ -239,7 +239,7 @@
 				<imgdir name="4">
 					<vector name="lt" x="12" y="105"/>
 					<vector name="rb" x="69" y="135"/>
-					<string name="Title" value="Damage"/>
+					<string name="Title" value="Damage Range"/>
 					<string name="Desc" value="Stat that shows your actual Damage. Magic Attack will be displayed when you&apos;re equipped with a Wand, Staff, Shining Rod, Fan, Psy-limiter, or Lucent Gauntlet, and Weapon Attack will be displayed when you&apos;re equipped with other weapons."/>
 				</imgdir>
 				<imgdir name="5">
@@ -300,7 +300,7 @@
 					<vector name="lt" x="12" y="279"/>
 					<vector name="rb" x="69" y="294"/>
 					<string name="Title" value="LUK"/>
-					<string name="Desc" value="Luck determines your Avoidability. It&apos;s the Thief&apos;s main attack stat."/>
+					<string name="Desc" value="As this stat increases, Avoidability increases. It determines the attack strength of Thieves."/>
 				</imgdir>
 			</imgdir>
 			<imgdir name="Stat_Xenon">
@@ -331,7 +331,7 @@
 				<imgdir name="4">
 					<vector name="lt" x="12" y="105"/>
 					<vector name="rb" x="69" y="135"/>
-					<string name="Title" value="Damage"/>
+					<string name="Title" value="Damage Range"/>
 					<string name="Desc" value="Stat that shows your actual Damage. Magic Attack will be displayed when you&apos;re equipped with a Wand, Staff, Shining Rod, Fan, Psy-limiter, or Lucent Gauntlet, and Weapon Attack will be displayed when you&apos;re equipped with other weapons."/>
 				</imgdir>
 				<imgdir name="5">
@@ -386,14 +386,14 @@
 				<imgdir name="0">
 					<vector name="lt" x="12" y="41"/>
 					<vector name="rb" x="73" y="74"/>
-					<string name="Title" value="Damage"/>
+					<string name="Title" value="Damage Range"/>
 					<string name="Desc" value="Your actual damage range, accounting for both Damage Bonus and Final Damage bonuses. For Wand, Staff, Shining Rod, Fan, Psy-limiter, or Lucent Gauntlet weapons, this is calculated using Magic ATT. For all other weapons, your damage is calculated using Attack Power."/>
 				</imgdir>
 				<imgdir name="1">
 					<vector name="lt" x="12" y="77"/>
 					<vector name="rb" x="73" y="92"/>
 					<string name="Title" value="Damage Bonus"/>
-					<string name="Desc" value="The damage multiplier value used to calculate your Damage. Determined by the total combined Damage bonuses of your skills and equipment. Values that only apply to specific skills are not included in this calculation."/>
+					<string name="Desc" value="The damage multiplier value used to calculate your Damage Range. Determined by the total combined Damage of your skills and equipment. Values that only apply to specific skills are not included in this calculation."/>
 				</imgdir>
 				<imgdir name="2">
 					<vector name="lt" x="124" y="77"/>
@@ -405,7 +405,7 @@
 					<vector name="lt" x="12" y="95"/>
 					<vector name="rb" x="73" y="110"/>
 					<string name="Title" value="Final Damage"/>
-					<string name="Desc" value="The damage multiplier that increases your total Damage. Determined by multiplying the Final Damage bonuses of all your skills."/>
+					<string name="Desc" value="The damage multiplier that increases your total Damage Range. Determined by multiplying the Final Damage of all your skills."/>
 				</imgdir>
 				<imgdir name="4">
 					<vector name="lt" x="12" y="113"/>
@@ -504,14 +504,14 @@
 				<imgdir name="0">
 					<vector name="lt" x="12" y="41"/>
 					<vector name="rb" x="73" y="74"/>
-					<string name="Title" value="Damage"/>
+					<string name="Title" value="Damage Range"/>
 					<string name="Desc" value="Your actual damage range, accounting for both Damage Bonus and Final Damage bonuses. For Wand, Staff, Shining Rod, Fan, Psy-limiter, or Lucent Gauntlet weapons, this is calculated using Magic ATT. For all other weapons, your damage is calculated using Attack Power."/>
 				</imgdir>
 				<imgdir name="1">
 					<vector name="lt" x="12" y="77"/>
 					<vector name="rb" x="73" y="92"/>
 					<string name="Title" value="Damage Bonus"/>
-					<string name="Desc" value="The damage multiplier value used to calculate your Damage. Determined by the total combined Damage bonuses of your skills and equipment. Values that only apply to specific skills are not included in this calculation."/>
+					<string name="Desc" value="The damage multiplier value used to calculate your Damage Range. Determined by the total combined Damage of your skills and equipment. Values that only apply to specific skills are not included in this calculation."/>
 				</imgdir>
 				<imgdir name="2">
 					<vector name="lt" x="124" y="77"/>
@@ -523,7 +523,7 @@
 					<vector name="lt" x="12" y="95"/>
 					<vector name="rb" x="73" y="110"/>
 					<string name="Title" value="Final Damage"/>
-					<string name="Desc" value="The damage multiplier that increases your total Damage. Determined by multiplying the Final Damage bonuses of all your skills."/>
+					<string name="Desc" value="The damage multiplier that increases your total Damage Range. Determined by multiplying the Final Damage of all your skills."/>
 				</imgdir>
 				<imgdir name="4">
 					<vector name="lt" x="12" y="113"/>
@@ -628,14 +628,14 @@
 				<imgdir name="0">
 					<vector name="lt" x="12" y="41"/>
 					<vector name="rb" x="73" y="74"/>
-					<string name="Title" value="Damage"/>
+					<string name="Title" value="Damage Range"/>
 					<string name="Desc" value="Your actual damage range, accounting for both Damage Bonus and Final Damage bonuses. For Wand, Staff, Shining Rod, Fan, Psy-limiter, or Lucent Gauntlet weapons, this is calculated using Magic ATT. For all other weapons, your damage is calculated using Attack Power."/>
 				</imgdir>
 				<imgdir name="1">
 					<vector name="lt" x="12" y="77"/>
 					<vector name="rb" x="73" y="92"/>
 					<string name="Title" value="Damage Bonus"/>
-					<string name="Desc" value="The damage multiplier value used to calculate your Damage. Determined by the total combined Damage bonuses of your skills and equipment. Values that only apply to specific skills are not included in this calculation."/>
+					<string name="Desc" value="The damage multiplier value used to calculate your Damage Range. Determined by the total combined Damage of your skills and equipment. Values that only apply to specific skills are not included in this calculation."/>
 				</imgdir>
 				<imgdir name="2">
 					<vector name="lt" x="124" y="77"/>
@@ -647,7 +647,7 @@
 					<vector name="lt" x="12" y="95"/>
 					<vector name="rb" x="73" y="110"/>
 					<string name="Title" value="Final Damage"/>
-					<string name="Desc" value="The damage multiplier that increases your total Damage. Determined by multiplying the Final Damage bonuses of all your skills."/>
+					<string name="Desc" value="The damage multiplier that increases your total Damage Range. Determined by multiplying the Final Damage of all your skills."/>
 				</imgdir>
 				<imgdir name="4">
 					<vector name="lt" x="12" y="113"/>
@@ -758,14 +758,14 @@
 				<imgdir name="0">
 					<vector name="lt" x="12" y="41"/>
 					<vector name="rb" x="73" y="74"/>
-					<string name="Title" value="Damage"/>
+					<string name="Title" value="Damage Range"/>
 					<string name="Desc" value="Your actual damage range, accounting for both Damage Bonus and Final Damage bonuses. For Wand, Staff, Shining Rod, Fan, Psy-limiter, or Lucent Gauntlet weapons, this is calculated using Magic ATT. For all other weapons, your damage is calculated using Attack Power."/>
 				</imgdir>
 				<imgdir name="1">
 					<vector name="lt" x="12" y="77"/>
 					<vector name="rb" x="73" y="92"/>
 					<string name="Title" value="Damage"/>
-					<string name="Desc" value="The damage multiplier value used to calculate your Damage. Determined by the total combined Damage bonuses of your skills and equipment. Values that only apply to specific skills are not included in this calculation."/>
+					<string name="Desc" value="The damage multiplier value used to calculate your Damage Range. Determined by the total combined Damage of your skills and equipment. Values that only apply to specific skills are not included in this calculation."/>
 				</imgdir>
 				<imgdir name="2">
 					<vector name="lt" x="124" y="77"/>
@@ -777,7 +777,7 @@
 					<vector name="lt" x="12" y="95"/>
 					<vector name="rb" x="73" y="110"/>
 					<string name="Title" value="Final Damage"/>
-					<string name="Desc" value="The damage multiplier that increases your total Damage. Determined by multiplying the Final Damage bonuses of all your skills."/>
+					<string name="Desc" value="The damage multiplier that increases your total Damage Range. Determined by multiplying the Final Damage of all your skills."/>
 				</imgdir>
 				<imgdir name="4">
 					<vector name="lt" x="12" y="113"/>

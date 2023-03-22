@@ -2286,13 +2286,73 @@
 		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
 	</imgdir>
 	<imgdir name="5002517">
-		<string name="name" value="Rock Soul"/>
+		<string name="name" value="LRock Spirit"/>
 		<string name="desc" value="Floating on the balloon, a lovely #cRock Soul#."/>
 		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
 	</imgdir>
 	<imgdir name="5002518">
-		<string name="name" value="Pebble Soul"/>
+		<string name="name" value="SRock Spirit"/>
 		<string name="desc" value="Floating on the balloon, a lovely #cPebble Soul#."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002423">
+		<string name="name" value="Oberon"/>
+		<string name="desc" value="It&apos;s #cOberon#, the Fairy King. He seems quite serious.\r\nUsing the power of moonlight, #cReboot Petite Fairy# pets can collect items across a larger area than most other pets."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002424">
+		<string name="name" value="Titania"/>
+		<string name="desc" value="It&apos;s #cTitania#, the Fairy Queen. She&apos;s pretty high and mighty.\r\nUsing the power of moonlight, #cReboot Petite Fairy# pets can collect items across a larger area than most other pets."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002425">
+		<string name="name" value="Petite Pico"/>
+		<string name="desc" value="It&apos;s #cPetite Pico#, the adorable fairy, who&apos;s in charge of all things cute!\r\nUsing the power of moonlight, #cReboot Petite Fairy# pets can collect items across a larger area than most other pets."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002426">
+		<string name="name" value="Victory"/>
+		<string name="desc" value="It&apos;s #cVictory#, king of the pony riders! He&apos;s always concerned with appearing chic, but his cute side shows itself occasionally.\r\nChanneling the power of moonlight, #cReboot Lil Pony# pets can collect items across a larger area than most other pets."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002427">
+		<string name="name" value="Glory"/>
+		<string name="desc" value="It&apos;s #cGlory#, the glorious star rider! She may look a bit aloof, but she becomes fast friends with those she takes a liking to.\r\nChanneling the power of moonlight, #cReboot Lil Pony# pets can collect items across a larger area than most other pets."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002428">
+		<string name="name" value="Lil Pony"/>
+		<string name="desc" value="It&apos;s the lovable #cLil Pony#, cherished by Victory and Glory. Its charm is its capricious and whimsical behavior. Who knows what it&apos;ll do next?\r\nChanneling the power of moonlight, #cReboot Lil Pony# pets can collect items across a larger area than most other pets."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002528">
+		<string name="name" value="Pyuri"/>
+		<string name="desc" value="Rabbit doll #cPyuri# waits for a friend who will return someday."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002529">
+		<string name="name" value="Pori"/>
+		<string name="desc" value="Bear doll #cPori# waits for a friend who will return someday."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002530">
+		<string name="name" value="Puri"/>
+		<string name="desc" value="Monkey doll #cPuri# waits for a friend who will return someday."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002531">
+		<string name="name" value="Papa Ghost"/>
+		<string name="desc" value="#cPapa Ghost# is the oldest of the Ghost brothers.\nEquip to obtain the #cColorful Scare!# skill, which grows stronger as you equip more Colorful Ghosts pets (max 3)."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002532">
+		<string name="name" value="Nono Ghost"/>
+		<string name="desc" value="#cNono Ghost# is the youngest of the Ghost brothers.\nEquip to obtain the #cColorful Scare!# skill, which grows stronger as you equip more Colorful Ghosts pets (max 3)."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002533">
+		<string name="name" value="Bobo Ghost"/>
+		<string name="desc" value="#cBobo Ghost# is the second of the Ghost brothers.\nEquip to obtain the #cColorful Scare!# skill, which grows stronger as you equip more Colorful Ghosts pets (max 3)."/>
 		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
 	</imgdir>
 	<imgdir name="5000025">
@@ -5077,17 +5137,17 @@
 	</imgdir>
 	<imgdir name="5002133">
 		<string name="name" value="White Boxcat"/>
-		<string name="desc" value="This is the White Boxcat pet.\nEquip Boxcat pets to get the #cIf it Fits, I Sits# skill, which grows stronger as you equip more Boxcat pets."/>
+		<string name="desc" value="This is the White Boxcat pet."/>
 		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
 	</imgdir>
 	<imgdir name="5002134">
 		<string name="name" value="Tabby Boxcat"/>
-		<string name="desc" value="This is the Tabby Boxcat pet.\nEquip Boxcat pets to get the #cIf it Fits, I Sits# skill, which grows stronger as you equip more Boxcat pets."/>
+		<string name="desc" value="This is the Tabby Boxcat pet."/>
 		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
 	</imgdir>
 	<imgdir name="5002135">
 		<string name="name" value="Black Boxcat"/>
-		<string name="desc" value="This is the Black Boxcat pet.\nEquip Boxcat pets to get the #cIf it Fits, I Sits# skill, which grows stronger as you equip more Boxcat pets."/>
+		<string name="desc" value="This is the Black Boxcat pet."/>
 		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
 	</imgdir>
 	<imgdir name="5002130">
@@ -5626,7 +5686,7 @@
 		<string name="descd" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
 	</imgdir>
 	<imgdir name="5002287">
-		<string name="desc" value="A dependable#cBrown Ursa#."/>
+		<string name="desc" value="A dependable #cBrown Ursa#."/>
 		<string name="descd" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
 		<string name="name" value="Brown Ursa"/>
 	</imgdir>
@@ -5641,7 +5701,7 @@
 		<string name="name" value="Purple Ursa"/>
 	</imgdir>
 	<imgdir name="5002321">
-		<string name="desc" value="A dependable#cBrown Ursa#."/>
+		<string name="desc" value="A dependable #cBrown Ursa#."/>
 		<string name="descd" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
 		<string name="name" value="Brown Ursa"/>
 	</imgdir>
@@ -5802,17 +5862,17 @@
 	</imgdir>
 	<imgdir name="5002501">
 		<string name="name" value="Lil Angelbun"/>
-		<string name="desc" value="It&apos;s the cute, coy #cLil Angelbun#.\nEquip to obtain the #cFantasy Bunny pet# skill, which grows stronger as you equip more Fantasy Bunny pets (max 3)."/>
+		<string name="desc" value="It&apos;s the cute, coy #cLil Angelbun#."/>
 		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
 	</imgdir>
 	<imgdir name="5002502">
 		<string name="name" value="Lil Devilbun"/>
-		<string name="desc" value="It&apos;s the cute, chic #cLil Devilbun#.\nEquip to obtain the #cFantasy Bunny pet# skill, which grows stronger as you equip more Fantasy Bunny pets (max 3)."/>
+		<string name="desc" value="It&apos;s the cute, chic #cLil Devilbun#."/>
 		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
 	</imgdir>
 	<imgdir name="5002503">
 		<string name="name" value="Lil Fairybun"/>
-		<string name="desc" value="It&apos;s the cute, bubbly #cLil Fairybun#.\nEquip to obtain the #cFantasy Bunny pet# skill, which grows stronger as you equip more Fantasy Bunny pets (max 3)."/>
+		<string name="desc" value="It&apos;s the cute, bubbly #cLil Fairybun#."/>
 		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
 	</imgdir>
 	<imgdir name="5002507">
@@ -5963,6 +6023,81 @@
 	<imgdir name="5002537">
 		<string name="name" value="Bronze Meso"/>
 		<string name="desc" value="It&apos;s a Bronze Meso pet.\nEquip Live Meso pets to get the #cLive Meso pets&apos; Mysterious Power# skill, which grows stronger as you equip more Live Meso pets."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002553">
+		<string name="name" value="Pink Bunbun"/>
+		<string name="desc" value="It&apos;s a Pink Bunbun pet."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002554">
+		<string name="name" value="Blue Bunbun"/>
+		<string name="desc" value="It&apos;s a Blue Bunbun pet."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002555">
+		<string name="name" value="Green Bunbun"/>
+		<string name="desc" value="It&apos;s a Green Bunbun pet."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002543">
+		<string name="name" value="Pink Bunbun"/>
+		<string name="desc" value="It&apos;s a Pink Bunbun pet.\nEquip Bunbun pets to get the #cBunbuns&apos; Mysterious Power# skill, which grows stronger as you equip more Bunbun pets."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002544">
+		<string name="name" value="Blue Bunbun"/>
+		<string name="desc" value="It&apos;s a Blue Bunbun pet.\nEquip Bunbun pets to get the #cBunbuns&apos; Mysterious Power# skill, which grows stronger as you equip more Bunbun pets."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002545">
+		<string name="name" value="Green Bunbun"/>
+		<string name="desc" value="It&apos;s a Green Bunbun pet.\nEquip Bunbun pets to get the #cBunbuns&apos; Mysterious Power# skill, which grows stronger as you equip more Bunbun pets."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002547">
+		<string name="name" value="Hat Frog"/>
+		<string name="desc" value="A hat-wearing frog.\n#cSkill: Auto Buff, Meso Magnet, and Item Pouch#"/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002548">
+		<string name="name" value="Leaf Frog"/>
+		<string name="desc" value="A frog with a leaf on its head.\n#cSkill: Auto Buff, Meso Magnet, and Item Pouch#"/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002549">
+		<string name="name" value="Rain Frog"/>
+		<string name="desc" value="A frog with an umbrella.\n#cSkill: Auto Buff, Meso Magnet, and Item Pouch#"/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002550">
+		<string name="name" value="White Bunny"/>
+		<string name="desc" value="A white bunny.\n#cSkill: Auto Buff, Meso Magnet, and Item Pouch#"/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002551">
+		<string name="name" value="Gray Bunny"/>
+		<string name="desc" value="A gray bunny.\n#cSkill: Auto Buff, Meso Magnet, and Item Pouch#"/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002552">
+		<string name="name" value="Brown Bunny"/>
+		<string name="desc" value="A brown bunny.\n#cSkill: Auto Buff, Meso Magnet, and Item Pouch#"/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002567">
+		<string name="name" value="Evil Eye"/>
+		<string name="desc" value="An Evil Eye pet."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002568">
+		<string name="name" value="Curse Eye"/>
+		<string name="desc" value="A Curse Eye pet."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002569">
+		<string name="name" value="Cold Eye"/>
+		<string name="desc" value="A Cold Eye pet."/>
 		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
 	</imgdir>
 </imgdir>

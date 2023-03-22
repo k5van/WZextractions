@@ -4286,7 +4286,7 @@
 		</imgdir>
 		<imgdir name="120000105">
 			<string name="streetName" value="Nautilus"/>
-			<string name="mapName" value="Training Room"/>
+			<string name="mapName" value="Hall of Pirates"/>
 		</imgdir>
 		<imgdir name="120000200">
 			<string name="streetName" value="Nautilus"/>
@@ -12371,6 +12371,18 @@
 			<string name="streetName" value="Altaire Camp"/>
 			<string name="mapName" value="Tent House"/>
 		</imgdir>
+		<imgdir name="300000003">
+			<string name="streetName" value="Ellin Forest"/>
+			<string name="mapName" value="Camp Entrance"/>
+		</imgdir>
+		<imgdir name="300000004">
+			<string name="streetName" value="Ellin Forest"/>
+			<string name="mapName" value="Altaire Camp"/>
+		</imgdir>
+		<imgdir name="300000005">
+			<string name="streetName" value="Ellin Forest"/>
+			<string name="mapName" value="Tent House"/>
+		</imgdir>
 		<imgdir name="300000010">
 			<string name="streetName" value="Altaire Camp"/>
 			<string name="mapName" value="Camp Conference Room"/>
@@ -18670,6 +18682,10 @@
 			<string name="streetName" value="Black Heaven Inside"/>
 			<string name="mapName" value="Core"/>
 		</imgdir>
+		<imgdir name="350060650">
+			<string name="streetName" value="Black Heaven Inside"/>
+			<string name="mapName" value="Core"/>
+		</imgdir>
 		<imgdir name="350060700">
 			<string name="streetName" value="Black Heaven Inside"/>
 			<string name="mapName" value="Core"/>
@@ -18907,6 +18923,10 @@
 			<string name="mapName" value="Core"/>
 		</imgdir>
 		<imgdir name="350060919">
+			<string name="streetName" value="Black Heaven Inside"/>
+			<string name="mapName" value="Core"/>
+		</imgdir>
+		<imgdir name="350060950">
 			<string name="streetName" value="Black Heaven Inside"/>
 			<string name="mapName" value="Core"/>
 		</imgdir>
@@ -19522,6 +19542,10 @@
 			<string name="streetName" value="Dark World Tree"/>
 			<string name="mapName" value="World Tree Summit"/>
 		</imgdir>
+		<imgdir name="350160180">
+			<string name="streetName" value="Dark World Tree"/>
+			<string name="mapName" value="World Tree Summit"/>
+		</imgdir>
 		<imgdir name="350160200">
 			<string name="streetName" value="Dark World Tree"/>
 			<string name="mapName" value="World Tree Summit"/>
@@ -19535,6 +19559,10 @@
 			<string name="mapName" value="World Tree Summit"/>
 		</imgdir>
 		<imgdir name="350160260">
+			<string name="streetName" value="Dark World Tree"/>
+			<string name="mapName" value="World Tree Summit"/>
+		</imgdir>
+		<imgdir name="350160280">
 			<string name="streetName" value="Dark World Tree"/>
 			<string name="mapName" value="World Tree Summit"/>
 		</imgdir>
@@ -19570,33 +19598,13 @@
 			<string name="streetName" value="Heroes of Maple"/>
 			<string name="mapName" value="World Tree Summit"/>
 		</imgdir>
-		<imgdir name="300000003">
-			<string name="streetName" value="Ellin Forest"/>
-			<string name="mapName" value="Camp Entrance"/>
+		<imgdir name="302001000">
+			<string name="streetName" value="Grand Athenaeum"/>
+			<string name="mapName" value="Grand Athenaeum"/>
 		</imgdir>
-		<imgdir name="300000004">
-			<string name="streetName" value="Ellin Forest"/>
-			<string name="mapName" value="Altaire Camp"/>
-		</imgdir>
-		<imgdir name="300000005">
-			<string name="streetName" value="Ellin Forest"/>
-			<string name="mapName" value="Tent House"/>
-		</imgdir>
-		<imgdir name="350060650">
-			<string name="streetName" value="Black Heaven Inside"/>
-			<string name="mapName" value="Core"/>
-		</imgdir>
-		<imgdir name="350060950">
-			<string name="streetName" value="Black Heaven Inside"/>
-			<string name="mapName" value="Core"/>
-		</imgdir>
-		<imgdir name="350160180">
-			<string name="streetName" value="Dark World Tree"/>
-			<string name="mapName" value="World Tree Summit"/>
-		</imgdir>
-		<imgdir name="350160280">
-			<string name="streetName" value="Dark World Tree"/>
-			<string name="mapName" value="World Tree Summit"/>
+		<imgdir name="302002000">
+			<string name="streetName" value="Grand Athenaeum"/>
+			<string name="mapName" value="Grand Athenaeum"/>
 		</imgdir>
 		<imgdir name="866601000">
 			<string name="streetName" value="Nihal Desert"/>
@@ -32328,6 +32336,14 @@
 			<string name="streetName" value="Monster Park Extreme"/>
 			<string name="mapName" value="Forbidden Time"/>
 		</imgdir>
+		<imgdir name="951000300">
+			<string name="streetName" value="Monster Park Extreme"/>
+			<string name="mapName" value="Unknown Area"/>
+		</imgdir>
+		<imgdir name="951000400">
+			<string name="streetName" value="Monster Park Extreme"/>
+			<string name="mapName" value="A Path out of the Unknown Area"/>
+		</imgdir>
 		<imgdir name="952000000">
 			<string name="streetName" value="Golem Temple"/>
 			<string name="mapName" value="Stage 1: Golem&apos;s Temple 1"/>
@@ -32975,6 +32991,102 @@
 		<imgdir name="954100500">
 			<string name="streetName" value="The Mysterious Forest of Arcana"/>
 			<string name="mapName" value="Stage 6: Labyrinthine Cavern - Lower Path"/>
+		</imgdir>
+		<imgdir name="954101000">
+			<string name="streetName" value="Morass"/>
+			<string name="mapName" value="Stage 1: Road to the Coral Forest"/>
+		</imgdir>
+		<imgdir name="954101100">
+			<string name="streetName" value="Morass"/>
+			<string name="mapName" value="Stage 2: Bully Blvd"/>
+		</imgdir>
+		<imgdir name="954101200">
+			<string name="streetName" value="Morass"/>
+			<string name="mapName" value="Stage 3: Shadowdance Hall"/>
+		</imgdir>
+		<imgdir name="954101300">
+			<string name="streetName" value="Morass"/>
+			<string name="mapName" value="Stage 4: Abandoned Area"/>
+		</imgdir>
+		<imgdir name="954101400">
+			<string name="streetName" value="Morass"/>
+			<string name="mapName" value="Stage 5: That Day in Trueffet"/>
+		</imgdir>
+		<imgdir name="954101500">
+			<string name="streetName" value="Morass"/>
+			<string name="mapName" value="Stage 6: That Day in Trueffet"/>
+		</imgdir>
+		<imgdir name="954102000">
+			<string name="streetName" value="Esfera"/>
+			<string name="mapName" value="Stage 1: Living Spring"/>
+		</imgdir>
+		<imgdir name="954102100">
+			<string name="streetName" value="Esfera"/>
+			<string name="mapName" value="Stage 2: Living Spring"/>
+		</imgdir>
+		<imgdir name="954102200">
+			<string name="streetName" value="Esfera"/>
+			<string name="mapName" value="Stage 3: Mirror-touched Sea"/>
+		</imgdir>
+		<imgdir name="954102300">
+			<string name="streetName" value="Esfera"/>
+			<string name="mapName" value="Stage 4: Mirror-touched Sea"/>
+		</imgdir>
+		<imgdir name="954102400">
+			<string name="streetName" value="Esfera"/>
+			<string name="mapName" value="Stage 5: Mirror-touched Sea"/>
+		</imgdir>
+		<imgdir name="954102500">
+			<string name="streetName" value="Esfera"/>
+			<string name="mapName" value="Stage 6: Radiant Temple"/>
+		</imgdir>
+		<imgdir name="954103000">
+			<string name="streetName" value="Sellas"/>
+			<string name="mapName" value="Stage 1: The Final Edge of Light"/>
+		</imgdir>
+		<imgdir name="954103100">
+			<string name="streetName" value="Sellas"/>
+			<string name="mapName" value="Stage 2: The Final Edge of Light"/>
+		</imgdir>
+		<imgdir name="954103200">
+			<string name="streetName" value="Sellas"/>
+			<string name="mapName" value="Stage 3: Plunging Depths"/>
+		</imgdir>
+		<imgdir name="954103300">
+			<string name="streetName" value="Sellas"/>
+			<string name="mapName" value="Stage 4: Plunging Depths"/>
+		</imgdir>
+		<imgdir name="954103400">
+			<string name="streetName" value="Sellas"/>
+			<string name="mapName" value="Stage 5: Star-Swallowing Sea"/>
+		</imgdir>
+		<imgdir name="954103500">
+			<string name="streetName" value="Sellas"/>
+			<string name="mapName" value="Stage 6: Star-Swallowing Sea"/>
+		</imgdir>
+		<imgdir name="954104000">
+			<string name="streetName" value="Moonbridge"/>
+			<string name="mapName" value="Stage 1: Last Horizon"/>
+		</imgdir>
+		<imgdir name="954104100">
+			<string name="streetName" value="Moonbridge"/>
+			<string name="mapName" value="Stage 2: Last Horizon"/>
+		</imgdir>
+		<imgdir name="954104200">
+			<string name="streetName" value="Moonbridge"/>
+			<string name="mapName" value="Stage 3: Mysterious Fog"/>
+		</imgdir>
+		<imgdir name="954104300">
+			<string name="streetName" value="Moonbridge"/>
+			<string name="mapName" value="Stage 4: Mysterious Fog"/>
+		</imgdir>
+		<imgdir name="954104400">
+			<string name="streetName" value="Moonbridge"/>
+			<string name="mapName" value="Stage 5: Void Current"/>
+		</imgdir>
+		<imgdir name="954104500">
+			<string name="streetName" value="Moonbridge"/>
+			<string name="mapName" value="Stage 6: Void Current"/>
 		</imgdir>
 		<imgdir name="955000000">
 			<string name="streetName" value="Azwan"/>
@@ -36608,6 +36720,14 @@
 			<string name="streetName" value="Hidden Street"/>
 			<string name="mapName" value="Inferno Wolves Hideout"/>
 		</imgdir>
+		<imgdir name="993000510">
+			<string name="streetName" value="Hidden Street"/>
+			<string name="mapName" value="Inferno Wolf&apos;s Den"/>
+		</imgdir>
+		<imgdir name="993000520">
+			<string name="streetName" value="Hidden Street"/>
+			<string name="mapName" value="Inferno Wolf&apos;s Den"/>
+		</imgdir>
 		<imgdir name="993000600">
 			<string name="streetName" value="Hidden Street"/>
 			<string name="mapName" value="Forest of Darkness"/>
@@ -36615,6 +36735,14 @@
 		<imgdir name="993000601">
 			<string name="streetName" value="Hidden Street"/>
 			<string name="mapName" value="Secluded Forest"/>
+		</imgdir>
+		<imgdir name="993000602">
+			<string name="streetName" value="Hidden Street"/>
+			<string name="mapName" value="Midday Jungle"/>
+		</imgdir>
+		<imgdir name="993000620">
+			<string name="streetName" value="Hidden Street"/>
+			<string name="mapName" value="Totem Slash"/>
 		</imgdir>
 		<imgdir name="993000650">
 			<string name="streetName" value="Hidden Street"/>
@@ -40787,6 +40915,222 @@
 			<string name="streetName" value="Maple Road"/>
 			<string name="mapName" value="Maple Tree Hill Flashback"/>
 		</imgdir>
+		<imgdir name="993166400">
+			<string name="streetName" value="Empress Road"/>
+			<string name="mapName" value="Forgotten Home"/>
+		</imgdir>
+		<imgdir name="993166401">
+			<string name="streetName" value="Empress Road"/>
+			<string name="mapName" value="A Path Out of the Forgotten Forest"/>
+		</imgdir>
+		<imgdir name="993166402">
+			<string name="streetName" value="Empress Road"/>
+			<string name="mapName" value="Knights Test Site"/>
+		</imgdir>
+		<imgdir name="993166403">
+			<string name="streetName" value="Empress Road"/>
+			<string name="mapName" value="Ereve Forest Road"/>
+		</imgdir>
+		<imgdir name="993166404">
+			<string name="streetName" value="Empress Road"/>
+			<string name="mapName" value="Physical Training Yard"/>
+		</imgdir>
+		<imgdir name="993166405">
+			<string name="streetName" value="Empress Road"/>
+			<string name="mapName" value="Knights  Test Site 1"/>
+		</imgdir>
+		<imgdir name="993166406">
+			<string name="streetName" value="Empress Road"/>
+			<string name="mapName" value="Knights  Test Site 2"/>
+		</imgdir>
+		<imgdir name="993166407">
+			<string name="streetName" value="Empress Road"/>
+			<string name="mapName" value="Cygnus Garden"/>
+		</imgdir>
+		<imgdir name="993166408">
+			<string name="streetName" value="Empress Road"/>
+			<string name="mapName" value="Cygnus Garden"/>
+		</imgdir>
+		<imgdir name="993166409">
+			<string name="streetName" value="Empress Road"/>
+			<string name="mapName" value="Cygnus Garden"/>
+		</imgdir>
+		<imgdir name="993166410">
+			<string name="streetName" value="Empress Road"/>
+			<string name="mapName" value="Ereve Forest Road"/>
+		</imgdir>
+		<imgdir name="993166411">
+			<string name="streetName" value="Empress Road"/>
+			<string name="mapName" value="Tiru&apos;s Forest"/>
+		</imgdir>
+		<imgdir name="993166412">
+			<string name="streetName" value="Hidden Street"/>
+			<string name="mapName" value="Pet Walkway"/>
+		</imgdir>
+		<imgdir name="993166413">
+			<string name="streetName" value="Hidden Street"/>
+			<string name="mapName" value="The Puppeteer&apos;s Cave"/>
+		</imgdir>
+		<imgdir name="993166414">
+			<string name="streetName" value="Hidden Street"/>
+			<string name="mapName" value="The Puppeteer&apos;s Cave"/>
+		</imgdir>
+		<imgdir name="993166415">
+			<string name="streetName" value="Empress Road"/>
+			<string name="mapName" value="Sky Ferry"/>
+		</imgdir>
+		<imgdir name="993166416">
+			<string name="streetName" value="Paved Road"/>
+			<string name="mapName" value="Children&apos;s Hideout"/>
+		</imgdir>
+		<imgdir name="993166417">
+			<string name="streetName" value="Paved Road"/>
+			<string name="mapName" value="Edelstein Backalley"/>
+		</imgdir>
+		<imgdir name="993166418">
+			<string name="streetName" value="Paved Road"/>
+			<string name="mapName" value="Little Resistance&apos;s Hideout"/>
+		</imgdir>
+		<imgdir name="993166419">
+			<string name="streetName" value="Paved Road"/>
+			<string name="mapName" value="Little Resistance&apos;s Hideout"/>
+		</imgdir>
+		<imgdir name="993166420">
+			<string name="streetName" value="Paved Road"/>
+			<string name="mapName" value="Public Phone"/>
+		</imgdir>
+		<imgdir name="993166421">
+			<string name="streetName" value="Hidden Street"/>
+			<string name="mapName" value="Puppeteer&apos;s Secret Passage"/>
+		</imgdir>
+		<imgdir name="993166422">
+			<string name="streetName" value="Hidden Street"/>
+			<string name="mapName" value="Puppeteer&apos;s Secret Passage"/>
+		</imgdir>
+		<imgdir name="993166423">
+			<string name="streetName" value="Hidden Street"/>
+			<string name="mapName" value="Puppeteer&apos;s Room"/>
+		</imgdir>
+		<imgdir name="993166424">
+			<string name="streetName" value="Hidden Street"/>
+			<string name="mapName" value="Puppeteer&apos;s Room"/>
+		</imgdir>
+		<imgdir name="993166425">
+			<string name="streetName" value="Hidden Street"/>
+			<string name="mapName" value="Near Verne Mine"/>
+		</imgdir>
+		<imgdir name="993166426">
+			<string name="streetName" value="Ludibrium"/>
+			<string name="mapName" value="Outskirts of Ludibrium"/>
+		</imgdir>
+		<imgdir name="993166430">
+			<string name="streetName" value="Hidden Street"/>
+			<string name="mapName" value="Outskirts of Ludibrium"/>
+		</imgdir>
+		<imgdir name="993166431">
+			<string name="streetName" value="Hidden Street"/>
+			<string name="mapName" value="Leery Corridor"/>
+		</imgdir>
+		<imgdir name="993166432">
+			<string name="streetName" value="Hidden Street"/>
+			<string name="mapName" value="Entrance to Gelimer&apos;s Lab"/>
+		</imgdir>
+		<imgdir name="993166433">
+			<string name="streetName" value="Hidden Street"/>
+			<string name="mapName" value="Gelimer&apos;s Prison"/>
+		</imgdir>
+		<imgdir name="993166434">
+			<string name="streetName" value="Time Lane"/>
+			<string name="mapName" value="Temple of Time"/>
+		</imgdir>
+		<imgdir name="993166435">
+			<string name="streetName" value="Time Lane"/>
+			<string name="mapName" value="Three Doors"/>
+		</imgdir>
+		<imgdir name="993166436">
+			<string name="streetName" value="Time Lane"/>
+			<string name="mapName" value="Gate to the Future"/>
+		</imgdir>
+		<imgdir name="993166437">
+			<string name="streetName" value="Time Lane"/>
+			<string name="mapName" value="Three Doors"/>
+		</imgdir>
+		<imgdir name="993166438">
+			<string name="streetName" value="Empress Road"/>
+			<string name="mapName" value="Ereve"/>
+		</imgdir>
+		<imgdir name="993166439">
+			<string name="streetName" value="Empress Road"/>
+			<string name="mapName" value="Ereve"/>
+		</imgdir>
+		<imgdir name="993166440">
+			<string name="streetName" value="Empress Road"/>
+			<string name="mapName" value="Ereve"/>
+		</imgdir>
+		<imgdir name="993166441">
+			<string name="streetName" value="Port Road"/>
+			<string name="mapName" value="Station to Ereve"/>
+		</imgdir>
+		<imgdir name="993166443">
+			<string name="streetName" value="Empress Road"/>
+			<string name="mapName" value="Ereve"/>
+		</imgdir>
+		<imgdir name="993166445">
+			<string name="streetName" value="Hidden Street"/>
+			<string name="mapName" value="Shinsoo&apos;s Refuge"/>
+		</imgdir>
+		<imgdir name="993166446">
+			<string name="streetName" value="Empress Road"/>
+			<string name="mapName" value="Ereve"/>
+		</imgdir>
+		<imgdir name="993166447">
+			<string name="streetName" value="Empress Road"/>
+			<string name="mapName" value="Ereve"/>
+		</imgdir>
+		<imgdir name="993166448">
+			<string name="streetName" value="Hidden Street"/>
+			<string name="mapName" value="Dark Ereve"/>
+		</imgdir>
+		<imgdir name="993166500">
+			<string name="streetName" value="Hidden Street"/>
+			<string name="mapName" value="Tiru&apos;s Forest"/>
+		</imgdir>
+		<imgdir name="993166530">
+			<string name="streetName" value="Hidden Street"/>
+			<string name="mapName" value="Second Drill Hall"/>
+		</imgdir>
+		<imgdir name="993166560">
+			<string name="streetName" value="Hidden Street"/>
+			<string name="mapName" value="Third Drill Hall"/>
+		</imgdir>
+		<imgdir name="993166590">
+			<string name="streetName" value="Hidden Street"/>
+			<string name="mapName" value="Pet Walkway"/>
+		</imgdir>
+		<imgdir name="993166620">
+			<string name="streetName" value="Hidden Street"/>
+			<string name="mapName" value="The Puppeteer&apos;s Cave"/>
+		</imgdir>
+		<imgdir name="993166650">
+			<string name="streetName" value="Hidden Street"/>
+			<string name="mapName" value="Little Resistance&apos;s Hideout"/>
+		</imgdir>
+		<imgdir name="993166680">
+			<string name="streetName" value="Hidden Street"/>
+			<string name="mapName" value="Puppeteer&apos;s Room"/>
+		</imgdir>
+		<imgdir name="993166710">
+			<string name="streetName" value="Hidden Street"/>
+			<string name="mapName" value="Outskirts of Ludibrium"/>
+		</imgdir>
+		<imgdir name="993166740">
+			<string name="streetName" value="Hidden Street"/>
+			<string name="mapName" value="Gate to the Future"/>
+		</imgdir>
+		<imgdir name="993166770">
+			<string name="streetName" value="Hidden Street"/>
+			<string name="mapName" value="The Nightmare"/>
+		</imgdir>
 		<imgdir name="993170000">
 			<string name="streetName" value="Clash on the Waves"/>
 			<string name="mapName" value="Entrance to Clash on the Waves"/>
@@ -42701,350 +43045,6 @@
 			<string name="streetName" value="Maple Momentree"/>
 			<string name="mapName" value="Maple Momentree"/>
 		</imgdir>
-		<imgdir name="940100200">
-			<string name="streetName" value="Tyrant&apos;s Castle"/>
-			<string name="mapName" value="Tyrant&apos;s Throne"/>
-		</imgdir>
-		<imgdir name="940100100">
-			<string name="streetName" value="Grandis Goddess&apos;s Test"/>
-			<string name="mapName" value="Heliseum Heights Entry"/>
-		</imgdir>
-		<imgdir name="951000300">
-			<string name="streetName" value="Monster Park Extreme"/>
-			<string name="mapName" value="Unknown Area"/>
-		</imgdir>
-		<imgdir name="951000400">
-			<string name="streetName" value="Monster Park Extreme"/>
-			<string name="mapName" value="A Path out of the Unknown Area"/>
-		</imgdir>
-		<imgdir name="954101000">
-			<string name="streetName" value="Morass"/>
-			<string name="mapName" value="Stage 1: Road to the Coral Forest"/>
-		</imgdir>
-		<imgdir name="954101100">
-			<string name="streetName" value="Morass"/>
-			<string name="mapName" value="Stage 2: Bully Blvd"/>
-		</imgdir>
-		<imgdir name="954101200">
-			<string name="streetName" value="Morass"/>
-			<string name="mapName" value="Stage 3: Shadowdance Hall"/>
-		</imgdir>
-		<imgdir name="954101300">
-			<string name="streetName" value="Morass"/>
-			<string name="mapName" value="Stage 4: Abandoned Area"/>
-		</imgdir>
-		<imgdir name="954101400">
-			<string name="streetName" value="Morass"/>
-			<string name="mapName" value="Stage 5: That Day in Trueffet"/>
-		</imgdir>
-		<imgdir name="954101500">
-			<string name="streetName" value="Morass"/>
-			<string name="mapName" value="Stage 6: That Day in Trueffet"/>
-		</imgdir>
-		<imgdir name="954102000">
-			<string name="streetName" value="Esfera"/>
-			<string name="mapName" value="Stage 1: Living Spring"/>
-		</imgdir>
-		<imgdir name="954102100">
-			<string name="streetName" value="Esfera"/>
-			<string name="mapName" value="Stage 2: Living Spring"/>
-		</imgdir>
-		<imgdir name="954102200">
-			<string name="streetName" value="Esfera"/>
-			<string name="mapName" value="Stage 3: Mirror-touched Sea"/>
-		</imgdir>
-		<imgdir name="954102300">
-			<string name="streetName" value="Esfera"/>
-			<string name="mapName" value="Stage 4: Mirror-touched Sea"/>
-		</imgdir>
-		<imgdir name="954102400">
-			<string name="streetName" value="Esfera"/>
-			<string name="mapName" value="Stage 5: Mirror-touched Sea"/>
-		</imgdir>
-		<imgdir name="954102500">
-			<string name="streetName" value="Esfera"/>
-			<string name="mapName" value="Stage 6: Radiant Temple"/>
-		</imgdir>
-		<imgdir name="954103000">
-			<string name="streetName" value="Sellas"/>
-			<string name="mapName" value="Stage 1: The Final Edge of Light"/>
-		</imgdir>
-		<imgdir name="954103100">
-			<string name="streetName" value="Sellas"/>
-			<string name="mapName" value="Stage 2: The Final Edge of Light"/>
-		</imgdir>
-		<imgdir name="954103200">
-			<string name="streetName" value="Sellas"/>
-			<string name="mapName" value="Stage 3: Plunging Depths"/>
-		</imgdir>
-		<imgdir name="954103300">
-			<string name="streetName" value="Sellas"/>
-			<string name="mapName" value="Stage 4: Plunging Depths"/>
-		</imgdir>
-		<imgdir name="954103400">
-			<string name="streetName" value="Sellas"/>
-			<string name="mapName" value="Stage 5: Star-Swallowing Sea"/>
-		</imgdir>
-		<imgdir name="954103500">
-			<string name="streetName" value="Sellas"/>
-			<string name="mapName" value="Stage 6: Star-Swallowing Sea"/>
-		</imgdir>
-		<imgdir name="954104000">
-			<string name="streetName" value="Moonbridge"/>
-			<string name="mapName" value="Stage 1: Last Horizon"/>
-		</imgdir>
-		<imgdir name="954104100">
-			<string name="streetName" value="Moonbridge"/>
-			<string name="mapName" value="Stage 2: Last Horizon"/>
-		</imgdir>
-		<imgdir name="954104200">
-			<string name="streetName" value="Moonbridge"/>
-			<string name="mapName" value="Stage 3: Mysterious Fog"/>
-		</imgdir>
-		<imgdir name="954104300">
-			<string name="streetName" value="Moonbridge"/>
-			<string name="mapName" value="Stage 4: Mysterious Fog"/>
-		</imgdir>
-		<imgdir name="954104400">
-			<string name="streetName" value="Moonbridge"/>
-			<string name="mapName" value="Stage 5: Void Current"/>
-		</imgdir>
-		<imgdir name="954104500">
-			<string name="streetName" value="Moonbridge"/>
-			<string name="mapName" value="Stage 6: Void Current"/>
-		</imgdir>
-		<imgdir name="993000510">
-			<string name="streetName" value="Hidden Street"/>
-			<string name="mapName" value="Inferno Wolf&apos;s Den"/>
-		</imgdir>
-		<imgdir name="993000520">
-			<string name="streetName" value="Hidden Street"/>
-			<string name="mapName" value="Inferno Wolf&apos;s Den"/>
-		</imgdir>
-		<imgdir name="993000602">
-			<string name="streetName" value="Hidden Street"/>
-			<string name="mapName" value="Midday Jungle"/>
-		</imgdir>
-		<imgdir name="993000620">
-			<string name="streetName" value="Hidden Street"/>
-			<string name="mapName" value="Totem Slash"/>
-		</imgdir>
-		<imgdir name="993166400">
-			<string name="streetName" value="Empress Road"/>
-			<string name="mapName" value="Forgotten Home"/>
-		</imgdir>
-		<imgdir name="993166401">
-			<string name="streetName" value="Empress Road"/>
-			<string name="mapName" value="A Path Out of the Forgotten Forest"/>
-		</imgdir>
-		<imgdir name="993166402">
-			<string name="streetName" value="Empress Road"/>
-			<string name="mapName" value="Knights Test Site"/>
-		</imgdir>
-		<imgdir name="993166403">
-			<string name="streetName" value="Empress Road"/>
-			<string name="mapName" value="Ereve Forest Road"/>
-		</imgdir>
-		<imgdir name="993166404">
-			<string name="streetName" value="Empress Road"/>
-			<string name="mapName" value="Physical Training Yard"/>
-		</imgdir>
-		<imgdir name="993166405">
-			<string name="streetName" value="Empress Road"/>
-			<string name="mapName" value="Knights  Test Site 1"/>
-		</imgdir>
-		<imgdir name="993166406">
-			<string name="streetName" value="Empress Road"/>
-			<string name="mapName" value="Knights  Test Site 2"/>
-		</imgdir>
-		<imgdir name="993166407">
-			<string name="streetName" value="Empress Road"/>
-			<string name="mapName" value="Cygnus Garden"/>
-		</imgdir>
-		<imgdir name="993166408">
-			<string name="streetName" value="Empress Road"/>
-			<string name="mapName" value="Cygnus Garden"/>
-		</imgdir>
-		<imgdir name="993166409">
-			<string name="streetName" value="Empress Road"/>
-			<string name="mapName" value="Cygnus Garden"/>
-		</imgdir>
-		<imgdir name="993166410">
-			<string name="streetName" value="Empress Road"/>
-			<string name="mapName" value="Ereve Forest Road"/>
-		</imgdir>
-		<imgdir name="993166411">
-			<string name="streetName" value="Empress Road"/>
-			<string name="mapName" value="Tiru&apos;s Forest"/>
-		</imgdir>
-		<imgdir name="993166412">
-			<string name="streetName" value="Hidden Street"/>
-			<string name="mapName" value="Pet Walkway"/>
-		</imgdir>
-		<imgdir name="993166413">
-			<string name="streetName" value="Hidden Street"/>
-			<string name="mapName" value="The Puppeteer&apos;s Cave"/>
-		</imgdir>
-		<imgdir name="993166414">
-			<string name="streetName" value="Hidden Street"/>
-			<string name="mapName" value="The Puppeteer&apos;s Cave"/>
-		</imgdir>
-		<imgdir name="993166415">
-			<string name="streetName" value="Empress Road"/>
-			<string name="mapName" value="Sky Ferry"/>
-		</imgdir>
-		<imgdir name="993166416">
-			<string name="streetName" value="Paved Road"/>
-			<string name="mapName" value="Children&apos;s Hideout"/>
-		</imgdir>
-		<imgdir name="993166417">
-			<string name="streetName" value="Paved Road"/>
-			<string name="mapName" value="Edelstein Backalley"/>
-		</imgdir>
-		<imgdir name="993166418">
-			<string name="streetName" value="Paved Road"/>
-			<string name="mapName" value="Little Resistance&apos;s Hideout"/>
-		</imgdir>
-		<imgdir name="993166419">
-			<string name="streetName" value="Paved Road"/>
-			<string name="mapName" value="Little Resistance&apos;s Hideout"/>
-		</imgdir>
-		<imgdir name="993166420">
-			<string name="streetName" value="Paved Road"/>
-			<string name="mapName" value="Public Phone"/>
-		</imgdir>
-		<imgdir name="993166421">
-			<string name="streetName" value="Hidden Street"/>
-			<string name="mapName" value="Puppeteer&apos;s Secret Passage"/>
-		</imgdir>
-		<imgdir name="993166422">
-			<string name="streetName" value="Hidden Street"/>
-			<string name="mapName" value="Puppeteer&apos;s Secret Passage"/>
-		</imgdir>
-		<imgdir name="993166423">
-			<string name="streetName" value="Hidden Street"/>
-			<string name="mapName" value="Puppeteer&apos;s Room"/>
-		</imgdir>
-		<imgdir name="993166424">
-			<string name="streetName" value="Hidden Street"/>
-			<string name="mapName" value="Puppeteer&apos;s Room"/>
-		</imgdir>
-		<imgdir name="993166425">
-			<string name="streetName" value="Hidden Street"/>
-			<string name="mapName" value="Near Verne Mine"/>
-		</imgdir>
-		<imgdir name="993166426">
-			<string name="streetName" value="Ludibrium"/>
-			<string name="mapName" value="Outskirts of Ludibrium"/>
-		</imgdir>
-		<imgdir name="993166430">
-			<string name="streetName" value="Hidden Street"/>
-			<string name="mapName" value="Outskirts of Ludibrium"/>
-		</imgdir>
-		<imgdir name="993166431">
-			<string name="streetName" value="Hidden Street"/>
-			<string name="mapName" value="Leery Corridor"/>
-		</imgdir>
-		<imgdir name="993166432">
-			<string name="streetName" value="Hidden Street"/>
-			<string name="mapName" value="Entrance to Gelimer&apos;s Lab"/>
-		</imgdir>
-		<imgdir name="993166433">
-			<string name="streetName" value="Hidden Street"/>
-			<string name="mapName" value="Gelimer&apos;s Prison"/>
-		</imgdir>
-		<imgdir name="993166434">
-			<string name="streetName" value="Time Lane"/>
-			<string name="mapName" value="Temple of Time"/>
-		</imgdir>
-		<imgdir name="993166435">
-			<string name="streetName" value="Time Lane"/>
-			<string name="mapName" value="Three Doors"/>
-		</imgdir>
-		<imgdir name="993166436">
-			<string name="streetName" value="Time Lane"/>
-			<string name="mapName" value="Gate to the Future"/>
-		</imgdir>
-		<imgdir name="993166437">
-			<string name="streetName" value="Time Lane"/>
-			<string name="mapName" value="Three Doors"/>
-		</imgdir>
-		<imgdir name="993166438">
-			<string name="streetName" value="Empress Road"/>
-			<string name="mapName" value="Ereve"/>
-		</imgdir>
-		<imgdir name="993166439">
-			<string name="streetName" value="Empress Road"/>
-			<string name="mapName" value="Ereve"/>
-		</imgdir>
-		<imgdir name="993166440">
-			<string name="streetName" value="Empress Road"/>
-			<string name="mapName" value="Ereve"/>
-		</imgdir>
-		<imgdir name="993166441">
-			<string name="streetName" value="Port Road"/>
-			<string name="mapName" value="Station to Ereve"/>
-		</imgdir>
-		<imgdir name="993166443">
-			<string name="streetName" value="Empress Road"/>
-			<string name="mapName" value="Ereve"/>
-		</imgdir>
-		<imgdir name="993166445">
-			<string name="streetName" value="Hidden Street"/>
-			<string name="mapName" value="Shinsoo&apos;s Refuge"/>
-		</imgdir>
-		<imgdir name="993166446">
-			<string name="streetName" value="Empress Road"/>
-			<string name="mapName" value="Ereve"/>
-		</imgdir>
-		<imgdir name="993166447">
-			<string name="streetName" value="Empress Road"/>
-			<string name="mapName" value="Ereve"/>
-		</imgdir>
-		<imgdir name="993166448">
-			<string name="streetName" value="Hidden Street"/>
-			<string name="mapName" value="Dark Ereve"/>
-		</imgdir>
-		<imgdir name="993166500">
-			<string name="streetName" value="Hidden Street"/>
-			<string name="mapName" value="Tiru&apos;s Forest"/>
-		</imgdir>
-		<imgdir name="993166530">
-			<string name="streetName" value="Hidden Street"/>
-			<string name="mapName" value="Second Drill Hall"/>
-		</imgdir>
-		<imgdir name="993166560">
-			<string name="streetName" value="Hidden Street"/>
-			<string name="mapName" value="Third Drill Hall"/>
-		</imgdir>
-		<imgdir name="993166590">
-			<string name="streetName" value="Hidden Street"/>
-			<string name="mapName" value="Pet Walkway"/>
-		</imgdir>
-		<imgdir name="993166620">
-			<string name="streetName" value="Hidden Street"/>
-			<string name="mapName" value="The Puppeteer&apos;s Cave"/>
-		</imgdir>
-		<imgdir name="993166650">
-			<string name="streetName" value="Hidden Street"/>
-			<string name="mapName" value="Little Resistance&apos;s Hideout"/>
-		</imgdir>
-		<imgdir name="993166680">
-			<string name="streetName" value="Hidden Street"/>
-			<string name="mapName" value="Puppeteer&apos;s Room"/>
-		</imgdir>
-		<imgdir name="993166710">
-			<string name="streetName" value="Hidden Street"/>
-			<string name="mapName" value="Outskirts of Ludibrium"/>
-		</imgdir>
-		<imgdir name="993166740">
-			<string name="streetName" value="Hidden Street"/>
-			<string name="mapName" value="Gate to the Future"/>
-		</imgdir>
-		<imgdir name="993166770">
-			<string name="streetName" value="Hidden Street"/>
-			<string name="mapName" value="The Nightmare"/>
-		</imgdir>
 		<imgdir name="993201000">
 			<string name="streetName" value="Empress Road"/>
 			<string name="mapName" value="Tiv&apos;s Forest"/>
@@ -43358,7 +43358,7 @@
 			<string name="mapName" value="Knights&apos; Chamber"/>
 		</imgdir>
 		<imgdir name="993210000">
-			<string name="streetName" value="Ignition Full Moon Party"/>
+			<string name="streetName" value="Ignition Flame Festival"/>
 			<string name="mapName" value="Main Stage"/>
 		</imgdir>
 		<imgdir name="993210001">
@@ -43492,6 +43492,2446 @@
 		<imgdir name="993221501">
 			<string name="streetName" value="Mike&apos;s Mini-game Lounge"/>
 			<string name="mapName" value="Colorful Ignition Invitation Exit"/>
+		</imgdir>
+		<imgdir name="940100200">
+			<string name="streetName" value="Tyrant&apos;s Castle"/>
+			<string name="mapName" value="Tyrant&apos;s Throne"/>
+		</imgdir>
+		<imgdir name="940100100">
+			<string name="streetName" value="Grandis Goddess&apos;s Test"/>
+			<string name="mapName" value="Heliseum Heights Entry"/>
+		</imgdir>
+		<imgdir name="993215000">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Vanishing Journey"/>
+		</imgdir>
+		<imgdir name="993215001">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Vanishing Journey"/>
+		</imgdir>
+		<imgdir name="993215002">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Vanishing Journey"/>
+		</imgdir>
+		<imgdir name="993215003">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Vanishing Journey"/>
+		</imgdir>
+		<imgdir name="993215004">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Vanishing Journey"/>
+		</imgdir>
+		<imgdir name="993215005">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Vanishing Journey"/>
+		</imgdir>
+		<imgdir name="993215006">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Vanishing Journey"/>
+		</imgdir>
+		<imgdir name="993215007">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Vanishing Journey"/>
+		</imgdir>
+		<imgdir name="993215008">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Vanishing Journey"/>
+		</imgdir>
+		<imgdir name="993215009">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Vanishing Journey"/>
+		</imgdir>
+		<imgdir name="993215010">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Vanishing Journey"/>
+		</imgdir>
+		<imgdir name="993215011">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Vanishing Journey"/>
+		</imgdir>
+		<imgdir name="993215012">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Vanishing Journey"/>
+		</imgdir>
+		<imgdir name="993215013">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Vanishing Journey"/>
+		</imgdir>
+		<imgdir name="993215014">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Vanishing Journey"/>
+		</imgdir>
+		<imgdir name="993215015">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Vanishing Journey"/>
+		</imgdir>
+		<imgdir name="993215016">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Lachelein"/>
+		</imgdir>
+		<imgdir name="993215017">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Lachelein"/>
+		</imgdir>
+		<imgdir name="993215018">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Lachelein"/>
+		</imgdir>
+		<imgdir name="993215019">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Lachelein"/>
+		</imgdir>
+		<imgdir name="993215020">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Esfera"/>
+		</imgdir>
+		<imgdir name="993215021">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Esfera"/>
+		</imgdir>
+		<imgdir name="993215022">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Esfera"/>
+		</imgdir>
+		<imgdir name="993215023">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Esfera"/>
+		</imgdir>
+		<imgdir name="993215024">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in World&apos;s End"/>
+		</imgdir>
+		<imgdir name="993215025">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Cernium"/>
+		</imgdir>
+		<imgdir name="993215026">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Cernium"/>
+		</imgdir>
+		<imgdir name="993215027">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Cernium"/>
+		</imgdir>
+		<imgdir name="993215028">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Burning Cernium"/>
+		</imgdir>
+		<imgdir name="993215029">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Burning Cernium"/>
+		</imgdir>
+		<imgdir name="993215030">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Burning Cernium"/>
+		</imgdir>
+		<imgdir name="993215031">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Burning Cernium"/>
+		</imgdir>
+		<imgdir name="993215032">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Burning Cernium"/>
+		</imgdir>
+		<imgdir name="993215033">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Burning Cernium"/>
+		</imgdir>
+		<imgdir name="993215034">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Hotel Arcus"/>
+		</imgdir>
+		<imgdir name="993215035">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Karote"/>
+		</imgdir>
+		<imgdir name="993215036">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Karote"/>
+		</imgdir>
+		<imgdir name="993215037">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Odium"/>
+		</imgdir>
+		<imgdir name="993215038">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Odium"/>
+		</imgdir>
+		<imgdir name="993215039">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Odium"/>
+		</imgdir>
+		<imgdir name="993215040">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Odium"/>
+		</imgdir>
+		<imgdir name="993215050">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Reverse City"/>
+		</imgdir>
+		<imgdir name="993215051">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Reverse City"/>
+		</imgdir>
+		<imgdir name="993215052">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Reverse City"/>
+		</imgdir>
+		<imgdir name="993215053">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Reverse City"/>
+		</imgdir>
+		<imgdir name="993215054">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Reverse City"/>
+		</imgdir>
+		<imgdir name="993215055">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Reverse City"/>
+		</imgdir>
+		<imgdir name="993215056">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Reverse City"/>
+		</imgdir>
+		<imgdir name="993215057">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Reverse City"/>
+		</imgdir>
+		<imgdir name="993215058">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Reverse City"/>
+		</imgdir>
+		<imgdir name="993215059">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Reverse City"/>
+		</imgdir>
+		<imgdir name="993215060">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Reverse City"/>
+		</imgdir>
+		<imgdir name="993215061">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Reverse City"/>
+		</imgdir>
+		<imgdir name="993215062">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Reverse City"/>
+		</imgdir>
+		<imgdir name="993215063">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Reverse City"/>
+		</imgdir>
+		<imgdir name="993215064">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Reverse City"/>
+		</imgdir>
+		<imgdir name="993215065">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Reverse City"/>
+		</imgdir>
+		<imgdir name="993215066">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Reverse City"/>
+		</imgdir>
+		<imgdir name="993215067">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Reverse City"/>
+		</imgdir>
+		<imgdir name="993215068">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Reverse City"/>
+		</imgdir>
+		<imgdir name="993215069">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in the Subway Tunnel Refuge"/>
+		</imgdir>
+		<imgdir name="993215100">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Chu Chu Island"/>
+		</imgdir>
+		<imgdir name="993215101">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Chu Chu Island"/>
+		</imgdir>
+		<imgdir name="993215102">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Chu Chu Island"/>
+		</imgdir>
+		<imgdir name="993215103">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Chu Chu Island"/>
+		</imgdir>
+		<imgdir name="993215104">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Chu Chu Island"/>
+		</imgdir>
+		<imgdir name="993215105">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Chu Chu Island"/>
+		</imgdir>
+		<imgdir name="993215106">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Chu Chu Island"/>
+		</imgdir>
+		<imgdir name="993215107">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Chu Chu Island"/>
+		</imgdir>
+		<imgdir name="993215108">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Chu Chu Island"/>
+		</imgdir>
+		<imgdir name="993215109">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Chu Chu Island"/>
+		</imgdir>
+		<imgdir name="993215110">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Chu Chu Island"/>
+		</imgdir>
+		<imgdir name="993215111">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Chu Chu Island"/>
+		</imgdir>
+		<imgdir name="993215112">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Chu Chu Village"/>
+		</imgdir>
+		<imgdir name="993215113">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Chu Chu Village"/>
+		</imgdir>
+		<imgdir name="993215150">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Chu Chu Island"/>
+		</imgdir>
+		<imgdir name="993215151">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Yum Yum Island"/>
+		</imgdir>
+		<imgdir name="993215152">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in the Back of Skywhale"/>
+		</imgdir>
+		<imgdir name="993215153">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere near Yum Yum Island Entrance"/>
+		</imgdir>
+		<imgdir name="993215154">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Yum Yum Village"/>
+		</imgdir>
+		<imgdir name="993215155">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Illiard Field 1"/>
+		</imgdir>
+		<imgdir name="993215156">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Illiard Field"/>
+		</imgdir>
+		<imgdir name="993215157">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere near Illiard Field&apos;s Edge"/>
+		</imgdir>
+		<imgdir name="993215158">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere near Fungos Forest Entrance"/>
+		</imgdir>
+		<imgdir name="993215159">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Fungos Forest 2"/>
+		</imgdir>
+		<imgdir name="993215160">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Fungos Forest"/>
+		</imgdir>
+		<imgdir name="993215161">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere near Fungos Forest&apos;s Edge"/>
+		</imgdir>
+		<imgdir name="993215162">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Yum Yum Village"/>
+		</imgdir>
+		<imgdir name="993215163">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Yum Yum Island"/>
+		</imgdir>
+		<imgdir name="993215164">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Yum Yum Island"/>
+		</imgdir>
+		<imgdir name="993215165">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Yum Yum Village"/>
+		</imgdir>
+		<imgdir name="993215166">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Yum Yum Village"/>
+		</imgdir>
+		<imgdir name="993215167">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Yum Yum Village"/>
+		</imgdir>
+		<imgdir name="993215200">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Muto&apos;s Descent"/>
+		</imgdir>
+		<imgdir name="993215201">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Lachelein Riverside"/>
+		</imgdir>
+		<imgdir name="993215202">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Lachelein Main Street"/>
+		</imgdir>
+		<imgdir name="993215203">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Lachelein Alley"/>
+		</imgdir>
+		<imgdir name="993215204">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Hideout"/>
+		</imgdir>
+		<imgdir name="993215205">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Lachelein Alley"/>
+		</imgdir>
+		<imgdir name="993215206">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Hideout"/>
+		</imgdir>
+		<imgdir name="993215207">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere on Lachelein Main Street"/>
+		</imgdir>
+		<imgdir name="993215208">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Hideout"/>
+		</imgdir>
+		<imgdir name="993215209">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Noisy Market"/>
+		</imgdir>
+		<imgdir name="993215210">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Nightmare Clocktower"/>
+		</imgdir>
+		<imgdir name="993215211">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Hideout"/>
+		</imgdir>
+		<imgdir name="993215212">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Bright Ballroom"/>
+		</imgdir>
+		<imgdir name="993215213">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Occupied Dance Floor 1"/>
+		</imgdir>
+		<imgdir name="993215214">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Bright Ballroom"/>
+		</imgdir>
+		<imgdir name="993215215">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Hideout"/>
+		</imgdir>
+		<imgdir name="993215216">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Lachelein Alley"/>
+		</imgdir>
+		<imgdir name="993215217">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Nightmare Clocktower 1F"/>
+		</imgdir>
+		<imgdir name="993215218">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Nightmare Clocktower"/>
+		</imgdir>
+		<imgdir name="993215219">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Nightmare Clocktower"/>
+		</imgdir>
+		<imgdir name="993215220">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Dreaming Forest"/>
+		</imgdir>
+		<imgdir name="993215221">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Nightmare Clocktower"/>
+		</imgdir>
+		<imgdir name="993215222">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Crumbling Clocktower"/>
+		</imgdir>
+		<imgdir name="993215223">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Nightmare Clocktower"/>
+		</imgdir>
+		<imgdir name="993215224">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Elven Training Grounds"/>
+		</imgdir>
+		<imgdir name="993215225">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Twilight Training Grounds"/>
+		</imgdir>
+		<imgdir name="993215226">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Lucid&apos;s Dream"/>
+		</imgdir>
+		<imgdir name="993215227">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Lucid&apos;s Dream"/>
+		</imgdir>
+		<imgdir name="993215228">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Twilight Training Grounds"/>
+		</imgdir>
+		<imgdir name="993215229">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Elluel"/>
+		</imgdir>
+		<imgdir name="993215230">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Elluel"/>
+		</imgdir>
+		<imgdir name="993215231">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Twilight Training Grounds"/>
+		</imgdir>
+		<imgdir name="993215232">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere Behind the Tree"/>
+		</imgdir>
+		<imgdir name="993215233">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Remote Cave"/>
+		</imgdir>
+		<imgdir name="993215234">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere After the War"/>
+		</imgdir>
+		<imgdir name="993215235">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Elluel"/>
+		</imgdir>
+		<imgdir name="993215236">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Remote Cave"/>
+		</imgdir>
+		<imgdir name="993215237">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in King&apos;s Seat"/>
+		</imgdir>
+		<imgdir name="993215238">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Remote Cave"/>
+		</imgdir>
+		<imgdir name="993215239">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Drifting Thoughts"/>
+		</imgdir>
+		<imgdir name="993215240">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Black Mage Encounter"/>
+		</imgdir>
+		<imgdir name="993215241">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Remote Cave"/>
+		</imgdir>
+		<imgdir name="993215242">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Commander Lucid"/>
+		</imgdir>
+		<imgdir name="993215243">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Conference Pavilion"/>
+		</imgdir>
+		<imgdir name="993215244">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Black Mage&apos;s Temple"/>
+		</imgdir>
+		<imgdir name="993215245">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Clocktower Top"/>
+		</imgdir>
+		<imgdir name="993215246">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Lucid&apos;s Room"/>
+		</imgdir>
+		<imgdir name="993215247">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Lucid&apos;s Realm"/>
+		</imgdir>
+		<imgdir name="993215248">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Lucid&apos;s Room"/>
+		</imgdir>
+		<imgdir name="993215250">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Lachelein Canal"/>
+		</imgdir>
+		<imgdir name="993215251">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Lachelein Canal"/>
+		</imgdir>
+		<imgdir name="993215252">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Above the Arcane River"/>
+		</imgdir>
+		<imgdir name="993215253">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in The Vortex of Light"/>
+		</imgdir>
+		<imgdir name="993215254">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Forest Entrance"/>
+		</imgdir>
+		<imgdir name="993215255">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Spirit Tree Vantage"/>
+		</imgdir>
+		<imgdir name="993215256">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Near the Floral Flute"/>
+		</imgdir>
+		<imgdir name="993215257">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Near the Floral Flute"/>
+		</imgdir>
+		<imgdir name="993215258">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in The Forest of Water"/>
+		</imgdir>
+		<imgdir name="993215259">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Near the Floral Flute"/>
+		</imgdir>
+		<imgdir name="993215260">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in the Grove of the Spirit Tree"/>
+		</imgdir>
+		<imgdir name="993215261">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Deep Within the Forest"/>
+		</imgdir>
+		<imgdir name="993215262">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Deep Within the Forest"/>
+		</imgdir>
+		<imgdir name="993215263">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Deep Within the Forest"/>
+		</imgdir>
+		<imgdir name="993215264">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Thunder Cloud Clearing"/>
+		</imgdir>
+		<imgdir name="993215265">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Deep Within the Forest"/>
+		</imgdir>
+		<imgdir name="993215266">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Deep Within the Forest"/>
+		</imgdir>
+		<imgdir name="993215267">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Thunder Cloud Clearing"/>
+		</imgdir>
+		<imgdir name="993215268">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere Near the Bramble Harp"/>
+		</imgdir>
+		<imgdir name="993215269">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Marimba Lagoon"/>
+		</imgdir>
+		<imgdir name="993215270">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Marimba Lagoon"/>
+		</imgdir>
+		<imgdir name="993215271">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Cavernous Cavern"/>
+		</imgdir>
+		<imgdir name="993215272">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Cavern Lower Path"/>
+		</imgdir>
+		<imgdir name="993215273">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Cavernous Cavern"/>
+		</imgdir>
+		<imgdir name="993215274">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Cavernous Cavern"/>
+		</imgdir>
+		<imgdir name="993215275">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Grove of the Spirit Tree"/>
+		</imgdir>
+		<imgdir name="993215276">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Grove of the Spirit Tree"/>
+		</imgdir>
+		<imgdir name="993215277">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Grove of the Spirit Tree"/>
+		</imgdir>
+		<imgdir name="993215278">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Arcana"/>
+		</imgdir>
+		<imgdir name="993215300">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Cavernous Cavern"/>
+		</imgdir>
+		<imgdir name="993215301">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere on the Path to the Coral Forest"/>
+		</imgdir>
+		<imgdir name="993215302">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere on the Path to the Coral Forest"/>
+		</imgdir>
+		<imgdir name="993215303">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere on the Path to the Coral Forest"/>
+		</imgdir>
+		<imgdir name="993215304">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere on the Path to the Coral Forest"/>
+		</imgdir>
+		<imgdir name="993215305">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Trueffet Square"/>
+		</imgdir>
+		<imgdir name="993215306">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Trueffet Square"/>
+		</imgdir>
+		<imgdir name="993215307">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Shadowdance Hall"/>
+		</imgdir>
+		<imgdir name="993215308">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in the Research Lab"/>
+		</imgdir>
+		<imgdir name="993215309">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in the Research Lab"/>
+		</imgdir>
+		<imgdir name="993215310">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in the Research Lab"/>
+		</imgdir>
+		<imgdir name="993215311">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in the Research Lab"/>
+		</imgdir>
+		<imgdir name="993215312">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in an Abandoned Area"/>
+		</imgdir>
+		<imgdir name="993215313">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in the Research Lab"/>
+		</imgdir>
+		<imgdir name="993215314">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in the Research Lab"/>
+		</imgdir>
+		<imgdir name="993215315">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere on That Day in Trueffet"/>
+		</imgdir>
+		<imgdir name="993215316">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere on That Day in Trueffet"/>
+		</imgdir>
+		<imgdir name="993215317">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere on the Path to the Coral Forest"/>
+		</imgdir>
+		<imgdir name="993215318">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere on That Day in Trueffet"/>
+		</imgdir>
+		<imgdir name="993215319">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere on the Path to the Coral Forest"/>
+		</imgdir>
+		<imgdir name="993215320">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Morass"/>
+		</imgdir>
+		<imgdir name="993215321">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Morass"/>
+		</imgdir>
+		<imgdir name="993215330">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Trueffet Square"/>
+		</imgdir>
+		<imgdir name="993215331">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere on That Day in Trueffet"/>
+		</imgdir>
+		<imgdir name="993215332">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Trueffet Square"/>
+		</imgdir>
+		<imgdir name="993215333">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in the Research Lab"/>
+		</imgdir>
+		<imgdir name="993215334">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in an Abandoned Area"/>
+		</imgdir>
+		<imgdir name="993215335">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in the Research Lab"/>
+		</imgdir>
+		<imgdir name="993215336">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in an Abandoned Area"/>
+		</imgdir>
+		<imgdir name="993215337">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in the Research Lab"/>
+		</imgdir>
+		<imgdir name="993215338">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere on That Day in Trueffet"/>
+		</imgdir>
+		<imgdir name="993215339">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere on the Path to the Coral Forest"/>
+		</imgdir>
+		<imgdir name="993215340">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere on That Day in Trueffet"/>
+		</imgdir>
+		<imgdir name="993215341">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Trueffet Square"/>
+		</imgdir>
+		<imgdir name="993215350">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in an Abandoned Area"/>
+		</imgdir>
+		<imgdir name="993215351">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Living Spring"/>
+		</imgdir>
+		<imgdir name="993215352">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Base Camp"/>
+		</imgdir>
+		<imgdir name="993215353">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Living Spring"/>
+		</imgdir>
+		<imgdir name="993215354">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Base Camp"/>
+		</imgdir>
+		<imgdir name="993215355">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in the Mirror-touched Sea"/>
+		</imgdir>
+		<imgdir name="993215356">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in the Mirror-touched Sea"/>
+		</imgdir>
+		<imgdir name="993215357">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Radiant Temple"/>
+		</imgdir>
+		<imgdir name="993215358">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in the Mirror-touched Sea"/>
+		</imgdir>
+		<imgdir name="993215359">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in the Mirror-touched Sea"/>
+		</imgdir>
+		<imgdir name="993215360">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in the Mirror-touched Sea"/>
+		</imgdir>
+		<imgdir name="993215361">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Base Camp"/>
+		</imgdir>
+		<imgdir name="993215362">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Radiant Temple"/>
+		</imgdir>
+		<imgdir name="993215363">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Radiant Temple"/>
+		</imgdir>
+		<imgdir name="993215364">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Radiant Temple"/>
+		</imgdir>
+		<imgdir name="993215365">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Radiant Throne"/>
+		</imgdir>
+		<imgdir name="993215366">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Diffraction Hall"/>
+		</imgdir>
+		<imgdir name="993215367">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Fading Light"/>
+		</imgdir>
+		<imgdir name="993215370">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Living Spring"/>
+		</imgdir>
+		<imgdir name="993215371">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Living Spring"/>
+		</imgdir>
+		<imgdir name="993215372">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Slumbering Deep"/>
+		</imgdir>
+		<imgdir name="993215373">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Slumbering Deep"/>
+		</imgdir>
+		<imgdir name="993215374">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Base Camp"/>
+		</imgdir>
+		<imgdir name="993215375">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Base Camp"/>
+		</imgdir>
+		<imgdir name="993215376">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Living Spring"/>
+		</imgdir>
+		<imgdir name="993215377">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Base Camp"/>
+		</imgdir>
+		<imgdir name="993215378">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Diffraction Hall"/>
+		</imgdir>
+		<imgdir name="993215379">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Radiant Throne"/>
+		</imgdir>
+		<imgdir name="993215380">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Fading Light"/>
+		</imgdir>
+		<imgdir name="993215381">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Radiant Throne"/>
+		</imgdir>
+		<imgdir name="993215382">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Giant&apos;s Heart"/>
+		</imgdir>
+		<imgdir name="993215383">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Beyond Existence"/>
+		</imgdir>
+		<imgdir name="993215384">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Barrier Between Worlds"/>
+		</imgdir>
+		<imgdir name="993215385">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Three Doors"/>
+		</imgdir>
+		<imgdir name="993215386">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere Down Memory Lane"/>
+		</imgdir>
+		<imgdir name="993215387">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Resting Spot of Memory"/>
+		</imgdir>
+		<imgdir name="993215388">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Memory Keeper&apos;s Room"/>
+		</imgdir>
+		<imgdir name="993215389">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Three Doors"/>
+		</imgdir>
+		<imgdir name="993215390">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere Down Memory Lane"/>
+		</imgdir>
+		<imgdir name="993215391">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Three Doors"/>
+		</imgdir>
+		<imgdir name="993215392">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Three Doors"/>
+		</imgdir>
+		<imgdir name="993215400">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Living Spring"/>
+		</imgdir>
+		<imgdir name="993215401">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Base Camp"/>
+		</imgdir>
+		<imgdir name="993215402">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in the Mirror-touched Sea"/>
+		</imgdir>
+		<imgdir name="993215403">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Base Camp"/>
+		</imgdir>
+		<imgdir name="993215404">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Slumbering Deep"/>
+		</imgdir>
+		<imgdir name="993215405">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in a Jellyfish Above the Surface"/>
+		</imgdir>
+		<imgdir name="993215406">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in The Final Edge of Light"/>
+		</imgdir>
+		<imgdir name="993215407">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in The Jellyfish"/>
+		</imgdir>
+		<imgdir name="993215408">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in The Final Edge of Light"/>
+		</imgdir>
+		<imgdir name="993215409">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Plunging Depths"/>
+		</imgdir>
+		<imgdir name="993215410">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in the Broken-Down Jellyfish"/>
+		</imgdir>
+		<imgdir name="993215411">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Plunging Depths"/>
+		</imgdir>
+		<imgdir name="993215412">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Plunging Depths"/>
+		</imgdir>
+		<imgdir name="993215413">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Plunging Depths"/>
+		</imgdir>
+		<imgdir name="993215414">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in the Broken-Down Jellyfish"/>
+		</imgdir>
+		<imgdir name="993215415">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Plunging Depths"/>
+		</imgdir>
+		<imgdir name="993215416">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in The Jellyfish"/>
+		</imgdir>
+		<imgdir name="993215417">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Star-Swallowing Sea"/>
+		</imgdir>
+		<imgdir name="993215418">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Star-Swallowing Sea"/>
+		</imgdir>
+		<imgdir name="993215419">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Star-Swallowing Sea"/>
+		</imgdir>
+		<imgdir name="993215420">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Star-Swallowing Sea"/>
+		</imgdir>
+		<imgdir name="993215421">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Star-Swallowing Sea"/>
+		</imgdir>
+		<imgdir name="993215422">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Star-Swallowing Sea"/>
+		</imgdir>
+		<imgdir name="993215423">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Base Camp"/>
+		</imgdir>
+		<imgdir name="993215424">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Sellas"/>
+		</imgdir>
+		<imgdir name="993215425">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Sellas"/>
+		</imgdir>
+		<imgdir name="993215426">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Sellas"/>
+		</imgdir>
+		<imgdir name="993215427">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Sellas"/>
+		</imgdir>
+		<imgdir name="993215450">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Chaotic Sea"/>
+		</imgdir>
+		<imgdir name="993215451">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Base Camp"/>
+		</imgdir>
+		<imgdir name="993215452">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Ereve Entrance"/>
+		</imgdir>
+		<imgdir name="993215453">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Ereve Roads"/>
+		</imgdir>
+		<imgdir name="993215454">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Conference Pavilion"/>
+		</imgdir>
+		<imgdir name="993215455">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Ereve Alleyway"/>
+		</imgdir>
+		<imgdir name="993215457">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Empress&apos;s Refuge"/>
+		</imgdir>
+		<imgdir name="993215458">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Sky Ferry Path"/>
+		</imgdir>
+		<imgdir name="993215459">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Sky Ferry"/>
+		</imgdir>
+		<imgdir name="993215460">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Ereve Skies"/>
+		</imgdir>
+		<imgdir name="993215461">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Outpost"/>
+		</imgdir>
+		<imgdir name="993215462">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="White Spear"/>
+		</imgdir>
+		<imgdir name="993215463">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Nautilus Navigation Room"/>
+		</imgdir>
+		<imgdir name="993215464">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Nova Base"/>
+		</imgdir>
+		<imgdir name="993215465">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="White Spear"/>
+		</imgdir>
+		<imgdir name="993215466">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="White Spear Port Bow"/>
+		</imgdir>
+		<imgdir name="993215467">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="White Spear"/>
+		</imgdir>
+		<imgdir name="993215468">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="White Spear"/>
+		</imgdir>
+		<imgdir name="993215469">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Resistance Flagship"/>
+		</imgdir>
+		<imgdir name="993215470">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Foggy Barrier Skyline"/>
+		</imgdir>
+		<imgdir name="993215471">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="White Spear"/>
+		</imgdir>
+		<imgdir name="993215473">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="White Spear"/>
+		</imgdir>
+		<imgdir name="993215474">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Resistance Ship"/>
+		</imgdir>
+		<imgdir name="993215475">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Resistance Flagship"/>
+		</imgdir>
+		<imgdir name="993215476">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Nautilus Navigation Room"/>
+		</imgdir>
+		<imgdir name="993215477">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Nautilus Convoy"/>
+		</imgdir>
+		<imgdir name="993215478">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Ensnared Ship"/>
+		</imgdir>
+		<imgdir name="993215479">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="White Spear"/>
+		</imgdir>
+		<imgdir name="993215480">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="White Spear"/>
+		</imgdir>
+		<imgdir name="993215481">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Nautilus Navigation Room"/>
+		</imgdir>
+		<imgdir name="993215482">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="White Spear"/>
+		</imgdir>
+		<imgdir name="993215483">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="White Spear"/>
+		</imgdir>
+		<imgdir name="993215484">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="White Spear"/>
+		</imgdir>
+		<imgdir name="993215485">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="White Spear Deck"/>
+		</imgdir>
+		<imgdir name="993215486">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="White Spear Deck"/>
+		</imgdir>
+		<imgdir name="993215487">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Damaged Ship"/>
+		</imgdir>
+		<imgdir name="993215488">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="White Spear"/>
+		</imgdir>
+		<imgdir name="993215489">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Detachment Airship"/>
+		</imgdir>
+		<imgdir name="993215490">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Detachment Airship"/>
+		</imgdir>
+		<imgdir name="993215491">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="White Spear"/>
+		</imgdir>
+		<imgdir name="993215492">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Detachment Airship"/>
+		</imgdir>
+		<imgdir name="993215493">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Detachment Airship"/>
+		</imgdir>
+		<imgdir name="993215494">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Eye of the Void Interior"/>
+		</imgdir>
+		<imgdir name="993215495">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="White Spear"/>
+		</imgdir>
+		<imgdir name="993215496">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="White Spear"/>
+		</imgdir>
+		<imgdir name="993215497">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Moonbridge"/>
+		</imgdir>
+		<imgdir name="993215498">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Moonbridge"/>
+		</imgdir>
+		<imgdir name="993215500">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="White Spear"/>
+		</imgdir>
+		<imgdir name="993215501">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in the Labyrinth"/>
+		</imgdir>
+		<imgdir name="993215502">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in the Labyrinth"/>
+		</imgdir>
+		<imgdir name="993215503">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in the Labyrinth"/>
+		</imgdir>
+		<imgdir name="993215504">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in the Labyrinth"/>
+		</imgdir>
+		<imgdir name="993215505">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in the Labyrinth"/>
+		</imgdir>
+		<imgdir name="993215506">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in the Labyrinth"/>
+		</imgdir>
+		<imgdir name="993215507">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in the Labyrinth"/>
+		</imgdir>
+		<imgdir name="993215508">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in the Labyrinth"/>
+		</imgdir>
+		<imgdir name="993215509">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in the Labyrinth"/>
+		</imgdir>
+		<imgdir name="993215510">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in the Labyrinth"/>
+		</imgdir>
+		<imgdir name="993215511">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in the Labyrinth"/>
+		</imgdir>
+		<imgdir name="993215512">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in the Labyrinth"/>
+		</imgdir>
+		<imgdir name="993215513">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in the Labyrinth"/>
+		</imgdir>
+		<imgdir name="993215514">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in the Labyrinth"/>
+		</imgdir>
+		<imgdir name="993215515">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in the Labyrinth"/>
+		</imgdir>
+		<imgdir name="993215516">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in the Labyrinth"/>
+		</imgdir>
+		<imgdir name="993215517">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in the Labyrinth"/>
+		</imgdir>
+		<imgdir name="993215518">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in the Labyrinth"/>
+		</imgdir>
+		<imgdir name="993215519">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in the Labyrinth"/>
+		</imgdir>
+		<imgdir name="993215520">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in the Labyrinth"/>
+		</imgdir>
+		<imgdir name="993215521">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in the Labyrinth"/>
+		</imgdir>
+		<imgdir name="993215522">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in the Labyrinth"/>
+		</imgdir>
+		<imgdir name="993215523">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in the Labyrinth"/>
+		</imgdir>
+		<imgdir name="993215524">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in the Labyrinth"/>
+		</imgdir>
+		<imgdir name="993215525">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in the Labyrinth"/>
+		</imgdir>
+		<imgdir name="993215526">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in the Labyrinth"/>
+		</imgdir>
+		<imgdir name="993215527">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in the Labyrinth"/>
+		</imgdir>
+		<imgdir name="993215528">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in the Labyrinth"/>
+		</imgdir>
+		<imgdir name="993215529">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in the Labyrinth"/>
+		</imgdir>
+		<imgdir name="993215530">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in the Labyrinth"/>
+		</imgdir>
+		<imgdir name="993215531">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in the Labyrinth"/>
+		</imgdir>
+		<imgdir name="993215532">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in the Labyrinth"/>
+		</imgdir>
+		<imgdir name="993215533">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in the Labyrinth"/>
+		</imgdir>
+		<imgdir name="993215534">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in the Labyrinth"/>
+		</imgdir>
+		<imgdir name="993215535">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in the Labyrinth"/>
+		</imgdir>
+		<imgdir name="993215536">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in the Labyrinth"/>
+		</imgdir>
+		<imgdir name="993215537">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in the Labyrinth"/>
+		</imgdir>
+		<imgdir name="993215538">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Labyrinth of Suffering"/>
+		</imgdir>
+		<imgdir name="993215539">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Labyrinth of Suffering"/>
+		</imgdir>
+		<imgdir name="993215550">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="World&apos;s Sorrow"/>
+		</imgdir>
+		<imgdir name="993215551">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="World&apos;s Sorrow"/>
+		</imgdir>
+		<imgdir name="993215552">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="World&apos;s Sorrow"/>
+		</imgdir>
+		<imgdir name="993215553">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Limina"/>
+		</imgdir>
+		<imgdir name="993215554">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Limina"/>
+		</imgdir>
+		<imgdir name="993215555">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Limina"/>
+		</imgdir>
+		<imgdir name="993215556">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="World&apos;s Sorrow"/>
+		</imgdir>
+		<imgdir name="993215557">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="World&apos;s Sorrow"/>
+		</imgdir>
+		<imgdir name="993215558">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Limina"/>
+		</imgdir>
+		<imgdir name="993215559">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Limina"/>
+		</imgdir>
+		<imgdir name="993215560">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Limina"/>
+		</imgdir>
+		<imgdir name="993215561">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Limina"/>
+		</imgdir>
+		<imgdir name="993215562">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="World&apos;s Sorrow"/>
+		</imgdir>
+		<imgdir name="993215563">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="World&apos;s Sorrow"/>
+		</imgdir>
+		<imgdir name="993215564">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Resistance Ship Deck"/>
+		</imgdir>
+		<imgdir name="993215565">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Resistance Ship Deck"/>
+		</imgdir>
+		<imgdir name="993215566">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Resistance Ship Deck"/>
+		</imgdir>
+		<imgdir name="993215567">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Limina"/>
+		</imgdir>
+		<imgdir name="993215568">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="End of the World"/>
+		</imgdir>
+		<imgdir name="993215569">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="End of the World"/>
+		</imgdir>
+		<imgdir name="993215570">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="End of the World"/>
+		</imgdir>
+		<imgdir name="993215571">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Limina"/>
+		</imgdir>
+		<imgdir name="993215572">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Limina"/>
+		</imgdir>
+		<imgdir name="993215573">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Limina"/>
+		</imgdir>
+		<imgdir name="993215574">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Temple of Darkness"/>
+		</imgdir>
+		<imgdir name="993215575">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Throne of Darkness"/>
+		</imgdir>
+		<imgdir name="993215576">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="The In-Between"/>
+		</imgdir>
+		<imgdir name="993215577">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Beyond Existence"/>
+		</imgdir>
+		<imgdir name="993215578">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Limina"/>
+		</imgdir>
+		<imgdir name="993215579">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Limina"/>
+		</imgdir>
+		<imgdir name="993215580">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Limina"/>
+		</imgdir>
+		<imgdir name="993215581">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Limina"/>
+		</imgdir>
+		<imgdir name="993215582">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Erda Flow"/>
+		</imgdir>
+		<imgdir name="993215583">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Erda Flow"/>
+		</imgdir>
+		<imgdir name="993215584">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Resistance Ship Deck"/>
+		</imgdir>
+		<imgdir name="993215585">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Limina"/>
+		</imgdir>
+		<imgdir name="993215586">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Limina"/>
+		</imgdir>
+		<imgdir name="993215587">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Limina"/>
+		</imgdir>
+		<imgdir name="993215588">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Limina"/>
+		</imgdir>
+		<imgdir name="993215589">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Limina"/>
+		</imgdir>
+		<imgdir name="993215590">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Limina"/>
+		</imgdir>
+		<imgdir name="993215778">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Hospital Room"/>
+		</imgdir>
+		<imgdir name="993215779">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Secret Plaza"/>
+		</imgdir>
+		<imgdir name="993215780">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Summit"/>
+		</imgdir>
+		<imgdir name="993215781">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere on the Road to the Castle&apos;s Gate"/>
+		</imgdir>
+		<imgdir name="993215782">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere on the Road to the Castle&apos;s Gate"/>
+		</imgdir>
+		<imgdir name="993215783">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="General Area by the Castle&apos;s Gate"/>
+		</imgdir>
+		<imgdir name="993215784">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in the Residential District"/>
+		</imgdir>
+		<imgdir name="993215785">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in the Captured Alley"/>
+		</imgdir>
+		<imgdir name="993215786">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in the Captured Alley"/>
+		</imgdir>
+		<imgdir name="993215787">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in the Awakened Laboratory"/>
+		</imgdir>
+		<imgdir name="993215788">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Researchers&apos; Journal"/>
+		</imgdir>
+		<imgdir name="993215789">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Researchers&apos; Journal"/>
+		</imgdir>
+		<imgdir name="993215790">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Researchers&apos; Journal"/>
+		</imgdir>
+		<imgdir name="993215791">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in the Awakened Laboratory"/>
+		</imgdir>
+		<imgdir name="993215792">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in the Generator Room where emotions spring up"/>
+		</imgdir>
+		<imgdir name="993215793">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in the Generator Room where emotions spring up"/>
+		</imgdir>
+		<imgdir name="993215794">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in the Generator Room where emotions spring up"/>
+		</imgdir>
+		<imgdir name="993215795">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in the Generator Room where emotions spring up"/>
+		</imgdir>
+		<imgdir name="993215796">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Shangri-La"/>
+		</imgdir>
+		<imgdir name="993215797">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Secret Plaza"/>
+		</imgdir>
+		<imgdir name="993215600">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Outpost Outskirts"/>
+		</imgdir>
+		<imgdir name="993215601">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere on Sky Ferry"/>
+		</imgdir>
+		<imgdir name="993215602">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Ereve"/>
+		</imgdir>
+		<imgdir name="993215603">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Ereve Underground Prison"/>
+		</imgdir>
+		<imgdir name="993215604">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Lachelein Main Street"/>
+		</imgdir>
+		<imgdir name="993215605">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Nightmare Clocktower 3F"/>
+		</imgdir>
+		<imgdir name="993215606">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Deepest Dream"/>
+		</imgdir>
+		<imgdir name="993215607">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Lucid&apos;s Room"/>
+		</imgdir>
+		<imgdir name="993215608">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere on That Day in Trueffet"/>
+		</imgdir>
+		<imgdir name="993215609">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere on That Day in Trueffet"/>
+		</imgdir>
+		<imgdir name="993215610">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere on That Day in Trueffet"/>
+		</imgdir>
+		<imgdir name="993215611">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere on That Day in Trueffet"/>
+		</imgdir>
+		<imgdir name="993215612">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Radiant Throne"/>
+		</imgdir>
+		<imgdir name="993215613">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Fading Light"/>
+		</imgdir>
+		<imgdir name="993215614">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Fading Light"/>
+		</imgdir>
+		<imgdir name="993215615">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="World&apos;s Sorrow"/>
+		</imgdir>
+		<imgdir name="993215616">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="World&apos;s Sorrow"/>
+		</imgdir>
+		<imgdir name="993215617">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Tenebris"/>
+		</imgdir>
+		<imgdir name="993215618">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Tenebris"/>
+		</imgdir>
+		<imgdir name="993215619">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Barrier Between Worlds"/>
+		</imgdir>
+		<imgdir name="993215620">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Barrier Between Worlds"/>
+		</imgdir>
+		<imgdir name="993215621">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Outpost Outskirts"/>
+		</imgdir>
+		<imgdir name="993215622">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Ereve"/>
+		</imgdir>
+		<imgdir name="993215623">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Cernium"/>
+		</imgdir>
+		<imgdir name="993215624">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Shade Epilogue"/>
+		</imgdir>
+		<imgdir name="993215625">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in the Barrier Between Worlds"/>
+		</imgdir>
+		<imgdir name="993215626">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Rocky Overlook"/>
+		</imgdir>
+		<imgdir name="993215627">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Rocky Overlook"/>
+		</imgdir>
+		<imgdir name="993215628">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Rocky Overlook"/>
+		</imgdir>
+		<imgdir name="993215629">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Holy Land Vantage Point"/>
+		</imgdir>
+		<imgdir name="993215630">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Holy Land Vantage Point"/>
+		</imgdir>
+		<imgdir name="993215631">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere near the Western City Gate"/>
+		</imgdir>
+		<imgdir name="993215632">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Cernium Square"/>
+		</imgdir>
+		<imgdir name="993215633">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Cernium Square"/>
+		</imgdir>
+		<imgdir name="993215634">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Cernium Western City Ramparts"/>
+		</imgdir>
+		<imgdir name="993215635">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Cernium Western City Ramparts"/>
+		</imgdir>
+		<imgdir name="993215636">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Cernium Western City Ramparts"/>
+		</imgdir>
+		<imgdir name="993215637">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Cernium Square"/>
+		</imgdir>
+		<imgdir name="993215638">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Cernium Eastern City Ramparts"/>
+		</imgdir>
+		<imgdir name="993215639">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Cernium Eastern City Ramparts"/>
+		</imgdir>
+		<imgdir name="993215640">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Twilight Training Grounds"/>
+		</imgdir>
+		<imgdir name="993215641">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Cernium Eastern City Ramparts"/>
+		</imgdir>
+		<imgdir name="993215642">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Chamber of the Holy Sword"/>
+		</imgdir>
+		<imgdir name="993215643">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in the Barrier Between Worlds"/>
+		</imgdir>
+		<imgdir name="993215644">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Chamber of the Holy Sword"/>
+		</imgdir>
+		<imgdir name="993215645">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Palace Main Hall"/>
+		</imgdir>
+		<imgdir name="993215646">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Royal Library"/>
+		</imgdir>
+		<imgdir name="993215647">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in the Royal Library"/>
+		</imgdir>
+		<imgdir name="993215648">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Royal Library"/>
+		</imgdir>
+		<imgdir name="993215649">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Cernium Square"/>
+		</imgdir>
+		<imgdir name="993215650">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Graveyard of Swords"/>
+		</imgdir>
+		<imgdir name="993215651">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Cernium"/>
+		</imgdir>
+		<imgdir name="993215652">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Palace Main Hall"/>
+		</imgdir>
+		<imgdir name="993215653">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Cernium Square"/>
+		</imgdir>
+		<imgdir name="993215654">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Graveyard of Swords"/>
+		</imgdir>
+		<imgdir name="993215655">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Cernium Square"/>
+		</imgdir>
+		<imgdir name="993215656">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Cernium Western City Ramparts"/>
+		</imgdir>
+		<imgdir name="993215657">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere near Cernium Eastern City Gate"/>
+		</imgdir>
+		<imgdir name="993215658">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere near Cernium Eastern City Gate"/>
+		</imgdir>
+		<imgdir name="993215659">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere near Cernium Eastern City Gate"/>
+		</imgdir>
+		<imgdir name="993215660">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere near Cernium Eastern City Gate"/>
+		</imgdir>
+		<imgdir name="993215661">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere near Cernium Eastern City Gate"/>
+		</imgdir>
+		<imgdir name="993215662">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Cernium Square"/>
+		</imgdir>
+		<imgdir name="993215663">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Seren&apos;s Dream"/>
+		</imgdir>
+		<imgdir name="993215664">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Cernium Eastern City Ramparts"/>
+		</imgdir>
+		<imgdir name="993215665">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Flora Encampment"/>
+		</imgdir>
+		<imgdir name="993215666">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Cernium Square"/>
+		</imgdir>
+		<imgdir name="993215667">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Holy Land Vantage Point"/>
+		</imgdir>
+		<imgdir name="993215668">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Rocky Overlook"/>
+		</imgdir>
+		<imgdir name="993215669">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Cernium Western City Ramparts"/>
+		</imgdir>
+		<imgdir name="993215670">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Cernium Western City Ramparts"/>
+		</imgdir>
+		<imgdir name="993215671">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Cernium Western City Ramparts Entrance"/>
+		</imgdir>
+		<imgdir name="993215672">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Cernium Square"/>
+		</imgdir>
+		<imgdir name="993215673">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Royal Library"/>
+		</imgdir>
+		<imgdir name="993215674">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Cernium Square"/>
+		</imgdir>
+		<imgdir name="993215675">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in the Royal Library"/>
+		</imgdir>
+		<imgdir name="993215676">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in the Royal Library"/>
+		</imgdir>
+		<imgdir name="993215677">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in the Royal Library"/>
+		</imgdir>
+		<imgdir name="993215678">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in the Royal Library"/>
+		</imgdir>
+		<imgdir name="993215679">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in the Royal Library"/>
+		</imgdir>
+		<imgdir name="993215680">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Palace Main Hall"/>
+		</imgdir>
+		<imgdir name="993215681">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Palace Main Hall"/>
+		</imgdir>
+		<imgdir name="993215682">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Near the Flora Encampment"/>
+		</imgdir>
+		<imgdir name="993215683">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Near the Flora Encampment"/>
+		</imgdir>
+		<imgdir name="993215684">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Near the Flora Encampment"/>
+		</imgdir>
+		<imgdir name="993215685">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Near the Flora Encampment"/>
+		</imgdir>
+		<imgdir name="993215686">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Near the Flora Encampment"/>
+		</imgdir>
+		<imgdir name="993215687">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Near the Flora Encampment"/>
+		</imgdir>
+		<imgdir name="993215688">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Near the Flora Encampment"/>
+		</imgdir>
+		<imgdir name="993215689">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Near the Flora Encampment"/>
+		</imgdir>
+		<imgdir name="993215690">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Graveyard of Swords"/>
+		</imgdir>
+		<imgdir name="993215691">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Cernium Square"/>
+		</imgdir>
+		<imgdir name="993215692">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Cernium Square"/>
+		</imgdir>
+		<imgdir name="993215693">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Graveyard of Swords"/>
+		</imgdir>
+		<imgdir name="993215694">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Chamber of the Holy Sword"/>
+		</imgdir>
+		<imgdir name="993215695">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere near the Western City Gate"/>
+		</imgdir>
+		<imgdir name="993215696">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Western City Ramparts Entrance in Battle"/>
+		</imgdir>
+		<imgdir name="993215697">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Cernium Western City Gate in Battle"/>
+		</imgdir>
+		<imgdir name="993215698">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Eastern City Ramparts"/>
+		</imgdir>
+		<imgdir name="993215699">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Flora Encampment"/>
+		</imgdir>
+		<imgdir name="993215700">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Eastern City Ramparts"/>
+		</imgdir>
+		<imgdir name="993215701">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Royal Library"/>
+		</imgdir>
+		<imgdir name="993215702">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Destroyed Cernium Square"/>
+		</imgdir>
+		<imgdir name="993215703">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Destroyed Palace Main Hall"/>
+		</imgdir>
+		<imgdir name="993215704">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Royal Library"/>
+		</imgdir>
+		<imgdir name="993215705">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in the Burning Royal Library"/>
+		</imgdir>
+		<imgdir name="993215706">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Royal Library"/>
+		</imgdir>
+		<imgdir name="993215707">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Royal Library"/>
+		</imgdir>
+		<imgdir name="993215708">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Destroyed Cernium Square"/>
+		</imgdir>
+		<imgdir name="993215709">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Chamber of the Holy Sword"/>
+		</imgdir>
+		<imgdir name="993215710">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Royal Library"/>
+		</imgdir>
+		<imgdir name="993215711">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Chamber of the Holy Sword"/>
+		</imgdir>
+		<imgdir name="993215712">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Cernium Square"/>
+		</imgdir>
+		<imgdir name="993215713">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Destroyed Palace Main Hall"/>
+		</imgdir>
+		<imgdir name="993215714">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Palace Main Hall"/>
+		</imgdir>
+		<imgdir name="993215715">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Palace Main Hall"/>
+		</imgdir>
+		<imgdir name="993215716">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Outpost Outskirts"/>
+		</imgdir>
+		<imgdir name="993215717">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Cernium Eastern City Gate"/>
+		</imgdir>
+		<imgdir name="993215718">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Outpost Outskirts"/>
+		</imgdir>
+		<imgdir name="993215719">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Hotel Arcus"/>
+		</imgdir>
+		<imgdir name="993215720">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Hotel Arcus"/>
+		</imgdir>
+		<imgdir name="993215721">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Hotel Arcus"/>
+		</imgdir>
+		<imgdir name="993215722">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Hotel Arcus"/>
+		</imgdir>
+		<imgdir name="993215723">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Hotel Arcus"/>
+		</imgdir>
+		<imgdir name="993215724">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Nameless Wastes"/>
+		</imgdir>
+		<imgdir name="993215725">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Outlaw-Infested Wastes"/>
+		</imgdir>
+		<imgdir name="993215726">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Hotel Arcus"/>
+		</imgdir>
+		<imgdir name="993215727">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Hotel Arcus Saloon"/>
+		</imgdir>
+		<imgdir name="993215728">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in the Nostalgic Drive-in Theater"/>
+		</imgdir>
+		<imgdir name="993215729">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in the Nostalgic Drive-in Theater"/>
+		</imgdir>
+		<imgdir name="993215730">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Hotel Arcus"/>
+		</imgdir>
+		<imgdir name="993215731">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Hotel Arcus Saloon"/>
+		</imgdir>
+		<imgdir name="993215732">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Hotel Arcus"/>
+		</imgdir>
+		<imgdir name="993215733">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Hotel Arcus Saloon"/>
+		</imgdir>
+		<imgdir name="993215734">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Hotel Arcus"/>
+		</imgdir>
+		<imgdir name="993215735">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Hotel Arcus"/>
+		</imgdir>
+		<imgdir name="993215736">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Hotel Arcus"/>
+		</imgdir>
+		<imgdir name="993215737">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Hotel Arcus Saloon"/>
+		</imgdir>
+		<imgdir name="993215738">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Hotel Arcus"/>
+		</imgdir>
+		<imgdir name="993215739">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Hotel Arcus"/>
+		</imgdir>
+		<imgdir name="993215740">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Hotel Arcus"/>
+		</imgdir>
+		<imgdir name="993215741">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Ramshackle Desert Town"/>
+		</imgdir>
+		<imgdir name="993215742">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Hotel Arcus"/>
+		</imgdir>
+		<imgdir name="993215743">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Hotel Arcus"/>
+		</imgdir>
+		<imgdir name="993215744">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Hotel Arcus"/>
+		</imgdir>
+		<imgdir name="993215745">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Hotel Arcus Saloon"/>
+		</imgdir>
+		<imgdir name="993215746">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Ereve"/>
+		</imgdir>
+		<imgdir name="993215747">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Ereve"/>
+		</imgdir>
+		<imgdir name="993215748">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Ereve"/>
+		</imgdir>
+		<imgdir name="993215749">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere in Ereve"/>
+		</imgdir>
+		<imgdir name="993215750">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Hotel Arcus Saloon"/>
+		</imgdir>
+		<imgdir name="993215751">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Somewhere on the 2nd Floor of Hotel Arcus"/>
+		</imgdir>
+		<imgdir name="993215752">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="The Unending Tower"/>
+		</imgdir>
+		<imgdir name="993215753">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="The Unending Tower"/>
+		</imgdir>
+		<imgdir name="993215754">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Bottom Floor"/>
+		</imgdir>
+		<imgdir name="993215755">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="The Void"/>
+		</imgdir>
+		<imgdir name="993215756">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="The Void"/>
+		</imgdir>
+		<imgdir name="993215757">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Statue&apos;s Memory"/>
+		</imgdir>
+		<imgdir name="993215758">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Bottom Floor"/>
+		</imgdir>
+		<imgdir name="993215759">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Halfway Up"/>
+		</imgdir>
+		<imgdir name="993215760">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="The Void"/>
+		</imgdir>
+		<imgdir name="993215761">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="The Void"/>
+		</imgdir>
+		<imgdir name="993215762">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Statue&apos;s Memory"/>
+		</imgdir>
+		<imgdir name="993215763">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Halfway Up"/>
+		</imgdir>
+		<imgdir name="993215764">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Top Floor"/>
+		</imgdir>
+		<imgdir name="993215765">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Memory of the Void"/>
+		</imgdir>
+		<imgdir name="993215766">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Statue&apos;s Memory"/>
+		</imgdir>
+		<imgdir name="993215767">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Top Floor"/>
+		</imgdir>
+		<imgdir name="993215768">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Top Floor"/>
+		</imgdir>
+		<imgdir name="993215769">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Summit"/>
+		</imgdir>
+		<imgdir name="993215770">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Within the Void"/>
+		</imgdir>
+		<imgdir name="993215771">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Tower Summit"/>
+		</imgdir>
+		<imgdir name="993215772">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Summit"/>
+		</imgdir>
+		<imgdir name="993215773">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Summit"/>
+		</imgdir>
+		<imgdir name="993215774">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Tower Summit"/>
+		</imgdir>
+		<imgdir name="993215775">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Crumbling Tower"/>
+		</imgdir>
+		<imgdir name="993215776">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Crumbling Tower"/>
+		</imgdir>
+		<imgdir name="993215777">
+			<string name="streetName" value="Maple Chronicle"/>
+			<string name="mapName" value="Crumbling Tower"/>
+		</imgdir>
+		<imgdir name="993222000">
+			<string name="streetName" value="World&apos;s Best Punch King"/>
+			<string name="mapName" value="Waiting Room"/>
+		</imgdir>
+		<imgdir name="993222100">
+			<string name="streetName" value="World&apos;s Best Punch King"/>
+			<string name="mapName" value="Entry Preparation"/>
+		</imgdir>
+		<imgdir name="993222200">
+			<string name="streetName" value="World&apos;s Best Punch King"/>
+			<string name="mapName" value="Punch King"/>
+		</imgdir>
+		<imgdir name="993222300">
+			<string name="streetName" value="Ant and Grasshopper Together"/>
+			<string name="mapName" value="Quiet Bush"/>
+		</imgdir>
+		<imgdir name="993222001">
+			<string name="streetName" value="World&apos;s Best Punch King"/>
+			<string name="mapName" value="Exit"/>
+		</imgdir>
+		<imgdir name="993222400">
+			<string name="streetName" value="Maple Soccer"/>
+			<string name="mapName" value="Maple Soccer &lt;Entrance&gt;"/>
+		</imgdir>
+		<imgdir name="993222401">
+			<string name="streetName" value="Maple Soccer"/>
+			<string name="mapName" value="Maple Soccer &lt;Exit&gt;"/>
+		</imgdir>
+		<imgdir name="993222500">
+			<string name="streetName" value="Maple Soccer"/>
+			<string name="mapName" value="Maple Soccer &lt;Battleground&gt;"/>
 		</imgdir>
 		<imgdir name="931060042">
 			<string name="streetName" value="Hidden Street"/>
@@ -43872,7 +46312,7 @@
 		</imgdir>
 		<imgdir name="800040200">
 			<string name="streetName" value="Zipangu"/>
-			<string name="mapName" value="Castle Corridor"/>
+			<string name="mapName" value="Ninja Castle Long Corridor &lt;The&gt;"/>
 		</imgdir>
 		<imgdir name="800040201">
 			<string name="streetName" value="Zipangu"/>
@@ -43912,7 +46352,7 @@
 		</imgdir>
 		<imgdir name="800040210">
 			<string name="streetName" value="Zipangu"/>
-			<string name="mapName" value="Castle Corridor"/>
+			<string name="mapName" value="Ninja Castle Long Corridor &lt;Identity&gt;"/>
 		</imgdir>
 		<imgdir name="800040211">
 			<string name="streetName" value="Zipangu"/>
@@ -43920,51 +46360,51 @@
 		</imgdir>
 		<imgdir name="800040300">
 			<string name="streetName" value="Zipangu"/>
-			<string name="mapName" value="Phantom&apos;s Room"/>
+			<string name="mapName" value="Ninja Castle Dream Corridor &lt;A&gt;"/>
 		</imgdir>
 		<imgdir name="800040301">
 			<string name="streetName" value="Zipangu"/>
-			<string name="mapName" value="Phantom&apos;s Room"/>
+			<string name="mapName" value="Ninja Castle Dream Corridor &lt;Cry&gt;"/>
 		</imgdir>
 		<imgdir name="800040302">
 			<string name="streetName" value="Zipangu"/>
-			<string name="mapName" value="Phantom&apos;s Room"/>
+			<string name="mapName" value="Ninja Castle Dream Corridor &lt;Heard&gt;"/>
 		</imgdir>
 		<imgdir name="800040303">
 			<string name="streetName" value="Zipangu"/>
-			<string name="mapName" value="Phantom&apos;s Room"/>
+			<string name="mapName" value="Ninja Castle Dream Corridor &lt;Deep&gt;"/>
 		</imgdir>
 		<imgdir name="800040304">
 			<string name="streetName" value="Zipangu"/>
-			<string name="mapName" value="Phantom&apos;s Room"/>
+			<string name="mapName" value="Ninja Castle Dream Corridor &lt;Within&gt;"/>
 		</imgdir>
 		<imgdir name="800040305">
 			<string name="streetName" value="Zipangu"/>
-			<string name="mapName" value="Phantom&apos;s Room"/>
+			<string name="mapName" value="Ninja Castle Dream Corridor &lt;The&gt;"/>
 		</imgdir>
 		<imgdir name="800040306">
 			<string name="streetName" value="Zipangu"/>
-			<string name="mapName" value="Phantom&apos;s Room"/>
+			<string name="mapName" value="Ninja Castle Dream Corridor &lt;Castle&gt;"/>
 		</imgdir>
 		<imgdir name="800040307">
 			<string name="streetName" value="Zipangu"/>
-			<string name="mapName" value="Phantom&apos;s Room"/>
+			<string name="mapName" value="Ninja Castle Dream Corridor &lt;At&gt;"/>
 		</imgdir>
 		<imgdir name="800040308">
 			<string name="streetName" value="Zipangu"/>
-			<string name="mapName" value="Phantom&apos;s Room"/>
+			<string name="mapName" value="Ninja Castle Dream Corridor &lt;The&gt;"/>
 		</imgdir>
 		<imgdir name="800040309">
 			<string name="streetName" value="Zipangu"/>
-			<string name="mapName" value="Phantom&apos;s Room"/>
+			<string name="mapName" value="Ninja Castle Dream Corridor &lt;Stroke&gt;"/>
 		</imgdir>
 		<imgdir name="800040310">
 			<string name="streetName" value="Zipangu"/>
-			<string name="mapName" value="Phantom&apos;s Room"/>
+			<string name="mapName" value="Ninja Castle Dream Corridor &lt;Of&gt;"/>
 		</imgdir>
 		<imgdir name="800040311">
 			<string name="streetName" value="Zipangu"/>
-			<string name="mapName" value="Phantom&apos;s Room"/>
+			<string name="mapName" value="Ninja Castle Dream Corridor &lt;Midnight&gt;"/>
 		</imgdir>
 		<imgdir name="800040312">
 			<string name="streetName" value="Zipangu"/>
@@ -43992,7 +46432,7 @@
 		</imgdir>
 		<imgdir name="800040410">
 			<string name="streetName" value="Zipangu"/>
-			<string name="mapName" value="Tower Room"/>
+			<string name="mapName" value="Boudoir 2"/>
 		</imgdir>
 		<imgdir name="801000000">
 			<string name="streetName" value="Zipangu"/>
@@ -45631,7 +48071,7 @@
 		</imgdir>
 		<imgdir name="800040220">
 			<string name="streetName" value="Zipangu"/>
-			<string name="mapName" value="Ninja Castle Long Corridor &lt;Identity&gt;"/>
+			<string name="mapName" value="Ninja Castle Long Corridor &lt;Of&gt;"/>
 		</imgdir>
 		<imgdir name="800040221">
 			<string name="streetName" value="Zipangu"/>
@@ -45651,7 +48091,7 @@
 		</imgdir>
 		<imgdir name="800040230">
 			<string name="streetName" value="Zipangu"/>
-			<string name="mapName" value="Ninja Castle Long Corridor &lt;Of&gt;"/>
+			<string name="mapName" value="Ninja Castle Long Corridor &lt;The&gt;"/>
 		</imgdir>
 		<imgdir name="800040231">
 			<string name="streetName" value="Zipangu"/>
@@ -46578,7 +49018,7 @@
 			<string name="mapName" value="Tyrant&apos;s Throne"/>
 		</imgdir>
 		<imgdir name="401060399">
-			<string name="streetName" value="Tyrant Simulation Fight"/>
+			<string name="streetName" value="Tyrant&apos;s Castle"/>
 			<string name="mapName" value="Heliseum Heights Entry"/>
 		</imgdir>
 		<imgdir name="401070000">
@@ -49215,6 +51655,46 @@
 			<string name="streetName" value="Limina"/>
 			<string name="mapName" value="Beyond Existence"/>
 		</imgdir>
+		<imgdir name="450013900">
+			<string name="streetName" value="Limina"/>
+			<string name="mapName" value="Temple of Darkness"/>
+		</imgdir>
+		<imgdir name="450013910">
+			<string name="streetName" value="Limina"/>
+			<string name="mapName" value="Temple of Darkness"/>
+		</imgdir>
+		<imgdir name="450013920">
+			<string name="streetName" value="Limina"/>
+			<string name="mapName" value="Throne of Darkness"/>
+		</imgdir>
+		<imgdir name="450013930">
+			<string name="streetName" value="Limina"/>
+			<string name="mapName" value="Throne of Darkness"/>
+		</imgdir>
+		<imgdir name="450013940">
+			<string name="streetName" value="Limina"/>
+			<string name="mapName" value="The In-Between"/>
+		</imgdir>
+		<imgdir name="450013950">
+			<string name="streetName" value="Limina"/>
+			<string name="mapName" value="The In-Between"/>
+		</imgdir>
+		<imgdir name="450013960">
+			<string name="streetName" value="Limina"/>
+			<string name="mapName" value="Beyond Existence"/>
+		</imgdir>
+		<imgdir name="450013970">
+			<string name="streetName" value="Limina"/>
+			<string name="mapName" value="Beyond Existence"/>
+		</imgdir>
+		<imgdir name="450013980">
+			<string name="streetName" value="Limina"/>
+			<string name="mapName" value="Beyond Existence"/>
+		</imgdir>
+		<imgdir name="450013990">
+			<string name="streetName" value="Limina"/>
+			<string name="mapName" value="Giant&apos;s Heart"/>
+		</imgdir>
 		<imgdir name="450014010">
 			<string name="streetName" value="Reverse City"/>
 			<string name="mapName" value="Subway Tunnel Entrance"/>
@@ -50059,6 +52539,26 @@
 			<string name="streetName" value="Cernium"/>
 			<string name="mapName" value="Palace Main Hall"/>
 		</imgdir>
+		<imgdir name="410002200">
+			<string name="streetName" value="Cernium"/>
+			<string name="mapName" value="Palace Main Hall"/>
+		</imgdir>
+		<imgdir name="410002220">
+			<string name="streetName" value="Cernium"/>
+			<string name="mapName" value="Palace Main Hall"/>
+		</imgdir>
+		<imgdir name="410002240">
+			<string name="streetName" value="Barrier Between Worlds"/>
+			<string name="mapName" value="Barrier Between Worlds"/>
+		</imgdir>
+		<imgdir name="410002260">
+			<string name="streetName" value="Barrier Between Worlds"/>
+			<string name="mapName" value="Barrier Between Worlds"/>
+		</imgdir>
+		<imgdir name="410002280">
+			<string name="streetName" value="Cernium"/>
+			<string name="mapName" value="Palace Main Hall"/>
+		</imgdir>
 		<imgdir name="410003000">
 			<string name="streetName" value="Hotel Arcus"/>
 			<string name="mapName" value="Hotel Arcus Saloon"/>
@@ -50242,6 +52742,82 @@
 		<imgdir name="410006120">
 			<string name="streetName" value="Karote"/>
 			<string name="mapName" value="Karote Summit"/>
+		</imgdir>
+		<imgdir name="410007000">
+			<string name="streetName" value="Odium"/>
+			<string name="mapName" value="Residential District"/>
+		</imgdir>
+		<imgdir name="410007001">
+			<string name="streetName" value="Odium"/>
+			<string name="mapName" value="General Area by the Castle&apos;s Gate"/>
+		</imgdir>
+		<imgdir name="410007002">
+			<string name="streetName" value="Odium"/>
+			<string name="mapName" value="Road to the Castle&apos;s Gate 1"/>
+		</imgdir>
+		<imgdir name="410007003">
+			<string name="streetName" value="Odium"/>
+			<string name="mapName" value="Road to the Castle&apos;s Gate 2"/>
+		</imgdir>
+		<imgdir name="410007004">
+			<string name="streetName" value="Odium"/>
+			<string name="mapName" value="Road to the Castle&apos;s Gate 3"/>
+		</imgdir>
+		<imgdir name="410007005">
+			<string name="streetName" value="Odium"/>
+			<string name="mapName" value="Road to the Castle&apos;s Gate 4"/>
+		</imgdir>
+		<imgdir name="410007006">
+			<string name="streetName" value="Odium"/>
+			<string name="mapName" value="Captured Alley 1"/>
+		</imgdir>
+		<imgdir name="410007007">
+			<string name="streetName" value="Odium"/>
+			<string name="mapName" value="Captured Alley 2"/>
+		</imgdir>
+		<imgdir name="410007008">
+			<string name="streetName" value="Odium"/>
+			<string name="mapName" value="Captured Alley 3"/>
+		</imgdir>
+		<imgdir name="410007009">
+			<string name="streetName" value="Odium"/>
+			<string name="mapName" value="Captured Alley 4"/>
+		</imgdir>
+		<imgdir name="410007010">
+			<string name="streetName" value="Odium"/>
+			<string name="mapName" value="Awakened Laboratory"/>
+		</imgdir>
+		<imgdir name="410007011">
+			<string name="streetName" value="Odium"/>
+			<string name="mapName" value="Laboratory Middle Corridor"/>
+		</imgdir>
+		<imgdir name="410007012">
+			<string name="streetName" value="Odium"/>
+			<string name="mapName" value="Sunny Laboratory 1"/>
+		</imgdir>
+		<imgdir name="410007013">
+			<string name="streetName" value="Odium"/>
+			<string name="mapName" value="Sunny Laboratory 2"/>
+		</imgdir>
+		<imgdir name="410007014">
+			<string name="streetName" value="Odium"/>
+			<string name="mapName" value="Sunny Laboratory 3"/>
+		</imgdir>
+		<imgdir name="410007015">
+			<string name="streetName" value="Odium"/>
+			<string name="mapName" value="Laboratory Behind Locked Door 1"/>
+		</imgdir>
+		<imgdir name="410007016">
+			<string name="streetName" value="Odium"/>
+			<string name="mapName" value="Laboratory Behind Locked Door 2"/>
+		</imgdir>
+		<imgdir name="410007017">
+			<string name="streetName" value="Odium"/>
+			<string name="mapName" value="Laboratory Behind Locked Door 3"/>
+		</imgdir>
+		<imgdir name="410007018">
+			<string name="streetName" value="Odium"/>
+			<string name="mapName" value="Generator Room Where Emotions Spring Up"/>
 		</imgdir>
 		<imgdir name="993165500">
 			<string name="mapName" value="On the Sun-Mottled Plateau"/>
@@ -50519,6 +53095,126 @@
 			<string name="streetName" value="Karote"/>
 			<string name="mapName" value="Summit"/>
 		</imgdir>
+		<imgdir name="993217000">
+			<string name="streetName" value="Somewhere"/>
+			<string name="mapName" value="Suspicious Laboratory"/>
+		</imgdir>
+		<imgdir name="993217001">
+			<string name="streetName" value="Resistance Headquarters"/>
+			<string name="mapName" value="Hospital Room"/>
+		</imgdir>
+		<imgdir name="993217002">
+			<string name="streetName" value="Resistance Headquarters"/>
+			<string name="mapName" value="Secret Plaza"/>
+		</imgdir>
+		<imgdir name="993217003">
+			<string name="streetName" value="Karote"/>
+			<string name="mapName" value="Summit"/>
+		</imgdir>
+		<imgdir name="993217004">
+			<string name="streetName" value="Odium"/>
+			<string name="mapName" value="Somewhere on the Road to the Castle&apos;s Gate"/>
+		</imgdir>
+		<imgdir name="993217005">
+			<string name="streetName" value="Odium"/>
+			<string name="mapName" value="Somewhere on the Road to the Castle&apos;s Gate"/>
+		</imgdir>
+		<imgdir name="993217006">
+			<string name="streetName" value="Odium"/>
+			<string name="mapName" value="Somewhere on the Road to the Castle&apos;s Gate"/>
+		</imgdir>
+		<imgdir name="993217007">
+			<string name="streetName" value="Odium"/>
+			<string name="mapName" value="General Area by the Castle&apos;s Gate"/>
+		</imgdir>
+		<imgdir name="993217008">
+			<string name="streetName" value="Odium"/>
+			<string name="mapName" value="Residential District"/>
+		</imgdir>
+		<imgdir name="993217009">
+			<string name="streetName" value="Odium"/>
+			<string name="mapName" value="Somewhere in the Captured Alley"/>
+		</imgdir>
+		<imgdir name="993217010">
+			<string name="streetName" value="Odium"/>
+			<string name="mapName" value="Somewhere in the Captured Alley"/>
+		</imgdir>
+		<imgdir name="993217011">
+			<string name="streetName" value="Odium"/>
+			<string name="mapName" value="Somewhere in the Captured Alley"/>
+		</imgdir>
+		<imgdir name="993217012">
+			<string name="streetName" value="Odium"/>
+			<string name="mapName" value="Somewhere in the Awakened Laboratory"/>
+		</imgdir>
+		<imgdir name="993217013">
+			<string name="streetName" value="Odium"/>
+			<string name="mapName" value="Researchers&apos; Journal"/>
+		</imgdir>
+		<imgdir name="993217014">
+			<string name="streetName" value="Odium"/>
+			<string name="mapName" value="Researchers&apos; Journal"/>
+		</imgdir>
+		<imgdir name="993217015">
+			<string name="streetName" value="Odium"/>
+			<string name="mapName" value="Researchers&apos; Journal"/>
+		</imgdir>
+		<imgdir name="993217016">
+			<string name="streetName" value="Odium"/>
+			<string name="mapName" value="Somewhere in the Awakened Laboratory"/>
+		</imgdir>
+		<imgdir name="993217017">
+			<string name="streetName" value="Odium"/>
+			<string name="mapName" value="Somewhere in the Generator Room where emotions spring up"/>
+		</imgdir>
+		<imgdir name="993217018">
+			<string name="streetName" value="Odium"/>
+			<string name="mapName" value="Somewhere in the Generator Room where emotions spring up"/>
+		</imgdir>
+		<imgdir name="993217019">
+			<string name="streetName" value="Odium"/>
+			<string name="mapName" value="Somewhere in the Generator Room where emotions spring up"/>
+		</imgdir>
+		<imgdir name="993217020">
+			<string name="streetName" value="Odium"/>
+			<string name="mapName" value="Somewhere in the Generator Room where emotions spring up"/>
+		</imgdir>
+		<imgdir name="993217021">
+			<string name="streetName" value="Hidden Street"/>
+			<string name="mapName" value="Somewhere in Shangri-La"/>
+		</imgdir>
+		<imgdir name="993217040">
+			<string name="streetName" value="Odium"/>
+			<string name="mapName" value="Somewhere in the Residential District"/>
+		</imgdir>
+		<imgdir name="993217041">
+			<string name="streetName" value="Odium"/>
+			<string name="mapName" value="Somewhere in the Generator Room where emotions spring up"/>
+		</imgdir>
+		<imgdir name="993217050">
+			<string name="streetName" value="Odium"/>
+			<string name="mapName" value="Somewhere on the Road to the Castle&apos;s Gate"/>
+		</imgdir>
+		<imgdir name="993217080">
+			<string name="streetName" value="Odium"/>
+			<string name="mapName" value="Somewhere in the Captured Alley"/>
+		</imgdir>
+		<imgdir name="993217110">
+			<string name="streetName" value="Odium"/>
+			<string name="mapName" value="Somewhere in the Laboratory Behind a Locked Door"/>
+		</imgdir>
+		<imgdir name="993217140">
+			<string name="streetName" value="Odium"/>
+			<string name="mapName" value="Somewhere in the Laboratory Behind a Locked Door"/>
+		</imgdir>
+		<imgdir name="993217170">
+			<string name="streetName" value="Odium"/>
+			<string name="mapName" value="Somewhere in the Laboratory Behind a Locked Door"/>
+		</imgdir>
+		<imgdir name="993217200">
+			<string name="streetName" value="Odium"/>
+			<string name="mapName" value="Somewhere in the Awakened Laboratory"/>
+		</imgdir>
 		<imgdir name="993165700">
 			<string name="streetName" value="Karote"/>
 			<string name="mapName" value="Somewhere in Ereve"/>
@@ -50634,262 +53330,6 @@
 		<imgdir name="993165950">
 			<string name="streetName" value="Karote"/>
 			<string name="mapName" value="The Third Void"/>
-		</imgdir>
-		<imgdir name="450013900">
-			<string name="streetName" value="Limina"/>
-			<string name="mapName" value="Temple of Darkness"/>
-		</imgdir>
-		<imgdir name="450013910">
-			<string name="streetName" value="Limina"/>
-			<string name="mapName" value="Temple of Darkness"/>
-		</imgdir>
-		<imgdir name="450013920">
-			<string name="streetName" value="Limina"/>
-			<string name="mapName" value="Throne of Darkness"/>
-		</imgdir>
-		<imgdir name="450013930">
-			<string name="streetName" value="Limina"/>
-			<string name="mapName" value="Throne of Darkness"/>
-		</imgdir>
-		<imgdir name="450013940">
-			<string name="streetName" value="Limina"/>
-			<string name="mapName" value="The In-Between"/>
-		</imgdir>
-		<imgdir name="450013950">
-			<string name="streetName" value="Limina"/>
-			<string name="mapName" value="The In-Between"/>
-		</imgdir>
-		<imgdir name="450013960">
-			<string name="streetName" value="Limina"/>
-			<string name="mapName" value="Beyond Existence"/>
-		</imgdir>
-		<imgdir name="450013970">
-			<string name="streetName" value="Limina"/>
-			<string name="mapName" value="Beyond Existence"/>
-		</imgdir>
-		<imgdir name="450013980">
-			<string name="streetName" value="Limina"/>
-			<string name="mapName" value="Beyond Existence"/>
-		</imgdir>
-		<imgdir name="450013990">
-			<string name="streetName" value="Limina"/>
-			<string name="mapName" value="Giant&apos;s Heart"/>
-		</imgdir>
-		<imgdir name="410002200">
-			<string name="streetName" value="Cernium"/>
-			<string name="mapName" value="Palace Main Hall"/>
-		</imgdir>
-		<imgdir name="410002220">
-			<string name="streetName" value="Cernium"/>
-			<string name="mapName" value="Palace Main Hall"/>
-		</imgdir>
-		<imgdir name="410002240">
-			<string name="streetName" value="Barrier Between Worlds"/>
-			<string name="mapName" value="Barrier Between Worlds"/>
-		</imgdir>
-		<imgdir name="410002260">
-			<string name="streetName" value="Barrier Between Worlds"/>
-			<string name="mapName" value="Barrier Between Worlds"/>
-		</imgdir>
-		<imgdir name="410002280">
-			<string name="streetName" value="Cernium"/>
-			<string name="mapName" value="Palace Main Hall"/>
-		</imgdir>
-		<imgdir name="410007000">
-			<string name="streetName" value="Odium"/>
-			<string name="mapName" value="The City of the Researchers"/>
-		</imgdir>
-		<imgdir name="410007001">
-			<string name="streetName" value="Odium"/>
-			<string name="mapName" value="General Area by the Castle&apos;s Gate"/>
-		</imgdir>
-		<imgdir name="410007002">
-			<string name="streetName" value="Odium"/>
-			<string name="mapName" value="Road to the Castle&apos;s Gate 1"/>
-		</imgdir>
-		<imgdir name="410007003">
-			<string name="streetName" value="Odium"/>
-			<string name="mapName" value="Road to the Castle&apos;s Gate 2"/>
-		</imgdir>
-		<imgdir name="410007004">
-			<string name="streetName" value="Odium"/>
-			<string name="mapName" value="Road to the Castle&apos;s Gate 3"/>
-		</imgdir>
-		<imgdir name="410007005">
-			<string name="streetName" value="Odium"/>
-			<string name="mapName" value="Road to the Castle&apos;s Gate 4"/>
-		</imgdir>
-		<imgdir name="410007006">
-			<string name="streetName" value="Odium"/>
-			<string name="mapName" value="Captured Alley 1"/>
-		</imgdir>
-		<imgdir name="410007007">
-			<string name="streetName" value="Odium"/>
-			<string name="mapName" value="Captured Alley 2"/>
-		</imgdir>
-		<imgdir name="410007008">
-			<string name="streetName" value="Odium"/>
-			<string name="mapName" value="Captured Alley 3"/>
-		</imgdir>
-		<imgdir name="410007009">
-			<string name="streetName" value="Odium"/>
-			<string name="mapName" value="Captured Alley 4"/>
-		</imgdir>
-		<imgdir name="410007010">
-			<string name="streetName" value="Odium"/>
-			<string name="mapName" value="Awakened Laboratory"/>
-		</imgdir>
-		<imgdir name="410007011">
-			<string name="streetName" value="Odium"/>
-			<string name="mapName" value="Laboratory Middle Corridor"/>
-		</imgdir>
-		<imgdir name="410007012">
-			<string name="streetName" value="Odium"/>
-			<string name="mapName" value="Sunny Laboratory 1"/>
-		</imgdir>
-		<imgdir name="410007013">
-			<string name="streetName" value="Odium"/>
-			<string name="mapName" value="Sunny Laboratory 2"/>
-		</imgdir>
-		<imgdir name="410007014">
-			<string name="streetName" value="Odium"/>
-			<string name="mapName" value="Sunny Laboratory 3"/>
-		</imgdir>
-		<imgdir name="410007015">
-			<string name="streetName" value="Odium"/>
-			<string name="mapName" value="Laboratory Behind Locked Door 1"/>
-		</imgdir>
-		<imgdir name="410007016">
-			<string name="streetName" value="Odium"/>
-			<string name="mapName" value="Laboratory Behind Locked Door 2"/>
-		</imgdir>
-		<imgdir name="410007017">
-			<string name="streetName" value="Odium"/>
-			<string name="mapName" value="Laboratory Behind Locked Door 3"/>
-		</imgdir>
-		<imgdir name="410007018">
-			<string name="streetName" value="Odium"/>
-			<string name="mapName" value="Generator Room Where Emotions Spring Up"/>
-		</imgdir>
-		<imgdir name="993217000">
-			<string name="streetName" value="Somewhere"/>
-			<string name="mapName" value="Suspicious Laboratory"/>
-		</imgdir>
-		<imgdir name="993217001">
-			<string name="streetName" value="Resistance Headquarters"/>
-			<string name="mapName" value="Hospital Room"/>
-		</imgdir>
-		<imgdir name="993217002">
-			<string name="streetName" value="Resistance Headquarters"/>
-			<string name="mapName" value="Secret Plaza"/>
-		</imgdir>
-		<imgdir name="993217003">
-			<string name="streetName" value="Karote"/>
-			<string name="mapName" value="Summit"/>
-		</imgdir>
-		<imgdir name="993217004">
-			<string name="streetName" value="Odium"/>
-			<string name="mapName" value="Somewhere on the Road to the Castle&apos;s Gate"/>
-		</imgdir>
-		<imgdir name="993217005">
-			<string name="streetName" value="Odium"/>
-			<string name="mapName" value="Somewhere on the Road to the Castle&apos;s Gate"/>
-		</imgdir>
-		<imgdir name="993217006">
-			<string name="streetName" value="Odium"/>
-			<string name="mapName" value="Somewhere on the Road to the Castle&apos;s Gate"/>
-		</imgdir>
-		<imgdir name="993217007">
-			<string name="streetName" value="Odium"/>
-			<string name="mapName" value="General Area by the Castle&apos;s Gate"/>
-		</imgdir>
-		<imgdir name="993217008">
-			<string name="streetName" value="Odium"/>
-			<string name="mapName" value="The City of the Researchers"/>
-		</imgdir>
-		<imgdir name="993217009">
-			<string name="streetName" value="Odium"/>
-			<string name="mapName" value="Somewhere in the Captured Alley"/>
-		</imgdir>
-		<imgdir name="993217010">
-			<string name="streetName" value="Odium"/>
-			<string name="mapName" value="Somewhere in the Captured Alley"/>
-		</imgdir>
-		<imgdir name="993217011">
-			<string name="streetName" value="Odium"/>
-			<string name="mapName" value="Somewhere in the Captured Alley"/>
-		</imgdir>
-		<imgdir name="993217012">
-			<string name="streetName" value="Odium"/>
-			<string name="mapName" value="Somewhere in the Awakened Laboratory"/>
-		</imgdir>
-		<imgdir name="993217013">
-			<string name="streetName" value="Odium"/>
-			<string name="mapName" value="Researchers&apos; Journal"/>
-		</imgdir>
-		<imgdir name="993217014">
-			<string name="streetName" value="Odium"/>
-			<string name="mapName" value="Researchers&apos; Journal"/>
-		</imgdir>
-		<imgdir name="993217015">
-			<string name="streetName" value="Odium"/>
-			<string name="mapName" value="Researchers&apos; Journal"/>
-		</imgdir>
-		<imgdir name="993217016">
-			<string name="streetName" value="Odium"/>
-			<string name="mapName" value="Somewhere in the Awakened Laboratory"/>
-		</imgdir>
-		<imgdir name="993217017">
-			<string name="streetName" value="Odium"/>
-			<string name="mapName" value="Somewhere in the Generator Room where emotions spring up"/>
-		</imgdir>
-		<imgdir name="993217018">
-			<string name="streetName" value="Odium"/>
-			<string name="mapName" value="Somewhere in the Generator Room where emotions spring up"/>
-		</imgdir>
-		<imgdir name="993217019">
-			<string name="streetName" value="Odium"/>
-			<string name="mapName" value="Somewhere in the Generator Room where emotions spring up"/>
-		</imgdir>
-		<imgdir name="993217020">
-			<string name="streetName" value="Odium"/>
-			<string name="mapName" value="Somewhere in the Generator Room where emotions spring up"/>
-		</imgdir>
-		<imgdir name="993217021">
-			<string name="streetName" value="Hidden Street"/>
-			<string name="mapName" value="Somewhere in Shangri-La"/>
-		</imgdir>
-		<imgdir name="993217040">
-			<string name="streetName" value="Odium"/>
-			<string name="mapName" value="Somewhere in the City of the Researchers"/>
-		</imgdir>
-		<imgdir name="993217041">
-			<string name="streetName" value="Odium"/>
-			<string name="mapName" value="Somewhere in the Generator Room where emotions spring up"/>
-		</imgdir>
-		<imgdir name="993217050">
-			<string name="streetName" value="Odium"/>
-			<string name="mapName" value="Somewhere on the Road to the Castle&apos;s Gate"/>
-		</imgdir>
-		<imgdir name="993217080">
-			<string name="streetName" value="Odium"/>
-			<string name="mapName" value="Somewhere in the Captured Alley"/>
-		</imgdir>
-		<imgdir name="993217110">
-			<string name="streetName" value="Odium"/>
-			<string name="mapName" value="Somewhere in the Laboratory Behind a Locked Door"/>
-		</imgdir>
-		<imgdir name="993217140">
-			<string name="streetName" value="Odium"/>
-			<string name="mapName" value="Somewhere in the Laboratory Behind a Locked Door"/>
-		</imgdir>
-		<imgdir name="993217170">
-			<string name="streetName" value="Odium"/>
-			<string name="mapName" value="Somewhere in the Laboratory Behind a Locked Door"/>
-		</imgdir>
-		<imgdir name="993217200">
-			<string name="streetName" value="Odium"/>
-			<string name="mapName" value="Somewhere in the Awakened Laboratory"/>
 		</imgdir>
 	</imgdir>
 	<imgdir name="CTF_GL">
@@ -54622,7 +57062,7 @@
 			<string name="mapName" value="Stump Town"/>
 		</imgdir>
 		<imgdir name="866190000">
-			<string name="mapName" value="Stump Town"/>
+			<string name="mapName" value="Canopy Town"/>
 			<string name="streetName" value="Arboren"/>
 		</imgdir>
 		<imgdir name="866191000">
@@ -56110,6 +58550,10 @@
 		<imgdir name="867131900">
 			<string name="streetName" value="Field Trip &lt;Sweet Skies&gt;"/>
 			<string name="mapName" value="Maple Sports Field"/>
+		</imgdir>
+		<imgdir name="867113700">
+			<string name="streetName" value="The Afterlands"/>
+			<string name="mapName" value="Land of Warriors"/>
 		</imgdir>
 	</imgdir>
 	<imgdir name="GLNewYear">
@@ -64771,6 +67215,10 @@
 			<string name="streetName" value="Fort Asura"/>
 			<string name="mapName" value="Fort Asura"/>
 		</imgdir>
+		<imgdir name="876005020">
+			<string name="streetName" value="Fort Asura"/>
+			<string name="mapName" value="Ritual Altar"/>
+		</imgdir>
 	</imgdir>
 	<imgdir name="magicLamp">
 		<imgdir name="867154400">
@@ -65522,6 +67970,554 @@
 		<imgdir name="871100027">
 			<string name="streetName" value="Querencia"/>
 			<string name="mapName" value="Lotus Pond Garden Tile House"/>
+		</imgdir>
+	</imgdir>
+	<imgdir name="Wz2_MistyIsland">
+		<imgdir name="867162000">
+			<string name="streetName" value="&lt;Misty Island Legacy&gt;"/>
+			<string name="mapName" value="Center of Ancient Ruins"/>
+		</imgdir>
+		<imgdir name="867162001">
+			<string name="streetName" value="&lt;Misty Island Legacy&gt;"/>
+			<string name="mapName" value="Center of Ancient Ruins"/>
+		</imgdir>
+		<imgdir name="867162010">
+			<string name="streetName" value="&lt;Misty Island Legacy&gt;"/>
+			<string name="mapName" value="Near the West of the Ruins"/>
+		</imgdir>
+		<imgdir name="867162011">
+			<string name="streetName" value="&lt;Misty Island Legacy&gt;"/>
+			<string name="mapName" value="Near the West of the Ruins"/>
+		</imgdir>
+		<imgdir name="867162020">
+			<string name="streetName" value="&lt;Misty Island Legacy&gt;"/>
+			<string name="mapName" value="Near the East of the Ruins"/>
+		</imgdir>
+		<imgdir name="867162021">
+			<string name="streetName" value="&lt;Misty Island Legacy&gt;"/>
+			<string name="mapName" value="Near the East of the Ruins"/>
+		</imgdir>
+		<imgdir name="867162030">
+			<string name="streetName" value="&lt;Misty Island Legacy&gt;"/>
+			<string name="mapName" value="Near the South of the Ruins"/>
+		</imgdir>
+		<imgdir name="867162031">
+			<string name="streetName" value="&lt;Misty Island Legacy&gt;"/>
+			<string name="mapName" value="Near the South of the Ruins"/>
+		</imgdir>
+		<imgdir name="867162032">
+			<string name="streetName" value="&lt;Misty Island Legacy&gt;"/>
+			<string name="mapName" value="Near the South of the Ruins"/>
+		</imgdir>
+		<imgdir name="867162040">
+			<string name="streetName" value="&lt;Misty Island Legacy&gt;"/>
+			<string name="mapName" value="Misty Island West Foothills"/>
+		</imgdir>
+		<imgdir name="867162041">
+			<string name="streetName" value="&lt;Misty Island Legacy&gt;"/>
+			<string name="mapName" value="Misty Island West Foothills"/>
+		</imgdir>
+		<imgdir name="867162042">
+			<string name="streetName" value="&lt;Misty Island Legacy&gt;"/>
+			<string name="mapName" value="Misty Island West Foothills"/>
+		</imgdir>
+		<imgdir name="867162050">
+			<string name="streetName" value="&lt;Misty Island Legacy&gt;"/>
+			<string name="mapName" value="Misty Island West Foothills"/>
+		</imgdir>
+		<imgdir name="867162051">
+			<string name="streetName" value="&lt;Misty Island Legacy&gt;"/>
+			<string name="mapName" value="Misty Island West Foothills"/>
+		</imgdir>
+		<imgdir name="867162060">
+			<string name="streetName" value="&lt;Misty Island Legacy&gt;"/>
+			<string name="mapName" value="Misty Island East Foothills"/>
+		</imgdir>
+		<imgdir name="867162061">
+			<string name="streetName" value="&lt;Misty Island Legacy&gt;"/>
+			<string name="mapName" value="Misty Island East Foothills"/>
+		</imgdir>
+		<imgdir name="867162070">
+			<string name="streetName" value="&lt;Misty Island Legacy&gt;"/>
+			<string name="mapName" value="Misty Island East Foothills"/>
+		</imgdir>
+		<imgdir name="867162071">
+			<string name="streetName" value="&lt;Misty Island Legacy&gt;"/>
+			<string name="mapName" value="Misty Island East Foothills"/>
+		</imgdir>
+		<imgdir name="867162080">
+			<string name="streetName" value="&lt;Misty Island Legacy&gt;"/>
+			<string name="mapName" value="Misty Island South Foothills"/>
+		</imgdir>
+		<imgdir name="867162081">
+			<string name="streetName" value="&lt;Misty Island Legacy&gt;"/>
+			<string name="mapName" value="Misty Island South Foothills"/>
+		</imgdir>
+		<imgdir name="867162082">
+			<string name="streetName" value="&lt;Misty Island Legacy&gt;"/>
+			<string name="mapName" value="Misty Island South Foothills"/>
+		</imgdir>
+		<imgdir name="867162090">
+			<string name="streetName" value="&lt;Misty Island Legacy&gt;"/>
+			<string name="mapName" value="Misty Island South Foothills"/>
+		</imgdir>
+		<imgdir name="867162091">
+			<string name="streetName" value="&lt;Misty Island Legacy&gt;"/>
+			<string name="mapName" value="Misty Island South Foothills"/>
+		</imgdir>
+		<imgdir name="867162092">
+			<string name="streetName" value="&lt;Misty Island Legacy&gt;"/>
+			<string name="mapName" value="Misty Island South Foothills"/>
+		</imgdir>
+		<imgdir name="867162100">
+			<string name="streetName" value="&lt;Misty Island Legacy&gt;"/>
+			<string name="mapName" value="Misty Island West Deep Jungle"/>
+		</imgdir>
+		<imgdir name="867162101">
+			<string name="streetName" value="&lt;Misty Island Legacy&gt;"/>
+			<string name="mapName" value="Misty Island West Deep Jungle"/>
+		</imgdir>
+		<imgdir name="867162102">
+			<string name="streetName" value="&lt;Misty Island Legacy&gt;"/>
+			<string name="mapName" value="Misty Island West Deep Jungle"/>
+		</imgdir>
+		<imgdir name="867162110">
+			<string name="streetName" value="&lt;Misty Island Legacy&gt;"/>
+			<string name="mapName" value="Misty Island East Deep Jungle"/>
+		</imgdir>
+		<imgdir name="867162111">
+			<string name="streetName" value="&lt;Misty Island Legacy&gt;"/>
+			<string name="mapName" value="Misty Island East Deep Jungle"/>
+		</imgdir>
+		<imgdir name="867162120">
+			<string name="streetName" value="&lt;Misty Island Legacy&gt;"/>
+			<string name="mapName" value="Misty Island South Deep Jungle"/>
+		</imgdir>
+		<imgdir name="867162121">
+			<string name="streetName" value="&lt;Misty Island Legacy&gt;"/>
+			<string name="mapName" value="Misty Island South Deep Jungle"/>
+		</imgdir>
+		<imgdir name="867162122">
+			<string name="streetName" value="&lt;Misty Island Legacy&gt;"/>
+			<string name="mapName" value="Misty Island South Deep Jungle"/>
+		</imgdir>
+		<imgdir name="867162130">
+			<string name="streetName" value="&lt;Misty Island Legacy&gt;"/>
+			<string name="mapName" value="Misty Island West Deep Jungle"/>
+		</imgdir>
+		<imgdir name="867162131">
+			<string name="streetName" value="&lt;Misty Island Legacy&gt;"/>
+			<string name="mapName" value="Misty Island West Deep Jungle"/>
+		</imgdir>
+		<imgdir name="867162140">
+			<string name="streetName" value="&lt;Misty Island Legacy&gt;"/>
+			<string name="mapName" value="Misty Island East Deep Jungle"/>
+		</imgdir>
+		<imgdir name="867162141">
+			<string name="streetName" value="&lt;Misty Island Legacy&gt;"/>
+			<string name="mapName" value="Misty Island East Deep Jungle"/>
+		</imgdir>
+		<imgdir name="867162150">
+			<string name="streetName" value="&lt;Misty Island Legacy&gt;"/>
+			<string name="mapName" value="Misty Island South Deep Jungle"/>
+		</imgdir>
+		<imgdir name="867162151">
+			<string name="streetName" value="&lt;Misty Island Legacy&gt;"/>
+			<string name="mapName" value="Misty Island South Deep Jungle"/>
+		</imgdir>
+		<imgdir name="867162152">
+			<string name="streetName" value="&lt;Misty Island Legacy&gt;"/>
+			<string name="mapName" value="Misty Island South Deep Jungle"/>
+		</imgdir>
+		<imgdir name="867162160">
+			<string name="streetName" value="&lt;Misty Island Legacy&gt;"/>
+			<string name="mapName" value="Misty Island West Beach"/>
+		</imgdir>
+		<imgdir name="867162161">
+			<string name="streetName" value="&lt;Misty Island Legacy&gt;"/>
+			<string name="mapName" value="Misty Island West Beach"/>
+		</imgdir>
+		<imgdir name="867162162">
+			<string name="streetName" value="&lt;Misty Island Legacy&gt;"/>
+			<string name="mapName" value="Misty Island West Beach"/>
+		</imgdir>
+		<imgdir name="867162170">
+			<string name="streetName" value="&lt;Misty Island Legacy&gt;"/>
+			<string name="mapName" value="Misty Island East Beach"/>
+		</imgdir>
+		<imgdir name="867162171">
+			<string name="streetName" value="&lt;Misty Island Legacy&gt;"/>
+			<string name="mapName" value="Misty Island East Beach"/>
+		</imgdir>
+		<imgdir name="867162180">
+			<string name="streetName" value="&lt;Misty Island Legacy&gt;"/>
+			<string name="mapName" value="Misty Island South Beach"/>
+		</imgdir>
+		<imgdir name="867162181">
+			<string name="streetName" value="&lt;Misty Island Legacy&gt;"/>
+			<string name="mapName" value="Misty Island South Beach"/>
+		</imgdir>
+		<imgdir name="867162182">
+			<string name="streetName" value="&lt;Misty Island Legacy&gt;"/>
+			<string name="mapName" value="Misty Island South Beach"/>
+		</imgdir>
+		<imgdir name="867162190">
+			<string name="streetName" value="&lt;Misty Island Legacy&gt;"/>
+			<string name="mapName" value="Misty Island South Beach"/>
+		</imgdir>
+		<imgdir name="867162191">
+			<string name="streetName" value="&lt;Misty Island Legacy&gt;"/>
+			<string name="mapName" value="Misty Island South Deep Jungle"/>
+		</imgdir>
+		<imgdir name="867162192">
+			<string name="streetName" value="&lt;Misty Island Legacy&gt;"/>
+			<string name="mapName" value="Misty Island South Foothills"/>
+		</imgdir>
+		<imgdir name="867162193">
+			<string name="streetName" value="&lt;Misty Island Legacy&gt;"/>
+			<string name="mapName" value="Center of Ancient Ruins"/>
+		</imgdir>
+		<imgdir name="867162200">
+			<string name="streetName" value="&lt;Misty Island Legacy&gt;"/>
+			<string name="mapName" value="Temporary Expedition Headquarters"/>
+		</imgdir>
+		<imgdir name="867162201">
+			<string name="streetName" value="&lt;Misty Island Legacy&gt;"/>
+			<string name="mapName" value="Somewhere On The Island"/>
+		</imgdir>
+		<imgdir name="867162202">
+			<string name="streetName" value="&lt;Misty Island Legacy&gt;"/>
+			<string name="mapName" value="Temporary Expedition Headquarters"/>
+		</imgdir>
+		<imgdir name="867162203">
+			<string name="streetName" value="&lt;Misty Island Legacy&gt;"/>
+			<string name="mapName" value="Center of Ancient Ruins"/>
+		</imgdir>
+		<imgdir name="867162204">
+			<string name="streetName" value="&lt;Misty Island Legacy&gt;"/>
+			<string name="mapName" value="Center of Ancient Ruins"/>
+		</imgdir>
+		<imgdir name="867162205">
+			<string name="streetName" value="&lt;Misty Island Legacy&gt;"/>
+			<string name="mapName" value="Center of Ancient Ruins"/>
+		</imgdir>
+	</imgdir>
+	<imgdir name="2022_Neotokyo">
+		<imgdir name="876002000">
+			<string name="streetName" value="2102 Akihabara"/>
+			<string name="mapName" value="Secret Command Center"/>
+		</imgdir>
+		<imgdir name="876002100">
+			<string name="streetName" value="2100 Odaiba"/>
+			<string name="mapName" value="Harbor Entrance"/>
+		</imgdir>
+		<imgdir name="876002120">
+			<string name="streetName" value="2100 Odaiba"/>
+			<string name="mapName" value="Harbor Entrance"/>
+		</imgdir>
+		<imgdir name="876002200">
+			<string name="streetName" value="2100 Odaiba"/>
+			<string name="mapName" value="Harbor Loading Dock"/>
+		</imgdir>
+		<imgdir name="876002220">
+			<string name="streetName" value="2100 Odaiba"/>
+			<string name="mapName" value="Harbor Loading Dock"/>
+		</imgdir>
+		<imgdir name="876002300">
+			<string name="streetName" value="2100 Odaiba"/>
+			<string name="mapName" value="Harbor Pier"/>
+		</imgdir>
+		<imgdir name="876002320">
+			<string name="streetName" value="2100 Odaiba"/>
+			<string name="mapName" value="Harbor Pier"/>
+		</imgdir>
+		<imgdir name="876002400">
+			<string name="streetName" value="2095 Zipangu"/>
+			<string name="mapName" value="Peaceful Park"/>
+		</imgdir>
+		<imgdir name="876002420">
+			<string name="streetName" value="2095 Zipangu"/>
+			<string name="mapName" value="Peaceful Park"/>
+		</imgdir>
+		<imgdir name="876002500">
+			<string name="streetName" value="2095 Zipangu"/>
+			<string name="mapName" value="Peaceful Park"/>
+		</imgdir>
+		<imgdir name="876002520">
+			<string name="streetName" value="2095 Zipangu"/>
+			<string name="mapName" value="Peaceful Park"/>
+		</imgdir>
+		<imgdir name="876002600">
+			<string name="streetName" value="2102 Akihabara"/>
+			<string name="mapName" value="Bombed City Center"/>
+		</imgdir>
+		<imgdir name="876002620">
+			<string name="streetName" value="2102 Akihabara"/>
+			<string name="mapName" value="Secret Command Center"/>
+		</imgdir>
+		<imgdir name="876002700">
+			<string name="streetName" value="2102 Akihabara"/>
+			<string name="mapName" value="Secret Command Center"/>
+		</imgdir>
+		<imgdir name="876002720">
+			<string name="streetName" value="2102 Akihabara"/>
+			<string name="mapName" value="Secret Command Center"/>
+		</imgdir>
+		<imgdir name="876002800">
+			<string name="streetName" value="Zipangu"/>
+			<string name="mapName" value="Kamuna"/>
+		</imgdir>
+		<imgdir name="876002820">
+			<string name="streetName" value="Zipangu"/>
+			<string name="mapName" value="Kamuna"/>
+		</imgdir>
+		<imgdir name="876002900">
+			<string name="streetName" value="2102 Tokyo Sky"/>
+			<string name="mapName" value="Old Firefox Ship Deck"/>
+		</imgdir>
+		<imgdir name="876002920">
+			<string name="streetName" value="2102 Tokyo Sky"/>
+			<string name="mapName" value="Old Firefox Ship Deck"/>
+		</imgdir>
+		<imgdir name="876003000">
+			<string name="streetName" value="2102 Tokyo Sky"/>
+			<string name="mapName" value="Old Firefox Ship Deck"/>
+		</imgdir>
+		<imgdir name="876003100">
+			<string name="streetName" value="2102 Shibuya"/>
+			<string name="mapName" value="Ruined City"/>
+		</imgdir>
+		<imgdir name="876003120">
+			<string name="streetName" value="2102 Shibuya"/>
+			<string name="mapName" value="Ruined City"/>
+		</imgdir>
+		<imgdir name="876003020">
+			<string name="streetName" value="2102 Shibuya"/>
+			<string name="mapName" value="Ruined City"/>
+		</imgdir>
+		<imgdir name="876003200">
+			<string name="streetName" value="2102 Shibuya"/>
+			<string name="mapName" value="Roppongi Mall Entrance"/>
+		</imgdir>
+		<imgdir name="876003220">
+			<string name="streetName" value="2102 Shibuya"/>
+			<string name="mapName" value="Ruined City"/>
+		</imgdir>
+		<imgdir name="876003300">
+			<string name="streetName" value="2102 Shibuya"/>
+			<string name="mapName" value="Roppongi Mall Elevator Shaft"/>
+		</imgdir>
+		<imgdir name="876003400">
+			<string name="streetName" value="2102 Shibuya"/>
+			<string name="mapName" value="Restricted Area"/>
+		</imgdir>
+		<imgdir name="876003520">
+			<string name="streetName" value="2102 Shibuya"/>
+			<string name="mapName" value="Restricted Area"/>
+		</imgdir>
+		<imgdir name="876003500">
+			<string name="streetName" value="2102 Shibuya"/>
+			<string name="mapName" value="Restricted Area"/>
+		</imgdir>
+		<imgdir name="876003600">
+			<string name="streetName" value="2102 Shibuya"/>
+			<string name="mapName" value="Roppongi Mall Top Floor"/>
+		</imgdir>
+		<imgdir name="876004000">
+			<string name="streetName" value="Zipangu"/>
+			<string name="mapName" value="Kamuna"/>
+		</imgdir>
+		<imgdir name="876004001">
+			<string name="streetName" value="Zipangu"/>
+			<string name="mapName" value="Kamuna"/>
+		</imgdir>
+		<imgdir name="876004002">
+			<string name="streetName" value="Zipangu"/>
+			<string name="mapName" value="Kamuna"/>
+		</imgdir>
+		<imgdir name="876004003">
+			<string name="streetName" value="Zipangu"/>
+			<string name="mapName" value="Kamuna"/>
+		</imgdir>
+		<imgdir name="876004004">
+			<string name="streetName" value="2100 Odaiba"/>
+			<string name="mapName" value="Harbor Entrance"/>
+		</imgdir>
+		<imgdir name="876004005">
+			<string name="streetName" value="Zipangu"/>
+			<string name="mapName" value="Kamuna"/>
+		</imgdir>
+		<imgdir name="876004006">
+			<string name="streetName" value="Zipangu"/>
+			<string name="mapName" value="Kamuna"/>
+		</imgdir>
+		<imgdir name="876004007">
+			<string name="streetName" value="2102 Akihabara"/>
+			<string name="mapName" value="Bombed City Center"/>
+		</imgdir>
+		<imgdir name="876004008">
+			<string name="streetName" value="2102 Akihabara"/>
+			<string name="mapName" value="Gate Breach"/>
+		</imgdir>
+		<imgdir name="876004009">
+			<string name="streetName" value="Zipangu"/>
+			<string name="mapName" value="Kamuna"/>
+		</imgdir>
+		<imgdir name="876004010">
+			<string name="streetName" value="Zipangu"/>
+			<string name="mapName" value="Kamuna"/>
+		</imgdir>
+		<imgdir name="876004011">
+			<string name="streetName" value="Zipangu"/>
+			<string name="mapName" value="Kamuna"/>
+		</imgdir>
+		<imgdir name="876004012">
+			<string name="streetName" value="Zipangu"/>
+			<string name="mapName" value="Kamuna"/>
+		</imgdir>
+		<imgdir name="876004013">
+			<string name="streetName" value="Zipangu"/>
+			<string name="mapName" value="Kamuna"/>
+		</imgdir>
+		<imgdir name="876004014">
+			<string name="streetName" value="Zipangu"/>
+			<string name="mapName" value="Kamuna"/>
+		</imgdir>
+		<imgdir name="876004015">
+			<string name="streetName" value="Zipangu"/>
+			<string name="mapName" value="Kamuna"/>
+		</imgdir>
+		<imgdir name="876004016">
+			<string name="streetName" value="Zipangu"/>
+			<string name="mapName" value="Kamuna"/>
+		</imgdir>
+		<imgdir name="876004017">
+			<string name="streetName" value="2102 Tokyo Sky"/>
+			<string name="mapName" value="Old Firefox Ship Deck"/>
+		</imgdir>
+		<imgdir name="876004018">
+			<string name="streetName" value="Zipangu"/>
+			<string name="mapName" value="Kamuna"/>
+		</imgdir>
+		<imgdir name="876004019">
+			<string name="streetName" value="2102 Shibuya"/>
+			<string name="mapName" value="Ruined City"/>
+		</imgdir>
+		<imgdir name="876004020">
+			<string name="streetName" value="Zipangu"/>
+			<string name="mapName" value="Kamuna"/>
+		</imgdir>
+		<imgdir name="876004021">
+			<string name="streetName" value="2102 Shibuya"/>
+			<string name="mapName" value="Restricted Area"/>
+		</imgdir>
+		<imgdir name="876004022">
+			<string name="streetName" value="2102 Shibuya"/>
+			<string name="mapName" value="Roppongi Mall Top Floor"/>
+		</imgdir>
+		<imgdir name="876004023">
+			<string name="streetName" value="Zipangu"/>
+			<string name="mapName" value="A Place Beyond Existence"/>
+		</imgdir>
+		<imgdir name="876004024">
+			<string name="streetName" value="Zipangu"/>
+			<string name="mapName" value="The In-Between"/>
+		</imgdir>
+		<imgdir name="876004025">
+			<string name="streetName" value="Zipangu"/>
+			<string name="mapName" value="Kamuna"/>
+		</imgdir>
+		<imgdir name="876004100">
+			<string name="streetName" value="2102 Shibuya"/>
+			<string name="mapName" value="Roppongi Mall Top Floor"/>
+		</imgdir>
+		<imgdir name="876004200">
+			<string name="streetName" value="2102 Shibuya"/>
+			<string name="mapName" value="Roppongi Mall Top Floor"/>
+		</imgdir>
+		<imgdir name="876004300">
+			<string name="streetName" value="2102 Shibuya"/>
+			<string name="mapName" value="Roppongi Mall Top Floor"/>
+		</imgdir>
+		<imgdir name="876004400">
+			<string name="streetName" value="Zipangu"/>
+			<string name="mapName" value="Moon&apos;s Fall"/>
+		</imgdir>
+		<imgdir name="876004500">
+			<string name="streetName" value="Zipangu"/>
+			<string name="mapName" value="Moon&apos;s Fall"/>
+		</imgdir>
+		<imgdir name="876004600">
+			<string name="streetName" value="Zipangu"/>
+			<string name="mapName" value="World&apos;s End"/>
+		</imgdir>
+		<imgdir name="876004700">
+			<string name="streetName" value="Zipangu"/>
+			<string name="mapName" value="World&apos;s End"/>
+		</imgdir>
+		<imgdir name="876004800">
+			<string name="streetName" value="Zipangu"/>
+			<string name="mapName" value="A Place Beyond Existence"/>
+		</imgdir>
+		<imgdir name="876004900">
+			<string name="streetName" value="Zipangu"/>
+			<string name="mapName" value="A Place Beyond Existence"/>
+		</imgdir>
+		<imgdir name="876003620">
+			<string name="streetName" value="2102 Shibuya"/>
+			<string name="mapName" value="Roppongi Mall Top Floor"/>
+		</imgdir>
+		<imgdir name="876000100">
+			<string name="streetName" value="2102 Shibuya"/>
+			<string name="mapName" value="Roppongi Mall Top Floor"/>
+		</imgdir>
+		<imgdir name="876000200">
+			<string name="streetName" value="2102 Shibuya"/>
+			<string name="mapName" value="Roppongi Mall Top Floor"/>
+		</imgdir>
+		<imgdir name="876000300">
+			<string name="streetName" value="2102 Shibuya"/>
+			<string name="mapName" value="Roppongi Mall Top Floor"/>
+		</imgdir>
+		<imgdir name="876000400">
+			<string name="streetName" value="2102 Shibuya"/>
+			<string name="mapName" value="Roppongi Mall Top Floor"/>
+		</imgdir>
+		<imgdir name="876000500">
+			<string name="streetName" value="Zipangu"/>
+			<string name="mapName" value="Moon&apos;s Fall"/>
+		</imgdir>
+		<imgdir name="876000600">
+			<string name="streetName" value="Zipangu"/>
+			<string name="mapName" value="Moon&apos;s Fall"/>
+		</imgdir>
+		<imgdir name="876000700">
+			<string name="streetName" value="Zipangu"/>
+			<string name="mapName" value="World&apos;s End"/>
+		</imgdir>
+		<imgdir name="876000800">
+			<string name="streetName" value="Zipangu"/>
+			<string name="mapName" value="World&apos;s End"/>
+		</imgdir>
+		<imgdir name="876000900">
+			<string name="streetName" value="Zipangu"/>
+			<string name="mapName" value="A Place Beyond Existence"/>
+		</imgdir>
+		<imgdir name="876001000">
+			<string name="streetName" value="Zipangu"/>
+			<string name="mapName" value="A Place Beyond Existence"/>
+		</imgdir>
+		<imgdir name="876000000">
+			<string name="streetName" value="2102 Shibuya"/>
+			<string name="mapName" value="Roppongi Mall Top Floor"/>
+		</imgdir>
+		<imgdir name="876000001">
+			<string name="streetName" value="Zipangu"/>
+			<string name="mapName" value="Guardian&apos;s Legacy"/>
+		</imgdir>
+		<imgdir name="876004026">
+			<string name="streetName" value="Zipangu"/>
+			<string name="mapName" value="Kamuna"/>
 		</imgdir>
 	</imgdir>
 </imgdir>

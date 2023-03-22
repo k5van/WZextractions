@@ -37,5 +37,25 @@
 			<string name="name" value="Counterattack"/>
 			<string name="desc" value="You&apos;ve been struck by Mitsuhide&apos;s counterattack! Whenever Mitsuhide is struck with a stun or bind effect, or one of his provoked targets are defeated, your party will be temporarily immobilized by a bolt of lightning, and Mitsuhide grows in strength."/>
 		</imgdir>
+		<imgdir name="147">
+			<string name="name" value="&#43690;&#43690;&#43690;"/>
+			<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		</imgdir>
+	</imgdir>
+	<imgdir name="270">
+		<imgdir name="0">
+		</imgdir>
+		<imgdir name="1">
+			<string name="name" value="Thesis"/>
+			<string name="desc" value="You have been declared part of the existing world. If you want to survive when Aufheben accelerates the destruction of the world, you have to pair yourself with your opposite."/>
+		</imgdir>
+		<imgdir name="2">
+			<string name="name" value="Antithesis"/>
+			<string name="desc" value="You have been declared an intruder in the existing world. If you want to survive when Aufheben accelerates the destruction of the world, you have to pair yourself with your opposite."/>
+		</imgdir>
+		<imgdir name="10">
+			<string name="name" value="Power of Life"/>
+			<string name="desc" value="You are struck by the energy of the erupting world. When Aufheben covers the sky with light, you can mitigate the damage by 5% per stack."/>
+		</imgdir>
 	</imgdir>
 </imgdir>
