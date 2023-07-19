@@ -381,7 +381,7 @@
 		<string name="desc" value="It&apos;s a little on the cold side, but at least it comes with a wicked blue dragon! Recovers 50 HP and 50 MP every 10 seconds. "/>
 	</imgdir>
 	<imgdir name="3010431">
-		<string name="name" value="Cool Cat Chair "/>
+		<string name="name" value="Cool Cat Chair"/>
 		<string name="desc" value="Let&apos;s fool around with a cat next to a fan. Because, why not? Recovers 50 HP and 50 MP every 10 seconds. "/>
 	</imgdir>
 	<imgdir name="3010432">
@@ -4063,6 +4063,14 @@
 		<string name="name" value="Rith and Ellie&apos;s Puzzles Chair"/>
 		<string name="desc" value="A chair where the cuties Rith and Ellie play with puzzles.\r\n#cRestores 50 HP and 50 MP every 10 seconds.#"/>
 	</imgdir>
+	<imgdir name="3018963">
+		<string name="name" value="Immortal Cycle"/>
+		<string name="desc" value="On top of the immortal cycle clockwork. #cRestores 50 HP and 50 MP every 10 seconds.#"/>
+	</imgdir>
+	<imgdir name="3018964">
+		<string name="name" value="Halloween Candle Chair"/>
+		<string name="desc" value="Something about this Halloween Candle Chair is spooky.\r\n#cRestores 50 HP and 50 MP every 10 seconds.#"/>
+	</imgdir>
 	<imgdir name="3018870">
 		<string name="name" value="Promise Gazebo"/>
 		<string name="desc" value="I am waiting here for you. #cRestores 50 HP and 50 MP every 10 seconds.#"/>
@@ -4107,6 +4115,18 @@
 		<string name="name" value="Summer Party Cafe Truck"/>
 		<string name="desc" value="#cMapleStory X The Venti#\r\nDrink the delicious The Venti beverages and \r\n#crestore 100 HP and 100 MP every 10 seconds.#"/>
 	</imgdir>
+	<imgdir name="3018965">
+		<string name="name" value="Lachelein Candle Warmer Chair (Pink Bean)"/>
+		<string name="desc" value="A chair commemorating the memory of traveling to Lachelein as Pink Bean.\r\n#cRestores 50 HP and 50 MP every 10 seconds.#"/>
+	</imgdir>
+	<imgdir name="3018966">
+		<string name="name" value="Lachelein Candle Warmer Chair (Yeti)"/>
+		<string name="desc" value="A chair commemorating the memory of traveling to Lachelein as Yeti.\r\n#cRestores 50 HP and 50 MP every 10 seconds.#"/>
+	</imgdir>
+	<imgdir name="3018993">
+		<string name="name" value="Sweet Cookie House"/>
+		<string name="desc" value="It&apos;s a delicious house made with cookies.\r\n#cRestores 100 HP and 100 MP every 10 seconds.#"/>
+	</imgdir>
 	<imgdir name="3049000">
 		<string name="name" value="Basic Extractor"/>
 		<string name="desc" value="Use to set up an extractor. Extractors can be used by other players for a fee.\n#cCreates an extractor for Lv. 50 and lower equipment.#"/>
@@ -4132,8 +4152,84 @@
 		<string name="desc" value="Glittering silver curtain.#cRestores 50 HP and 50 MP every 10 seconds.#"/>
 	</imgdir>
 	<imgdir name="3018911">
-		<string name="name" value="Wonky Seesaw Chair Coupon"/>
+		<string name="name" value="Wonky Seesaw Chair"/>
 		<string name="desc" value="Wonky Seesaw Chair. Use to play seesaw with Wonky with the beach&apos;s sunset as the background.\r\n#cRestores 50 HP and 50 MP every 10 seconds.#"/>
+	</imgdir>
+	<imgdir name="3018929">
+		<string name="name" value="Flowing Galaxy"/>
+		<string name="desc" value="A beautiful melody of the flowing galaxy. #cRestores 50 HP and 50 MP every 10 seconds.#"/>
+	</imgdir>
+	<imgdir name="3018930">
+		<string name="name" value="Tactical Relay Chair 2023"/>
+		<string name="desc" value="A chair designed for warriors who challenged themselves in the Tactical Relay. The higher the participating world&apos;s tactical relay score, the more stars will appear.\n#cRestores 100 HP and 100 MP every 10 seconds.#"/>
+	</imgdir>
+	<imgdir name="3018931">
+		<string name="name" value="Great Tactical Relay Chair 2023"/>
+		<string name="desc" value="A very special chair, available only to warriors who clear all the Tactical Relay stages with a perfect score.\n#cRestores 1000 HP and 1000 MP every 10 seconds.#"/>
+	</imgdir>
+	<imgdir name="3018932">
+		<string name="name" value="Perfect Tactical Relay Chair 2023"/>
+		<string name="desc" value="A very special chair, available only to those few great warriors who saw it all through the end.\n#cRestores 1000 HP and 1000 MP every 10 seconds.#"/>
+	</imgdir>
+	<imgdir name="3018933">
+		<string name="name" value="World&apos;s Best Punch King 1st Place Chair"/>
+		<string name="desc" value="It&apos;s the Season 1 World&apos;s Best Punch King Chair. Only those proven strong can sit on this chair.\r\n#cRestores 50 HP and 50 MP every 10 seconds.#"/>
+	</imgdir>
+	<imgdir name="3018934">
+		<string name="name" value="Autumn Sky Dragonfly Flying Chair"/>
+		<string name="desc" value="It&apos;s the Autumn Sky Dragonfly Chair. #cRestores 50 HP and 50 MP every 10 seconds.#"/>
+	</imgdir>
+	<imgdir name="3018953">
+		<string name="name" value="I Seriously Haven&apos;t Done Anything Chair"/>
+		<string name="desc" value="I Seriously Haven&apos;t Done Anything...\r\nAnd I Don&apos;t Plan To, Either.\r\n#cRestores 50 HP and 50 MP every 10 seconds.#"/>
+	</imgdir>
+	<imgdir name="3018954">
+		<string name="name" value="World&apos;s Best Punch King 2nd Place Chair"/>
+		<string name="desc" value="It&apos;s the Season 1 World&apos;s Best Punch King Chair. Only those proven strong can sit on this chair.\r\n#cRestores 50 HP and 50 MP every 10 seconds.#"/>
+	</imgdir>
+	<imgdir name="3018955">
+		<string name="name" value="World&apos;s Best Punch King 3rd Place Chair"/>
+		<string name="desc" value="It&apos;s the Season 1 World&apos;s Best Punch King Chair. Only those proven strong can sit on this chair.\r\n#cRestores 50 HP and 50 MP every 10 seconds.#"/>
+	</imgdir>
+	<imgdir name="3018956">
+		<string name="name" value="World&apos;s Best Punch King 4th Place Chair"/>
+		<string name="desc" value="It&apos;s the Season 1 World&apos;s Best Punch King Chair. Only those proven strong can sit on this chair.\r\n#cRestores 50 HP and 50 MP every 10 seconds.#"/>
+	</imgdir>
+	<imgdir name="3018957">
+		<string name="name" value="World&apos;s Best Punch King 5th Place Chair"/>
+		<string name="desc" value="It&apos;s the Season 1 World&apos;s Best Punch King Chair. Only those proven strong can sit on this chair.\r\n#cRestores 50 HP and 50 MP every 10 seconds.#"/>
+	</imgdir>
+	<imgdir name="3018958">
+		<string name="name" value="World&apos;s Best Punch King 6th Place Chair"/>
+		<string name="desc" value="It&apos;s the Season 1 World&apos;s Best Punch King Chair. Only those proven strong can sit on this chair.\r\n#cRestores 50 HP and 50 MP every 10 seconds.#"/>
+	</imgdir>
+	<imgdir name="3018959">
+		<string name="name" value="World&apos;s Best Punch King 7th Place Chair"/>
+		<string name="desc" value="It&apos;s the Season 1 World&apos;s Best Punch King Chair. Only those proven strong can sit on this chair.\r\n#cRestores 50 HP and 50 MP every 10 seconds.#"/>
+	</imgdir>
+	<imgdir name="3018960">
+		<string name="name" value="World&apos;s Best Punch King 8th Place Chair"/>
+		<string name="desc" value="It&apos;s the Season 1 World&apos;s Best Punch King Chair. Only those proven strong can sit on this chair.\r\n#cRestores 50 HP and 50 MP every 10 seconds.#"/>
+	</imgdir>
+	<imgdir name="3018961">
+		<string name="name" value="World&apos;s Best Punch King 9th Place Chair"/>
+		<string name="desc" value="It&apos;s the Season 1 World&apos;s Best Punch King Chair. Only those proven strong can sit on this chair.\r\n#cRestores 50 HP and 50 MP every 10 seconds.#"/>
+	</imgdir>
+	<imgdir name="3018962">
+		<string name="name" value="World&apos;s Best Punch King 10th Place Chair"/>
+		<string name="desc" value="It&apos;s the Season 1 World&apos;s Best Punch King Chair. Only those proven strong can sit on this chair.\r\n#cRestores 50 HP and 50 MP every 10 seconds.#"/>
+	</imgdir>
+	<imgdir name="3018967">
+		<string name="name" value="Lazy Grasshopper Chair"/>
+		<string name="desc" value="I&apos;m a #clazy grasshopper#. I just want to play the guitar and sing today.\r\n#Restores 100 HP and 100 MP every 10 seconds.#"/>
+	</imgdir>
+	<imgdir name="3018992">
+		<string name="name" value="Memories with Kickall Chair"/>
+		<string name="desc" value="Remember your training with Kickall.\r\n#cRestores 50 HP and 50 MP every 10 seconds.#"/>
+	</imgdir>
+	<imgdir name="3018991">
+		<string name="name" value="Shiny Planet"/>
+		<string name="desc" value="Your very own beautiful and precious planet. #cRestores 100 HP and 100 MP every 10 seconds.#"/>
 	</imgdir>
 	<imgdir name="3080000">
 		<string name="name" value="Four-Title Holder"/>
@@ -6241,6 +6337,11 @@ If you feed #cFruit# to the Parrot, it might change color and gain a level. The 
 	<imgdir name="3700718">
 		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;"/>
 		<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<int name="fixWidth" value="310"/>
+	</imgdir>
+	<imgdir name="3700720">
+		<string name="name" value="I&apos;m Haste Incarnate"/>
+		<string name="desc" value="You took down 100,000 foes in 2 weeks! You&apos;re haste incarnate!\r\n\r\n#cAttack Power &amp; Magic ATT +20 \nAll Stats +50 \nBoss Damage +30% \nDEF Ignored +30% \nMax HP &amp; MP +2,500 \r\n\r\nClick to toggle ON/OFF. Stats will be retained until MM/DD/YYYY HH:MM AM/PM UTC.#"/>
 		<int name="fixWidth" value="310"/>
 	</imgdir>
 	<imgdir name="3800010">
@@ -9790,105 +9891,123 @@ If you feed #cFruit# to the Parrot, it might change color and gain a level. The 
 		<string name="name" value="Full Moon Box"/>
 		<string name="desc" value="It&apos;s an Open Box. A full moon came out of the box.\n#cThis item disappears upon logging out.#"/>
 	</imgdir>
-	<imgdir name="3018963">
-		<string name="name" value="Immortal Cycle"/>
-		<string name="desc" value="On top of the immortal cycle clockwork. #cRestores 50 HP and 50 MP every 10 seconds.#"/>
+	<imgdir name="3014043">
+		<string name="desc" value="A chair modeled after the Orange Mushroom Safe.\n#cDouble-click# to use the chair and enter a message.\nYou can enter up to #c6 characters# of text.\n#cRestores 50 HP and 50 MP every 10 seconds.#"/>
+		<string name="name" value="Orange Mushroom Safe Chair"/>
 	</imgdir>
-	<imgdir name="3018964">
-		<string name="name" value="Halloween Candle Chair"/>
-		<string name="desc" value="Something about this Halloween Candle Chair is spooky.\r\n#cRestores 50 HP and 50 MP every 10 seconds.#"/>
+	<imgdir name="3016234">
+		<string name="name" value="Wish Kebab Chair"/>
+		<string name="desc" value="A person who has mastered everything about skewers can sit on this chair with friends as if they were skewers. #cThe owner of the chair must be sitting when right-clicking another character to invite them to sit#.\n\n#cRestores 50 HP and 50 MP every 10 seconds.#"/>
 	</imgdir>
-	<imgdir name="3018965">
-		<string name="name" value="Lachelein Candle Warmer Chair (Pink Bean)"/>
-		<string name="desc" value="A chair commemorating the memory of traveling to Lachelein as Pink Bean.\r\n#cRestores 50 HP and 50 MP every 10 seconds.#"/>
+	<imgdir name="3018996">
+		<string name="name" value="My Outfit Awards Chair"/>
+		<string name="desc" value="Sit on this chair to receive votes for 3 types of outfit presets. You can receive 1 vote per character while sitting on the chair, and the total number of votes cannot exceed 10,000. The votes are reset when you get off the chair.\r\n#cRestores 100 HP and 100 MP every 10 seconds.#"/>
 	</imgdir>
-	<imgdir name="3018966">
-		<string name="name" value="Lachelein Candle Warmer Chair (Yeti)"/>
-		<string name="desc" value="A chair commemorating the memory of traveling to Lachelein as Yeti.\r\n#cRestores 50 HP and 50 MP every 10 seconds.#"/>
+	<imgdir name="3018994">
+		<string name="name" value="Pink Bean Snowball Fight Chair"/>
+		<string name="desc" value="A snowball fight with Pink Bean! Sit on this chair to hear the Maplemas version of the town BGM.\r\n#Restores 50 HP and 50 MP every 10 seconds.#"/>
 	</imgdir>
-	<imgdir name="3018993">
-		<string name="name" value="Sweet Cookie House"/>
-		<string name="desc" value="It&apos;s a delicious house made with cookies.\r\n#cRestores 100 HP and 100 MP every 10 seconds.#"/>
+	<imgdir name="3018995">
+		<string name="name" value="Yeti Snowball Fight Chair"/>
+		<string name="desc" value="A snowball fight with Yeti! Sit on this chair to hear the Maplemas version of the town BGM.\r\n#Restores 50 HP and 50 MP every 10 seconds.#"/>
 	</imgdir>
-	<imgdir name="3018929">
-		<string name="name" value="Flowing Galaxy"/>
-		<string name="desc" value="A beautiful melody of the flowing galaxy. #cRestores 50 HP and 50 MP every 10 seconds.#"/>
+	<imgdir name="3018998">
+		<string name="name" value="Specialty Mint Chocolate Ice Cream"/>
+		<string name="desc" value="It&apos;s the Wongstaurant&apos;s specialty ice cream that combines the coolness of mint and the sweetness of chocolate.\r\n#cRestores 100 HP and 100 MP every 10 seconds.#"/>
 	</imgdir>
-	<imgdir name="3018930">
-		<string name="name" value="Tactical Relay Chair 2023"/>
-		<string name="desc" value="A chair designed for warriors who challenged themselves in the Tactical Relay. The higher the participating world&apos;s tactical relay score, the more stars will appear.\n#cRestores 100 HP and 100 MP every 10 seconds.#"/>
+	<imgdir name="3018997">
+		<string name="name" value="Spring Day Baby Bird Reading Chair"/>
+		<string name="desc" value="A chair where you can read books with baby birds on a warm spring day.\r\n#cRestores 100 HP and 100 MP every 10 seconds.#"/>
 	</imgdir>
-	<imgdir name="3018931">
-		<string name="name" value="Great Tactical Relay Chair 2023"/>
-		<string name="desc" value="A very special chair, available only to warriors who clear all the Tactical Relay stages with a perfect score.\n#cRestores 1000 HP and 1000 MP every 10 seconds.#"/>
+	<imgdir name="3018999">
+		<string name="name" value="Wongstaurant Chair"/>
+		<string name="desc" value="You sit with Head Chef Wonky the Fairy and Manager Mike on this chair.\r\n#cRestores 50 HP and 50 MP every 10 seconds.#"/>
 	</imgdir>
-	<imgdir name="3018932">
-		<string name="name" value="Perfect Tactical Relay Chair 2023"/>
-		<string name="desc" value="A very special chair, available only to those few great warriors who saw it all through the end.\n#cRestores 1000 HP and 1000 MP every 10 seconds.#"/>
+	<imgdir name="3019000">
+		<string name="name" value="Hot Steamed Bun Chair"/>
+		<string name="desc" value="A large steamed bun chair.\n#cRestores 100 HP and 100 MP every 10 seconds.#"/>
 	</imgdir>
-	<imgdir name="3018933">
-		<string name="name" value="World&apos;s Best Punch King 1st Place Chair"/>
-		<string name="desc" value="It&apos;s the Season 1 World&apos;s Best Punch King Chair. Only those proven strong can sit on this chair.\r\n#cRestores 50 HP and 50 MP every 10 seconds.#"/>
+	<imgdir name="3019002">
+		<string name="name" value="Spiegelmann&apos;s Open Flame Chair"/>
+		<string name="desc" value="A chair where Spiegelmann treats you to a delicious grilled meal.\n\n#cRestores 50 HP and 50 MP every 10 seconds.#"/>
 	</imgdir>
-	<imgdir name="3018934">
-		<string name="name" value="Autumn Sky Dragonfly Flying Chair"/>
-		<string name="desc" value="It&apos;s the Autumn Sky Dragonfly Chair. #cRestores 50 HP and 50 MP every 10 seconds.#"/>
+	<imgdir name="3019003">
+		<string name="name" value="Pom Pom Knitting Time"/>
+		<string name="desc" value="Knitting away in the company of cute cats... #cRecovers 100 HP and MP every 10 seconds.#"/>
 	</imgdir>
-	<imgdir name="3018953">
-		<string name="name" value="I Seriously Haven&apos;t Done Anything Chair"/>
-		<string name="desc" value="I Seriously Haven&apos;t Done Anything...\r\nAnd I Don&apos;t Plan To, Either.\r\n#cRestores 50 HP and 50 MP every 10 seconds.#"/>
+	<imgdir name="3019004">
+		<string name="name" value="Roar Dinosaur Lab"/>
+		<string name="desc" value="A great discovery awaits... #cRestores 100 HP and 100 MP every 10 seconds.#"/>
 	</imgdir>
-	<imgdir name="3018954">
-		<string name="name" value="World&apos;s Best Punch King 2nd Place Chair"/>
-		<string name="desc" value="It&apos;s the Season 1 World&apos;s Best Punch King Chair. Only those proven strong can sit on this chair.\r\n#cRestores 50 HP and 50 MP every 10 seconds.#"/>
+	<imgdir name="3019005">
+		<string name="name" value="Erimos&apos;s Afternoon Chair"/>
+		<string name="desc" value="Enjoy the warm sunshine of Erimos... #cRestores 50 HP and 50 MP every 10 seconds.#"/>
 	</imgdir>
-	<imgdir name="3018955">
-		<string name="name" value="World&apos;s Best Punch King 3rd Place Chair"/>
-		<string name="desc" value="It&apos;s the Season 1 World&apos;s Best Punch King Chair. Only those proven strong can sit on this chair.\r\n#cRestores 50 HP and 50 MP every 10 seconds.#"/>
+	<imgdir name="3019009">
+		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
 	</imgdir>
-	<imgdir name="3018956">
-		<string name="name" value="World&apos;s Best Punch King 4th Place Chair"/>
-		<string name="desc" value="It&apos;s the Season 1 World&apos;s Best Punch King Chair. Only those proven strong can sit on this chair.\r\n#cRestores 50 HP and 50 MP every 10 seconds.#"/>
+	<imgdir name="3019010">
+		<string name="name" value="Fairytale Tea Time Chair"/>
+		<string name="desc" value="Enjoy a fragrant tea time filled with sweet desserts! This chair lets you sit beside the Luna pets.\r\n#cYou can command and feed the Petite Luna pets that are sitting with you.\r\nRestores 100 HP and 100 MP every 10 seconds.#"/>
 	</imgdir>
-	<imgdir name="3018957">
-		<string name="name" value="World&apos;s Best Punch King 5th Place Chair"/>
-		<string name="desc" value="It&apos;s the Season 1 World&apos;s Best Punch King Chair. Only those proven strong can sit on this chair.\r\n#cRestores 50 HP and 50 MP every 10 seconds.#"/>
+	<imgdir name="3019011">
+		<string name="name" value="Salad Master Chair"/>
+		<string name="desc" value="A chair that proves you&apos;re a master of creating salads.\r\n#cRestores 100 HP and 100 MP every 10 seconds.#"/>
 	</imgdir>
-	<imgdir name="3018958">
-		<string name="name" value="World&apos;s Best Punch King 6th Place Chair"/>
-		<string name="desc" value="It&apos;s the Season 1 World&apos;s Best Punch King Chair. Only those proven strong can sit on this chair.\r\n#cRestores 50 HP and 50 MP every 10 seconds.#"/>
+	<imgdir name="3019017">
+		<string name="name" value="Ice Dancing Rink"/>
+		<string name="desc" value="Enjoying ice skating... #cRecovers 100 HP and 100 MP every 10 seconds.#"/>
 	</imgdir>
-	<imgdir name="3018959">
-		<string name="name" value="World&apos;s Best Punch King 7th Place Chair"/>
-		<string name="desc" value="It&apos;s the Season 1 World&apos;s Best Punch King Chair. Only those proven strong can sit on this chair.\r\n#cRestores 50 HP and 50 MP every 10 seconds.#"/>
+	<imgdir name="3019018">
+		<string name="name" value="Wongstaurant with Wonky! Chair"/>
+		<string name="desc" value="A chair where you sit with Wongstaurant Chef Wonky.\n\n#cRestores 50 HP and 50 MP every 10 seconds.#"/>
 	</imgdir>
-	<imgdir name="3018960">
-		<string name="name" value="World&apos;s Best Punch King 8th Place Chair"/>
-		<string name="desc" value="It&apos;s the Season 1 World&apos;s Best Punch King Chair. Only those proven strong can sit on this chair.\r\n#cRestores 50 HP and 50 MP every 10 seconds.#"/>
+	<imgdir name="3019019">
+		<string name="name" value="Wongstaurant with Spiegelmann! Chair"/>
+		<string name="desc" value="A chair where you sit with Wongstaurant Chef Spiegelmann.\n\n#cRestores 50 HP and 50 MP every 10 seconds.#"/>
 	</imgdir>
-	<imgdir name="3018961">
-		<string name="name" value="World&apos;s Best Punch King 9th Place Chair"/>
-		<string name="desc" value="It&apos;s the Season 1 World&apos;s Best Punch King Chair. Only those proven strong can sit on this chair.\r\n#cRestores 50 HP and 50 MP every 10 seconds.#"/>
+	<imgdir name="3019020">
+		<string name="name" value="Wongstaurant with Kemdi! Chair"/>
+		<string name="desc" value="A chair where you sit with Wongstaurant Chef Kemdi.\n\n#cRestores 50 HP and 50 MP every 10 seconds.#"/>
 	</imgdir>
-	<imgdir name="3018962">
-		<string name="name" value="World&apos;s Best Punch King 10th Place Chair"/>
-		<string name="desc" value="It&apos;s the Season 1 World&apos;s Best Punch King Chair. Only those proven strong can sit on this chair.\r\n#cRestores 50 HP and 50 MP every 10 seconds.#"/>
+	<imgdir name="3019021">
+		<string name="name" value="Wongstaurant with Mike! Chair"/>
+		<string name="desc" value="A chair where you sit with Wongstaurant Manager Mike.\n\n#cRestores 50 HP and 50 MP every 10 seconds.#"/>
 	</imgdir>
-	<imgdir name="3018967">
-		<string name="name" value="Lazy Grasshopper Chair"/>
-		<string name="desc" value="I&apos;m a #clazy grasshopper#. I just want to play the guitar and sing today.\r\n#Restores 100 HP and 100 MP every 10 seconds.#"/>
+	<imgdir name="3019022">
+		<string name="name" value="Wongstaurant with Pink Bean! Chair"/>
+		<string name="desc" value="A chair where you sit with Wongstaurant Chef Pink Bean.\n\n#cRestores 50 HP and 50 MP every 10 seconds.#"/>
 	</imgdir>
-	<imgdir name="3018992">
-		<string name="name" value="Memories with Kickall Chair"/>
-		<string name="desc" value="Remember your training with Kickall.\r\n#cRestores 50 HP and 50 MP every 10 seconds.#"/>
+	<imgdir name="3019023">
+		<string name="name" value="Wongstaurant with Orange Mushroom! Chair"/>
+		<string name="desc" value="A chair where you sit with Wongstaurant Chef Orange Mushroom.\n\n#cRestores 50 HP and 50 MP every 10 seconds.#"/>
 	</imgdir>
-	<imgdir name="3018991">
-		<string name="name" value="Shiny Planet"/>
-		<string name="desc" value="Your very own beautiful and precious planet. #cRestores 100 HP and 100 MP every 10 seconds.#"/>
+	<imgdir name="3019024">
+		<string name="name" value="Wongstaurant with Yeti! Chair"/>
+		<string name="desc" value="A chair where you sit with Wongstaurant Chef Yeti.\n\n#cRestores 50 HP and 50 MP every 10 seconds.#"/>
 	</imgdir>
-	<imgdir name="3700720">
-		<string name="name" value="I&apos;m Haste Incarnate"/>
-		<string name="desc" value="You took down 100,000 foes in 2 weeks! You&apos;re haste incarnate!\r\n\r\n#cAttack Power &amp; Magic ATT +20 \nAll Stats +50 \nBoss Damage +30% \nDEF Ignored +30% \nMax HP &amp; MP +2,500 \r\n\r\nClick to toggle ON/OFF. Stats will be retained until MM/DD/YYYY HH:MM AM/PM UTC.#"/>
+	<imgdir name="3019025">
+		<string name="name" value="Wongstaurant with Slime! Chair"/>
+		<string name="desc" value="A chair where you sit with Wongstaurant Chef Slime.\n\n#cRestores 50 HP and 50 MP every 10 seconds.#"/>
+	</imgdir>
+	<imgdir name="3019026">
+		<string name="name" value="Wongstaurant with Wave! Chair"/>
+		<string name="desc" value="A chair where you sit with Wongstaurant Chef Wave.\n\n#cRestores 50 HP and 50 MP every 10 seconds.#"/>
+	</imgdir>
+	<imgdir name="3700727">
+		<string name="name" value="Ruminating Will"/>
+		<string name="desc" value="The &lt;Ruminating Will&gt; title is given to heroes\nwho completed Khali&apos;s Journey.\r\n\r\n#cStar Force +30#\r\n#cAll Stats +10, Attack Power &amp; Magic ATT +10\r\nMax HP &amp; MP +500\r\n\nClick to turn ON/OFF.\r\nStats Duration: 30 days#"/>
+		<int name="fixWidth" value="300"/>
+	</imgdir>
+	<imgdir name="3700728">
+		<string name="name" value="Blooming Hatred"/>
+		<string name="desc" value="The &lt;Blooming Hatred&gt; title is given to heroes\nwho completed Khali&apos;s Journey.\r\n\r\n#cAll Stats +15, Attack Power &amp; Magic ATT +15\nBoss Damage +10%\nIgnore Defense +10%\nMax HP &amp; MP +750\n10% Bonus EXP\nArcane Power +30\r\n\nClick to turn ON/OFF.\r\nStats Duration: 30 days#"/>
+		<int name="fixWidth" value="310"/>
+	</imgdir>
+	<imgdir name="3700729">
+		<string name="name" value="Wongstaurant VIP"/>
+		<string name="desc" value="A title given to the Wongstaurant VIP!\r\n\r\n#cAttack Power &amp; Magic ATT +20\nAll Stats +50\nBoss Damage +20%\nIgnore Defense +20% \nMax HP/Max MP +2500\r\n\nClick to toggle ON/OFF.\nOnce the coupon is used, stat boosts will last for 28 days.#"/>
 		<int name="fixWidth" value="310"/>
 	</imgdir>
 	<imgdir name="3010023">
@@ -11085,7 +11204,7 @@ If you feed #cFruit# to the Parrot, it might change color and gain a level. The 
 	</imgdir>
 	<imgdir name="3010495">
 		<string name="name" value="Red Lantern Chair"/>
-		<string name="desc" value="Don&apos;t worry, it&apos;s not hot at all! Recovers 50 HP an MP every 10 seconds."/>
+		<string name="desc" value="Don&apos;t worry, it&apos;s not hot at all! Recovers 50 HP and MP every 10 seconds."/>
 	</imgdir>
 	<imgdir name="3010496">
 		<string name="name" value="Mouri Command Post"/>
@@ -16875,7 +16994,7 @@ Keep it in your Inventory Set-up tab for 30 minutes to receive a Shiny Easter Eg
 	</imgdir>
 	<imgdir name="3016207">
 		<string name="name" value="Spectacular Bubble Pup Chair"/>
-		<string name="desc" value=" Bubble fun with a Bubble Pup! #cRight-click another player to invite them to sit with you.#\n\n#cRestores 100 HP and 100 MP every 10 seconds.#"/>
+		<string name="desc" value="Bubble fun with a Bubble Pup! #cRight click another player to invite them to sit with you#.\n\n#cRecovers 50 HP and 50 MP every 10 seconds.\n#\n"/>
 	</imgdir>
 	<imgdir name="3018002">
 		<string name="name" value="Can&apos;t Live Without You"/>
@@ -19149,16 +19268,6 @@ The summoned #cBUGCAT CAPOO# will increase a specific stat. Level up #cCAPOO&apo
 		<string name="name" value="Radiant Aufheben Chair"/>
 		<string name="desc" value="A very special chair that can only be obtained by the warrior who #cdefeated# Aufheben, even after it unleashed its true power.\n#cRestores 1000 HP and 1000 MP every 10 seconds.#"/>
 	</imgdir>
-	<imgdir name="3700725">
-		<string name="name" value="BLACK"/>
-		<string name="desc" value="A [BLACKPINK] BLACK title.#c\n\n10% Additional EXP\nAttack Power &amp; Magic ATT +15\nAll Stats +15\nBoss Damage +10%\nIgnore Defense +10%\nMax HP/Max MP +750\nStar Force +30\nArcane Power +50\nStats Duration: 60 Days\n\nClick to toggle ON/OFF.#"/>
-		<int name="fixWidth" value="310"/>
-	</imgdir>
-	<imgdir name="3700726">
-		<string name="name" value="PINK"/>
-		<string name="desc" value="A [BLACKPINK] PINK title.#c\n\n10% Additional EXP\nAttack Power &amp; Magic ATT +15\nAll Stats +15\nBoss Damage +10%\nIgnore Defense +10%\nMax HP/Max MP +750\nStar Force +30\nArcane Power +50\nStats Duration: 60 Days\n\nClick to toggle ON/OFF.#"/>
-		<int name="fixWidth" value="310"/>
-	</imgdir>
 	<imgdir name="3018869">
 		<string name="name" value="Tea Party in the Forest"/>
 		<string name="desc" value="A tea party in the forest with a subtle rose scent. #cRestores 50 HP and 50 MP every 10 seconds.#"/>
@@ -19210,5 +19319,87 @@ The summoned #cBUGCAT CAPOO# will increase a specific stat. Level up #cCAPOO&apo
 	<imgdir name="3019016">
 		<string name="name" value="Turntable Chair"/>
 		<string name="desc" value="A Turntable Chair. Restores 100 HP and 100 MP every 10 seconds."/>
+	</imgdir>
+	<imgdir name="3018974">
+		<string name="name" value="Bamboo Slide Chair"/>
+		<string name="desc" value="Babble... Bang! Ah, you&apos;ve been discovered! When it&apos;s full, it has to be emptied someday.\n#cRestores 100 HP and 100 MP every 10 seconds.#"/>
+	</imgdir>
+	<imgdir name="3019070">
+		<string name="name" value="Illusion Photo Darkroom"/>
+		<string name="desc" value="#cRestore 50 HP and 50 MP every 10 seconds# in the photo darkroom full of old memories."/>
+	</imgdir>
+	<imgdir name="3019027">
+		<string name="name" value="Pluck Carrot Chair"/>
+		<string name="desc" value="A Pluck Carrot Chair. Restores 100 HP and 100 MP every 10 seconds."/>
+	</imgdir>
+	<imgdir name="3019028">
+		<string name="name" value="Sun in Midair! Chair"/>
+		<string name="desc" value="A Sun in Midair! Chair. Restores 100 HP and 100 MP every 10 seconds."/>
+	</imgdir>
+	<imgdir name="3019030">
+		<string name="name" value="Report Received Chair"/>
+		<string name="desc" value="A Report Received Chair. Restores 100 HP and 100 MP every 10 seconds."/>
+	</imgdir>
+	<imgdir name="3019029">
+		<string name="name" value="Antique Tin Case Cernium Chair"/>
+		<string name="desc" value="An Antique Tin Case Cernium Chair. Restores 100 HP and 100 MP every 10 seconds."/>
+	</imgdir>
+	<imgdir name="3019031">
+		<string name="name" value="Antique Tin Case Arcus Chair"/>
+		<string name="desc" value="An Antique Tin Case Arcus Chair. Restores 100 HP and 100 MP every 10 seconds."/>
+	</imgdir>
+	<imgdir name="3019032">
+		<string name="name" value="Antique Tin Case Odium Chair"/>
+		<string name="desc" value="An Antique Tin Case Odium Chair. Restores 100 HP and 100 MP every 10 seconds."/>
+	</imgdir>
+	<imgdir name="3700725">
+		<string name="name" value="BLACK"/>
+		<string name="desc" value="A [BLACKPINK] BLACK title.#c\n\n10% Additional EXP\nAttack Power &amp; Magic ATT +15\nAll Stats +15\nBoss Damage +10%\nIgnore Defense +10%\nMax HP/Max MP +750\nStar Force +30\nArcane Power +50\nStats Duration: 60 Days\n\nClick to toggle ON/OFF.#"/>
+		<int name="fixWidth" value="310"/>
+	</imgdir>
+	<imgdir name="3700726">
+		<string name="name" value="PINK"/>
+		<string name="desc" value="A [BLACKPINK] PINK title.#c\n\n10% Additional EXP\nAttack Power &amp; Magic ATT +15\nAll Stats +15\nBoss Damage +10%\nIgnore Defense +10%\nMax HP/Max MP +750\nStar Force +30\nArcane Power +50\nStats Duration: 60 Days\n\nClick to toggle ON/OFF.#"/>
+		<int name="fixWidth" value="310"/>
+	</imgdir>
+	<imgdir name="3019069">
+		<string name="name" value="Cheer Up Week Performance Chair"/>
+		<string name="desc" value="It&apos;s a Cheer Up Week Performance Chair. #cRestores 100 HP and 100 MP every 10 seconds.#"/>
+	</imgdir>
+	<imgdir name="3019079">
+		<string name="name" value="Bright Summer Day"/>
+		<string name="desc" value="#cRecovers 50 HP and 50 MP every 10 seconds# in the clear, shimmering swimming pool."/>
+	</imgdir>
+	<imgdir name="3019054">
+		<string name="name" value="Yeti&apos;s Bubbles Chair"/>
+		<string name="desc" value="A Yeti&apos;s Bubbles Chair. Restores 100 HP and 100 MP every 10 seconds. Designed by the China MapleStory player yimiao."/>
+	</imgdir>
+	<imgdir name="3019055">
+		<string name="name" value="Dolphin of the Deep Sea Chair"/>
+		<string name="desc" value="A Dolphin of the Deep Sea Chair. Restores 100 HP and 100 MP every 10 seconds. Designed by the China MapleStory player xiaoma."/>
+	</imgdir>
+	<imgdir name="3019056">
+		<string name="name" value="Fun Cooking Time Chair"/>
+		<string name="desc" value="A Fun Cooking Time Chair. Restores 100 HP and 100 MP every 10 seconds."/>
+	</imgdir>
+	<imgdir name="3016237">
+		<string name="name" value="Mysterious Dessert Tree Chair"/>
+		<string name="desc" value="A Mysterious Dessert Tree Chair. Up to 3 people can sit in it together. \n Restores 100 HP and 100 MP every 10 seconds."/>
+	</imgdir>
+	<imgdir name="3019058">
+		<string name="name" value="Sit on a Cactus Chair"/>
+		<string name="desc" value="A Sit on a Cactus Chair. Restores 100 HP and 100 MP every 10 seconds."/>
+	</imgdir>
+	<imgdir name="3019059">
+		<string name="name" value="Tea Time with my Lord Chair"/>
+		<string name="desc" value="A Tea Time with my Lord Chair. Restores 100 HP and 100 MP every 10 seconds."/>
+	</imgdir>
+	<imgdir name="3019060">
+		<string name="name" value="Ice Cream Spirit Chair"/>
+		<string name="desc" value="An Ice Cream Spirit Chair. Restores 100 HP and 100 MP every 10 seconds. Designed by the MapleStorySEA player heyzelll."/>
+	</imgdir>
+	<imgdir name="3019061">
+		<string name="name" value="Mysterious Scroll Chair"/>
+		<string name="desc" value="A Mysterious Scroll Chair. Restores 100 HP and 100 MP every 10 seconds."/>
 	</imgdir>
 </imgdir>

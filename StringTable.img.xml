@@ -95,4 +95,14 @@
 	<string name="SID_HIDDEN_CATCH_KICK" value="You failed to spot the differences 2x in one minute. You will automatically exit."/>
 	<string name="SID_COORDI_PRESET_TOOLTIP" value="Character&apos;s equip status can be changed after clicking the Apply button. The items equipped on the 1st preset will be automatically equipped on the rest of the presets. 2nd and 3rd presets can be replaced with other items apart from the 1st preset, and you can double-click the automatically equipped items to equip or unequip them."/>
 	<string name="SID_MONSTERJOB_TIMEGIFT_MAX_DIABLE_TOOLTIP" value="Pink Bean and Yeti cannot expand the UI."/>
+	<string name="SID_MIDNIGHT_CHASTER_STEP_FAIL_0" value="Hm? I&apos;m in another location!"/>
+	<string name="SID_MIDNIGHT_CHASTER_STEP_FAIL_1" value="It seems I&apos;m quite hard to find!"/>
+	<string name="SID_MIDNIGHT_CHASTER_STEP_FAIL_2" value="Looks like I&apos;m going to win this time!"/>
+	<string name="SID_MIDNIGHT_CHASTER_STEP_FAIL_3" value="Over here, not there! Haha!"/>
+	<string name="SID_MIDNIGHT_CHASTER_STEP_FAIL_4" value="You couldn&apos;t find me... I must be a hide-and-seek master."/>
+	<string name="SID_MIDNIGHT_CHASTER_STEP_SUCCESS_0" value="Ah, you found me!"/>
+	<string name="SID_MIDNIGHT_CHASTER_STEP_SUCCESS_1" value="How did you find this place?"/>
+	<string name="SID_MIDNIGHT_CHASTER_STEP_SUCCESS_2" value="Oh my, you found me very quickly!"/>
+	<string name="SID_MIDNIGHT_CHASTER_STEP_SUCCESS_3" value="I won&apos;t get caught next time."/>
+	<string name="SID_MIDNIGHT_CHASTER_STEP_SUCCESS_4" value="Uh, you&apos;re too good... I don&apos;t know if I can win..."/>
 </imgdir>

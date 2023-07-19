@@ -183,12 +183,12 @@
 	<imgdir name="5000087">
 		<string name="name" value="Black Bunny"/>
 		<string name="desc" value="A black rabbit. It seems rude and argumentative. The pet&apos;s skills will disappear once the magic duration ends."/>
-		<string name="descD" value="Your black rabbit has turned into a doll. You can revive it with the Water of Life."/>
+		<string name="descD" value="Your black rabbit has turned into a doll. You cannot revive it in any way."/>
 	</imgdir>
 	<imgdir name="5000088">
 		<string name="name" value="Black Bunny"/>
 		<string name="desc" value="A black rabbit. It seems rude and argumentative. The pet&apos;s skills will disappear once the magic duration ends."/>
-		<string name="descD" value="Your black rabbit has turned into a doll. You can revive it with the Water of Life."/>
+		<string name="descD" value="Your black rabbit has turned into a doll. You cannot revive it in any way."/>
 	</imgdir>
 	<imgdir name="5000089">
 		<string name="name" value="Tiel"/>
@@ -382,13 +382,13 @@
 	</imgdir>
 	<imgdir name="5000269">
 		<string name="name" value="Hedgehog"/>
-		<string name="desc" value="This little Hedgehog is very opinionated, but loyal. The pet&apos;s skills will disappear once the magic duration ends."/>
-		<string name="descD" value="Your spiky Hedgehog has turned into a doll. You can revive it with the Water of Life."/>
+		<string name="desc" value="This little Hedgehog is very opinionated, but loyal. The pet&apos;s skills will disappear once the magic duration ends.\r\nIf you double-click the pet after its magic duration ends, it will disappear.\n\n#cCaution! This pet cannot have its magic duration extended after it ends.#"/>
+		<string name="descD" value="Your spiky Hedgehog has turned into a doll. You cannot revive it with the Water of Life."/>
 	</imgdir>
 	<imgdir name="5000270">
 		<string name="name" value="Fennec Fox"/>
-		<string name="desc" value="A romantic little Fennec Fox that claims to have come from Planet B612. The pet&apos;s skills will disappear once the magic duration ends."/>
-		<string name="descD" value="Your romantic little Fennec Fox has turned into a doll. You can revive it with the Water of Life."/>
+		<string name="desc" value="A romantic little Fennec Fox that claims to have come from Planet B612. The pet&apos;s skills will disappear once the magic duration ends.\r\nIf you double-click the pet after its magic duration ends, it will disappear.\n\n#cCaution! This pet cannot have its magic duration extended after it ends.#"/>
+		<string name="descD" value="Your Fennec Fox has turned into a doll. You cannot revive it with the Water of Life."/>
 	</imgdir>
 	<imgdir name="5000271">
 		<string name="name" value="Frumpy Koala"/>
@@ -728,12 +728,12 @@
 	<imgdir name="5000431">
 		<string name="name" value="Newer Seal"/>
 		<string name="desc" value="A New Harp Seal gifted by your friend.\nEquip to obtain the #cHarp Seal Friendship# skill, which only stacks up to twice regardless of how many Harp Seals are equipped. The pet&apos;s skills will also disappear when its magic runs out.\nMagic Duration: 30 Days"/>
-		<string name="descD" value="The Seal pet gifted by your friend has forever turned into a doll."/>
+		<string name="descD" value="The Harp Seal pet gifted by your friend has forever turned into a doll. You cannot revive it with the Water of Life.\r\nIf you double-click the pet after its magic duration ends, it will disappear."/>
 	</imgdir>
 	<imgdir name="5000432">
 		<string name="name" value="Pinker Seal"/>
 		<string name="desc" value="A new Pink Seal gifted by your friend.\nEquip to obtain the #cPink Seal Friendship# skill, which only stacks up to twice regardless of how many Pink Seals are equipped. The pet&apos;s skills will also disappear when its magic runs out.\nMagic Duration: 30 Days"/>
-		<string name="descD" value="The Pinker Seal pet gifted by your friend has forever turned into a doll."/>
+		<string name="descD" value="The Pink Harp Seal pet gifted by your friend has forever turned into a doll. You cannot revive it with the Water of Life.\r\nIf you double-click the pet after its magic duration ends, it will disappear."/>
 	</imgdir>
 	<imgdir name="5000433">
 		<string name="name" value="War Sheep"/>
@@ -862,12 +862,12 @@
 	</imgdir>
 	<imgdir name="5000480">
 		<string name="name" value="Ice Dragon"/>
-		<string name="desc" value="A fiercely adorable Ice Dragon. The pet&apos;s skills will disappear once the magic duration ends."/>
-		<string name="descD" value="Your Ice Dragon has turned into a doll."/>
+		<string name="desc" value="A fiercely adorable Ice Dragon. The pet&apos;s skills will disappear once the magic duration ends.\r\nIf you double-click the pet after its magic duration ends, it will disappear.\n\n#cCaution! This pet cannot have its magic duration extended after it ends.#"/>
+		<string name="descD" value="Your Ice Dragon has turned into a doll. You cannot revive it with the Water of Life.\r\nIf you double-click the pet after its magic duration ends, it will disappear."/>
 	</imgdir>
 	<imgdir name="5000482">
 		<string name="name" value="Galiel"/>
-		<string name="desc" value="A lovely unicorn who loves to frolic. The pet&apos;s skills will disappear once the magic duration ends."/>
+		<string name="desc" value="A lovely unicorn who loves to frolic. The pet&apos;s skills will disappear once the magic duration ends.\r\nIf you double-click the pet after its magic duration ends, it will disappear.\n\n#cCaution! This pet cannot have its magic duration extended after it ends.#"/>
 		<string name="descD" value="Your frolicking Galiel has turned into a doll."/>
 	</imgdir>
 	<imgdir name="5000484">
@@ -922,13 +922,13 @@
 	</imgdir>
 	<imgdir name="5000497">
 		<string name="name" value="Invidia"/>
-		<string name="desc" value="Invidia, the demoness of jealousy. The pet&apos;s skills will disappear once the magic duration ends."/>
-		<string name="descD" value="Your scary demon has turned into a doll."/>
+		<string name="desc" value="Invidia, the demoness of jealousy. The pet&apos;s skills will disappear once the magic duration ends.\r\nIf you double-click the pet after its magic duration ends, it will disappear.\n\n#cCaution! This pet cannot have its magic duration extended after it ends.#"/>
+		<string name="descD" value="Your scary demon has turned into a doll. You cannot revive it with the Water of Life.\r\nIf you double-click the pet after its magic duration ends, it will disappear."/>
 	</imgdir>
 	<imgdir name="5000498">
 		<string name="name" value="Fennec Fox"/>
-		<string name="desc" value="A romantic little Fennec Fox that claims to have come from Planet B612. The pet&apos;s skills will disappear once the magic duration ends."/>
-		<string name="descD" value="Your Fennec Fox has turned into a doll."/>
+		<string name="desc" value="A romantic little Fennec Fox that claims to have come from Planet B612. The pet&apos;s skills will disappear once the magic duration ends.\r\nIf you double-click the pet after its magic duration ends, it will disappear.\n\n#cCaution! This pet cannot have its magic duration extended after it ends.#"/>
+		<string name="descD" value="Your Fennec Fox has turned into a doll. You cannot revive it with the Water of Life.\r\nIf you double-click the pet after its magic duration ends, it will disappear."/>
 	</imgdir>
 	<imgdir name="5000595">
 		<string name="name" value="Yellow Chick"/>
@@ -1097,7 +1097,7 @@
 	</imgdir>
 	<imgdir name="5000727">
 		<string name="name" value="Lil Aran"/>
-		<string name="desc" value="It&apos;s Lil Aran! \nEquip the Lil Aran pet to obtain the #cMaple M Aran# skill."/>
+		<string name="desc" value="It&apos;s Lil Aran! \nEquip the Lil Aran pet to obtain the #cMaple M Aran# skill.\r\nIf you double-click the pet after its magic duration ends, it will disappear.\n\n#cCaution! This pet cannot have its magic duration extended after it ends.#"/>
 		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
 	</imgdir>
 	<imgdir name="5000736">
@@ -1142,8 +1142,8 @@
 	</imgdir>
 	<imgdir name="5000754">
 		<string name="name" value="Lil Evan"/>
-		<string name="desc" value="It&apos;s Lil Evan! \nEquip the Lil Evan pet to obtain the #cMaple M Evan# skill."/>
-		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+		<string name="desc" value="It&apos;s Lil Evan! \nEquip the Lil Evan pet to obtain the #cMaple M Evan# skill.\r\nIf you double-click the pet after its magic duration ends, it will disappear.\n\n#cCaution! This pet cannot have its magic duration extended after it ends.#"/>
+		<string name="descD" value="Your pet has turned into a doll. You cannot revive it with the Water of Life.\r\nIf you double-click the pet after its magic duration ends, it will disappear."/>
 	</imgdir>
 	<imgdir name="5000762">
 		<string name="name" value="Forest Dori"/>
@@ -2052,7 +2052,7 @@
 	</imgdir>
 	<imgdir name="5002336">
 		<string name="name" value="Red Snail"/>
-		<string name="desc" value="An enigmatic snail. This time, it&apos;ll stay with me for longer."/>
+		<string name="desc" value="An enigmatic snail. This time, it&apos;ll stay with me for longer. You cannot revive it with the Water of Life."/>
 		<string name="descD" value="Your slow little buddy, Red Snail, has turned into a doll. You cannot revive it with the Water of Life."/>
 	</imgdir>
 	<imgdir name="5002337">
@@ -2260,41 +2260,6 @@
 		<string name="desc" value="#cCCPB# transformed into sweet cotton candy.\r\nBlessed by the power of moonlight, #cCCPB can pick up items from a greater distance.#\r\nCCPB cannot equip any pet equipment.\r\nIf you double-click CCPB after its magic duration ends, it will disappear.\n\n#cCaution! This pet cannot have its magic duration extended after it ends.#"/>
 		<string name="descD" value="Shiny CCPB has turned into a doll. You cannot revive it with the Water of Life.\r\nIf you double-click CCPB after its magic duration ends, it will disappear."/>
 	</imgdir>
-	<imgdir name="5002500">
-		<string name="name" value="CCPB"/>
-		<string name="desc" value="#cCCPB# transformed into sweet cotton candy.\r\nBlessed by the power of moonlight, #cCCPB can pick up items from a greater distance.#\r\nCCPB cannot equip any pet equipment.\r\nIf you double-click CCPB after its magic duration ends, it will disappear.\n\n#cCaution! This pet cannot have its magic duration extended after it ends.#"/>
-		<string name="descD" value="Shiny CCPB has turned into a doll. You cannot revive it with the Water of Life.\r\nIf you double-click CCPB after its magic duration ends, it will disappear."/>
-	</imgdir>
-	<imgdir name="5002510">
-		<string name="name" value="Lil Shinsoo"/>
-		<string name="desc" value="Cute and delightful #cLil Shinsoo#."/>
-		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
-	</imgdir>
-	<imgdir name="5002514">
-		<string name="name" value="Sleepy"/>
-		<string name="desc" value="A baby penguin, #cSleepy#, dozing off in the summer heat."/>
-		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
-	</imgdir>
-	<imgdir name="5002515">
-		<string name="name" value="Coocoo"/>
-		<string name="desc" value="A baby penguin, #cCoocoo#, dozing off in the summer heat."/>
-		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
-	</imgdir>
-	<imgdir name="5002516">
-		<string name="name" value="Waddle"/>
-		<string name="desc" value="A baby penguin, #cWaddle#, dozing off in the summer heat."/>
-		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
-	</imgdir>
-	<imgdir name="5002517">
-		<string name="name" value="LRock Spirit"/>
-		<string name="desc" value="Floating on the balloon, a lovely #cRock Soul#."/>
-		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
-	</imgdir>
-	<imgdir name="5002518">
-		<string name="name" value="SRock Spirit"/>
-		<string name="desc" value="Floating on the balloon, a lovely #cPebble Soul#."/>
-		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
-	</imgdir>
 	<imgdir name="5002423">
 		<string name="name" value="Oberon"/>
 		<string name="desc" value="It&apos;s #cOberon#, the Fairy King. He seems quite serious.\r\nUsing the power of moonlight, #cReboot Petite Fairy# pets can collect items across a larger area than most other pets."/>
@@ -2323,6 +2288,36 @@
 	<imgdir name="5002428">
 		<string name="name" value="Lil Pony"/>
 		<string name="desc" value="It&apos;s the lovable #cLil Pony#, cherished by Victory and Glory. Its charm is its capricious and whimsical behavior. Who knows what it&apos;ll do next?\r\nChanneling the power of moonlight, #cReboot Lil Pony# pets can collect items across a larger area than most other pets."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002500">
+		<string name="name" value="CCPB"/>
+		<string name="desc" value="#cCCPB# transformed into sweet cotton candy.\r\nBlessed by the power of moonlight, #cCCPB can pick up items from a greater distance.#\r\nCCPB cannot equip any pet equipment.\r\nIf you double-click CCPB after its magic duration ends, it will disappear.\n\n#cCaution! This pet cannot have its magic duration extended after it ends.#"/>
+		<string name="descD" value="Shiny CCPB has turned into a doll. You cannot revive it with the Water of Life.\r\nIf you double-click CCPB after its magic duration ends, it will disappear."/>
+	</imgdir>
+	<imgdir name="5002510">
+		<string name="name" value="Lil Shinsoo"/>
+		<string name="desc" value="Cute and delightful #cLil Shinsoo#."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002514">
+		<string name="name" value="Sleepy"/>
+		<string name="desc" value="A baby penguin, #cSleepy#, dozing off in the summer heat."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002515">
+		<string name="name" value="Coocoo"/>
+		<string name="desc" value="A baby penguin, #cCoocoo#, dozing off in the summer heat."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002516">
+		<string name="name" value="Waddle"/>
+		<string name="desc" value="A baby penguin, #cWaddle#, dozing off in the summer heat."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002517">
+		<string name="name" value="LRock Spirit"/>
+		<string name="desc" value="Floating on the balloon, a lovely #cRock Soul#."/>
 		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
 	</imgdir>
 	<imgdir name="5002528">
@@ -2354,6 +2349,71 @@
 		<string name="name" value="Bobo Ghost"/>
 		<string name="desc" value="#cBobo Ghost# is the second of the Ghost brothers.\nEquip to obtain the #cColorful Scare!# skill, which grows stronger as you equip more Colorful Ghosts pets (max 3)."/>
 		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002518">
+		<string name="name" value="SRock Spirit"/>
+		<string name="desc" value="Floating on the balloon, a lovely #cPebble Soul#."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002546">
+		<string name="name" value="Lil Khali"/>
+		<string name="desc" value="#cLil Khali# may be small, but she exudes dignity."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002556">
+		<string name="name" value="Plumpy"/>
+		<string name="desc" value="It&apos;s #cPlumpy#, the soft, round, and cute piglet.\nEquip to get the #cSoft Round Power# skill, which grows stronger as you equip more Soft Round Pig pets."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002557">
+		<string name="name" value="Chubby"/>
+		<string name="desc" value="It&apos;s #cChubby#, the soft, round, and cute piglet.\nEquip to get the #cSoft Round Power# skill, which grows stronger as you equip more Soft Round Pig pets."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002558">
+		<string name="name" value="Pudgy"/>
+		<string name="desc" value="It&apos;s #cPudgy#, the soft, round, and cute piglet.\nEquip to get the #cSoft Round Power# skill, which grows stronger as you equip more Soft Round Pig pets."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002559">
+		<string name="name" value="Apple Crab"/>
+		<string name="desc" value="This #cApple Crab# is as shiny as a polished apple."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002560">
+		<string name="name" value="Puddingding"/>
+		<string name="desc" value="It&apos;s bouncy #cPuddingding#."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002561">
+		<string name="name" value="Mazurka"/>
+		<string name="desc" value="#cMazurka# appeared from a dimension of illusions.\nEquip to get the #cTick Tock Fairy Tale Time# skill, which grows stronger as you equip more Lil Timemaster pets.\r\nBlessed by the moonlight, #cLil Timemaster# pets can pick up items from a greater distance."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002562">
+		<string name="name" value="Cantabile"/>
+		<string name="desc" value="#cCantabile# appeared from a dimension of illusions.\nEquip to get the #cTick Tock Fairy Tale Time# skill, which grows stronger as you equip more Lil Timemaster pets.\r\nBlessed by the moonlight, #cLil Timemaster# pets can pick up items from a greater distance."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002563">
+		<string name="name" value="Lil Time"/>
+		<string name="desc" value="#cLil Time# appeared from a dimension of illusions.\nEquip to get the #cTick Tock Fairy Tale Time# skill, which grows stronger as you equip more Lil Timemaster pets.\r\nBlessed by the moonlight, #cLil Timemaster# pets can pick up items from a greater distance."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002564">
+		<string name="name" value="Mazurka"/>
+		<string name="desc" value="#cMazurka# appeared from a dimension of illusions.\nEquip to get the #cTick Tock Fairy Tale Time# skill, which grows stronger as you equip more Lil Timemaster pets.\r\nBlessed by the moonlight, #cReboot Lil Timemaster# pets can pick up items from a greater distance."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the #cPetite Luna Water of Life#."/>
+	</imgdir>
+	<imgdir name="5002565">
+		<string name="name" value="Cantabile"/>
+		<string name="desc" value="#cCantabile# appeared from a dimension of illusions.\nEquip to get the #cTick Tock Fairy Tale Time# skill, which grows stronger as you equip more Lil Timemaster pets.\r\nBlessed by the moonlight, #cReboot Lil Timemaster# pets can pick up items from a greater distance."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the #cPetite Luna Water of Life#."/>
+	</imgdir>
+	<imgdir name="5002566">
+		<string name="name" value="Lil Time"/>
+		<string name="desc" value="#cLil Time# appeared from a dimension of illusions.\nEquip to get the #cTick Tock Fairy Tale Time# skill, which grows stronger as you equip more Lil Timemaster pets.\r\nBlessed by the moonlight, #cReboot Lil Timemaster# pets can pick up items from a greater distance."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the #cPetite Luna Water of Life#."/>
 	</imgdir>
 	<imgdir name="5000025">
 		<string name="name" value="Golden Pig"/>
@@ -2790,8 +2850,8 @@
 	</imgdir>
 	<imgdir name="5000172">
 		<string name="name" value="Mini Yeti"/>
-		<string name="desc" value="A trustworthy pet that quietly watches everyone&apos;s back. Quiet, but smart and gets a lot of things done."/>
-		<string name="descD" value="It was a cute little Mini Yeti, but with the &quot;Water of Life&quot; all dried up, it turned back into a doll. A little magic can bring it back to life..."/>
+		<string name="desc" value="A trustworthy pet that quietly watches everyone&apos;s back. Quiet, but smart, and gets a lot of things done.\n#cSkill: Meso Magnet, Item Pouch#\r\nIf you double-click the pet after its magic duration ends, it will disappear.\n\n#cCaution! This pet cannot have its magic duration extended after it ends.#"/>
+		<string name="descD" value="It was a cute little Mini Yeti, but with the &quot;Water of Life&quot; all dried up. You cannot revive it with the Water of Life.\r\nIf you double-click the pet after its magic duration ends, it will disappear."/>
 	</imgdir>
 	<imgdir name="5000176">
 		<string name="name" value="Kangaroo"/>
@@ -2970,8 +3030,8 @@
 	</imgdir>
 	<imgdir name="5000312">
 		<string name="name" value="Blue Dragon"/>
-		<string name="desc" value="Mysterious magical powers aligned and sucessfully evolved the Baby Dragon into a Blue Dragon!"/>
-		<string name="descD" value="It was a cool Blue Dragon, but with the &quot;Water of Life&quot; all dried up, it turned back into a doll. A little magic can bring it back to life, however..."/>
+		<string name="desc" value="Mysterious magical powers have aligned and sucessfully evolved the Baby Dragon into a Blue Dragon!\n#cSkill: Meso Magnet, Item Pouch#\r\nIf you double-click the pet after its magic duration ends, it will disappear.\n\n#cCaution! This pet cannot have its magic duration extended after it ends.#"/>
+		<string name="descD" value="It was a cool Blue Dragon, but with the &quot;Water of Life&quot; all dried up. You cannot revive it with the Water of Life.\r\nIf you double-click the pet after its magic duration ends, it will disappear."/>
 	</imgdir>
 	<imgdir name="5000318">
 		<string name="name" value="Yeti Robot"/>
@@ -3507,8 +3567,8 @@
 	</imgdir>
 	<imgdir name="5000610">
 		<string name="name" value="Moist Cake"/>
-		<string name="desc" value="This Moist Cake pet melts in your mouth.  \nEquip the Bold Dessert pet to obtain the #cJust One Bite!# skill."/>
-		<string name="descD" value="Your Moist Cake pet has turned into a doll."/>
+		<string name="desc" value="This Moist Cake pet melts in your mouth.  \nEquip the Bold Dessert pet to obtain the #cJust One Bite!# skill.\r\nIf you double-click the pet after its magic duration ends, it will disappear.\n\n#cCaution! This pet cannot have its magic duration extended after it ends.#"/>
+		<string name="descD" value="Your Moist Cake pet has turned into a doll. You cannot revive it with the Water of Life.\r\nIf you double-click the pet after its magic duration ends, it will disappear."/>
 	</imgdir>
 	<imgdir name="5000611">
 		<string name="name" value="Purple Cake"/>
@@ -3548,7 +3608,7 @@
 	<imgdir name="5000623">
 		<string name="name" value="Esel"/>
 		<string name="desc" value="Esel is a mysterious unicorn looking for the right companion."/>
-		<string name="descD" value="Your lovely unicorn, Esel, has turned into a doll. You can revive it with the Water of Life."/>
+		<string name="descD" value="Your lovely unicorn, Esel, has turned into a doll. You cannot revive it with the Water of Life."/>
 	</imgdir>
 	<imgdir name="5000626">
 		<string name="name" value="Lil Damien"/>
@@ -4418,7 +4478,7 @@
 	<imgdir name="5000978">
 		<string name="name" value="Hedgehog"/>
 		<string name="desc" value="This little Hedgehog is very opinionated, but loyal."/>
-		<string name="descD" value="Your spiny Hedgehog friend has turned into a doll. You can revive it with the Water of Life."/>
+		<string name="descD" value="Your spiny Hedgehog friend has turned into a doll. You cannot revive it with the Water of Life."/>
 	</imgdir>
 	<imgdir name="5000990">
 		<string name="name" value="Sleepy"/>
@@ -4842,8 +4902,8 @@
 	</imgdir>
 	<imgdir name="5002041">
 		<string name="name" value="Kino"/>
-		<string name="desc" value="A happy-go-lucky, orange mushroom that loves shiny stones."/>
-		<string name="descD" value="A formerly adorable orange mushroom that turned into an inanimate doll due to severe dehydration from Life Water. Breathe new life into the doll using a special kind of magic!"/>
+		<string name="desc" value="A happy-go-lucky, orange mushroom that loves shiny stones.\n#cSkill: Meso Magnet, Item Pouch#\r\nIf you double-click the pet after its magic duration ends, it will disappear.\n\n#cCaution! This pet cannot have its magic duration extended after it ends.#"/>
+		<string name="descD" value="A formerly adorable orange mushroom that turned into an inanimate doll due to severe dehydration from Life Water. Breathe new life into the doll using a special kind of magic! You cannot revive it with the Water of Life.\r\nIf you double-click the pet after its magic duration ends, it will disappear."/>
 	</imgdir>
 	<imgdir name="5002063">
 		<string name="name" value="Lil Lai"/>
@@ -5836,8 +5896,8 @@
 		<string name="descd" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
 	</imgdir>
 	<imgdir name="5002373">
-		<string name="name" value="Ducky Family"/>
-		<string name="desc" value="A Ducky Family. \nEquip to obtain the #cTown of Toys&apos; Mysterious Power# skill, which grows stronger as you equip more Town of Toys pets (max 3)."/>
+		<string name="name" value="Roloduck"/>
+		<string name="desc" value="A Roloduck Family. \nEquip to obtain the #cTown of Toys&apos; Mysterious Power# skill, which grows stronger as you equip more Town of Toys pets (max 3)."/>
 		<string name="descd" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
 	</imgdir>
 	<imgdir name="5002374">
@@ -6098,6 +6158,66 @@
 	<imgdir name="5002569">
 		<string name="name" value="Cold Eye"/>
 		<string name="desc" value="A Cold Eye pet."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002585">
+		<string name="name" value="Drum Bunny"/>
+		<string name="desc" value="A Drum Bunny. "/>
+		<string name="descd" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002586">
+		<string name="name" value="Ducky Family"/>
+		<string name="desc" value="A Ducky Family. "/>
+		<string name="descd" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002587">
+		<string name="name" value="Toy Trojan"/>
+		<string name="desc" value="A Toy Trojan."/>
+		<string name="descd" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002570">
+		<string name="name" value="Happy Duck"/>
+		<string name="desc" value="It&apos;s a Happy Duck Pet.\nEquip Digital Duck pets to get the #cDigital Duck Mysterious Power# skill, which grows stronger as you equip more Digital Duck pets."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002571">
+		<string name="name" value="Loading Duck"/>
+		<string name="desc" value="It&apos;s a Loading Duck Pet.\nEquip Digital Duck pets to get the #cDigital Duck Mysterious Power# skill, which grows stronger as you equip more Digital Duck pets."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002572">
+		<string name="name" value="Bugged Duck"/>
+		<string name="desc" value="It&apos;s a Bugged Duck Pet.\nEquip Digital Duck pets to get the #cDigital Duck Mysterious Power# skill, which grows stronger as you equip more Digital Duck pets."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002581">
+		<string name="name" value="Loof Dolphin"/>
+		<string name="desc" value="A Loofah Dolphin pet."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002582">
+		<string name="name" value="Loof Chick"/>
+		<string name="desc" value="A Loofah Chick pet."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002583">
+		<string name="name" value="Loof Penguin"/>
+		<string name="desc" value="A Loofah Penguin pet."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002588">
+		<string name="name" value="Brown Camel"/>
+		<string name="desc" value="A Brown Camel pet."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002589">
+		<string name="name" value="White Camel"/>
+		<string name="desc" value="A White Camel pet."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002590">
+		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="desc" value="A Black Camel pet."/>
 		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
 	</imgdir>
 </imgdir>

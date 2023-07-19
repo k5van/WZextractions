@@ -474,6 +474,186 @@
 		<string name="name" value="Sky Sovereign&apos;s Scepter (Blue)"/>
 		<string name="desc" value="Another symbol of your royal authority on the subject of toy gavel fighting. Double-click to toggle the effect on/off, or set up a hotkey for it in your Key Config."/>
 	</imgdir>
+	<imgdir name="5010206">
+		<string name="name" value="World&apos;s Best Night Lord"/>
+		<string name="desc" value="Season 1 World&apos;s Best #cNight Lord."/>
+	</imgdir>
+	<imgdir name="5010207">
+		<string name="name" value="World&apos;s Best Night Walker"/>
+		<string name="desc" value="Season 1 World&apos;s Best #cNight Walker."/>
+	</imgdir>
+	<imgdir name="5010208">
+		<string name="name" value="World&apos;s Best Dark Knight"/>
+		<string name="desc" value="Season 1 World&apos;s Best #cDark Knight."/>
+	</imgdir>
+	<imgdir name="5010209">
+		<string name="name" value="World&apos;s Best Demon Slayer"/>
+		<string name="desc" value="Season 1 World&apos;s Best\r\n#cDemon Slayer."/>
+	</imgdir>
+	<imgdir name="5010210">
+		<string name="name" value="World&apos;s Best Demon Avenger"/>
+		<string name="desc" value="Season 1 World&apos;s Best #cDemon Avenger."/>
+	</imgdir>
+	<imgdir name="5010211">
+		<string name="name" value="World&apos;s Best Dual Blade"/>
+		<string name="desc" value="Season 1 World&apos;s Best\r\n#cDual Blade."/>
+	</imgdir>
+	<imgdir name="5010212">
+		<string name="name" value="World&apos;s Best Lara"/>
+		<string name="desc" value="Season 1 World&apos;s Best #cLara."/>
+	</imgdir>
+	<imgdir name="5010213">
+		<string name="name" value="World&apos;s Best Luminous"/>
+		<string name="desc" value="Season 1 World&apos;s Best #cLuminous."/>
+	</imgdir>
+	<imgdir name="5010214">
+		<string name="name" value="World&apos;s Best Mercedes"/>
+		<string name="desc" value="Season 1 World&apos;s Best #cMercedes."/>
+	</imgdir>
+	<imgdir name="5010215">
+		<string name="name" value="World&apos;s Best Mechanic"/>
+		<string name="desc" value="Season 1 World&apos;s Best #cMechanic."/>
+	</imgdir>
+	<imgdir name="5010216">
+		<string name="name" value="World&apos;s Best Mihile"/>
+		<string name="desc" value="Season 1 World&apos;s Best #cMihile."/>
+	</imgdir>
+	<imgdir name="5010217">
+		<string name="name" value="World&apos;s Best Buccaneer"/>
+		<string name="desc" value="Season 1 World&apos;s Best #cBuccaneer."/>
+	</imgdir>
+	<imgdir name="5010218">
+		<string name="name" value="World&apos;s Best Battle Mage"/>
+		<string name="desc" value="Season 1 World&apos;s Best #cBattle Mage."/>
+	</imgdir>
+	<imgdir name="5010219">
+		<string name="name" value="World&apos;s Best Bow Master"/>
+		<string name="desc" value="Season 1 World&apos;s Best #cBow Master."/>
+	</imgdir>
+	<imgdir name="5010220">
+		<string name="name" value="World&apos;s Best Blaster"/>
+		<string name="desc" value="Season 1 World&apos;s Best #cBlaster."/>
+	</imgdir>
+	<imgdir name="5010221">
+		<string name="name" value="World&apos;s Best Bishop"/>
+		<string name="desc" value="Season 1 World&apos;s Best #cBishop."/>
+	</imgdir>
+	<imgdir name="5010222">
+		<string name="name" value="World&apos;s Best Shadower"/>
+		<string name="desc" value="Season 1 World&apos;s Best #cShadower."/>
+	</imgdir>
+	<imgdir name="5010223">
+		<string name="name" value="World&apos;s Best Dawn Warrior"/>
+		<string name="desc" value="Season 1 World&apos;s Best #cDawn Warrior."/>
+	</imgdir>
+	<imgdir name="5010224">
+		<string name="name" value="World&apos;s Best Thunder Breaker"/>
+		<string name="desc" value="Season 1 World&apos;s Best #cThunder Breaker."/>
+	</imgdir>
+	<imgdir name="5010225">
+		<string name="name" value="World&apos;s Best Marksman"/>
+		<string name="desc" value="Season 1 World&apos;s Best #cMarksman."/>
+	</imgdir>
+	<imgdir name="5010226">
+		<string name="name" value="World&apos;s Best Adele"/>
+		<string name="desc" value="Season 1 World&apos;s Best #cAdele."/>
+	</imgdir>
+	<imgdir name="5010227">
+		<string name="name" value="World&apos;s Best Aran"/>
+		<string name="desc" value="Season 1 World&apos;s Best #cAran."/>
+	</imgdir>
+	<imgdir name="5010228">
+		<string name="name" value="World&apos;s Best Ark"/>
+		<string name="desc" value="Season 1 World&apos;s Best #cArk."/>
+	</imgdir>
+	<imgdir name="5010229">
+		<string name="name" value="World&apos;s Best Arch Mage (Fire, Poison)"/>
+		<string name="desc" value="Season 1 World&apos;s Best\r\n#cArch Mage (Fire, Poison)."/>
+	</imgdir>
+	<imgdir name="5010230">
+		<string name="name" value="World&apos;s Best Arch Mage (Ice, Lightning)"/>
+		<string name="desc" value="Season 1 World&apos;s Best\r\n#cArch Mage (Ice, Lightning)."/>
+	</imgdir>
+	<imgdir name="5010231">
+		<string name="name" value="World&apos;s Best Evan"/>
+		<string name="desc" value="Season 1 World&apos;s Best #cEvan."/>
+	</imgdir>
+	<imgdir name="5010232">
+		<string name="name" value="World&apos;s Best Angelic Buster"/>
+		<string name="desc" value="Season 1 World&apos;s Best\r\n#cAngelic Buster."/>
+	</imgdir>
+	<imgdir name="5010233">
+		<string name="name" value="World&apos;s Best Wild Hunter"/>
+		<string name="desc" value="Season 1 World&apos;s Best #cWild Hunter."/>
+	</imgdir>
+	<imgdir name="5010234">
+		<string name="name" value="World&apos;s Best Wind Archer"/>
+		<string name="desc" value="Season 1 World&apos;s Best\r\n#cWind Archer."/>
+	</imgdir>
+	<imgdir name="5010235">
+		<string name="name" value="World&apos;s Best Shade"/>
+		<string name="desc" value="Season 1 World&apos;s Best #cShade."/>
+	</imgdir>
+	<imgdir name="5010236">
+		<string name="name" value="World&apos;s Best Illium"/>
+		<string name="desc" value="Season 1 World&apos;s Best #cIllium."/>
+	</imgdir>
+	<imgdir name="5010237">
+		<string name="name" value="World&apos;s Best Xenon"/>
+		<string name="desc" value="Season 1 World&apos;s Best #cXenon."/>
+	</imgdir>
+	<imgdir name="5010238">
+		<string name="name" value="World&apos;s Best Zero"/>
+		<string name="desc" value="Season 1 World&apos;s Best #cZero."/>
+	</imgdir>
+	<imgdir name="5010239">
+		<string name="name" value="World&apos;s Best Cadena"/>
+		<string name="desc" value="Season 1 World&apos;s Best #cCadena."/>
+	</imgdir>
+	<imgdir name="5010240">
+		<string name="name" value="World&apos;s Best Kaiser"/>
+		<string name="desc" value="Season 1 World&apos;s Best #cKaiser."/>
+	</imgdir>
+	<imgdir name="5010241">
+		<string name="name" value="World&apos;s Best Kain"/>
+		<string name="desc" value="Season 1 World&apos;s Best #cKain."/>
+	</imgdir>
+	<imgdir name="5010242">
+		<string name="name" value="World&apos;s Best Cannoneer"/>
+		<string name="desc" value="Season 1 World&apos;s Best #cCannoneer."/>
+	</imgdir>
+	<imgdir name="5010243">
+		<string name="name" value="World&apos;s Best Corsair"/>
+		<string name="desc" value="Season 1 World&apos;s Best #cCorsair."/>
+	</imgdir>
+	<imgdir name="5010244">
+		<string name="name" value="World&apos;s Best Kinesis"/>
+		<string name="desc" value="Season 1 World&apos;s Best #cKinesis."/>
+	</imgdir>
+	<imgdir name="5010245">
+		<string name="name" value="World&apos;s Best Paladin"/>
+		<string name="desc" value="Season 1 World&apos;s Best #cPaladin."/>
+	</imgdir>
+	<imgdir name="5010246">
+		<string name="name" value="World&apos;s Best Pathfinder"/>
+		<string name="desc" value="Season 1 World&apos;s Best #cPathfinder."/>
+	</imgdir>
+	<imgdir name="5010247">
+		<string name="name" value="World&apos;s Best Phantom"/>
+		<string name="desc" value="Season 1 World&apos;s Best #cPhantom."/>
+	</imgdir>
+	<imgdir name="5010248">
+		<string name="name" value="World&apos;s Best Blaze Wizard"/>
+		<string name="desc" value="Season 1 World&apos;s Best\r\n#cBlaze Wizard."/>
+	</imgdir>
+	<imgdir name="5010249">
+		<string name="name" value="World&apos;s Best Hoyoung"/>
+		<string name="desc" value="Season 1 World&apos;s Best #cHoyoung."/>
+	</imgdir>
+	<imgdir name="5010250">
+		<string name="name" value="World&apos;s Best Hero"/>
+		<string name="desc" value="Season 1 World&apos;s Best #cHero."/>
+	</imgdir>
 	<imgdir name="5010999">
 		<string name="name" value="Changing to a Monster"/>
 		<string name="desc" value="Not sold in Cash Shop. An effect shown while changing into a monster."/>
@@ -1011,33 +1191,39 @@
 	</imgdir>
 	<imgdir name="5064000">
 		<string name="name" value="Shielding Ward"/>
-		<string name="desc" value="A magical shield that protects an item. Using this on a piece of equipment protects it from being destroyed by a failed scroll #c1 time#. Protection also disappears after a successful scroll use, and it#c cannot be used on\nitems that have been successfully enhanced 12 or more times, items that are fully enhanced, or on superior items.# \nCan be used along with #cShield Scrolls and Guardian Scrolls#."/>
+		<string name="desc" value="A Shielding Ward that #cprotects a piece of equipment from being destroyed# by a failed scroll #c1 time# when used on it.\nThe Shielding Ward effect disappears even after a successful use of a scroll with a destruction chance."/>
 		<string name="autodesc" value="\r\n#cSafeguards your item against destruction 1 time.\r\n#"/>
+		<string name="desc_leftalign" value="Can be used along with Shield Scrolls, Guardian Scrolls, and Return Scrolls.\n\n&lt;Unusable Items&gt;\n- Equipment that uses only exclusive enhancement scroll\n- Fully enhanced equipment\n- Equipment successfully enhanced 12 or more times\n- Superior equipment\n- Pet equipment"/>
 	</imgdir>
 	<imgdir name="5064002">
 		<string name="name" value="Shielding Ward Lite"/>
-		<string name="desc" value="A magical shield that protects an item. Using this on a piece of equipment with a #cLevel 105 requirement or less# protects it from being destroyed by a failed scroll #c1 time#. Protection also disappears after a successful scroll use, and it#c cannot be used"/>
+		<string name="desc" value="A Shielding Ward that #cprotects a piece of equipment with a level requirement of 105 or below from being destroyed# by a failed scroll #c1 time# when used on it.\nThe Shielding Ward effect disappears even after a successful use of a scroll with a destruction chance."/>
 		<string name="autodesc" value="\r\n#cSafeguards your item against destruction 1 time.\r\n#"/>
+		<string name="desc_leftalign" value="Can be used along with Shield Scrolls, Guardian Scrolls, and Return Scrolls.\n\n&lt;Unusable Items&gt;\n- Equipment that uses only exclusive enhancement scroll\n- Fully enhanced equipment\n- Equipment successfully enhanced 12 or more times\n- Superior equipment\n- Pet equipment"/>
 	</imgdir>
 	<imgdir name="5064003">
 		<string name="name" value="Superior Shielding Ward"/>
-		<string name="desc" value="A #csuperior item# magical shield. Using this on a piece of superior equipment protects it from being destroyed by a failed scroll #c1 time#. Protection also disappears after a successful scroll use, and it #ccannot be used on items that have been successfully enhanced 7 or more times.# \nCan be used along with #cShield Scrolls and Guardian Scrolls#."/>
+		<string name="desc" value="A Shielding Ward that #cprotects a piece of superior equipment from being destroyed# by a failed scroll #c1 time# when used on it.\nThe Shielding Ward effect disappears even after a successful use of a scroll with a destruction chance."/>
 		<string name="autodesc" value="\r\n#cSafeguards your item against destruction 1 time.\r\n#"/>
+		<string name="desc_leftalign" value="Can be used along with Shield Scrolls, Guardian Scrolls, and Return Scrolls.\n\n&lt;Unusable Items&gt;\n- Fully enhanced equipment\n- Equipment successfully enhanced 7 or more times"/>
 	</imgdir>
 	<imgdir name="5064004">
 		<string name="name" value="[MS Discount] Shielding Ward"/>
-		<string name="desc" value="A magical shield that protects an item. Using this on a piece of equipment protects it from being destroyed by a failed scroll #c1 time#. Protection also disappears after a successful scroll use, and it#c cannot be used on\nitems that have been successfully enhanced 12 or more times or on superior items.# \nCan be used along with #cShield Scrolls and Guardian Scrolls#."/>
+		<string name="desc" value="A Shielding Ward that #cprotects a piece of equipment from being destroyed# by a failed scroll #c1 time# when used on it.\nThe Shielding Ward effect disappears even after a successful use of a scroll with a destruction chance."/>
 		<string name="autodesc" value="\r\n#cSafeguards your item against destruction 1 time.\r\n#"/>
+		<string name="desc_leftalign" value="Can be used along with Shield Scrolls, Guardian Scrolls, and Return Scrolls.\n\n&lt;Unusable Items&gt;\n- Equipment that uses only exclusive enhancement scroll\n- Fully enhanced equipment\n- Equipment successfully enhanced 12 or more times\n- Superior equipment\n- Pet equipment"/>
 	</imgdir>
 	<imgdir name="5064100">
 		<string name="name" value="Shield Scroll"/>
-		<string name="desc" value="A magical shield that protects an item. Using this on a piece of equipment protects it from having its#c upgrade count# reduced by a failed scroll #c1 time#. Protection also disappears after a successful scroll use. \nCan be used along with#c Shielding Wards and Guardian Scrolls#."/>
+		<string name="desc" value="A Shield Scroll that protects a piece of equipment from #chaving its upgrade count reduced# by a failed scroll #c1 time# when used on it.\nThe Shield Scroll effect disappears even after a successful use of a scroll that reduces the upgrade count."/>
 		<string name="autodesc" value="\r\n#cSafeguards your item against upgrade count loss 1 time.\r\n#"/>
+		<string name="desc_leftalign" value="Can be used along with Shielding Wards and Guardian Scrolls.\n#cCannot be used along with Return Scrolls.\n\n#&lt;Unusable Items&gt;\n- Equipment that uses only exclusive enhancement scroll\n- Equipment with 0 upgrades left"/>
 	</imgdir>
 	<imgdir name="5064101">
 		<string name="name" value="Shield Scroll Lite"/>
-		<string name="desc" value="Using this on a piece of #level 105 or below# equipment protects it from having its #cupgrade count# reduced #c1 time# when a scroll fails.  The protective aura also disappears after one use, even if the scroll is successful. \nCan be used along with #cShielding Wards and Guardian Scrolls#."/>
+		<string name="desc" value="A Shield Scroll that protects a piece of equipment with a #clevel requirement of 105 or below# from #chaving its upgrade count reduced# by a failed scroll #c1 time# when used on it.\nThe Shield Scroll effect disappears even after a successful use of a scroll that reduces the upgrade count."/>
 		<string name="autodesc" value="\r\n#cSafeguards your item against upgrade count loss 1 time.\r\n#"/>
+		<string name="desc_leftalign" value="Can be used along with Shielding Wards and Guardian Scrolls.\n#cCannot be used along with Return Scrolls.\n\n#&lt;Unusable Items&gt;\n- Equipment that uses only exclusive enhancement scroll\n- Equipment with 0 upgrades left"/>
 	</imgdir>
 	<imgdir name="5064200">
 		<string name="name" value="Perfect Innocence Scroll"/>
@@ -1051,18 +1237,21 @@
 	</imgdir>
 	<imgdir name="5064300">
 		<string name="name" value="Guardian Scroll"/>
-		<string name="desc" value="A magical shield that protects a scroll when it fails after using it on an #cequipment that can be upgraded#.\nUsing this on equipment that #ccan be upgraded# will #cpreserve the scroll if its use fails# #c1 time#. The protection effect disappears even after a successful scroll use.\n\nCan be used along with #cShielding Wards and Shield Scrolls#.\nCannot be used on equipment that cannot take scroll upgrades, or pet equipment that has already been upgraded."/>
+		<string name="desc" value="A Guardian Scroll that will #cpreserve the scroll# if its use fails #c1 time# when used on the equipment.\nThe Guardian Scroll effect disappears even after a successful scroll use."/>
+		<string name="desc_leftalign" value="Can be used along with Shielding Wards, Shield Scrolls, and Return Scrolls.\n#cCannot be used along with Bonus Epic Potential Scrolls.#\n\n&lt;Unusable Items&gt;\n- Equipment that uses only exclusive enhancement scroll\n- Equipment with no available upgrades\n- Pet equipment with 0 upgrades left"/>
 		<string name="autodesc" value="\r\n#cPreserves a scroll when it fails.\r\n#"/>
 	</imgdir>
 	<imgdir name="5064301">
 		<string name="name" value="Guardian Scroll Lite"/>
-		<string name="desc" value="A magical shield that protects a scroll when it fails. \nUsing this on a piece of #level 105 or below# equipment protects the #cnext scroll from failure# #c1 time#. The protective aura also disappears after one use, even if the scroll is successful.\nCan be used along with #cShielding Wards and Shield Scrolls#."/>
+		<string name="desc" value="A Guardian Scroll that will #cpreserve the scroll# if its use fails #c1 time# when used on equipment with #clevel requirement of 105 or below#.\nThe Guardian Scroll effect disappears even after a successful scroll use."/>
 		<string name="autodesc" value="\r\n#cPreserves a scroll when it fails.\r\n#"/>
+		<string name="desc_leftalign" value="Can be used along with Shielding Wards, Shield Scrolls, and Return Scrolls.\n#cCannot be used along with Bonus Epic Potential Scrolls.#\n\n&lt;Unusable Items&gt;\n- Equipment that uses only exclusive enhancement scroll\n- Equipment with no available upgrades\n- Pet equipment with 0 upgrades left"/>
 	</imgdir>
 	<imgdir name="5064400">
 		<string name="name" value="Return Scroll"/>
-		<string name="desc" value="Use this item by double clicking it, then selecting the equip item you want to use it on. Once this scroll is applied, the next time a scroll that changes non-potential stats is used on the item, you will be given the choice of keeping the old stats or accepting the stat changes. Regardless of your choice, the Return Scroll effect will be consumed. This scroll cannot be used in combination with Shield Scrolls, and cannot be used on some items."/>
+		<string name="desc" value="A Return Scroll that #cgives you the choice of keeping the old stats or accepting the stat changes the next time a scroll that changes non-potential stats# is used on a piece of equipment #c1 time#.\nThe Return Scroll effect disappears even after a failed use of a scroll that reduces the upgrade count and the upgrade count is kept."/>
 		<string name="autodesc" value="\r\n#cAllows you to choose between the before and after effects of a scroll upon using it.\r\n#"/>
+		<string name="desc_leftalign" value="Can be used along with Shielding Wards and Guardian Scrolls.\n#cCannot be used along with Shield Scrolls.\n\n#&lt;Unusable Items&gt;\n- Equipment that uses only exclusive enhancement scroll\n- Equipment given during tutorial\n- Pet equipment\n- Zero weapon"/>
 	</imgdir>
 	<imgdir name="5065000">
 		<string name="name" value="Rapid-Fire Fireworks"/>
@@ -1079,13 +1268,15 @@
 	</imgdir>
 	<imgdir name="5068100">
 		<string name="name" value="Pet Shield Scroll"/>
-		<string name="desc" value="A magical shield that protects an item. Using this on a piece of #cpet equipment# protects it from having its #cupgrade count# reduced by a failed scroll #c1 time#. Protection disappears even after a successful scroll use. \nCan be used with a #cGuardian Scroll#."/>
+		<string name="desc" value="A Shield Scroll that protects a piece of #cpet equipment# from #chaving its upgrade count reduced# by a failed scroll #c1 time# when used on it.\nThe Shield Scroll effect disappears even after a successful use of a scroll that reduces the upgrade count."/>
 		<string name="autodesc" value="\r\n#cSafeguards your item against upgrade count loss 1 time.\r\n#"/>
+		<string name="desc_leftalign" value="Can be used along with Guardian Scrolls.\n#cCannot be used along with Shielding Wards and Return Scrolls.\n\n#&lt;Unusable Items&gt;\n- Pet equipment with 0 upgrades left"/>
 	</imgdir>
 	<imgdir name="5068200">
 		<string name="name" value="Pet Guardian Scroll"/>
-		<string name="desc" value="A magical shield that protects a scroll when it fails. \nUsing this on a piece of #cpet equipment# will allow you to keep the #cnext scroll used on it# when it fails #c1 time#. The protection effect disappears even after a successful scroll use.\nCan be used with a #cShield Scroll#."/>
+		<string name="desc" value="A Guardian Scroll that will #cpreserve the scroll# if its use fails #c1 time# when used on #cpet equipment#.\nThe Guardian Scroll effect disappears even after a successful scroll use."/>
 		<string name="autodesc" value="\r\n#cPrevents a used scroll from disappearing.\r\n#"/>
+		<string name="desc_leftalign" value="Can be used along with Shield Scrolls and Return Scrolls.\n#cCannot be used along with Shielding Wards#.\n\n&lt;Unusable Items&gt;\n- Pet equipment with 0 upgrades left"/>
 	</imgdir>
 	<imgdir name="5068300">
 		<string name="name" value="Wisp&apos;s Wondrous Wonderberry"/>
@@ -3641,7 +3832,7 @@ Talk to Lauren at Henesys Hair Salon for Androids."/>
 	</imgdir>
 	<imgdir name="5450010">
 		<string name="name" value="Nero&apos;s Purrfect Purchase Palace"/>
-		<string name="desc" value="This item lets you shop at a very special General Store when you use it. You can purchase Nero&apos;s exclusive special items and some HP or MP Recovery Potions, as well as recharge your stars and bullets.\nNero&apos;s exclusive special items include #chugely discounted Power Elixirs, and Get Rich Chairs#. However, #cspecial items are limited in number#, and you can not use Cat Merchant Nero in some areas. \nExclusive items per use: #cPower Elixir x2700, Get Rich Chair x1#"/>
+		<string name="desc" value="This item lets you shop at a very special General Store when you use it. You can purchase Nero&apos;s exclusive special items and some HP or MP Recovery Potions, as well as recharge your stars and bullets.\nNero&apos;s exclusive special items include #chugely discounted Power Elixirs, and Get Rich Chairs#. However, #cspecial items are limited in number#, and you cannot use Cat Merchant Nero in some areas. \nExclusive items per use"/>
 	</imgdir>
 	<imgdir name="5450011">
 		<string name="name" value="Store Catalog"/>
@@ -3908,8 +4099,8 @@ Talk to Lauren at Henesys Hair Salon for Androids."/>
 		<string name="desc" value="Double-click to exchange for a 1 Year Anniversary Weapon Box."/>
 	</imgdir>
 	<imgdir name="5530038">
-		<string name="name" value="Power Elixir Exchange Ticket"/>
-		<string name="desc" value="Double-click to exchange it for 50 Power Elixirs."/>
+		<string name="name" value="Power Elixir Coupon"/>
+		<string name="desc" value="Double-click to exchange for 50 Power Elixirs."/>
 	</imgdir>
 	<imgdir name="5530039">
 		<string name="name" value="Elixir Exchange Ticket"/>
@@ -3972,8 +4163,8 @@ Talk to Lauren at Henesys Hair Salon for Androids."/>
 		<string name="desc" value="Double-click to exchange it for a Blue Maple Bandana."/>
 	</imgdir>
 	<imgdir name="5530066">
-		<string name="name" value="10-Power-Elixirs Exchange Ticket"/>
-		<string name="desc" value="Double-click to exchange it for 10 Power Elixirs."/>
+		<string name="name" value="Power Elixir x10 Coupon"/>
+		<string name="desc" value="Double-click to exchange for 10 Power Elixirs."/>
 	</imgdir>
 	<imgdir name="5530067">
 		<string name="name" value="Blessing for the Returned Friend Coupon"/>
@@ -4120,7 +4311,7 @@ Talk to Lauren at Henesys Hair Salon for Androids."/>
 		<string name="desc" value="Double-click to exchange for a Tent Chair."/>
 	</imgdir>
 	<imgdir name="5530157">
-		<string name="name" value="50 Power Elixir Exchange Coupon"/>
+		<string name="name" value="Power Elixir x50 Coupon"/>
 		<string name="desc" value="Double-click to exchange for 50 Power Elixirs."/>
 	</imgdir>
 	<imgdir name="5530158">
@@ -5336,7 +5527,7 @@ Talk to Lauren at Henesys Hair Salon for Androids."/>
 		<string name="desc" value="#cDouble-click# to get a Eternal Rebirth Flame in your Use tab."/>
 	</imgdir>
 	<imgdir name="5530627">
-		<string name="name" value="Power Elixirs x15 Coupon"/>
+		<string name="name" value="Power Elixir x15 Coupon"/>
 		<string name="desc" value="#cDouble-click# to get 15 Power Elixirs in your Use tab."/>
 	</imgdir>
 	<imgdir name="5530628">
@@ -5997,7 +6188,7 @@ Talk to Lauren at Henesys Hair Salon for Androids."/>
 	</imgdir>
 	<imgdir name="5533138">
 		<string name="name" value="Hotel Maple Party Hat Box"/>
-		<string name="desc" value="A box containing a Hotel Maple Party Hat. Contains 1 of the 6 types of hat.\r\n(Each Hotel Maple Party Hat Box has an equal chance to contain any of the 6 types.)"/>
+		<string name="desc" value="A box containing a Hotel Maple Party Hat. Contains 1 of the 6 types of hat.\r\n(Items in the Hotel Maple Party Hat Box are obtained at the same rate.)"/>
 	</imgdir>
 	<imgdir name="5533144">
 		<string name="name" value="12th-Anniversary Commemorative Box"/>
@@ -7279,19 +7470,19 @@ Talk to Lauren at Henesys Hair Salon for Androids."/>
 		<string name="desc" value="#cDouble-click# to get a random item from the list below. The item will disappear if it is not used before the expiration date.\r\n#cPossible Items\n- Star Force 12-Star Enhancement\n- Star Force 17-Star Enhancement#"/>
 	</imgdir>
 	<imgdir name="5680446">
-		<string name="name" value="10 Power Elixirs"/>
+		<string name="name" value="Power Elixir x10"/>
 		<string name="desc" value="This package includes #c10 Power Elixirs# and a #c1,000-Maple-Point Coupon# as a big, fat BONUS!"/>
 	</imgdir>
 	<imgdir name="5680447">
-		<string name="name" value="50 Power Elixirs"/>
-		<string name="desc" value="This package includes#c Power Elixir# x50 and a #c5,000-Maple-Point Coupon# as a big, fat BONUS!"/>
+		<string name="name" value="Power Elixir x50"/>
+		<string name="desc" value="This package includes #c50 Power Elixirs# and a #c5,000-Maple-Point Coupon# as a big, fat BONUS!"/>
 	</imgdir>
 	<imgdir name="5680448">
-		<string name="name" value="100 Power Elixirs"/>
-		<string name="desc" value="This package includes#c Power Elixir# x100 and a #c10,000-Maple-Point Coupon# as a big, fat BONUS!"/>
+		<string name="name" value="Power Elixir x100"/>
+		<string name="desc" value="This package includes #c100 Power Elixirs# and a #c10,000-Maple-Point Coupon# as a big, fat BONUS!"/>
 	</imgdir>
 	<imgdir name="5680449">
-		<string name="name" value="300 Power Elixirs"/>
+		<string name="name" value="Power Elixirs x300"/>
 		<string name="desc" value="This package includes#c Power Elixir# x300 and a #c30,000-Maple-Point Coupon# as a big, fat BONUS!"/>
 	</imgdir>
 	<imgdir name="5680450">
@@ -7517,7 +7708,7 @@ Talk to Lauren at Henesys Hair Salon for Androids."/>
 	</imgdir>
 	<imgdir name="5680531">
 		<string name="name" value="Hairstyling Room Slot Expansion"/>
-		<string name="desc" value="Double-click and use to #cexpand your Hairstyling Room by 1 slot#.\nYou start with 12 default Hairstyling Room slots in the Beauty Salon, which you can expand to as many as 18 slots. #cYou can use the Hairstyling Room Slot Expansion item when you have at least 1 Beauty Salon stored in the Hairstyling Room. You&apos;ll need to store a separate Beauty Salon item in order to save hairstyles on the expanded empty slots.#"/>
+		<string name="desc" value="Double-click and use to #cexpand your Hairstyling Room by 1 slot#.\nYou start with 15 default Hairstyling Room slots in the Beauty Salon, which you can expand to as many as 21 slots. #cYou can use the Hairstyling Room Slot Expansion item when you have at least 1 Beauty Salon stored in the Hairstyling Room. You&apos;ll need to store a separate Beauty Salon item in order to save hairstyles on the expanded empty slots.#"/>
 	</imgdir>
 	<imgdir name="5680533">
 		<string name="desc" value="#cDouble-click# to claim daily Maple Points. You can get Points this way once a day. Use to receive #c1000 Points on Saturdays and Sundays, and 500 Points on weekdays#. Usable daily #cfor up to 28 days#, starting from the date of purchase."/>
@@ -7645,11 +7836,11 @@ Talk to Lauren at Henesys Hair Salon for Androids."/>
 	</imgdir>
 	<imgdir name="5680575">
 		<string name="name" value="100 Power Elixirs"/>
-		<string name="desc" value="This package includes#c Power Elixir# x100 and a #c10,000-Maple-Point Coupon# as a big, fat BONUS!"/>
+		<string name="desc" value="This package includes #c100 Power Elixirs# and a #c10,000-Maple-Point Coupon# as a big, fat BONUS!"/>
 	</imgdir>
 	<imgdir name="5680576">
 		<string name="name" value="50x Power Elixir Package"/>
-		<string name="desc" value="This package includes#c Power Elixir# x50 and a #c5,000-Maple-Point Coupon# as a big, fat BONUS!"/>
+		<string name="desc" value="This package includes #c50 Power Elixirs# and a #c5,000-Maple-Point Coupon# as a big, fat BONUS!"/>
 	</imgdir>
 	<imgdir name="5680578">
 		<string name="name" value="5,000-Maple-Point Coupon"/>
@@ -7668,7 +7859,7 @@ Talk to Lauren at Henesys Hair Salon for Androids."/>
 		<string name="desc" value="Double-click to receive a Pea Chat Ring (30 Day)."/>
 	</imgdir>
 	<imgdir name="5680581">
-		<string name="name" value="100 Sweet N&apos; Sour Power Elixirs"/>
+		<string name="name" value="Sweet Power Elixir x100"/>
 		<string name="desc" value="On top of the #c100 Power Elixirs#, this package includes #c10,000-Maple-Point Coupon# and #cSweet Sugar Chair# as a big, fat BONUS!"/>
 	</imgdir>
 	<imgdir name="5680582">
@@ -7757,11 +7948,11 @@ Talk to Lauren at Henesys Hair Salon for Androids."/>
 	</imgdir>
 	<imgdir name="5680630">
 		<string name="name" value="Power Elixir x50"/>
-		<string name="desc" value="This package includes#c Power Elixir# x50 and a #c5,000-Maple-Point Coupon# as a big, fat BONUS!"/>
+		<string name="desc" value="This package includes #c50 Power Elixirs# and a #c5,000-Maple-Point Coupon# as a big, fat BONUS!"/>
 	</imgdir>
 	<imgdir name="5680631">
-		<string name="name" value="Power Elixirs x100"/>
-		<string name="desc" value="This package includes#c Power Elixir# x100 and a #c10,000-Maple-Point Coupon# as a big, fat BONUS!"/>
+		<string name="name" value="Power Elixir x100"/>
+		<string name="desc" value="This package includes #c100 Power Elixirs# and a #c10,000-Maple-Point Coupon# as a big, fat BONUS!"/>
 	</imgdir>
 	<imgdir name="5680632">
 		<string name="name" value="Power Elixirs x300"/>
@@ -7844,7 +8035,7 @@ Talk to Lauren at Henesys Hair Salon for Androids."/>
 	</imgdir>
 	<imgdir name="5680733">
 		<string name="name" value="Beauty Lounge Slot Expansion"/>
-		<string name="desc" value="Double-click and use to #cexpand your Beauty Salon face slots by 1#.\nYou start with 12 default face slots in the Beauty Salon which you can expand to as many as 18 slots. #cYou can use the Beauty Salon Slot Expansion item when you have at least 1 Beauty Salon stored. You&apos;ll need to store a separate Beauty Salon item in order to save faces on the expanded empty slots.#"/>
+		<string name="desc" value="Double-click and use to #cexpand your Beauty Salon face slots by 1#.\nYou start with 15 default face slots in the Beauty Salon which you can expand to as many as 21 slots. #cYou can use the Beauty Salon Slot Expansion item when you have at least 1 Beauty Salon stored. You&apos;ll need to store a separate Beauty Salon item in order to save faces on the expanded empty slots.#"/>
 	</imgdir>
 	<imgdir name="5680735">
 		<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
@@ -7940,7 +8131,7 @@ Talk to Lauren at Henesys Hair Salon for Androids."/>
 	</imgdir>
 	<imgdir name="5689000">
 		<string name="name" value="Premium Water of Life"/>
-		<string name="desc" value="#cDouble-click# on this enchanted water to revive a pet that has been turned into a doll. The spell does not work on #cMiracle Pets#."/>
+		<string name="desc" value="#cDouble-click# on this enchanted water to revive a pet that has been turned into a doll, for a period of #c90 days#. Does not work on #cMiracle Pets#."/>
 	</imgdir>
 	<imgdir name="5680812">
 		<string name="name" value="Simper Face Coupon Voucher"/>
@@ -8097,6 +8288,7 @@ Talk to Lauren at Henesys Hair Salon for Androids."/>
 	</imgdir>
 	<imgdir name="5680938">
 		<string name="name" value="Gift Box"/>
+		<string name="desc" value="#cDouble-click# to receive the prepared gift.\n#c\n- Cozy Toast Bed\n- Isaac Toast Label Ring\n- Isaac Toast Chat Ring\n\nObtained Label/Chat Ring can be used permanently."/>
 	</imgdir>
 	<imgdir name="5680939">
 		<string name="name" value="Gift Box"/>
@@ -8160,6 +8352,14 @@ Talk to Lauren at Henesys Hair Salon for Androids."/>
 	<imgdir name="5680990">
 		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
 		<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+	</imgdir>
+	<imgdir name="5680992">
+		<string name="name" value="Spiral Label Ring Coupon (30 Day)"/>
+		<string name="desc" value="Double-click to get the Spiral Label Ring (30 Day)."/>
+	</imgdir>
+	<imgdir name="5680993">
+		<string name="name" value="Spiral Chat Ring Coupon (30 Day)"/>
+		<string name="desc" value="Double-click to get the Spiral Chat Ring (30 Day)."/>
 	</imgdir>
 	<imgdir name="5700000">
 		<string name="name" value="Android Naming Coupon"/>
@@ -8253,193 +8453,45 @@ Talk to Lauren at Henesys Hair Salon for Androids."/>
 		<string name="name" value="Maple Auction Red Ticket"/>
 		<string name="desc" value="The Maple Auction Red Ticket offers the following benefits for #c30 days.#\nService fee discount: 5% to 3%\nUnlimited searches\nAdditional auction slots: 10 purchase and 10 sell slots\nAdvanced searches\nAuction bidding time extension: 24 and 48 hours"/>
 	</imgdir>
-	<imgdir name="5010206">
-		<string name="name" value="World&apos;s Best Night Lord"/>
-		<string name="desc" value="Season 1 World&apos;s Best #cNight Lord."/>
+	<imgdir name="5010253">
+		<string name="name" value="Cooking Master Spiegelmann&apos;s Blessing"/>
+		<string name="desc" value="A blessing from Spiegelmann, who has mastered the art of cooking.\r\n\r\nDouble-click to toggle the effect, or set up a hotkey for it in your Key Config."/>
 	</imgdir>
-	<imgdir name="5010207">
-		<string name="name" value="World&apos;s Best Night Walker"/>
-		<string name="desc" value="Season 1 World&apos;s Best #cNight Walker."/>
+	<imgdir name="5010259">
+		<string name="name" value="Khali Emblem"/>
+		<string name="desc" value="An emblem representing Khali.\r\n\r\nDouble-click to toggle the effect, or set up a hotkey for it in your Key Config."/>
 	</imgdir>
-	<imgdir name="5010208">
-		<string name="name" value="World&apos;s Best Dark Knight"/>
-		<string name="desc" value="Season 1 World&apos;s Best #cDark Knight."/>
+	<imgdir name="5150214">
+		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
 	</imgdir>
-	<imgdir name="5010209">
-		<string name="name" value="World&apos;s Best Demon Slayer"/>
-		<string name="desc" value="Season 1 World&apos;s Best\r\n#cDemon Slayer."/>
+	<imgdir name="5152285">
+		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
 	</imgdir>
-	<imgdir name="5010210">
-		<string name="name" value="World&apos;s Best Demon Avenger"/>
-		<string name="desc" value="Season 1 World&apos;s Best #cDemon Avenger."/>
+	<imgdir name="5157040">
+		<string name="name" value="Celone Hair Coupon"/>
+		<string name="desc" value="#cDouble-click# to change your hair to the selected hairstyle. Can only be used on male characters."/>
 	</imgdir>
-	<imgdir name="5010211">
-		<string name="name" value="World&apos;s Best Dual Blade"/>
-		<string name="desc" value="Season 1 World&apos;s Best\r\n#cDual Blade."/>
+	<imgdir name="5157041">
+		<string name="name" value="Foggy Celone Hair Coupon"/>
+		<string name="desc" value="#cDouble-click# to change your hair to the selected hairstyle. Can only be used on male characters."/>
 	</imgdir>
-	<imgdir name="5010212">
-		<string name="name" value="World&apos;s Best Lara"/>
-		<string name="desc" value="Season 1 World&apos;s Best #cLara."/>
+	<imgdir name="5157042">
+		<string name="name" value="Celine Hair Coupon"/>
+		<string name="desc" value="#cDouble-click# to change your hair to the selected hairstyle. Can only be used on female characters."/>
 	</imgdir>
-	<imgdir name="5010213">
-		<string name="name" value="World&apos;s Best Luminous"/>
-		<string name="desc" value="Season 1 World&apos;s Best #cLuminous."/>
+	<imgdir name="5157043">
+		<string name="name" value="Foggy Celine Hair Coupon"/>
+		<string name="desc" value="#cDouble-click# to change your hair to the selected hairstyle. Can only be used on female characters."/>
 	</imgdir>
-	<imgdir name="5010214">
-		<string name="name" value="World&apos;s Best Mercedes"/>
-		<string name="desc" value="Season 1 World&apos;s Best #cMercedes."/>
+	<imgdir name="5680997">
+		<string name="name" value="Celone Hair Selection Coupon (M)"/>
+		<string name="desc" value="#cDouble-click# to select either the Celone Hair Coupon or Foggy Celone Hair Coupon."/>
 	</imgdir>
-	<imgdir name="5010215">
-		<string name="name" value="World&apos;s Best Mechanic"/>
-		<string name="desc" value="Season 1 World&apos;s Best #cMechanic."/>
-	</imgdir>
-	<imgdir name="5010216">
-		<string name="name" value="World&apos;s Best Mihile"/>
-		<string name="desc" value="Season 1 World&apos;s Best #cMihile."/>
-	</imgdir>
-	<imgdir name="5010217">
-		<string name="name" value="World&apos;s Best Buccaneer"/>
-		<string name="desc" value="Season 1 World&apos;s Best #cBuccaneer."/>
-	</imgdir>
-	<imgdir name="5010218">
-		<string name="name" value="World&apos;s Best Battle Mage"/>
-		<string name="desc" value="Season 1 World&apos;s Best #cBattle Mage."/>
-	</imgdir>
-	<imgdir name="5010219">
-		<string name="name" value="World&apos;s Best Bow Master"/>
-		<string name="desc" value="Season 1 World&apos;s Best #cBow Master."/>
-	</imgdir>
-	<imgdir name="5010220">
-		<string name="name" value="World&apos;s Best Blaster"/>
-		<string name="desc" value="Season 1 World&apos;s Best #cBlaster."/>
-	</imgdir>
-	<imgdir name="5010221">
-		<string name="name" value="World&apos;s Best Bishop"/>
-		<string name="desc" value="Season 1 World&apos;s Best #cBishop."/>
-	</imgdir>
-	<imgdir name="5010222">
-		<string name="name" value="World&apos;s Best Shadower"/>
-		<string name="desc" value="Season 1 World&apos;s Best #cShadower."/>
-	</imgdir>
-	<imgdir name="5010223">
-		<string name="name" value="World&apos;s Best Dawn Warrior"/>
-		<string name="desc" value="Season 1 World&apos;s Best #cDawn Warrior."/>
-	</imgdir>
-	<imgdir name="5010224">
-		<string name="name" value="World&apos;s Best Thunder Breaker"/>
-		<string name="desc" value="Season 1 World&apos;s Best #cThunder Breaker."/>
-	</imgdir>
-	<imgdir name="5010225">
-		<string name="name" value="World&apos;s Best Marksman"/>
-		<string name="desc" value="Season 1 World&apos;s Best #cMarksman."/>
-	</imgdir>
-	<imgdir name="5010226">
-		<string name="name" value="World&apos;s Best Adele"/>
-		<string name="desc" value="Season 1 World&apos;s Best #cAdele."/>
-	</imgdir>
-	<imgdir name="5010227">
-		<string name="name" value="World&apos;s Best Aran"/>
-		<string name="desc" value="Season 1 World&apos;s Best #cAran."/>
-	</imgdir>
-	<imgdir name="5010228">
-		<string name="name" value="World&apos;s Best Ark"/>
-		<string name="desc" value="Season 1 World&apos;s Best #cArk."/>
-	</imgdir>
-	<imgdir name="5010229">
-		<string name="name" value="World&apos;s Best Arch Mage (Fire, Poison)"/>
-		<string name="desc" value="Season 1 World&apos;s Best\r\n#cArch Mage (Fire, Poison)."/>
-	</imgdir>
-	<imgdir name="5010230">
-		<string name="name" value="World&apos;s Best Arch Mage (Ice, Lightning)"/>
-		<string name="desc" value="Season 1 World&apos;s Best\r\n#cArch Mage (Ice, Lightning)."/>
-	</imgdir>
-	<imgdir name="5010231">
-		<string name="name" value="World&apos;s Best Evan"/>
-		<string name="desc" value="Season 1 World&apos;s Best #cEvan."/>
-	</imgdir>
-	<imgdir name="5010232">
-		<string name="name" value="World&apos;s Best Angelic Buster"/>
-		<string name="desc" value="Season 1 World&apos;s Best\r\n#cAngelic Buster."/>
-	</imgdir>
-	<imgdir name="5010233">
-		<string name="name" value="World&apos;s Best Wild Hunter"/>
-		<string name="desc" value="Season 1 World&apos;s Best #cWild Hunter."/>
-	</imgdir>
-	<imgdir name="5010234">
-		<string name="name" value="World&apos;s Best Wind Archer"/>
-		<string name="desc" value="Season 1 World&apos;s Best\r\n#cWind Archer."/>
-	</imgdir>
-	<imgdir name="5010235">
-		<string name="name" value="World&apos;s Best Shade"/>
-		<string name="desc" value="Season 1 World&apos;s Best #cShade."/>
-	</imgdir>
-	<imgdir name="5010236">
-		<string name="name" value="World&apos;s Best Illium"/>
-		<string name="desc" value="Season 1 World&apos;s Best #cIllium."/>
-	</imgdir>
-	<imgdir name="5010237">
-		<string name="name" value="World&apos;s Best Xenon"/>
-		<string name="desc" value="Season 1 World&apos;s Best #cXenon."/>
-	</imgdir>
-	<imgdir name="5010238">
-		<string name="name" value="World&apos;s Best Zero"/>
-		<string name="desc" value="Season 1 World&apos;s Best #cZero."/>
-	</imgdir>
-	<imgdir name="5010239">
-		<string name="name" value="World&apos;s Best Cadena"/>
-		<string name="desc" value="Season 1 World&apos;s Best #cCadena."/>
-	</imgdir>
-	<imgdir name="5010240">
-		<string name="name" value="World&apos;s Best Kaiser"/>
-		<string name="desc" value="Season 1 World&apos;s Best #cKaiser."/>
-	</imgdir>
-	<imgdir name="5010241">
-		<string name="name" value="World&apos;s Best Kain"/>
-		<string name="desc" value="Season 1 World&apos;s Best #cKain."/>
-	</imgdir>
-	<imgdir name="5010242">
-		<string name="name" value="World&apos;s Best Cannoneer"/>
-		<string name="desc" value="Season 1 World&apos;s Best #cCannoneer."/>
-	</imgdir>
-	<imgdir name="5010243">
-		<string name="name" value="World&apos;s Best Corsair"/>
-		<string name="desc" value="Season 1 World&apos;s Best #cCorsair."/>
-	</imgdir>
-	<imgdir name="5010244">
-		<string name="name" value="World&apos;s Best Kinesis"/>
-		<string name="desc" value="Season 1 World&apos;s Best #cKinesis."/>
-	</imgdir>
-	<imgdir name="5010245">
-		<string name="name" value="World&apos;s Best Paladin"/>
-		<string name="desc" value="Season 1 World&apos;s Best #cPaladin."/>
-	</imgdir>
-	<imgdir name="5010246">
-		<string name="name" value="World&apos;s Best Pathfinder"/>
-		<string name="desc" value="Season 1 World&apos;s Best #cPathfinder."/>
-	</imgdir>
-	<imgdir name="5010247">
-		<string name="name" value="World&apos;s Best Phantom"/>
-		<string name="desc" value="Season 1 World&apos;s Best #cPhantom."/>
-	</imgdir>
-	<imgdir name="5010248">
-		<string name="name" value="World&apos;s Best Blaze Wizard"/>
-		<string name="desc" value="Season 1 World&apos;s Best\r\n#cBlaze Wizard."/>
-	</imgdir>
-	<imgdir name="5010249">
-		<string name="name" value="World&apos;s Best Hoyoung"/>
-		<string name="desc" value="Season 1 World&apos;s Best #cHoyoung."/>
-	</imgdir>
-	<imgdir name="5010250">
-		<string name="name" value="World&apos;s Best Hero"/>
-		<string name="desc" value="Season 1 World&apos;s Best #cHero."/>
-	</imgdir>
-	<imgdir name="5680992">
-		<string name="name" value="Spiral Label Ring Coupon (30 Day)"/>
-		<string name="desc" value="Double-click to get the Spiral Label Ring (30 Day)."/>
-	</imgdir>
-	<imgdir name="5680993">
-		<string name="name" value="Spiral Chat Ring Coupon (30 Day)"/>
-		<string name="desc" value="Double-click to get the Spiral Chat Ring (30 Day)."/>
+	<imgdir name="5680998">
+		<string name="name" value="Celine Hair Selection Coupon (F)"/>
+		<string name="desc" value="#cDouble-click# to select either the Celine Hair Coupon or Foggy Celine Hair Coupon."/>
 	</imgdir>
 	<imgdir name="5010008">
 		<string name="name" value="Mr. Jackpot"/>
@@ -9342,7 +9394,7 @@ ATT, MATT + 100"/>
 	</imgdir>
 	<imgdir name="5211046">
 		<string name="name" value="1-day 2x EXP Special Coupon"/>
-		<string name="desc" value="This coupon allows you to earn #c2x Exp (double experience)#. The coupon will be activated immediately after purchase, and the double experience effect will be active for the next 24 hours. \n\n#c*Cannot be used on characters Lv. 250 and above. Unable to move from Cash Inventory to Cash tab.#"/>
+		<string name="desc" value="This coupon allows you to earn #c2x Exp (double experience)#. The coupon will be activated immediately after purchase, and the double experience effect will be active for the next 24 hours. \n\n#c*Characters of Lv. 250 and above cannot use this coupon, nor can they move it from their Cash Inventory to their Cash tab.#"/>
 	</imgdir>
 	<imgdir name="5211047">
 		<string name="name" value="2x EXP 3 Hours Special Coupon "/>
@@ -9350,7 +9402,7 @@ ATT, MATT + 100"/>
 	</imgdir>
 	<imgdir name="5211048">
 		<string name="name" value="4-hour 2x EXP Special Coupon"/>
-		<string name="desc" value="This coupon allows you to earn #c2x Exp (double experience)#. The coupon will be activated immediately after purchase, and the double experience effect will be active for the next 4 hours. \n\n#c*Cannot be used on characters Lv. 250 and above. Unable to move from Cash Inventory to Cash tab.#"/>
+		<string name="desc" value="This coupon allows you to earn #c2x Exp (double experience)#. The coupon will be activated immediately after purchase, and the double experience effect will be active for the next 4 hours. \n\n#c*Characters of Lv. 250 and above cannot use this coupon, nor can they move it from their Cash Inventory to their Cash tab.#"/>
 	</imgdir>
 	<imgdir name="5211049">
 		<string name="name" value="7-Eleven 2x EXP Card - 90 Minutes"/>
@@ -13516,7 +13568,7 @@ Upon using the cube, the value of all potentials #cwill become consistent with t
 		<string name="desc" value="This Explorer Mass Fashion Box has been specially curated to commemorate the Explorer Redux release. Contains #c1 of the 11 random fashion items#."/>
 	</imgdir>
 	<imgdir name="5240228">
-		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="Sweet Melody"/>
 		<string name="desc" value="A sweet melody that only #cLil Symphony pets# can eat. Recovers Fullness completely and#c increases Closeness by 100.#"/>
 	</imgdir>
 	<imgdir name="5538481">
@@ -13763,67 +13815,6 @@ Upon using the cube, the value of all potentials #cwill become consistent with t
 		<string name="name" value="Sanitizer"/>
 		<string name="desc" value="A sanitizer beloved by the #cLive Mesol# pets. Restores Fullness completely and#c increases Closeness by 100#."/>
 	</imgdir>
-	<imgdir name="5681000">
-		<string name="name" value="[BLACKPINK] BLACK Damage Skin (Unit)"/>
-		<string name="desc" value="Applies the [BLACKPINK] BLACK Damage Skin (Unit).\r\n#cOnce used, it will remain applied until replaced by another damage skin.#"/>
-	</imgdir>
-	<imgdir name="5681001">
-		<string name="name" value="[BLACKPINK] PINK Damage Skin (Unit)"/>
-		<string name="desc" value="Applies the [BLACKPINK] PINK Damage Skin (Unit).\r\n#cOnce used, it will remain applied until replaced by another damage skin.#"/>
-		<int name="fixWidth" value="320"/>
-	</imgdir>
-	<imgdir name="5681002">
-		<string name="name" value="[BLACKPINK] BLACK Title Coupon"/>
-		<string name="desc" value="#cDouble-click# to obtain a #cBLACK# Title (Permanent, Stats Duration: 60 Days). The obtained title cannot be traded."/>
-		<string name="desc_leftalign" value="#c[BLACK Title Stats]\n10% Additional EXP\nAttack Power &amp; Magic ATT +15\nAll Stats +15\nBoss Damage +10%\nIgnore Defense +10%\nMax HP/Max MP +750\nStar Force +30\nArcane Power +50\nStats Duration: 60 Days"/>
-	</imgdir>
-	<imgdir name="5681003">
-		<string name="name" value="[BLACKPINK] PINK Title Coupon"/>
-		<string name="desc" value="#cDouble-click# to obtain a #cPINK# Title (Permanent, Stats Duration: 60 Days). The obtained title cannot be traded."/>
-		<string name="desc_leftalign" value="#c[PINK Title Stats]\n10% Additional EXP\nAttack Power &amp; Magic ATT +15\nAll Stats +15\nBoss Damage +10%\nIgnore Defense +10%\nMax HP/Max MP +750\nStar Force +30\nArcane Power +50\nStats Duration: 60 Days"/>
-	</imgdir>
-	<imgdir name="5681004">
-		<string name="name" value="[BLACKPINK] BLACK Medal Coupon"/>
-		<string name="desc" value="#cDouble-click# to obtain a #cBLACK# Medal (Permanent). The obtained medal cannot be traded."/>
-		<string name="desc_leftalign" value="#c[BLACK Medal Stats]\nSTR: +6\nDEX: +6\nINT: +6\nLUK: +6\nMax HP: +808\nMax MP: +808\nAttack Power: +3\nMagic ATT: +3\nDefense: +808"/>
-	</imgdir>
-	<imgdir name="5681005">
-		<string name="name" value="[BLACKPINK] PINK Medal Coupon"/>
-		<string name="desc" value="#cDouble-click# to obtain a #cPINK# Medal (Permanent). The obtained medal cannot be traded."/>
-		<string name="desc_leftalign" value="#c[PINK Medal Stats]\nSTR: +6\nDEX: +6\nINT: +6\nLUK: +6\nMax HP: +808\nMax MP: +808\nAttack Power: +3\nMagic ATT: +3\nDefense: +808"/>
-	</imgdir>
-	<imgdir name="5681006">
-		<string name="name" value="[BLACKPINK] Dark Venom Effect Coupon"/>
-		<string name="desc" value="#cDouble-click# to acquire the #Dark Venom effect#."/>
-	</imgdir>
-	<imgdir name="5681007">
-		<string name="name" value="[BLACKPINK] Pew Pew PINK Effect Coupon"/>
-		<string name="desc" value="#cDouble-click# to acquire the #Pew Pew PINK effect#."/>
-	</imgdir>
-	<imgdir name="5150210">
-		<string name="name" value="[BLACKPINK] BLINK Hair Coupon (M)"/>
-		<string name="desc" value="#cDouble-click# to change the hairstyle to #cBLINK Hair (M)# once.\nTalk to Lauren at the Henesys Hair Salon to change your Android&apos;s hair."/>
-	</imgdir>
-	<imgdir name="5150211">
-		<string name="name" value="[BLACKPINK] BLINK Hair Coupon (F)"/>
-		<string name="desc" value="#cDouble-click# to change the hairstyle to #cBLINK Hair (F)# once.\nTalk to Lauren at the Henesys Hair Salon to change your Android&apos;s hair."/>
-	</imgdir>
-	<imgdir name="5152280">
-		<string name="name" value="[BLACKPINK] BLINK Face Coupon (M)"/>
-		<string name="desc" value="#cDouble-click# to change the face to #cBLINK Face (M)# once. Talk to Lauren at the Henesys Hair Salon to change your Android&apos;s hair."/>
-	</imgdir>
-	<imgdir name="5152281">
-		<string name="name" value="[BLACKPINK] BLINK Face Coupon (F)"/>
-		<string name="desc" value="#cDouble-click# to change the face to #cBLINK Face (F)# once. Talk to Lauren at the Henesys Hair Salon to change your Android&apos;s hair."/>
-	</imgdir>
-	<imgdir name="5010251">
-		<string name="name" value="[BLACKPINK] Dark Venom Effect"/>
-		<string name="desc" value="A special Dark Venom effect. Double-click to toggle the effect on/off, or set up a hotkey for it in your Key Config."/>
-	</imgdir>
-	<imgdir name="5010252">
-		<string name="name" value="[BLACKPINK] Pew Pew PINK Effect"/>
-		<string name="desc" value="A special Pew Pew PINK effect shines bright. Double-click to toggle the effect, or set up a hotkey for it in your Key Config."/>
-	</imgdir>
 	<imgdir name="5062028">
 		<string name="name" value="Glowing Cube"/>
 		<string name="desc" value="A beautifully crafted cube that reconfigures the Potential on a piece of equipment. \n#cOnly usable on items from Rare to Legendary.# \n#cCan increase up to 2 ranks according to set probability rates.# \n#cMax Result: Legendary#"/>
@@ -13855,5 +13846,114 @@ Upon using the cube, the value of all potentials #cwill become consistent with t
 	<imgdir name="5240239">
 		<string name="name" value="Mealworm for Lizards"/>
 		<string name="desc" value="Beloved by#c Lil Evil Eye# pets. Recovers Fullness completely and #cincreases Closeness by 100#."/>
+	</imgdir>
+	<imgdir name="5152049">
+		<string name="name" value="Tutorial Face Coupon"/>
+		<string name="desc" value="This is the practice coupon for the Beauty Salon. #cDon&apos;t forget to save your current hair/face before you use it.#"/>
+	</imgdir>
+	<imgdir name="5240240">
+		<string name="name" value="Digital Duck Rice Grain"/>
+		<string name="desc" value="#cDigital Duck# pets love this delicious snack. Recovers Fullness completely and #cincreases Closeness by 100#."/>
+	</imgdir>
+	<imgdir name="5010251">
+		<string name="name" value="[BLACKPINK] Dark Venom Effect"/>
+		<string name="desc" value="A special Dark Venom effect. Double-click to toggle the effect on/off, or set up a hotkey for it in your Key Config."/>
+	</imgdir>
+	<imgdir name="5010252">
+		<string name="name" value="[BLACKPINK] Pew Pew PINK Effect"/>
+		<string name="desc" value="A special Pew Pew PINK effect shines bright. Double-click to toggle the effect, or set up a hotkey for it in your Key Config."/>
+	</imgdir>
+	<imgdir name="5150210">
+		<string name="name" value="[BLACKPINK] BLINK Hair Coupon (M)"/>
+		<string name="desc" value="#cDouble-click# to change the hairstyle to #cBLINK Hair (M)# once.\nTalk to Lauren at the Henesys Hair Salon to change your Android&apos;s hair."/>
+	</imgdir>
+	<imgdir name="5150211">
+		<string name="name" value="[BLACKPINK] BLINK Hair Coupon (F)"/>
+		<string name="desc" value="#cDouble-click# to change the hairstyle to #cBLINK Hair (F)# once.\nTalk to Lauren at the Henesys Hair Salon to change your Android&apos;s hair."/>
+	</imgdir>
+	<imgdir name="5152280">
+		<string name="name" value="[BLACKPINK] BLINK Face Coupon (M)"/>
+		<string name="desc" value="#cDouble-click# to change the face to #cBLINK Face (M)# once. Talk to Lauren at the Henesys Hair Salon to change your Android&apos;s look."/>
+	</imgdir>
+	<imgdir name="5152281">
+		<string name="name" value="[BLACKPINK] BLINK Face Coupon (F)"/>
+		<string name="desc" value="#cDouble-click# to change the face to #cBLINK Face (F)# once. Talk to Lauren at the Henesys Hair Salon to change your Android&apos;s look."/>
+	</imgdir>
+	<imgdir name="5681000">
+		<string name="name" value="[BLACKPINK] BLACK Damage Skin (Unit)"/>
+		<string name="desc" value="Applies the [BLACKPINK] BLACK Damage Skin (Unit).\r\n#cOnce used, it will remain applied until replaced by another damage skin.#"/>
+	</imgdir>
+	<imgdir name="5681001">
+		<string name="name" value="[BLACKPINK] PINK Damage Skin (Unit)"/>
+		<string name="desc" value="Applies the [BLACKPINK] PINK Damage Skin (Unit).\r\n#cOnce used, it will remain applied until replaced by another damage skin.#"/>
+		<int name="fixWidth" value="320"/>
+	</imgdir>
+	<imgdir name="5681002">
+		<string name="name" value="[BLACKPINK] BLACK Title Coupon"/>
+		<string name="desc" value="#cDouble-click# to obtain a #cBLACK# Title (Permanent, Stats Duration: 60 Days). The obtained title cannot be traded."/>
+		<string name="desc_leftalign" value="#c[BLACK Title Stats]\n10% Additional EXP\nAttack Power &amp; Magic ATT +15\nAll Stats +15\nBoss Damage +10%\nIgnore Defense +10%\nMax HP/Max MP +750\nStar Force +30\nArcane Power +50\nStats Duration: 60 Days"/>
+	</imgdir>
+	<imgdir name="5681003">
+		<string name="name" value="[BLACKPINK] PINK Title Coupon"/>
+		<string name="desc" value="#cDouble-click# to obtain a #cPINK# Title (Permanent, Stats Duration: 60 Days). The obtained title cannot be traded."/>
+		<string name="desc_leftalign" value="#c[PINK Title Stats]\n10% Additional EXP\nAttack Power &amp; Magic ATT +15\nAll Stats +15\nBoss Damage +10%\nIgnore Defense +10%\nMax HP/Max MP +750\nStar Force +30\nArcane Power +50\nStats Duration: 60 Days"/>
+	</imgdir>
+	<imgdir name="5681004">
+		<string name="name" value="[BLACKPINK] BLACK Medal Coupon"/>
+		<string name="desc" value="#cDouble-click# to receive the Permanent #cBlack Swan# Medal. The obtained medal cannot be traded."/>
+		<string name="desc_leftalign" value="#c[BLACK Medal Stats]\nSTR: +6\nDEX: +6\nINT: +6\nLUK: +6\nMax HP: +808\nMax MP: +808\nAttack Power: +3\nMagic ATT: +3\nDefense: +808"/>
+	</imgdir>
+	<imgdir name="5681005">
+		<string name="name" value="[BLACKPINK] PINK Medal Coupon"/>
+		<string name="desc" value="#cDouble-click# to receive the Permanent #cBlack Swan# Medal. The obtained medal cannot be traded."/>
+		<string name="desc_leftalign" value="#c[PINK Medal Stats]\nSTR: +6\nDEX: +6\nINT: +6\nLUK: +6\nMax HP: +808\nMax MP: +808\nAttack Power: +3\nMagic ATT: +3\nDefense: +808"/>
+	</imgdir>
+	<imgdir name="5681006">
+		<string name="name" value="[BLACKPINK] Dark Venom Effect Coupon"/>
+		<string name="desc" value="#cDouble-click# to acquire the #Dark Venom effect#."/>
+	</imgdir>
+	<imgdir name="5681007">
+		<string name="name" value="[BLACKPINK] Pew Pew PINK Effect Coupon"/>
+		<string name="desc" value="#cDouble-click# to acquire the #Pew Pew PINK effect#."/>
+	</imgdir>
+	<imgdir name="5222211">
+		<string name="name" value="Savior Surprise Style Box"/>
+		<string name="desc" value="This box contains random items in celebration of the Savior patch."/>
+	</imgdir>
+	<imgdir name="5240241">
+		<string name="name" value="Soft and Clean Soap"/>
+		<string name="desc" value="A Soft and Clean Soap beloved by the #cLoofah# pets. Completely restores Fullness and#c increases Closeness by 100#."/>
+	</imgdir>
+	<imgdir name="5538637">
+		<string name="name" value="Desert Rabbit Chat Emoticon (We&apos;re A Perfect Pair)"/>
+		<string name="desc" value="#cDouble-click# to obtain #cDesert Rabbit Chat Emoticon (We&apos;re A Perfect Pair)#."/>
+	</imgdir>
+	<imgdir name="5538638">
+		<string name="name" value="Desert Rabbit Chat Emoticon (What?)"/>
+		<string name="desc" value="#cDouble-click# to obtain #cDesert Rabbit Chat Emoticon (What?)#."/>
+	</imgdir>
+	<imgdir name="5538639">
+		<string name="name" value="Desert Rabbit Chat Emoticon (Go Go)"/>
+		<string name="desc" value="#cDouble-click# to obtain #cDesert Rabbit Chat Emoticon (Go Go)#."/>
+	</imgdir>
+	<imgdir name="5538640">
+		<string name="name" value="Desert Rabbit Chat Emoticon (I&apos;m Bored)"/>
+		<string name="desc" value="#cDouble-click# to obtain #cDesert Rabbit Chat Emoticon (I&apos;m Bored)#."/>
+	</imgdir>
+	<imgdir name="5538641">
+		<string name="name" value="Desert Rabbit Chat Emoticon (I&apos;m So Sad)"/>
+		<string name="desc" value="#cDouble-click# to obtain #cDesert Rabbit Chat Emoticon (I&apos;m So Sad)#."/>
+	</imgdir>
+	<imgdir name="5538642">
+		<string name="name" value="Desert Rabbit Chat Emoticon (Relaxed)"/>
+		<string name="desc" value="#cDouble-click# to obtain #cDesert Rabbit Chat Emoticon (Relaxed)#."/>
+	</imgdir>
+	<imgdir name="5240242">
+		<string name="name" value="Camel&apos;s Desert Grass"/>
+		<string name="desc" value="Desert Grass loved by #cDesert Camels#. Recovers Fullness completely and #cincreases Closeness by 100#."/>
+	</imgdir>
+	<imgdir name="5010266">
+		<string name="name" value="Cerberus Symbol"/>
+		<string name="desc" value="Summon a Cerberus Symbol. Double-click to toggle the effect, or set up a hotkey for it in your Key Config."/>
 	</imgdir>
 </imgdir>

@@ -426,8 +426,8 @@
 					<string name="Desc" value="The higher your Critical Damage, the more damage your Critical attacks inflict. This value is added to your base Critical Damage multiplier of 20-50%. This value does not affect normal Damage. You can enhance this value with skills or items."/>
 				</imgdir>
 				<imgdir name="7">
-					<vector name="lt" x="12" y="167"/>
-					<vector name="rb" x="73" y="182"/>
+					<vector name="lt" x="12" y="185"/>
+					<vector name="rb" x="73" y="200"/>
 					<string name="Title" value="Status Resistance"/>
 					<string name="Desc" value="Your Status Resistance determines the amount of time Abnormal Statuses affect you. Higher values result in shorter durations. You can enhance this value with skills or items.\nAbnormal Status durations are currently reduced by %d%%."/>
 					<string name="info" value="Abnormal Status Resistance string must be fixed at number 7"/>
@@ -439,44 +439,44 @@
 					<int name="NoTitle" value="1"/>
 				</imgdir>
 				<imgdir name="9">
-					<vector name="lt" x="183" y="167"/>
-					<vector name="rb" x="227" y="182"/>
+					<vector name="lt" x="183" y="185"/>
+					<vector name="rb" x="227" y="200"/>
 					<string name="info" value="Displays excess of 100% Knockback Resistance"/>
 					<int name="NoTitle" value="1"/>
 				</imgdir>
 				<imgdir name="10">
-					<vector name="lt" x="124" y="167"/>
-					<vector name="rb" x="185" y="182"/>
+					<vector name="lt" x="124" y="185"/>
+					<vector name="rb" x="185" y="200"/>
 					<string name="Title" value="Knockback Resistance"/>
 					<string name="Desc" value="Your chance to resist being pushed back by monster attacks. You can enhance this value with skills (max: 100%)."/>
 				</imgdir>
 				<imgdir name="11">
-					<vector name="lt" x="12" y="185"/>
-					<vector name="rb" x="73" y="200"/>
+					<vector name="lt" x="12" y="203"/>
+					<vector name="rb" x="73" y="218"/>
 					<string name="Title" value="Defense"/>
 					<string name="Desc" value="The higher your Defense, the less damage you take from enemies. Some enemy attacks can pierce through Defense. Determined by adding the total combined Defense of your equipment to your base Defense."/>
 				</imgdir>
 				<imgdir name="12">
-					<vector name="lt" x="12" y="203"/>
-					<vector name="rb" x="73" y="218"/>
+					<vector name="lt" x="12" y="221"/>
+					<vector name="rb" x="73" y="236"/>
 					<string name="Title" value="Speed"/>
 					<string name="Desc" value="Your movement speed. Can be increased to a max of 140% normally. Skills and equipment can boost this even further. Can be increased to 190% while riding a mount."/>
 				</imgdir>
 				<imgdir name="13">
-					<vector name="lt" x="12" y="221"/>
-					<vector name="rb" x="73" y="236"/>
+					<vector name="lt" x="12" y="239"/>
+					<vector name="rb" x="73" y="254"/>
 					<string name="Title" value="Jump"/>
 					<string name="Desc" value="How high you can jump. Can be increased to a max of 123%. Skills and equipment can be used to increase or decrease your Jump."/>
 				</imgdir>
 				<imgdir name="14">
-					<vector name="lt" x="12" y="252"/>
-					<vector name="rb" x="230" y="276"/>
+					<vector name="lt" x="12" y="270"/>
+					<vector name="rb" x="230" y="294"/>
 					<string name="Title" value="Ability"/>
 					<string name="Desc" value="Your latent abilities. These abilities open up upon reaching level 50, and can be reset with Honor EXP or a Circulator."/>
 				</imgdir>
 				<imgdir name="15">
-					<vector name="lt" x="12" y="340"/>
-					<vector name="rb" x="73" y="350"/>
+					<vector name="lt" x="12" y="358"/>
+					<vector name="rb" x="73" y="368"/>
 					<string name="Title" value="Honor EXP"/>
 					<string name="Desc" value="Used to reset your abilities. Honor EXP can be obtained by leveling up normally or finding Medal of Honor drops from monsters."/>
 				</imgdir>
@@ -498,6 +498,24 @@
 					<string name="Title" value="Mesos Obtained"/>
 					<string name="Desc" value="The higher the Mesos Obtained, the more Mesos monsters drop when defeated. The final value is determined by multiplying the basic obtainable Mesos by any Wealth Acquisition Potion value, then by additionally multiplying the sum of the remaining values. Additive values can combine to increase the value by up to 300%. Consumable items, with the exception of the Wealth Acquisition Potion, can only increase the value by up to 100%. Item potential can increase the value by up to 100%."/>
 					<string name="DescReboot" value="The higher the Mesos Obtained, the more Mesos monsters drop when defeated. The final value is determined by multiplying the basic obtainable Mesos by any Wealth Acquisition Potion value and Reboot passive value, then by additionally multiplying the sum of the remaining values. Additive values can combine to increase the value by up to 300%. Consumable items, with the exception of the Wealth Acquisition Potion, can only increase the value by up to 100%. Item potential can increase the value by up to 100%."/>
+				</imgdir>
+				<imgdir name="19">
+					<vector name="lt" x="12" y="167"/>
+					<vector name="rb" x="73" y="182"/>
+					<string name="Title" value="ATT"/>
+					<string name="Desc" value="Displays the current character&apos;s Attack Power. The final value is determined by the Attack Power sum and the Attack Power % increase multiplication. However, Pipsqueak Luminous (Equilibrium) from Monster Life and the Attack Power increase per level stat from Ability are excluded from the multiplication."/>
+				</imgdir>
+				<imgdir name="20">
+					<vector name="lt" x="124" y="167"/>
+					<vector name="rb" x="185" y="182"/>
+					<string name="Title" value="Magic ATT"/>
+					<string name="Desc" value="Displays the current character&apos;s Magic ATT. The final value is determined by the Magic ATT sum and the Magic ATT % increase multiplication. However, Pipsqueak Luminous (Equilibrium) from Monster Life and the Magic ATT increase per level stat from Ability are excluded from the multiplication."/>
+				</imgdir>
+				<imgdir name="21">
+					<vector name="lt" x="124" y="149"/>
+					<vector name="rb" x="185" y="164"/>
+					<string name="Title" value="Attack Speed"/>
+					<string name="Desc" value="Displays the current character&apos;s Attack Speed. Attack Speed +1 is the slowest while +8 is the highest. It increases with the equipped weapon&apos;s Attack Speed, skills, consumables, and Ability. However, Magician jobs are not affected by the weapon Attack Speed."/>
 				</imgdir>
 			</imgdir>
 			<imgdir name="StatDetail2">
@@ -544,8 +562,8 @@
 					<string name="Desc" value="The higher your Critical Damage, the more damage your Critical attacks inflict. This value is added to your base Critical Damage multiplier of 20-50%. This value does not affect normal Damage. You can enhance this value with skills or items."/>
 				</imgdir>
 				<imgdir name="7">
-					<vector name="lt" x="12" y="167"/>
-					<vector name="rb" x="73" y="182"/>
+					<vector name="lt" x="12" y="185"/>
+					<vector name="rb" x="73" y="200"/>
 					<string name="Title" value="Status Resistance"/>
 					<string name="Desc" value="Your Status Resistance determines the amount of time Abnormal Statuses affect you. Higher values result in shorter durations. You can enhance this value with skills or items.\nAbnormal Status durations are currently reduced by %d%%."/>
 					<string name="info" value="Abnormal Status Resistance string must be fixed at number 7"/>
@@ -557,44 +575,44 @@
 					<int name="NoTitle" value="1"/>
 				</imgdir>
 				<imgdir name="9">
-					<vector name="lt" x="183" y="167"/>
-					<vector name="rb" x="227" y="182"/>
+					<vector name="lt" x="183" y="185"/>
+					<vector name="rb" x="227" y="200"/>
 					<string name="info" value="Displays excess of 100% Knockback Resistance"/>
 					<int name="NoTitle" value="1"/>
 				</imgdir>
 				<imgdir name="10">
-					<vector name="lt" x="124" y="167"/>
-					<vector name="rb" x="185" y="182"/>
+					<vector name="lt" x="124" y="185"/>
+					<vector name="rb" x="185" y="200"/>
 					<string name="Title" value="Knockback Resistance"/>
 					<string name="Desc" value="Your chance to resist being pushed back by monster attacks. You can enhance this value with skills (max: 100%)."/>
 				</imgdir>
 				<imgdir name="11">
-					<vector name="lt" x="12" y="185"/>
-					<vector name="rb" x="73" y="200"/>
+					<vector name="lt" x="12" y="203"/>
+					<vector name="rb" x="73" y="218"/>
 					<string name="Title" value="Defense"/>
 					<string name="Desc" value="The higher your Defense, the less damage you take from enemies. Some enemy attacks can pierce through Defense. Determined by adding the total combined Defense of your equipment to your base Defense."/>
 				</imgdir>
 				<imgdir name="12">
-					<vector name="lt" x="12" y="203"/>
-					<vector name="rb" x="73" y="218"/>
+					<vector name="lt" x="12" y="221"/>
+					<vector name="rb" x="73" y="236"/>
 					<string name="Title" value="Speed"/>
 					<string name="Desc" value="Your movement speed. Can be increased to a max of 140% normally. Skills and equipment can boost this even further. Can be increased to 190% while riding a mount."/>
 				</imgdir>
 				<imgdir name="13">
-					<vector name="lt" x="12" y="221"/>
-					<vector name="rb" x="73" y="236"/>
+					<vector name="lt" x="12" y="239"/>
+					<vector name="rb" x="73" y="254"/>
 					<string name="Title" value="Jump"/>
 					<string name="Desc" value="How high you can jump. Can be increased to a max of 123%. Skills and equipment can be used to increase or decrease your Jump."/>
 				</imgdir>
 				<imgdir name="14">
-					<vector name="lt" x="12" y="252"/>
-					<vector name="rb" x="230" y="276"/>
+					<vector name="lt" x="12" y="270"/>
+					<vector name="rb" x="230" y="294"/>
 					<string name="Title" value="Ability"/>
 					<string name="Desc" value="Your latent abilities. These abilities open up upon reaching level 50, and can be reset with Honor EXP or a Circulator."/>
 				</imgdir>
 				<imgdir name="15">
-					<vector name="lt" x="12" y="340"/>
-					<vector name="rb" x="73" y="350"/>
+					<vector name="lt" x="12" y="358"/>
+					<vector name="rb" x="73" y="368"/>
 					<string name="Title" value="Honor EXP"/>
 					<string name="Desc" value="Used to reset your abilities. Honor EXP can be obtained by leveling up normally or finding Medal of Honor drops from monsters."/>
 				</imgdir>
@@ -618,8 +636,26 @@
 					<string name="DescReboot" value="The higher the Mesos Obtained, the more Mesos monsters drop when defeated. The final value is determined by multiplying the basic obtainable Mesos by any Wealth Acquisition Potion value and Reboot passive value, then by additionally multiplying the sum of the remaining values. Additive values can combine to increase the value by up to 300%. Consumable items, with the exception of the Wealth Acquisition Potion, can only increase the value by up to 100%. Item potential can increase the value by up to 100%."/>
 				</imgdir>
 				<imgdir name="19">
-					<vector name="lt" x="124" y="185"/>
-					<vector name="rb" x="185" y="200"/>
+					<vector name="lt" x="12" y="167"/>
+					<vector name="rb" x="73" y="182"/>
+					<string name="Title" value="ATT"/>
+					<string name="Desc" value="Displays the current character&apos;s Attack Power. The final value is determined by the Attack Power sum and the Attack Power % increase multiplication. However, Pipsqueak Luminous (Equilibrium) from Monster Life and the Attack Power increase per level stat from Ability are excluded from the multiplication."/>
+				</imgdir>
+				<imgdir name="20">
+					<vector name="lt" x="124" y="167"/>
+					<vector name="rb" x="185" y="182"/>
+					<string name="Title" value="Magic ATT"/>
+					<string name="Desc" value="Displays the current character&apos;s Magic ATT. The final value is determined by the Magic ATT sum and the Magic ATT % increase multiplication. However, Pipsqueak Luminous (Equilibrium) from Monster Life and the Magic ATT increase per level stat from Ability are excluded from the multiplication."/>
+				</imgdir>
+				<imgdir name="21">
+					<vector name="lt" x="124" y="149"/>
+					<vector name="rb" x="185" y="164"/>
+					<string name="Title" value="Attack Speed"/>
+					<string name="Desc" value="Displays the current character&apos;s Attack Speed. Attack Speed +1 is the slowest while +8 is the highest. It increases with the equipped weapon&apos;s Attack Speed, skills, consumables, and Ability. However, Magician jobs are not affected by the weapon Attack Speed."/>
+				</imgdir>
+				<imgdir name="22">
+					<vector name="lt" x="124" y="203"/>
+					<vector name="rb" x="185" y="218"/>
 					<string name="Title" value="Star Force"/>
 					<string name="Desc" value="In Star Force areas, if you have less Star Force than the monsters do, you&apos;ll deal less damage to them. When you have more Star Force than a monster, you can attack through that monster&apos;s shield. Can be increased by equipping items with Star Force enhancement. Doubled for Overall equipment."/>
 				</imgdir>
@@ -668,8 +704,8 @@
 					<string name="Desc" value="The higher your Critical Damage, the more damage your Critical attacks inflict. This value is added to your base Critical Damage multiplier of 20-50%. This value does not affect normal Damage. You can enhance this value with skills or items."/>
 				</imgdir>
 				<imgdir name="7">
-					<vector name="lt" x="12" y="167"/>
-					<vector name="rb" x="73" y="182"/>
+					<vector name="lt" x="12" y="185"/>
+					<vector name="rb" x="73" y="200"/>
 					<string name="Title" value="Status Resistance"/>
 					<string name="Desc" value="Your Status Resistance determines the amount of time Abnormal Statuses affect you. Higher values result in shorter durations. You can enhance this value with skills or items.\nAbnormal Status durations are currently reduced by %d%%."/>
 					<string name="info" value="Abnormal Status Resistance string must be fixed at number 7"/>
@@ -681,44 +717,44 @@
 					<int name="NoTitle" value="1"/>
 				</imgdir>
 				<imgdir name="9">
-					<vector name="lt" x="183" y="167"/>
-					<vector name="rb" x="227" y="182"/>
+					<vector name="lt" x="183" y="185"/>
+					<vector name="rb" x="227" y="200"/>
 					<string name="info" value="Displays excess of 100% Knockback Resistance"/>
 					<int name="NoTitle" value="1"/>
 				</imgdir>
 				<imgdir name="10">
-					<vector name="lt" x="124" y="167"/>
-					<vector name="rb" x="185" y="182"/>
+					<vector name="lt" x="124" y="185"/>
+					<vector name="rb" x="185" y="200"/>
 					<string name="Title" value="Knockback Resistance"/>
 					<string name="Desc" value="Your chance to resist being pushed back by monster attacks. You can enhance this value with skills (max: 100%)."/>
 				</imgdir>
 				<imgdir name="11">
-					<vector name="lt" x="12" y="185"/>
-					<vector name="rb" x="73" y="200"/>
+					<vector name="lt" x="12" y="203"/>
+					<vector name="rb" x="73" y="218"/>
 					<string name="Title" value="Defense"/>
 					<string name="Desc" value="The higher your Defense, the less damage you take from enemies. Some enemy attacks can pierce through Defense. Determined by adding the total combined Defense of your equipment to your base Defense."/>
 				</imgdir>
 				<imgdir name="12">
-					<vector name="lt" x="12" y="203"/>
-					<vector name="rb" x="73" y="218"/>
+					<vector name="lt" x="12" y="221"/>
+					<vector name="rb" x="73" y="236"/>
 					<string name="Title" value="Speed"/>
 					<string name="Desc" value="Your movement speed. Can be increased to a max of 140% normally. Skills and equipment can boost this even further. Can be increased to 190% while riding a mount."/>
 				</imgdir>
 				<imgdir name="13">
-					<vector name="lt" x="12" y="221"/>
-					<vector name="rb" x="73" y="236"/>
+					<vector name="lt" x="12" y="239"/>
+					<vector name="rb" x="73" y="254"/>
 					<string name="Title" value="Jump"/>
 					<string name="Desc" value="How high you can jump. Can be increased to a max of 123%. Skills and equipment can be used to increase or decrease your Jump."/>
 				</imgdir>
 				<imgdir name="14">
-					<vector name="lt" x="12" y="252"/>
-					<vector name="rb" x="230" y="276"/>
+					<vector name="lt" x="12" y="270"/>
+					<vector name="rb" x="230" y="294"/>
 					<string name="Title" value="Ability"/>
 					<string name="Desc" value="Your latent abilities. These abilities open up upon reaching level 50, and can be reset with Honor EXP or a Circulator."/>
 				</imgdir>
 				<imgdir name="15">
-					<vector name="lt" x="12" y="340"/>
-					<vector name="rb" x="73" y="350"/>
+					<vector name="lt" x="12" y="358"/>
+					<vector name="rb" x="73" y="368"/>
 					<string name="Title" value="Honor EXP"/>
 					<string name="Desc" value="Used to reset your abilities. Honor EXP can be obtained by leveling up normally or finding Medal of Honor drops from monsters."/>
 				</imgdir>
@@ -742,14 +778,32 @@
 					<string name="DescReboot" value="The higher the Mesos Obtained, the more Mesos monsters drop when defeated. The final value is determined by multiplying the basic obtainable Mesos by any Wealth Acquisition Potion value and Reboot passive value, then by additionally multiplying the sum of the remaining values. Additive values can combine to increase the value by up to 300%. Consumable items, with the exception of the Wealth Acquisition Potion, can only increase the value by up to 100%. Item potential can increase the value by up to 100%."/>
 				</imgdir>
 				<imgdir name="19">
-					<vector name="lt" x="124" y="185"/>
-					<vector name="rb" x="185" y="200"/>
+					<vector name="lt" x="12" y="167"/>
+					<vector name="rb" x="73" y="182"/>
+					<string name="Title" value="ATT"/>
+					<string name="Desc" value="Displays the current character&apos;s Attack Power. The final value is determined by the Attack Power sum and the Attack Power % increase multiplication. However, Pipsqueak Luminous (Equilibrium) from Monster Life and the Attack Power increase per level stat from Ability are excluded from the multiplication."/>
+				</imgdir>
+				<imgdir name="20">
+					<vector name="lt" x="124" y="167"/>
+					<vector name="rb" x="185" y="182"/>
+					<string name="Title" value="Magic ATT"/>
+					<string name="Desc" value="Displays the current character&apos;s Magic ATT. The final value is determined by the Magic ATT sum and the Magic ATT % increase multiplication. However, Pipsqueak Luminous (Equilibrium) from Monster Life and the Magic ATT increase per level stat from Ability are excluded from the multiplication."/>
+				</imgdir>
+				<imgdir name="21">
+					<vector name="lt" x="124" y="149"/>
+					<vector name="rb" x="185" y="164"/>
+					<string name="Title" value="Attack Speed"/>
+					<string name="Desc" value="Displays the current character&apos;s Attack Speed. Attack Speed +1 is the slowest while +8 is the highest. It increases with the equipped weapon&apos;s Attack Speed, skills, consumables, and Ability. However, Magician jobs are not affected by the weapon Attack Speed."/>
+				</imgdir>
+				<imgdir name="22">
+					<vector name="lt" x="124" y="203"/>
+					<vector name="rb" x="185" y="218"/>
 					<string name="Title" value="Star Force"/>
 					<string name="Desc" value="In Star Force areas, if you have less Star Force than the monsters do, you&apos;ll deal less damage to them. When you have more Star Force than a monster, you can attack through that monster&apos;s shield. Can be increased by equipping items with Star Force enhancement. Doubled for Overall equipment."/>
 				</imgdir>
-				<imgdir name="20">
-					<vector name="lt" x="124" y="203"/>
-					<vector name="rb" x="185" y="218"/>
+				<imgdir name="23">
+					<vector name="lt" x="124" y="221"/>
+					<vector name="rb" x="185" y="236"/>
 					<string name="Title" value="Arcane Power"/>
 					<string name="Desc" value="In Arcane River areas, if you have less Arcane Power than the monsters do, you&apos;ll deal less damage to them. When you have more Arcane Power than a monster, you can attack through that monster&apos;s shield. Can be increased by obtaining and enhancing Arcane Symbols."/>
 				</imgdir>
@@ -798,8 +852,8 @@
 					<string name="Desc" value="The higher your Critical Damage, the more damage your Critical attacks inflict. This value is added to your base Critical Damage multiplier of 20-50%. This value does not affect normal Damage. You can enhance this value with skills or items."/>
 				</imgdir>
 				<imgdir name="7">
-					<vector name="lt" x="12" y="167"/>
-					<vector name="rb" x="73" y="182"/>
+					<vector name="lt" x="12" y="185"/>
+					<vector name="rb" x="73" y="200"/>
 					<string name="Title" value="Abnormal Status Resistance"/>
 					<string name="Desc" value="Your Abnormal Status Resistance determines the amount of time Abnormal Statuses affect you. Higher values result in shorter durations. You can enhance this value with skills or items.\nAbnormal Status durations are currently reduced by %d%%."/>
 					<string name="info" value="Abnormal Status Resistance string must be fixed at number 7"/>
@@ -811,44 +865,44 @@
 					<int name="NoTitle" value="1"/>
 				</imgdir>
 				<imgdir name="9">
-					<vector name="lt" x="183" y="167"/>
-					<vector name="rb" x="227" y="182"/>
+					<vector name="lt" x="183" y="185"/>
+					<vector name="rb" x="227" y="200"/>
 					<string name="info" value="Displays excess of 100% Knockback Resistance"/>
 					<int name="NoTitle" value="1"/>
 				</imgdir>
 				<imgdir name="10">
-					<vector name="lt" x="124" y="167"/>
-					<vector name="rb" x="185" y="182"/>
+					<vector name="lt" x="124" y="185"/>
+					<vector name="rb" x="185" y="200"/>
 					<string name="Title" value="Knockback Resistance"/>
 					<string name="Desc" value="Your chance to resist being pushed back by monster attacks. You can enhance this value with skills (max: 100%)."/>
 				</imgdir>
 				<imgdir name="11">
-					<vector name="lt" x="12" y="185"/>
-					<vector name="rb" x="73" y="200"/>
+					<vector name="lt" x="12" y="203"/>
+					<vector name="rb" x="73" y="218"/>
 					<string name="Title" value="Defense"/>
 					<string name="Desc" value="The higher your Defense, the less damage you take from enemies. Some enemy attacks can pierce through Defense. Determined by adding the total combined Defense of your equipment to your base Defense."/>
 				</imgdir>
 				<imgdir name="12">
-					<vector name="lt" x="12" y="203"/>
-					<vector name="rb" x="73" y="218"/>
+					<vector name="lt" x="12" y="221"/>
+					<vector name="rb" x="73" y="236"/>
 					<string name="Title" value="Speed"/>
 					<string name="Desc" value="Your movement speed. Can be increased to a max of 140% normally. Skills and equipment can boost this even further. Can be increased to 190% while riding a mount."/>
 				</imgdir>
 				<imgdir name="13">
-					<vector name="lt" x="12" y="221"/>
-					<vector name="rb" x="73" y="236"/>
+					<vector name="lt" x="12" y="239"/>
+					<vector name="rb" x="73" y="254"/>
 					<string name="Title" value="Jump"/>
 					<string name="Desc" value="How high you can jump. Can be increased to a max of 123%. Skills and equipment can be used to increase or decrease your Jump."/>
 				</imgdir>
 				<imgdir name="14">
-					<vector name="lt" x="12" y="252"/>
-					<vector name="rb" x="230" y="276"/>
+					<vector name="lt" x="12" y="270"/>
+					<vector name="rb" x="230" y="294"/>
 					<string name="Title" value="Ability"/>
 					<string name="Desc" value="Your latent abilities. These abilities open up upon reaching level 50, and can be reset with Honor EXP or a Circulator."/>
 				</imgdir>
 				<imgdir name="15">
-					<vector name="lt" x="12" y="340"/>
-					<vector name="rb" x="73" y="350"/>
+					<vector name="lt" x="12" y="358"/>
+					<vector name="rb" x="73" y="368"/>
 					<string name="Title" value="Honor EXP"/>
 					<string name="Desc" value="Used to reset your abilities. Honor EXP can be obtained by leveling up normally or finding Medal of Honor drops from monsters."/>
 				</imgdir>
@@ -872,20 +926,38 @@
 					<string name="DescReboot" value="The higher the Mesos Obtained, the more Mesos monsters drop when defeated. The final value is determined by multiplying the basic obtainable Mesos by any Wealth Acquisition Potion value and Reboot passive value, then by additionally multiplying the sum of the remaining values. Additive values can combine to increase the value by up to 300%. Consumable items, with the exception of the Wealth Acquisition Potion, can only increase the value by up to 100%. Item potential can increase the value by up to 100%."/>
 				</imgdir>
 				<imgdir name="19">
-					<vector name="lt" x="124" y="185"/>
-					<vector name="rb" x="185" y="200"/>
+					<vector name="lt" x="12" y="167"/>
+					<vector name="rb" x="73" y="182"/>
+					<string name="Title" value="ATT"/>
+					<string name="Desc" value="Displays the current character&apos;s Attack Power. The final value is determined by the Attack Power sum and the Attack Power % increase multiplication. However, Pipsqueak Luminous (Equilibrium) from Monster Life and the Attack Power increase per level stat from Ability are excluded from the multiplication."/>
+				</imgdir>
+				<imgdir name="20">
+					<vector name="lt" x="124" y="167"/>
+					<vector name="rb" x="185" y="182"/>
+					<string name="Title" value="Magic ATT"/>
+					<string name="Desc" value="Displays the current character&apos;s Magic ATT. The final value is determined by the Magic ATT sum and the Magic ATT % increase multiplication. However, Pipsqueak Luminous (Equilibrium) from Monster Life and the Magic ATT increase per level stat from Ability are excluded from the multiplication."/>
+				</imgdir>
+				<imgdir name="21">
+					<vector name="lt" x="124" y="149"/>
+					<vector name="rb" x="185" y="164"/>
+					<string name="Title" value="Attack Speed"/>
+					<string name="Desc" value="Displays the current character&apos;s Attack Speed. Attack Speed +1 is the slowest while +8 is the highest. It increases with the equipped weapon&apos;s Attack Speed, skills, consumables, and Ability. However, Magician jobs are not affected by the weapon Attack Speed."/>
+				</imgdir>
+				<imgdir name="22">
+					<vector name="lt" x="124" y="203"/>
+					<vector name="rb" x="185" y="218"/>
 					<string name="Title" value="Star Force"/>
 					<string name="Desc" value="In Star Force areas, if you have less Star Force than the monsters do, you&apos;ll deal less damage to them. When you have more Star Force than a monster, you can attack through that monster&apos;s shield. Can be increased by equipping items with Star Force enhancement. Doubled for Overall equipment."/>
 				</imgdir>
-				<imgdir name="20">
-					<vector name="lt" x="124" y="203"/>
-					<vector name="rb" x="185" y="218"/>
+				<imgdir name="23">
+					<vector name="lt" x="124" y="221"/>
+					<vector name="rb" x="185" y="236"/>
 					<string name="Title" value="Arcane Power"/>
 					<string name="Desc" value="In Arcane River areas, if you have less Arcane Power than the monsters do, you&apos;ll deal less damage to them. When you have more Arcane Power than a monster, you can attack through that monster&apos;s shield. Can be increased by obtaining and enhancing Arcane Symbols."/>
 				</imgdir>
-				<imgdir name="21">
-					<vector name="lt" x="124" y="221"/>
-					<vector name="rb" x="185" y="236"/>
+				<imgdir name="24">
+					<vector name="lt" x="124" y="239"/>
+					<vector name="rb" x="185" y="254"/>
 					<string name="Title" value="Sacred Power"/>
 					<string name="Desc" value="In Grandis areas, if you have less Sacred Power than the monsters do, you&apos;ll deal less damage to them. When you have more Sacred Power than a monster, you can attack through that monster&apos;s shield. Can be increased by obtaining and enhancing Sacred Symbols."/>
 				</imgdir>

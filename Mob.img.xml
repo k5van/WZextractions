@@ -264,6 +264,12 @@
 	<imgdir name="2300100">
 		<string name="name" value="Stirge"/>
 	</imgdir>
+	<imgdir name="2300101">
+		<string name="name" value="Berserk Horny Mushroom"/>
+	</imgdir>
+	<imgdir name="2300102">
+		<string name="name" value="Cynical Orange Mushroom"/>
+	</imgdir>
 	<imgdir name="2300200">
 		<string name="name" value="Ruins Guardian"/>
 	</imgdir>
@@ -1813,10 +1819,10 @@
 		<string name="name" value="Dark Rash"/>
 	</imgdir>
 	<imgdir name="2600005">
-		<string name="name" value="Hobi"/>
+		<string name="name" value="Hoblin"/>
 	</imgdir>
 	<imgdir name="2600006">
-		<string name="name" value="Green Hobi"/>
+		<string name="name" value="Green Hoblin"/>
 	</imgdir>
 	<imgdir name="2600007">
 		<string name="name" value="Griffey"/>
@@ -3460,7 +3466,7 @@
 		<string name="name" value="Hogul"/>
 	</imgdir>
 	<imgdir name="5100104">
-		<string name="name" value="Three-Tailed Fox"/>
+		<string name="name" value="Samiho"/>
 	</imgdir>
 	<imgdir name="5100105">
 		<string name="name" value="Blin"/>
@@ -3985,10 +3991,10 @@
 		<string name="name" value="Dark Rash"/>
 	</imgdir>
 	<imgdir name="7130600">
-		<string name="name" value="Hobi"/>
+		<string name="name" value="Hoblin"/>
 	</imgdir>
 	<imgdir name="7130601">
-		<string name="name" value="Green Hobi"/>
+		<string name="name" value="Green Hoblin"/>
 	</imgdir>
 	<imgdir name="7130602">
 		<string name="name" value="Thorny Vine"/>
@@ -5857,7 +5863,7 @@
 		<string name="name" value="Pillaging Wild Boar"/>
 	</imgdir>
 	<imgdir name="8620004">
-		<string name="name" value="Iron Boar Raider"/>
+		<string name="name" value="Pillaging Iron Hog"/>
 	</imgdir>
 	<imgdir name="8620005">
 		<string name="name" value="Pillaging Fire Boar"/>
@@ -10348,7 +10354,7 @@
 		<string name="name" value="Throwback Zombie Lupin"/>
 	</imgdir>
 	<imgdir name="9010045">
-		<string name="name" value="Throwback Three-Tailed Fox"/>
+		<string name="name" value="Throwback Samiho"/>
 	</imgdir>
 	<imgdir name="9010046">
 		<string name="name" value="Throwback Hogul"/>
@@ -11666,6 +11672,9 @@
 	</imgdir>
 	<imgdir name="9101227">
 		<string name="name" value="Inferno Wolf"/>
+	</imgdir>
+	<imgdir name="9101228">
+		<string name="name" value="Arcane/Sacred Region Mob"/>
 	</imgdir>
 	<imgdir name="9200000">
 		<string name="name" value="Wild Boar"/>
@@ -17455,7 +17464,7 @@
 		<string name="name" value="Coketump Lite"/>
 	</imgdir>
 	<imgdir name="9500155">
-		<string name="name" value="Three-Tailed Fox"/>
+		<string name="name" value="Samiho"/>
 	</imgdir>
 	<imgdir name="9500156">
 		<string name="name" value="Wraith"/>
@@ -19225,7 +19234,7 @@
 		<string name="name" value="Hodori"/>
 	</imgdir>
 	<imgdir name="9800033">
-		<string name="name" value="Three-Tailed Fox"/>
+		<string name="name" value="Samiho"/>
 	</imgdir>
 	<imgdir name="9800034">
 		<string name="name" value="Hogul"/>
@@ -19978,7 +19987,7 @@
 		<string name="name" value="Jr. Balrog"/>
 	</imgdir>
 	<imgdir name="9801006">
-		<string name="name" value="Three-Tailed Fox"/>
+		<string name="name" value="Samiho"/>
 	</imgdir>
 	<imgdir name="9801007">
 		<string name="name" value="Blin"/>
@@ -20311,7 +20320,7 @@
 		<string name="name" value="Harp"/>
 	</imgdir>
 	<imgdir name="9810301">
-		<string name="name" value="Hobi"/>
+		<string name="name" value="Hoblin"/>
 	</imgdir>
 	<imgdir name="9810302">
 		<string name="name" value="Rash"/>
@@ -21724,7 +21733,7 @@
 		<string name="name" value="Hogul"/>
 	</imgdir>
 	<imgdir name="9833549">
-		<string name="name" value="Three-Tailed Fox"/>
+		<string name="name" value="Samiho"/>
 	</imgdir>
 	<imgdir name="9833550">
 		<string name="name" value="Blue King Goblin"/>
@@ -22153,7 +22162,7 @@
 		<string name="name" value="Dual Birk"/>
 	</imgdir>
 	<imgdir name="9833765">
-		<string name="name" value="Green Hobi"/>
+		<string name="name" value="Green Hoblin"/>
 	</imgdir>
 	<imgdir name="9833766">
 		<string name="name" value="Hector"/>
@@ -22177,7 +22186,7 @@
 		<string name="name" value="Moon Bunny"/>
 	</imgdir>
 	<imgdir name="9833773">
-		<string name="name" value="Three-Tailed Fox"/>
+		<string name="name" value="Samiho"/>
 	</imgdir>
 	<imgdir name="9833774">
 		<string name="name" value="Hogul"/>
@@ -22989,6 +22998,81 @@
 	<imgdir name="9834074">
 		<string name="name" value="Mole Subordinate"/>
 	</imgdir>
+	<imgdir name="9834077">
+		<string name="name" value="So Gong Punch King Machine"/>
+	</imgdir>
+	<imgdir name="9834078">
+		<string name="name" value="So Gong Punch King Machine"/>
+	</imgdir>
+	<imgdir name="9834079">
+		<string name="name" value="So Gong Punch King Machine"/>
+	</imgdir>
+	<imgdir name="9834080">
+		<string name="name" value="Spiegelmann Punch King Machine"/>
+	</imgdir>
+	<imgdir name="9834081">
+		<string name="name" value="Spiegelmann Punch King Machine"/>
+	</imgdir>
+	<imgdir name="9834082">
+		<string name="name" value="Spiegelmann Punch King Machine"/>
+	</imgdir>
+	<imgdir name="9834083">
+		<string name="name" value="Kemdi Punch King Machine"/>
+	</imgdir>
+	<imgdir name="9834084">
+		<string name="name" value="Kemdi Punch King Machine"/>
+	</imgdir>
+	<imgdir name="9834085">
+		<string name="name" value="Kemdi Punch King Machine"/>
+	</imgdir>
+	<imgdir name="9834086">
+		<string name="name" value="Wonky Punch King Machine"/>
+	</imgdir>
+	<imgdir name="9834087">
+		<string name="name" value="Wonky Punch King Machine"/>
+	</imgdir>
+	<imgdir name="9834088">
+		<string name="name" value="Wonky Punch King Machine"/>
+	</imgdir>
+	<imgdir name="9834089">
+		<string name="name" value="Stage 1 Training Dummy"/>
+	</imgdir>
+	<imgdir name="9834090">
+		<string name="name" value="Stage 2 Training Dummy"/>
+	</imgdir>
+	<imgdir name="9834091">
+		<string name="name" value="Stage 3 Training Dummy"/>
+	</imgdir>
+	<imgdir name="9834092">
+		<string name="name" value="Stage 4 Training Dummy"/>
+	</imgdir>
+	<imgdir name="9834093">
+		<string name="name" value="Stage 5 Training Dummy"/>
+	</imgdir>
+	<imgdir name="9834094">
+		<string name="name" value="Stage 6 Training Dummy"/>
+	</imgdir>
+	<imgdir name="9834095">
+		<string name="name" value="Stage 7 Training Dummy"/>
+	</imgdir>
+	<imgdir name="9834096">
+		<string name="name" value="Stage 8 Training Dummy"/>
+	</imgdir>
+	<imgdir name="9834097">
+		<string name="name" value="Stage 9 Training Dummy"/>
+	</imgdir>
+	<imgdir name="9834098">
+		<string name="name" value="Stage 10 Training Dummy"/>
+	</imgdir>
+	<imgdir name="9834099">
+		<string name="name" value="Stage 11 Training Dummy"/>
+	</imgdir>
+	<imgdir name="9834100">
+		<string name="name" value="Stage 12 Training Dummy"/>
+	</imgdir>
+	<imgdir name="9834101">
+		<string name="name" value="Spooky Ghost"/>
+	</imgdir>
 	<imgdir name="9990000">
 		<string name="name" value="No Element"/>
 	</imgdir>
@@ -23148,89 +23232,215 @@
 	<imgdir name="9999999">
 		<string name="name" value="???"/>
 	</imgdir>
-	<imgdir name="2300101">
-		<string name="name" value="Berserk Horny Mushroom"/>
+	<imgdir name="8645340">
+		<string name="name" value="Shangri-La Assailant"/>
 	</imgdir>
-	<imgdir name="2300102">
-		<string name="name" value="Cynical Orange Mushroom"/>
+	<imgdir name="8645350">
+		<string name="name" value="Sloppy Marauder"/>
 	</imgdir>
-	<imgdir name="9101228">
-		<string name="name" value="Arcane/Sacred Region Mob"/>
+	<imgdir name="8645351">
+		<string name="name" value="Ferocious Marauder"/>
 	</imgdir>
-	<imgdir name="9834077">
-		<string name="name" value="So Gong Punch King Machine"/>
+	<imgdir name="8645352">
+		<string name="name" value="Dangerous Marauder"/>
 	</imgdir>
-	<imgdir name="9834078">
-		<string name="name" value="So Gong Punch King Machine"/>
+	<imgdir name="8645353">
+		<string name="name" value="Suspicious Outlaw"/>
 	</imgdir>
-	<imgdir name="9834079">
-		<string name="name" value="So Gong Punch King Machine"/>
+	<imgdir name="8645354">
+		<string name="name" value="Enraged Outlaw"/>
 	</imgdir>
-	<imgdir name="9834080">
-		<string name="name" value="Spiegelmann Punch King Machine"/>
+	<imgdir name="8645355">
+		<string name="name" value="Menacing Outlaw"/>
 	</imgdir>
-	<imgdir name="9834081">
-		<string name="name" value="Spiegelmann Punch King Machine"/>
+	<imgdir name="8645356">
+		<string name="name" value="Laiyan"/>
 	</imgdir>
-	<imgdir name="9834082">
-		<string name="name" value="Spiegelmann Punch King Machine"/>
+	<imgdir name="8645357">
+		<string name="name" value="Shaheen"/>
 	</imgdir>
-	<imgdir name="9834083">
-		<string name="name" value="Kemdi Punch King Machine"/>
+	<imgdir name="8645359">
+		<string name="name" value="Suspicious Outlaw"/>
 	</imgdir>
-	<imgdir name="9834084">
-		<string name="name" value="Kemdi Punch King Machine"/>
+	<imgdir name="8645360">
+		<string name="name" value="Enraged Outlaw"/>
 	</imgdir>
-	<imgdir name="9834085">
-		<string name="name" value="Kemdi Punch King Machine"/>
+	<imgdir name="8645361">
+		<string name="name" value="Menacing Outlaw"/>
 	</imgdir>
-	<imgdir name="9834086">
-		<string name="name" value="Wonky Punch King Machine"/>
+	<imgdir name="8880830">
+		<string name="name" value="Qionqi"/>
 	</imgdir>
-	<imgdir name="9834087">
-		<string name="name" value="Wonky Punch King Machine"/>
+	<imgdir name="8880831">
+		<string name="name" value="Taowu"/>
 	</imgdir>
-	<imgdir name="9834088">
-		<string name="name" value="Wonky Punch King Machine"/>
+	<imgdir name="8880832">
+		<string name="name" value="Hundun"/>
 	</imgdir>
-	<imgdir name="9834089">
-		<string name="name" value="Stage 1 Training Dummy"/>
+	<imgdir name="8880833">
+		<string name="name" value="Qionqi"/>
 	</imgdir>
-	<imgdir name="9834090">
-		<string name="name" value="Stage 2 Training Dummy"/>
+	<imgdir name="8880834">
+		<string name="name" value="Taowu"/>
 	</imgdir>
-	<imgdir name="9834091">
-		<string name="name" value="Stage 3 Training Dummy"/>
+	<imgdir name="8880835">
+		<string name="name" value="Hundun"/>
 	</imgdir>
-	<imgdir name="9834092">
-		<string name="name" value="Stage 4 Training Dummy"/>
+	<imgdir name="8880836">
+		<string name="name" value="Torn Spring"/>
 	</imgdir>
-	<imgdir name="9834093">
-		<string name="name" value="Stage 5 Training Dummy"/>
+	<imgdir name="8880837">
+		<string name="name" value="Kaling"/>
 	</imgdir>
-	<imgdir name="9834094">
-		<string name="name" value="Stage 6 Training Dummy"/>
+	<imgdir name="8880838">
+		<string name="name" value="Kaling"/>
 	</imgdir>
-	<imgdir name="9834095">
-		<string name="name" value="Stage 7 Training Dummy"/>
+	<imgdir name="8880839">
+		<string name="name" value="Death-Gripped Qionqi"/>
 	</imgdir>
-	<imgdir name="9834096">
-		<string name="name" value="Stage 8 Training Dummy"/>
+	<imgdir name="8880840">
+		<string name="name" value="Death-Gripped Taowu"/>
 	</imgdir>
-	<imgdir name="9834097">
-		<string name="name" value="Stage 9 Training Dummy"/>
+	<imgdir name="8880841">
+		<string name="name" value="Death-Gripped Hundun"/>
 	</imgdir>
-	<imgdir name="9834098">
-		<string name="name" value="Stage 10 Training Dummy"/>
+	<imgdir name="8880842">
+		<string name="name" value="Frenzied Kaling"/>
 	</imgdir>
-	<imgdir name="9834099">
-		<string name="name" value="Stage 11 Training Dummy"/>
+	<imgdir name="8880843">
+		<string name="name" value="Frenzied Kaling"/>
 	</imgdir>
-	<imgdir name="9834100">
-		<string name="name" value="Stage 12 Training Dummy"/>
+	<imgdir name="8880844">
+		<string name="name" value="Torn Spring"/>
 	</imgdir>
-	<imgdir name="9834101">
-		<string name="name" value="Spooky Ghost"/>
+	<imgdir name="8880845">
+		<string name="name" value="Peace Blooms Again"/>
+	</imgdir>
+	<imgdir name="8880846">
+		<string name="name" value="Kaling"/>
+	</imgdir>
+	<imgdir name="8880847">
+		<string name="name" value="Frenzied Kaling"/>
+	</imgdir>
+	<imgdir name="8880850">
+		<string name="name" value="Taowu"/>
+	</imgdir>
+	<imgdir name="8880851">
+		<string name="name" value="Hundun"/>
+	</imgdir>
+	<imgdir name="8880852">
+		<string name="name" value="Kaling"/>
+	</imgdir>
+	<imgdir name="8880853">
+		<string name="name" value="Kaling"/>
+	</imgdir>
+	<imgdir name="9210059">
+		<string name="name" value="Normal Kaling"/>
+	</imgdir>
+	<imgdir name="9834102">
+		<string name="name" value="Clocktower Dreamkeeper"/>
+	</imgdir>
+	<imgdir name="9834103">
+		<string name="name" value="Clocktower Gargoyle"/>
+	</imgdir>
+	<imgdir name="9834104">
+		<string name="name" value="Clocktower Masquerade Citizen"/>
+	</imgdir>
+	<imgdir name="9834105">
+		<string name="name" value="Clocktower Red Shoes"/>
+	</imgdir>
+	<imgdir name="9834106">
+		<string name="name" value="Clocktower Victory Plate"/>
+	</imgdir>
+	<imgdir name="9834107">
+		<string name="name" value="Clocktower Gallus"/>
+	</imgdir>
+	<imgdir name="9834108">
+		<string name="name" value="Broccoli"/>
+	</imgdir>
+	<imgdir name="9834109">
+		<string name="name" value="Cucumber"/>
+	</imgdir>
+	<imgdir name="9834110">
+		<string name="name" value="Celery"/>
+	</imgdir>
+	<imgdir name="9834111">
+		<string name="name" value="Green Bell Pepper"/>
+	</imgdir>
+	<imgdir name="9834112">
+		<string name="name" value="Lettuce"/>
+	</imgdir>
+	<imgdir name="9834113">
+		<string name="name" value="Yellow Bell Pepper"/>
+	</imgdir>
+	<imgdir name="9834114">
+		<string name="name" value="Onion"/>
+	</imgdir>
+	<imgdir name="9834115">
+		<string name="name" value="Avocado"/>
+	</imgdir>
+	<imgdir name="9834116">
+		<string name="name" value="Orange Bell Pepper"/>
+	</imgdir>
+	<imgdir name="9834117">
+		<string name="name" value="Carrot"/>
+	</imgdir>
+	<imgdir name="9834118">
+		<string name="name" value="Red Bell Pepper"/>
+	</imgdir>
+	<imgdir name="9834119">
+		<string name="name" value="Tomato"/>
+	</imgdir>
+	<imgdir name="9834120">
+		<string name="name" value="Cherry Tomato"/>
+	</imgdir>
+	<imgdir name="9834121">
+		<string name="name" value="Cherry Tomato"/>
+	</imgdir>
+	<imgdir name="9834122">
+		<string name="name" value="Cherry Tomato"/>
+	</imgdir>
+	<imgdir name="9834123">
+		<string name="name" value="Cherry Tomato"/>
+	</imgdir>
+	<imgdir name="9834124">
+		<string name="name" value="Cherry Tomato"/>
+	</imgdir>
+	<imgdir name="9834125">
+		<string name="name" value="Cherry Tomato"/>
+	</imgdir>
+	<imgdir name="9834126">
+		<string name="name" value="Cherry Tomato"/>
+	</imgdir>
+	<imgdir name="9834127">
+		<string name="name" value="Cherry Tomato"/>
+	</imgdir>
+	<imgdir name="9834128">
+		<string name="name" value="Cherry Tomato"/>
+	</imgdir>
+	<imgdir name="9834129">
+		<string name="name" value="Cherry Tomato"/>
+	</imgdir>
+	<imgdir name="9834130">
+		<string name="name" value="Cherry Tomato"/>
+	</imgdir>
+	<imgdir name="9834131">
+		<string name="name" value="Cherry Tomato"/>
+	</imgdir>
+	<imgdir name="9834132">
+		<string name="name" value="Escaped Bubble Tea"/>
+	</imgdir>
+	<imgdir name="9834133">
+		<string name="name" value="Special Delivery Pizza"/>
+	</imgdir>
+	<imgdir name="9834134">
+		<string name="name" value="Special Delivery Hamburger"/>
+	</imgdir>
+	<imgdir name="9834135">
+		<string name="name" value="Special Delivery Chicken"/>
+	</imgdir>
+	<imgdir name="9834136">
+		<string name="name" value="Special Delivery Dessert"/>
 	</imgdir>
 	<imgdir name="9300310">
 		<string name="name" value="Sand Rabbit of the Maze"/>
@@ -25043,9 +25253,6 @@
 	<imgdir name="9400813">
 		<string name="name" value="Cake Boss"/>
 	</imgdir>
-	<imgdir name="9999996">
-		<string name="name" value="Pie Boss"/>
-	</imgdir>
 	<imgdir name="9409019">
 		<string name="name" value="Red Mask"/>
 	</imgdir>
@@ -26766,7 +26973,7 @@
 		<string name="name" value="Starbound Rabbit"/>
 	</imgdir>
 	<imgdir name="9480125">
-		<string name="name" value="Starbound Green Hobi"/>
+		<string name="name" value="Starbound Green Hoblin"/>
 	</imgdir>
 	<imgdir name="9480126">
 		<string name="name" value="Starbound White Fang"/>
@@ -31084,5 +31291,8 @@
 	</imgdir>
 	<imgdir name="9601890">
 		<string name="name" value="Bergamot Dummy Mob (Fire)"/>
+	</imgdir>
+	<imgdir name="9999996">
+		<string name="name" value="Search Eye Test"/>
 	</imgdir>
 </imgdir>

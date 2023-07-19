@@ -1034,12 +1034,12 @@
 			<string name="desc" value="A key chain with a doll that resembles the UFO Catcher."/>
 		</imgdir>
 		<imgdir name="4000260">
-			<string name="name" value="Hov&apos;s Shorts"/>
-			<string name="desc" value="A ragged pair of brown shorts that Hov wore."/>
+			<string name="name" value="Hoblin&apos;s Shorts"/>
+			<string name="desc" value="A ragged pair of brown shorts that a Hoblin wore."/>
 		</imgdir>
 		<imgdir name="4000261">
-			<string name="name" value="Pin Hov&apos;s Charm"/>
-			<string name="desc" value="A rabbit-foot charm that Pin Hov kept to himself. It looks very poorly made."/>
+			<string name="name" value="Green Hoblin Charm"/>
+			<string name="desc" value="A lucky charm. Didn&apos;t seem to work for the Hoblin who carried it."/>
 		</imgdir>
 		<imgdir name="4000262">
 			<string name="name" value="Cracked Shell"/>
@@ -1283,7 +1283,7 @@
 		</imgdir>
 		<imgdir name="4000358">
 			<string name="name" value="Hardened Piece of Steel"/>
-			<string name="desc" value="A hardened piece of steel that was a part of the upgraded Iron Muten."/>
+			<string name="desc" value="A hardened piece of steel that was a part of the upgraded Iron Mutae."/>
 		</imgdir>
 		<imgdir name="4000359">
 			<string name="name" value="Piece of Mithril"/>
@@ -2620,12 +2620,12 @@
 			<string name="desc" value="A very fuzzy ball of Dark Rash&apos;s fur. "/>
 		</imgdir>
 		<imgdir name="4000911">
-			<string name="name" value="Hobi Rags"/>
-			<string name="desc" value="Dirty smelly rags that fell off a Hobi. "/>
+			<string name="name" value="Hoblin&apos;s Rags"/>
+			<string name="desc" value="Dirty smelly rags that fell off a Hoblin."/>
 		</imgdir>
 		<imgdir name="4000912">
-			<string name="name" value="Green Hobi Outfit"/>
-			<string name="desc" value="The skull really rounds out this Green Hobi&apos;s outfit."/>
+			<string name="name" value="Green Hoblin&apos;s Outfit"/>
+			<string name="desc" value="The skull really rounds out this Green Hoblin&apos;s outfit."/>
 		</imgdir>
 		<imgdir name="4000913">
 			<string name="name" value="Harp Wing Feather"/>
@@ -4657,11 +4657,11 @@
 		</imgdir>
 		<imgdir name="4001893">
 			<string name="name" value="Spark of Determination"/>
-			<string name="desc" value="A spark filled with the willpower of the warriors of the Alliance. Take the Spark of Determination and the Shadow of Annihilation to Lorelei to obtain an object that&apos;ll help open the path to the Black Mage."/>
+			<string name="desc" value="A spark filled with the willpower of the warriors of the Alliance. Take the Spark of Determination and the Shadow of Annihilation to Lorelai to obtain an object that&apos;ll help open the path to the Black Mage."/>
 		</imgdir>
 		<imgdir name="4001894">
 			<string name="name" value="Shadow of Annihilation"/>
-			<string name="desc" value="A vile fragment of power acquired from defeating Verus Hilla. Within this churning chaos you can feel the essence of the Black Mage. Take the Spark of Determination and the Shadow of Annihilation to Lorelei to obtain an object that&apos;ll help open the path to the Black Mage."/>
+			<string name="desc" value="A vile fragment of power acquired from defeating Verus Hilla. Within this churning chaos you can feel the essence of the Black Mage. Take the Spark of Determination and the Shadow of Annihilation to Lorelai to obtain an object that&apos;ll help open the path to the Black Mage."/>
 		</imgdir>
 		<imgdir name="4001895">
 			<string name="name" value="Fragment of Destiny"/>
@@ -4872,7 +4872,7 @@
 			<string name="desc" value="A thick bear paw."/>
 		</imgdir>
 		<imgdir name="4009017">
-			<string name="name" value="Broken Pot Fragmen"/>
+			<string name="name" value="Broken Pot Fragment"/>
 			<string name="desc" value="A piece of a broken pot."/>
 		</imgdir>
 		<imgdir name="4009018">
@@ -5911,7 +5911,7 @@
 		</imgdir>
 		<imgdir name="4021038">
 			<string name="name" value="Rebirth Fragment"/>
-			<string name="desc" value="A fragment that contains a trace amount of Rebirth Flame. Can be extracted from regular Rebirth Flames and used to make Powerful Rebirth Flames and Eternal Rebirth Flames."/>
+			<string name="desc" value="A fragment that contains a trace amount of Rebirth Flame. Can be extracted from regular Rebirth Flames and used to make Powerful Rebirth Flames, Eternal Rebirth Flames, and Black Rebirth Flames."/>
 		</imgdir>
 		<imgdir name="4021039">
 			<string name="name" value="Rebirth Crystal"/>
@@ -8366,7 +8366,7 @@
 			<string name="desc" value="A badge of love that Jiyur gave me, acknowledging the sincerity of my love."/>
 		</imgdir>
 		<imgdir name="4031693">
-			<string name="name" value="Mute&apos;s Model"/>
+			<string name="name" value="Mutae&apos;s Model"/>
 			<string name="desc" value="A miniature model of Mute. It was made for research purposes by the alchemists."/>
 		</imgdir>
 		<imgdir name="4031694">
@@ -8435,7 +8435,7 @@
 		</imgdir>
 		<imgdir name="4031737">
 			<string name="name" value="Homunculus&apos;s Blood"/>
-			<string name="desc" value="Blood that is made by Homunculus&apos;s magic.  It has the power to reveal truth."/>
+			<string name="desc" value="Extracted from a Homunculus. The enchantments have the ability to reveal truths."/>
 		</imgdir>
 		<imgdir name="4031738">
 			<string name="name" value="Dran&apos;s Medicine"/>
@@ -12198,7 +12198,7 @@
 		</imgdir>
 		<imgdir name="4033378">
 			<string name="name" value="Triple Tail"/>
-			<string name="desc" value="A weird tail from the Three-Tailed Fox in Korean Folk Town."/>
+			<string name="desc" value="A weird tail from the Samiho in Korean Folk Town."/>
 		</imgdir>
 		<imgdir name="4033379">
 			<string name="name" value="Alien Ray Gun"/>
@@ -19232,6 +19232,76 @@
 		<imgdir name="4037080">
 			<string name="name" value="EXP Coupon and Damage Skin"/>
 			<string name="desc" value="You can get #cEXP Coupon x800# and #cRock Spirit Action Damage Skin (Unit) (7 Day)#."/>
+		</imgdir>
+		<imgdir name="4009487">
+			<string name="name" value="Marauder Sword"/>
+			<string name="desc" value="A sword used by Sloppy Marauder. The end is curved and suited for slashing."/>
+		</imgdir>
+		<imgdir name="4009537">
+			<string name="name" value="Marauder Vest"/>
+			<string name="desc" value="A vest worn by Ferocious Marauder. It&apos;s filthy and covered with dirt."/>
+		</imgdir>
+		<imgdir name="4009538">
+			<string name="name" value="Marauder Wooden Club"/>
+			<string name="desc" value="A wooden club used by Dangerous Marauder. It&apos;s made from solid wood."/>
+		</imgdir>
+		<imgdir name="4009539">
+			<string name="name" value="Outlaw Spear"/>
+			<string name="desc" value="A spear used by Suspicious Outlaw. It&apos;s sharper than it looks."/>
+		</imgdir>
+		<imgdir name="4009540">
+			<string name="name" value="Outlaw Mask"/>
+			<string name="desc" value="A mask used by Enraged Outlaw. It looks too heavy to wear for a long time."/>
+		</imgdir>
+		<imgdir name="4009541">
+			<string name="name" value="Outlaw Hammer"/>
+			<string name="desc" value="A hammer used by Nasty Outlaw. It seems difficult to hold with one hand."/>
+		</imgdir>
+		<imgdir name="4310332">
+			<string name="name" value="Wongstaurant Coin"/>
+			<string name="desc" value="Can be used for various things at the #cWongstaurant#."/>
+		</imgdir>
+		<imgdir name="4310333">
+			<string name="name" value="Wongstaurant Boss Coin"/>
+			<string name="desc" value="Can be used for various things at the #cWongstaurant#."/>
+		</imgdir>
+		<imgdir name="4037081">
+			<string name="name" value="Captured Enemy"/>
+			<string name="desc" value="The enemy was captured for the mission."/>
+		</imgdir>
+		<imgdir name="4037086">
+			<string name="name" value="Refined Sword"/>
+			<string name="desc" value="A sharp, tempered sword. It looks dangerous for the inexperienced to wield."/>
+		</imgdir>
+		<imgdir name="4037087">
+			<string name="name" value="Migration Approval Document"/>
+			<string name="desc" value="A document approving migration to Erimos."/>
+		</imgdir>
+		<imgdir name="4037088">
+			<string name="name" value="Gift Sack and Letter"/>
+			<string name="desc" value="A gift sack wrapped in fine silk along with and an earnestly written letter."/>
+		</imgdir>
+		<imgdir name="4037089">
+			<string name="name" value="15-Star Unique Dominator Pendant"/>
+			<string name="desc" value="Reach #cLv. 220# with a Hyper Burning character to select the following reward:\n\n#c- 15-Star Unique Dominator Pendant\n\nGrants the item immediately. The pendant obtained can use Rebirth Flames to reset Bonus Stats. Cannot be enhanced, Transfer Hammered, or have its Potential reset."/>
+			<int name="fixWidth" value="330"/>
+		</imgdir>
+		<imgdir name="4037090">
+			<string name="name" value="17 Star Unique AbsoLab weapon"/>
+			<string name="desc" value="Reach #cLv. 220# with a Hyper Burning character to select the following reward:\n\n#c- 17-Star Unique AbsoLab weapon\n\n(Equipment tailored for the current class. Cannot be used by Zero.)\n\n* The weapon obtained can use Rebirth Flames to reset Bonus Stats. Cannot be enhanced, Transfer Hammered, or have its Potential reset."/>
+			<int name="fixWidth" value="330"/>
+		</imgdir>
+		<imgdir name="4037091">
+			<string name="name" value="Teapot"/>
+			<string name="desc" value="A teapot with a unique design. It doesn&apos;t match the desert region."/>
+		</imgdir>
+		<imgdir name="4037095">
+			<string name="name" value="Refined Sword"/>
+			<string name="desc" value="A sharp, tempered sword. It looks dangerous for the inexperienced to wield."/>
+		</imgdir>
+		<imgdir name="4037096">
+			<string name="name" value="Two Wongstaurant Special Bubble Teas"/>
+			<string name="desc" value="2 types of Wongstaurant Special Bubble Teas. Select the type and get up to 20."/>
 		</imgdir>
 		<imgdir name="4000174">
 			<string name="name" value="Money Envelope"/>
@@ -29624,6 +29694,14 @@ Looking at this fills you with hope. It&apos;s terribly fragile, so handle with 
 		<imgdir name="4310327">
 			<string name="name" value="Neo Tokyo Coin"/>
 			<string name="desc" value="A coin you can get by playing #cNeo Tokyo#. Can be exchanged for rewards from #cNolan# in the #c2102 Secret Command Center.#"/>
+		</imgdir>
+		<imgdir name="4001904">
+			<string name="name" value="Golden Giveaway Golden Pass"/>
+			<string name="desc" value="A pass that allows you to use the Fairy Bros&apos; Golden Giveaway Golden Pass. One will be consumed at a time.#c\nPlease check the duration of the item.#"/>
+		</imgdir>
+		<imgdir name="4001916">
+			<string name="name" value="Coupon Pass"/>
+			<string name="desc" value="You can use this Coupon Pass at the Wongstaurant Main Menu. Consumes 1 at a time.#c\nPlease check the expiration date carefully.#"/>
 		</imgdir>
 	</imgdir>
 </imgdir>
