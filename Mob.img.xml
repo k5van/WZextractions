@@ -3415,19 +3415,19 @@
 		<string name="name" value="[*] Harried Hair Roller"/>
 	</imgdir>
 	<imgdir name="4310022">
-		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="[*] Grape Jelly Juice"/>
 	</imgdir>
 	<imgdir name="4310023">
-		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="[*] Green Notebook"/>
 	</imgdir>
 	<imgdir name="4310024">
-		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="[*] Yellow Headphones"/>
 	</imgdir>
 	<imgdir name="4310025">
-		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="[*] Killer Cosmetics"/>
 	</imgdir>
 	<imgdir name="4310026">
-		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+		<string name="name" value="[*] Peeved Perm Machine"/>
 	</imgdir>
 	<imgdir name="5090000">
 		<string name="name" value="Shade"/>
@@ -31294,5 +31294,41 @@
 	</imgdir>
 	<imgdir name="9999996">
 		<string name="name" value="Search Eye Test"/>
+	</imgdir>
+	<imgdir name="9601939">
+		<string name="name" value="Grader"/>
+	</imgdir>
+	<imgdir name="9601940">
+		<string name="name" value="Grader"/>
+	</imgdir>
+	<imgdir name="9601941">
+		<string name="name" value="Avarice"/>
+	</imgdir>
+	<imgdir name="9601942">
+		<string name="name" value="Avaritia"/>
+	</imgdir>
+	<imgdir name="9601943">
+		<string name="name" value="Anuth"/>
+	</imgdir>
+	<imgdir name="9601944">
+		<string name="name" value="Avareza"/>
+	</imgdir>
+	<imgdir name="9601945">
+		<string name="name" value="Regeneration Energy"/>
+	</imgdir>
+	<imgdir name="9101229">
+		<string name="name" value="Grader&apos;s Minion"/>
+	</imgdir>
+	<imgdir name="9601947">
+		<string name="name" value="Avarice"/>
+	</imgdir>
+	<imgdir name="9601948">
+		<string name="name" value="Avaritia"/>
+	</imgdir>
+	<imgdir name="9601949">
+		<string name="name" value="Anuth"/>
+	</imgdir>
+	<imgdir name="9601950">
+		<string name="name" value="Avareza"/>
 	</imgdir>
 </imgdir>

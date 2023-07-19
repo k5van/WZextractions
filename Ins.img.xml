@@ -9892,7 +9892,7 @@ If you feed #cFruit# to the Parrot, it might change color and gain a level. The 
 		<string name="desc" value="It&apos;s an Open Box. A full moon came out of the box.\n#cThis item disappears upon logging out.#"/>
 	</imgdir>
 	<imgdir name="3014043">
-		<string name="desc" value="A chair modeled after the Orange Mushroom Safe.\n#cDouble-click# to use the chair and enter a message.\nYou can enter up to #c6 characters# of text.\n#cRestores 50 HP and 50 MP every 10 seconds.#"/>
+		<string name="desc" value="A chair modeled after the Orange Mushroom Safe.\n#cDouble-click# to use the chair and enter a message.\nYou can enter up to #c12 characters# of text.\n#cRestores 50 HP and 50 MP every 10 seconds.#"/>
 		<string name="name" value="Orange Mushroom Safe Chair"/>
 	</imgdir>
 	<imgdir name="3016234">
@@ -19333,8 +19333,8 @@ The summoned #cBUGCAT CAPOO# will increase a specific stat. Level up #cCAPOO&apo
 		<string name="desc" value="A Pluck Carrot Chair. Restores 100 HP and 100 MP every 10 seconds."/>
 	</imgdir>
 	<imgdir name="3019028">
-		<string name="name" value="Sun in Midair! Chair"/>
-		<string name="desc" value="A Sun in Midair! Chair. Restores 100 HP and 100 MP every 10 seconds."/>
+		<string name="name" value="Rise and Shine! Chair"/>
+		<string name="desc" value="The Rise and Shine! Chair. Restores 100 HP and 100 MP every 10 seconds."/>
 	</imgdir>
 	<imgdir name="3019030">
 		<string name="name" value="Report Received Chair"/>
@@ -19387,8 +19387,8 @@ The summoned #cBUGCAT CAPOO# will increase a specific stat. Level up #cCAPOO&apo
 		<string name="desc" value="A Mysterious Dessert Tree Chair. Up to 3 people can sit in it together. \n Restores 100 HP and 100 MP every 10 seconds."/>
 	</imgdir>
 	<imgdir name="3019058">
-		<string name="name" value="Sit on a Cactus Chair"/>
-		<string name="desc" value="A Sit on a Cactus Chair. Restores 100 HP and 100 MP every 10 seconds."/>
+		<string name="name" value="Cactus Friends Chair"/>
+		<string name="desc" value="Come on, bring it in! Restores 100 HP and 100 MP every 10 seconds."/>
 	</imgdir>
 	<imgdir name="3019059">
 		<string name="name" value="Tea Time with my Lord Chair"/>
@@ -19401,5 +19401,280 @@ The summoned #cBUGCAT CAPOO# will increase a specific stat. Level up #cCAPOO&apo
 	<imgdir name="3019061">
 		<string name="name" value="Mysterious Scroll Chair"/>
 		<string name="desc" value="A Mysterious Scroll Chair. Restores 100 HP and 100 MP every 10 seconds."/>
+	</imgdir>
+	<imgdir name="3012052">
+		<string name="name" value="Marine Heart Chair"/>
+		<string name="desc" value="A Marine Heart Chair. When #ctwo of these chairs are used in close proximity, the special couple chair effect will activate#. \n #cRestores 100 HP and 100 MP every 10 seconds#. Designed by the China MapleStory player wuchang."/>
+	</imgdir>
+	<imgdir name="3019080">
+		<string name="name" value="Car Wash Day Chair"/>
+		<string name="desc" value="A Car Wash Day Chair. Restores 100 HP and 100 MP every 10 seconds."/>
+	</imgdir>
+	<imgdir name="3019081">
+		<string name="name" value="I&apos;ll Be With You On A Rainy Day Chair"/>
+		<string name="desc" value="An I&apos;ll Be With You On A Rainy Day Chair. Restores 100 HP and 100 MP every 10 seconds."/>
+	</imgdir>
+	<imgdir name="3019082">
+		<string name="name" value="Summer Night BBQ Party Chair"/>
+		<string name="desc" value="A Summer Night BBQ Party Chair. Restores 100 HP and 100 MP every 10 seconds."/>
+	</imgdir>
+	<imgdir name="3018976">
+		<string name="name" value="Wind Resistant Training Chair"/>
+		<string name="desc" value="Whoosh! That&apos;s the sound of a swinging sword. \r\n#cCharacters Lv. 105 or above but below Lv. 200 can obtain EXP upon using it in the Guild Castle Training Area.#"/>
+	</imgdir>
+	<imgdir name="3018977">
+		<string name="name" value="Accurate Shot Training Chair"/>
+		<string name="desc" value="Keep your eyes on the prize! \r\n#cCharacters Lv. 200 or above and below Lv. 220 can obtain EXP upon using it in the Guild Castle Training Area.#"/>
+	</imgdir>
+	<imgdir name="3018978">
+		<string name="name" value="Library Chair (Ambition)"/>
+		<string name="desc" value="A chair where you can read books about a hero&apos;s adventures on the battlefield.\r\nYou will gain #cAmbition# to forestall enemies on sight."/>
+	</imgdir>
+	<imgdir name="3018979">
+		<string name="name" value="Library Chair (Empathy)"/>
+		<string name="desc" value="A Guild Castle Library reading chair where you can read classic novels with poignant stories.\nSpend a day reading these stories to increase your #cEmpathy#."/>
+	</imgdir>
+	<imgdir name="3018980">
+		<string name="name" value="Library Chair (Insight)"/>
+		<string name="desc" value="A Guild Castle Library reading chair where you can read educational books to obtain knowledge from various fields.\nYou will gain #cInsight# that unlocks the secrets of life."/>
+	</imgdir>
+	<imgdir name="3018981">
+		<string name="name" value="Library Chair (Willpower)"/>
+		<string name="desc" value="A Guild Castle Library reading chair where you can read various self-improvement books.\nAbsorbing these lessons will increase #cWillpower# to sustain life."/>
+	</imgdir>
+	<imgdir name="3018982">
+		<string name="name" value="Library Chair (Diligence)"/>
+		<string name="desc" value="A Guild Castle reading chair where you can read a secret book containing various homemade recipes.\nYour #cDiligence# will naturally increase."/>
+	</imgdir>
+	<imgdir name="3018983">
+		<string name="name" value="Library Chair (Charm)"/>
+		<string name="desc" value="A Guild Castle reading chair where you can read the romance novel of the century.\nPut the romantic words you read into practice! Increases #cCharm# to attract others."/>
+	</imgdir>
+	<imgdir name="3019001">
+		<string name="name" value="Ambiguous Reading Chair"/>
+		<string name="desc" value="Which book should you read today? If nothing catches your eye, or you don&apos;t know what to read...\nSit on the reading chair created by the Library!\r\n#cRestores 50 HP and 50 MP every 10 seconds.#"/>
+	</imgdir>
+	<imgdir name="3019012">
+		<string name="name" value="Library Reading Chair"/>
+	</imgdir>
+	<imgdir name="3801753">
+		<string name="name" value="Guild Castle Entry Commemoration"/>
+		<string name="desc" value="A plaque commemorating the day you first entered Guild Castle."/>
+	</imgdir>
+	<imgdir name="3801754">
+		<string name="name" value="Guild Level 5 Commemoration"/>
+		<string name="desc" value="A medal to commemorate reaching Guild Level 5."/>
+	</imgdir>
+	<imgdir name="3801755">
+		<string name="name" value="Guild Level 10 Commemoration"/>
+		<string name="desc" value="A medal to commemorate reaching Guild Level 10."/>
+	</imgdir>
+	<imgdir name="3801756">
+		<string name="name" value="Guild Level 20 Commemoration"/>
+		<string name="desc" value="A medal to commemorate reaching Guild Level 20."/>
+	</imgdir>
+	<imgdir name="3801757">
+		<string name="name" value="Guild Level 30 Commemoration"/>
+		<string name="desc" value="A medal to commemorate reaching Guild Level 30."/>
+	</imgdir>
+	<imgdir name="3801758">
+		<string name="name" value="300 Guild Weekly Mission Points Commemoration"/>
+		<string name="desc" value="A trophy to commemorate reaching 300 Points in a Weekly Mission."/>
+	</imgdir>
+	<imgdir name="3801759">
+		<string name="name" value="15000 Guild Flag Race Points Commemoration"/>
+		<string name="desc" value="A trophy to commemorate reaching 15000 Points in Guild Flag Race."/>
+	</imgdir>
+	<imgdir name="3801760">
+		<string name="name" value="Guild Culvert 50th Place Commemoration"/>
+		<string name="desc" value="A trophy to commemorate reaching 50th place in Culvert."/>
+	</imgdir>
+	<imgdir name="3801761">
+		<string name="name" value="Guild Castle Room Extension Commemoration"/>
+		<string name="desc" value="A plaque to commemorate adding a new room in the Guild Castle."/>
+	</imgdir>
+	<imgdir name="3801762">
+		<string name="name" value="Guild Castle 3F Extension Commemoration"/>
+		<string name="desc" value="A plaque to commemorate the day of extending the Guild Castle to 3F with the other members."/>
+	</imgdir>
+	<imgdir name="3801763">
+		<string name="name" value="5 Members Commemoration"/>
+		<string name="desc" value="A medal to commemorate recruiting 5 members."/>
+	</imgdir>
+	<imgdir name="3801764">
+		<string name="name" value="10 Members Commemoration"/>
+		<string name="desc" value="A medal to commemorate recruiting 10 members."/>
+	</imgdir>
+	<imgdir name="3801765">
+		<string name="name" value="30 Members Commemoration"/>
+		<string name="desc" value="A medal to commemorate recruiting 30 members."/>
+	</imgdir>
+	<imgdir name="3801766">
+		<string name="name" value="50 Members Commemoration"/>
+		<string name="desc" value="A medal to commemorate recruiting 50 members."/>
+	</imgdir>
+	<imgdir name="3801767">
+		<string name="name" value="100 Members Commemoration"/>
+		<string name="desc" value="A medal to commemorate recruiting 100 members."/>
+	</imgdir>
+	<imgdir name="3801768">
+		<string name="name" value="150 Members Commemoration"/>
+		<string name="desc" value="A medal to commemorate recruiting 150 members."/>
+	</imgdir>
+	<imgdir name="3801769">
+		<string name="name" value="200 Members Commemoration"/>
+		<string name="desc" value="A medal to commemorate recruiting 200 members."/>
+	</imgdir>
+	<imgdir name="3801770">
+		<string name="name" value="10 Guild Decorations Owned Commemoration"/>
+		<string name="desc" value="A plaque received by crafting 10 guild decorations with other members."/>
+	</imgdir>
+	<imgdir name="3801771">
+		<string name="name" value="20 Guild Decorations Owned Commemoration"/>
+		<string name="desc" value="A plaque received by crafting 20 guild decorations with other members."/>
+	</imgdir>
+	<imgdir name="3801772">
+		<string name="name" value="1500 Cumulative Weekly Mission Completions Commemoration"/>
+		<string name="desc" value="A trophy commemorating the members for 1500 cumulative Weekly Mission completions."/>
+	</imgdir>
+	<imgdir name="3801773">
+		<string name="name" value="5 Max Members Online Within Guild Castle Commemoration"/>
+		<string name="desc" value="A trophy to commemorate reaching 5 or more max members online within the Guild Castle."/>
+	</imgdir>
+	<imgdir name="3801774">
+		<string name="name" value="10 Max Members Online Within Guild Castle Commemoration"/>
+		<string name="desc" value="A trophy to commemorate reaching 10 or more max members online within the Guild Castle."/>
+	</imgdir>
+	<imgdir name="3801775">
+		<string name="name" value="50 Max Members Online Within Guild Castle Commemoration"/>
+		<string name="desc" value="A trophy to commemorate reaching 50 or more max members online within the Guild Castle."/>
+	</imgdir>
+	<imgdir name="3801776">
+		<string name="name" value="100 Max Members Online Within Guild Castle Commemoration"/>
+		<string name="desc" value="A trophy to commemorate reaching 100 or more max members online within the Guild Castle."/>
+	</imgdir>
+	<imgdir name="3801777">
+		<string name="name" value="150 Max Members Online Within Guild Castle Commemoration"/>
+		<string name="desc" value="A trophy to commemorate reaching 150 or more max members online within the Guild Castle."/>
+	</imgdir>
+	<imgdir name="3801778">
+		<string name="name" value="200 Max Members Online Within Guild Castle Commemoration"/>
+		<string name="desc" value="Everyone has gathered! A trophy to commemorate reaching 200 or more max members online within the Guild Castle."/>
+	</imgdir>
+	<imgdir name="3801779">
+		<string name="name" value="100 Cumulative Flag Race Finishes Commemoration"/>
+		<string name="desc" value="A plaque to commemorate finishing Flag Race 100 times."/>
+	</imgdir>
+	<imgdir name="3801780">
+		<string name="name" value="1,000 Cumulative Flag Race Finishes Commemoration"/>
+		<string name="desc" value="Racing is so easy now! A plaque to commemorate finishing Flag Race 1000 times."/>
+	</imgdir>
+	<imgdir name="3801781">
+		<string name="name" value="10,000 Cumulative Flag Race Finishes Commemoration"/>
+		<string name="desc" value="An easy race! A plaque to commemorate finishing Flag Race 10000 times."/>
+	</imgdir>
+	<imgdir name="3801782">
+		<string name="name" value="100,000 Cumulative Flag Race Finishes Commemoration"/>
+		<string name="desc" value="A plaque to commemorate finishing Flag Race 100000 times. You can race with your eyes closed!"/>
+	</imgdir>
+	<imgdir name="3801783">
+		<string name="name" value="1000 Cumulative Flag Race Stars Commemoration"/>
+		<string name="desc" value="Twinkle, twinkle! A trophy given to guilds that gathered a thousand stars in Flag Race."/>
+	</imgdir>
+	<imgdir name="3801784">
+		<string name="name" value="10,000 Cumulative Flag Race Stars Commemoration"/>
+		<string name="desc" value="Ten thousand stars shine bright! A trophy given to guilds that gathered ten thousand stars in Flag Race."/>
+	</imgdir>
+	<imgdir name="3801785">
+		<string name="name" value="100,000,000 Cumulative Flag Race Stars Commemoration"/>
+		<string name="desc" value="A million stars shimmer on the flag! A trophy given to guilds that have gathered 1 million stars in Flag Race."/>
+	</imgdir>
+	<imgdir name="3801786">
+		<string name="name" value="100 Cumulative Guild Castle Visits Commemoration"/>
+		<string name="desc" value="A trophy commemorating 100 visits to the Guild Castle."/>
+	</imgdir>
+	<imgdir name="3801787">
+		<string name="name" value="1,000 Cumulative Guild Castle Visits Commemoration"/>
+		<string name="desc" value="A trophy commemorating 1,000 visits to the Guild Castle."/>
+	</imgdir>
+	<imgdir name="3801788">
+		<string name="name" value="10,000 Cumulative Guild Castle Visits Commemoration"/>
+		<string name="desc" value="You come here often?! A trophy commemorating 10000 visits to the Guild Castle."/>
+	</imgdir>
+	<imgdir name="3801789">
+		<string name="name" value="10,000,000 Cumulative Guild Castle Visits Commemoration"/>
+		<string name="desc" value="You come here often?! A trophy commemorating 10,000,000 visits to the Guild Castle."/>
+	</imgdir>
+	<imgdir name="3801790">
+		<string name="name" value="5 Members Obtained Genesis Weapons Commemoration"/>
+		<string name="desc" value="A trophy commemorating the 5 guild members who defeated the Black Mage and obtained the Genesis Weapon.\r\n#cIt&apos;s recorded the moment each character completes the awakening, and it&apos;s recorded only once per character.#"/>
+	</imgdir>
+	<imgdir name="3801791">
+		<string name="name" value="10 Members Obtained Genesis Weapons Commemoration"/>
+		<string name="desc" value="A trophy commemorating the 10 guild members who defeated the Black Mage and obtained the Genesis Weapon.\r\n#cIt&apos;s recorded the moment each character completes the awakening, and it&apos;s recorded only once per character.#"/>
+	</imgdir>
+	<imgdir name="3801792">
+		<string name="name" value="30 Members Obtained Genesis Weapons Commemoration"/>
+		<string name="desc" value="A trophy commemorating the 30 guild members who defeated the Black Mage and obtained the Genesis Weapon.\r\n#cIt&apos;s recorded the moment each character completes the awakening, and it&apos;s recorded only once per character.#"/>
+	</imgdir>
+	<imgdir name="3801793">
+		<string name="name" value="50 Members Obtained Genesis Weapons Commemoration"/>
+		<string name="desc" value="A trophy commemorating the 50 guild members who defeated the Black Mage and obtained the Genesis Weapon.\r\n#cIt&apos;s recorded the moment each character completes the awakening, and it&apos;s recorded only once per character.#"/>
+	</imgdir>
+	<imgdir name="3801794">
+		<string name="name" value="Guild Castle Entry 1st Anniversary Commemoration"/>
+		<string name="desc" value="A trophy to commemorate the 1st anniversary of entering the Guild Castle."/>
+	</imgdir>
+	<imgdir name="3801795">
+		<string name="name" value="Guild Castle Entry 2nd Anniversary Commemoration"/>
+		<string name="desc" value="A trophy to commemorate the 2nd anniversary of entering the Guild Castle."/>
+	</imgdir>
+	<imgdir name="3801796">
+		<string name="name" value="Guild Castle Entry 3rd Anniversary Commemoration"/>
+		<string name="desc" value="A trophy to commemorate the 3rd anniversary of entering the Guild Castle."/>
+	</imgdir>
+	<imgdir name="3801797">
+		<string name="name" value="Guild Castle Entry 4th Anniversary Commemoration"/>
+		<string name="desc" value="A trophy to commemorate the 4th anniversary of entering the Guild Castle."/>
+	</imgdir>
+	<imgdir name="3801798">
+		<string name="name" value="Guild Castle Entry 5th Anniversary Commemoration"/>
+		<string name="desc" value="A trophy to commemorate the 5th anniversary of entering the Guild Castle."/>
+	</imgdir>
+	<imgdir name="3801799">
+		<string name="name" value="Guild Castle Entry 6th Anniversary Commemoration"/>
+		<string name="desc" value="A trophy to commemorate the 6th anniversary of entering the Guild Castle."/>
+	</imgdir>
+	<imgdir name="3801800">
+		<string name="name" value="Guild Castle Entry 7th Anniversary Commemoration"/>
+		<string name="desc" value="A trophy to commemorate the 7th anniversary of entering the Guild Castle."/>
+	</imgdir>
+	<imgdir name="3801801">
+		<string name="name" value="Guild Castle Entry 8th Anniversary Commemoration"/>
+		<string name="desc" value="A trophy to commemorate the 8th anniversary of entering the Guild Castle."/>
+	</imgdir>
+	<imgdir name="3801802">
+		<string name="name" value="Guild Castle Entry 9th Anniversary Commemoration"/>
+		<string name="desc" value="A trophy to commemorate the 9th anniversary of entering the Guild Castle."/>
+	</imgdir>
+	<imgdir name="3801803">
+		<string name="name" value="Guild Castle Entry 10th Anniversary Commemoration"/>
+		<string name="desc" value="A trophy to commemorate the 10th anniversary of entering the Guild Castle."/>
+	</imgdir>
+	<imgdir name="3019048">
+		<string name="name" value="Starlight Energy Chair"/>
+		<string name="desc" value="You feel the starlight energy surround you. #cRestores 100 HP and 100 MP every 10 seconds.#"/>
+	</imgdir>
+	<imgdir name="3019062">
+		<string name="name" value="Hexagonal Star Glass Marble Chair"/>
+		<string name="desc" value="The hexagonal star shines as brightly inside the transparent glass marble. #cRestores 100 HP and 100 MP every 10 seconds.#"/>
+	</imgdir>
+	<imgdir name="3019065">
+		<string name="name" value="Starlight Energy Chair"/>
+		<string name="desc" value="You feel the starlight energy surround you. #cRestores 100 HP and 100 MP every 10 seconds.\n\nThis chair disappears at midnight as it allows you to do the &lt;Sixth Star&gt; event daily mission.#"/>
+	</imgdir>
+	<imgdir name="3700730">
+		<string name="name" value="Star"/>
+		<string name="desc" value="You are a true star for completing the long journey toward the Sixth Star and sixth power!#c\n\nBonus EXP +10%\nAttack Power &amp; Magic ATT +20\nAll Stats +50\nBoss Damage +30%\nIgnore Defense +30%\nMax HP/MP +2500\nStats Duration: 14 Day\n\nClick to toggle ON/OFF.#"/>
 	</imgdir>
 </imgdir>

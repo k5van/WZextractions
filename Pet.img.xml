@@ -6162,12 +6162,12 @@
 	</imgdir>
 	<imgdir name="5002585">
 		<string name="name" value="Drum Bunny"/>
-		<string name="desc" value="A Drum Bunny. "/>
+		<string name="desc" value="A Drum Bunny."/>
 		<string name="descd" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
 	</imgdir>
 	<imgdir name="5002586">
-		<string name="name" value="Ducky Family"/>
-		<string name="desc" value="A Ducky Family. "/>
+		<string name="name" value="Roloduck"/>
+		<string name="desc" value="A Roloduck."/>
 		<string name="descd" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
 	</imgdir>
 	<imgdir name="5002587">
@@ -6219,5 +6219,70 @@
 		<string name="name" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
 		<string name="desc" value="A Black Camel pet."/>
 		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002592">
+		<string name="name" value="Cute Hundun"/>
+		<string name="desc" value="A Cute Hundun pet."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002593">
+		<string name="name" value="Cute Qionqi"/>
+		<string name="desc" value="A Cute Qionqi pet."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002594">
+		<string name="name" value="Cute Taowu"/>
+		<string name="desc" value="A Cute Taowu pet."/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the Water of Life."/>
+	</imgdir>
+	<imgdir name="5002601">
+		<string name="name" value="Toth"/>
+		<string name="desc" value="It&apos;s #cToth#, someone who is capable of wielding Death&apos;s Scythe.\r\nBlessed by the power of moonlight, #cReboot Lil Death&apos;s Scythe# pets can pick up #citems from a greater distance. Can be revived with the Petite Luna Water of Life.#"/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the #cPetite Luna Water of Life#."/>
+	</imgdir>
+	<imgdir name="5002602">
+		<string name="name" value="Vella"/>
+		<string name="desc" value="It&apos;s #cVella#, someone who is capable of wielding Death&apos;s Scythe.\r\nBlessed by the power of moonlight, #cReboot Lil Death&apos;s Scythe# pets can pick up #citems from a greater distance. Can be revived with the Petite Luna Water of Life.#"/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the #cPetite Luna Water of Life#."/>
+	</imgdir>
+	<imgdir name="5002603">
+		<string name="name" value="Lil Death"/>
+		<string name="desc" value="It&apos;s #cLil Death#, someone who is capable of wielding Death&apos;s Scythe.\r\nBlessed by the power of moonlight, #cReboot Lil Death&apos;s Scythe# pets can pick up #citems from a greater distance. Can be revived with the Petite Luna Water of Life.#"/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the #cPetite Luna Water of Life#."/>
+	</imgdir>
+	<imgdir name="5002584">
+		<string name="name" value="Lil Terry"/>
+		<string name="desc" value="A cute, adorable, and smart hamster named #cLil Terry#.\r\nBlessed by the power of moonlight, #cLil Terry can pick up items from a greater distance.#\r\nLil Terry can equip the #cTerry Glasses# pet equipment.\r\nIf you double-click Lil Terry after its magic duration ends, it will disappear.\n\n#cCaution! This pet cannot have its magic duration extended after it ends.#"/>
+		<string name="descD" value="Your small and adorable hamster, Lil Terry, has turned into a doll. You cannot revive it with the Water of Life.\r\nIf you double-click Lil Terry after its magic duration ends, it will disappear."/>
+	</imgdir>
+	<imgdir name="5002611">
+		<string name="name" value="Oberon"/>
+		<string name="desc" value="It&apos;s #cOberon#, the Fairy King. He seems quite serious.\r\nBlessed by the power of moonlight, #cReboot Petite Fairy# pets can pick up #citems from a greater distance. Can be revived with the Petite Luna Water of Life.#"/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the #cPetite Luna Water of Life#."/>
+	</imgdir>
+	<imgdir name="5002612">
+		<string name="name" value="Titania"/>
+		<string name="desc" value="It&apos;s #cTitania#, the Fairy Queen. She&apos;s pretty high and mighty.\r\nBlessed by the power of moonlight, #cReboot Petite Fairy# pets can pick up #citems from a greater distance. Can be revived with the Petite Luna Water of Life.#"/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the #cPetite Luna Water of Life#."/>
+	</imgdir>
+	<imgdir name="5002613">
+		<string name="name" value="Petite Pico"/>
+		<string name="desc" value="It&apos;s #cPetite Pico#, the adorable fairy, who&apos;s in charge of all things cute!\r\nBlessed by the power of moonlight, #cReboot Petite Fairy# pets can pick up #citems from a greater distance. Can be revived with the Petite Luna Water of Life.#"/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the #cPetite Luna Water of Life#."/>
+	</imgdir>
+	<imgdir name="5002614">
+		<string name="name" value="Victory"/>
+		<string name="desc" value="It&apos;s #cVictory#, king of the pony riders! He&apos;s always concerned with appearing chic, but his cute side shows itself occasionally.\r\nBlessed by the power of moonlight, #cReboot Lil Pony# pets can pick up #citems from a greater distance. Can be revived with the Petite Luna Water of Life.#"/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the #cPetite Luna Water of Life#."/>
+	</imgdir>
+	<imgdir name="5002615">
+		<string name="name" value="Glory"/>
+		<string name="desc" value="It&apos;s #cGlory#, the glorious star rider! She may look a bit aloof, but she becomes fast friends with those she takes a liking to.\r\nBlessed by the power of moonlight, #cReboot Lil Pony# pets can pick up #citems from a greater distance. Can be revived with the Petite Luna Water of Life.#"/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the #cPetite Luna Water of Life#."/>
+	</imgdir>
+	<imgdir name="5002616">
+		<string name="name" value="Lil Pony"/>
+		<string name="desc" value="It&apos;s the lovable #cLil Pony#, cherished by Victory and Glory. Its charm is its capricious and whimsical behavior. Who knows what it&apos;ll do next?\r\nBlessed by the power of moonlight, #cReboot Lil Pony# pets can pick up #citems from a greater distance. Can be revived with the Petite Luna Water of Life.#"/>
+		<string name="descD" value="Your pet has turned into a doll. You can revive it with the #cPetite Luna Water of Life#."/>
 	</imgdir>
 </imgdir>

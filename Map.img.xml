@@ -69136,4 +69136,256 @@
 			<string name="mapName" value="Kamuna"/>
 		</imgdir>
 	</imgdir>
+	<imgdir name="Wz2_GuildCastle">
+		<imgdir name="870000000">
+			<string name="streetName" value="Guild Castle"/>
+			<string name="mapName" value="Throne Room"/>
+		</imgdir>
+		<imgdir name="870000001">
+			<string name="streetName" value="Guild Castle"/>
+			<string name="mapName" value="Lobby"/>
+		</imgdir>
+		<imgdir name="870000002">
+			<string name="streetName" value="Guild Castle"/>
+			<string name="mapName" value="Lobby"/>
+		</imgdir>
+		<imgdir name="870000003">
+			<string name="streetName" value="Guild Castle"/>
+			<string name="mapName" value="Lobby"/>
+		</imgdir>
+		<imgdir name="870000004">
+			<string name="streetName" value="Guild Castle"/>
+			<string name="mapName" value="Lobby"/>
+		</imgdir>
+		<imgdir name="870000005">
+			<string name="streetName" value="Guild Castle"/>
+			<string name="mapName" value="Lobby"/>
+		</imgdir>
+		<imgdir name="870000006">
+			<string name="streetName" value="Guild Castle"/>
+			<string name="mapName" value="Lobby"/>
+		</imgdir>
+		<imgdir name="870000007">
+			<string name="streetName" value="Guild Castle"/>
+			<string name="mapName" value="Lobby"/>
+		</imgdir>
+		<imgdir name="870000008">
+			<string name="streetName" value="Guild Castle"/>
+			<string name="mapName" value="Lobby"/>
+		</imgdir>
+		<imgdir name="870000100">
+			<string name="streetName" value="Guild Castle"/>
+			<string name="mapName" value="Guild Safes"/>
+		</imgdir>
+		<imgdir name="870000101">
+			<string name="streetName" value="Guild Castle"/>
+			<string name="mapName" value="Conference Room"/>
+		</imgdir>
+		<imgdir name="870000102">
+			<string name="streetName" value="Guild Castle"/>
+			<string name="mapName" value="Training Area"/>
+		</imgdir>
+		<imgdir name="870000103">
+			<string name="streetName" value="Guild Castle"/>
+			<string name="mapName" value="Enhancement Altar"/>
+		</imgdir>
+		<imgdir name="870000104">
+			<string name="streetName" value="Guild Castle"/>
+			<string name="mapName" value="Supply Station"/>
+		</imgdir>
+		<imgdir name="870000105">
+			<string name="streetName" value="Guild Castle"/>
+			<string name="mapName" value="Library"/>
+		</imgdir>
+		<imgdir name="870000200">
+			<string name="streetName" value="Guild Castle"/>
+			<string name="mapName" value="Living Room"/>
+		</imgdir>
+		<imgdir name="870000201">
+			<string name="streetName" value="Guild Castle"/>
+			<string name="mapName" value="Storage Room"/>
+		</imgdir>
+		<imgdir name="870000202">
+			<string name="streetName" value="Guild Castle"/>
+			<string name="mapName" value="Dining Room"/>
+		</imgdir>
+		<imgdir name="870000203">
+			<string name="streetName" value="Guild Castle"/>
+			<string name="mapName" value="Swimming Pool"/>
+		</imgdir>
+		<imgdir name="870000204">
+			<string name="streetName" value="Guild Castle"/>
+			<string name="mapName" value="Party Room"/>
+		</imgdir>
+		<imgdir name="870000205">
+			<string name="streetName" value="Guild Castle"/>
+			<string name="mapName" value="Greenhouse"/>
+		</imgdir>
+		<imgdir name="870001000">
+			<string name="streetName" value="Guild Castle"/>
+			<string name="mapName" value="Duke Dylan Castle Lobby"/>
+		</imgdir>
+		<imgdir name="870001001">
+			<string name="streetName" value="Guild Castle"/>
+			<string name="mapName" value="Duke&apos;s Office"/>
+		</imgdir>
+		<imgdir name="870001002">
+			<string name="streetName" value="Guild Castle"/>
+			<string name="mapName" value="Duke&apos;s Office"/>
+		</imgdir>
+		<imgdir name="870001003">
+			<string name="streetName" value="Guild Castle"/>
+			<string name="mapName" value="Duke Dylan Castle Lobby"/>
+		</imgdir>
+		<imgdir name="870001004">
+			<string name="streetName" value="Guild Castle"/>
+			<string name="mapName" value="Duke Dylan Castle Lobby"/>
+		</imgdir>
+		<imgdir name="870001005">
+			<string name="streetName" value="Guild Castle"/>
+			<string name="mapName" value="Duke Dylan Castle Lobby"/>
+		</imgdir>
+		<imgdir name="870001006">
+			<string name="streetName" value="Guild Castle"/>
+			<string name="mapName" value="Duke Dylan Castle Lobby"/>
+		</imgdir>
+		<imgdir name="870001007">
+			<string name="streetName" value="Guild Castle"/>
+			<string name="mapName" value="Duke&apos;s Office"/>
+		</imgdir>
+		<imgdir name="870001008">
+			<string name="streetName" value="Guild Castle"/>
+			<string name="mapName" value="Duke&apos;s Office"/>
+		</imgdir>
+		<imgdir name="870001009">
+			<string name="streetName" value="Guild Castle"/>
+			<string name="mapName" value="Duke&apos;s Office"/>
+		</imgdir>
+		<imgdir name="870001010">
+			<string name="streetName" value="Guild Castle"/>
+			<string name="mapName" value="Duke&apos;s Office"/>
+		</imgdir>
+		<imgdir name="870001011">
+			<string name="streetName" value="Guild Castle"/>
+			<string name="mapName" value="Lobby"/>
+		</imgdir>
+		<imgdir name="870001012">
+			<string name="streetName" value="Guild Castle"/>
+			<string name="mapName" value="Throne Room"/>
+		</imgdir>
+		<imgdir name="870001013">
+			<string name="streetName" value="Guild Castle"/>
+			<string name="mapName" value="Lobby"/>
+		</imgdir>
+		<imgdir name="870001014">
+			<string name="streetName" value="Guild Castle"/>
+			<string name="mapName" value="Duke&apos;s Office"/>
+		</imgdir>
+		<imgdir name="870001015">
+			<string name="streetName" value="Guild Castle"/>
+			<string name="mapName" value="Throne Room"/>
+		</imgdir>
+		<imgdir name="870001016">
+			<string name="streetName" value="Guild Castle"/>
+			<string name="mapName" value="Throne Room"/>
+		</imgdir>
+		<imgdir name="870001017">
+			<string name="streetName" value="Guild Castle"/>
+			<string name="mapName" value="Guild Safes"/>
+		</imgdir>
+		<imgdir name="870001018">
+			<string name="streetName" value="Guild Castle"/>
+			<string name="mapName" value="Conference Room"/>
+		</imgdir>
+		<imgdir name="870001019">
+			<string name="streetName" value="Guild Castle"/>
+			<string name="mapName" value="Training Area"/>
+		</imgdir>
+		<imgdir name="870001020">
+			<string name="streetName" value="Guild Castle"/>
+			<string name="mapName" value="Enhancement Altar"/>
+		</imgdir>
+		<imgdir name="870001021">
+			<string name="streetName" value="Guild Castle"/>
+			<string name="mapName" value="Supply Station"/>
+		</imgdir>
+		<imgdir name="870001022">
+			<string name="streetName" value="Guild Castle"/>
+			<string name="mapName" value="Library"/>
+		</imgdir>
+		<imgdir name="870001023">
+			<string name="streetName" value="Guild Castle"/>
+			<string name="mapName" value="Living Room"/>
+		</imgdir>
+		<imgdir name="870001024">
+			<string name="streetName" value="Guild Castle"/>
+			<string name="mapName" value="Storage Room"/>
+		</imgdir>
+		<imgdir name="870001025">
+			<string name="streetName" value="Guild Castle"/>
+			<string name="mapName" value="Dining Room"/>
+		</imgdir>
+		<imgdir name="870001026">
+			<string name="streetName" value="Guild Castle"/>
+			<string name="mapName" value="Swimming Pool"/>
+		</imgdir>
+		<imgdir name="870001027">
+			<string name="streetName" value="Guild Castle"/>
+			<string name="mapName" value="Party Room"/>
+		</imgdir>
+		<imgdir name="870001028">
+			<string name="streetName" value="Guild Castle"/>
+			<string name="mapName" value="Greenhouse"/>
+		</imgdir>
+		<imgdir name="870001100">
+			<string name="streetName" value="Guild Castle"/>
+			<string name="mapName" value="Duke&apos;s Office"/>
+		</imgdir>
+		<imgdir name="870001110">
+			<string name="streetName" value="Guild Castle"/>
+			<string name="mapName" value="Duke&apos;s Office"/>
+		</imgdir>
+		<imgdir name="870001120">
+			<string name="streetName" value="Guild Castle"/>
+			<string name="mapName" value="Duke&apos;s Office"/>
+		</imgdir>
+		<imgdir name="870001130">
+			<string name="streetName" value="Guild Castle"/>
+			<string name="mapName" value="Duke&apos;s Office"/>
+		</imgdir>
+		<imgdir name="870001200">
+			<string name="streetName" value="Cache of Greed"/>
+			<string name="mapName" value="Entrance"/>
+		</imgdir>
+		<imgdir name="870001210">
+			<string name="streetName" value="Cache of Greed"/>
+			<string name="mapName" value="B1"/>
+		</imgdir>
+		<imgdir name="870001220">
+			<string name="streetName" value="Cache of Greed"/>
+			<string name="mapName" value="B2 Area 1"/>
+		</imgdir>
+		<imgdir name="870001221">
+			<string name="streetName" value="Cache of Greed"/>
+			<string name="mapName" value="B2 Area 2"/>
+		</imgdir>
+		<imgdir name="870001222">
+			<string name="streetName" value="Cache of Greed"/>
+			<string name="mapName" value="B2 Area 3"/>
+		</imgdir>
+		<imgdir name="870001230">
+			<string name="streetName" value="Cache of Greed"/>
+			<string name="mapName" value="B3 Area 1"/>
+		</imgdir>
+		<imgdir name="870001231">
+			<string name="streetName" value="Cache of Greed"/>
+			<string name="mapName" value="B3 Area 2"/>
+		</imgdir>
+	</imgdir>
+	<imgdir name="VIWarmingUpEvent">
+		<imgdir name="867164500">
+			<string name="streetName" value="Henesys"/>
+			<string name="mapName" value="Pet-Walking Road &lt;Mission&gt;"/>
+		</imgdir>
+	</imgdir>
 </imgdir>

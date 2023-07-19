@@ -1,0 +1,559 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="GuildCastle.img">
+	<imgdir name="message">
+		<string name="none" value="&#43690;&#43690;"/>
+		<string name="RoomChangeOnCooltime" value="This room can be changed again after %m/%d/%Y %H:%M."/>
+		<string name="CastleChangeOnCooltime" value="Currently, the Guild Castle has a room that cannot be changed. After %m/%d/%Y %H:%M, you will be able to change the castle type."/>
+		<string name="TeleportOnCooltime" value="It cannot be used yet, since it is still on cooldown.\n[Time Remaining: {}]"/>
+		<string name="TeleportResearchRequired" value="You must complete the {} research project to use Room Teleport."/>
+		<string name="DeleteDecoration" value="Are you sure you want to destroy the {} decoration? Destroyed decorations cannot be restored."/>
+		<string name="DeleteInstalledDecoration" value="This decoration is currently placed in the Guild Castle. Destroying the decoration will automatically displace it. Are you sure you want to destroy it?"/>
+		<string name="onUserLeaveGuild" value="Items or quests that were only available in your previous guild have been removed."/>
+		<string name="SpecialRoomLimitReach" value="At the Guild Castle&apos;s current stage, only {} special rooms can be placed."/>
+		<string name="DecoInventoryStoreAll" value="Do you want to cancel the placement of all the decorations placed on the castle and put them in your inventory?"/>
+		<string name="AlreadyPlacedDeco" value="This decoration is already being placed elsewhere. Would you like to collect it from the relevant location and place it back here?"/>
+		<string name="GuildInventoryMesoCommission" value="There is a fee of {} Mesos. Would you like to pay that amount to store your Mesos here?"/>
+		<string name="noDecorationSlot" value="There are no slots to place decorations."/>
+	</imgdir>
+	<imgdir name="GuildCastleTemplate">
+		<imgdir name="0">
+			<string name="name" value="Test"/>
+		</imgdir>
+		<imgdir name="1">
+			<string name="name" value="Stage 1 - Default"/>
+		</imgdir>
+		<imgdir name="2">
+			<string name="name" value="Stage 1 - Expanded"/>
+		</imgdir>
+		<imgdir name="3">
+			<string name="name" value="Stage 1 - Expanded"/>
+		</imgdir>
+		<imgdir name="4">
+			<string name="name" value="Stage 1 - Final"/>
+		</imgdir>
+		<imgdir name="5">
+			<string name="name" value="Stage 2 - Default"/>
+		</imgdir>
+		<imgdir name="6">
+			<string name="name" value="Stage 2 - Expanded"/>
+		</imgdir>
+		<imgdir name="7">
+			<string name="name" value="Stage 2 - Expanded"/>
+		</imgdir>
+		<imgdir name="8">
+			<string name="name" value="Stage 2 - Final"/>
+		</imgdir>
+	</imgdir>
+	<imgdir name="UI">
+		<imgdir name="UIGuildCastleInfo">
+			<imgdir name="MyMission">
+				<string name="WeeklyReward_0" value="Cannot claim"/>
+				<string name="WeeklyReward_1" value="Can claim"/>
+				<string name="WeeklyReward_2" value="Claimed"/>
+				<string name="WeeklyMission_0" value="Incomplete"/>
+				<string name="WeeklyMission_1" value="Complete"/>
+				<string name="WeeklyMission_2" value="Extra"/>
+			</imgdir>
+			<string name="NoRecentMessage" value="There has been no new Guild Castle news for the past week."/>
+		</imgdir>
+	</imgdir>
+	<imgdir name="RoomTemplate">
+		<imgdir name="0">
+			<string name="name" value="Throne Room"/>
+			<string name="desc" value="This is the pillar and core of the Guild Castle. Under the purple protection of the Energy Stone, may glory always be with your guild."/>
+		</imgdir>
+		<imgdir name="1">
+			<string name="name" value="Lobby"/>
+			<string name="desc" value="A basic, fundamental space that connects the Guild Castle&apos;s rooms together.\nThe marble, with warm light, promotes a beautiful, dignified ambiance, as does the vividly embroidered flag.\n\nOne side of the lobby has a Hall of Fame and trophy case. Many great heroes set foot here."/>
+		</imgdir>
+		<imgdir name="2">
+			<string name="name" value="Lobby"/>
+			<string name="desc" value="A basic, fundamental space that connects the Guild Castle&apos;s rooms together.\nThe marble, with warm light, promotes a beautiful, dignified ambiance, as does the vividly embroidered flag.\n\nOne side of the lobby has a Hall of Fame and trophy case. Many great heroes set foot here."/>
+		</imgdir>
+		<imgdir name="3">
+			<string name="name" value="Lobby"/>
+			<string name="desc" value="A basic, fundamental space that connects the Guild Castle&apos;s rooms together.\nThe marble, with warm light, promotes a beautiful, dignified ambiance, as does the vividly embroidered flag.\n\nOne side of the lobby has a Hall of Fame and trophy case. Many great heroes set foot here."/>
+		</imgdir>
+		<imgdir name="4">
+			<string name="name" value="Lobby"/>
+			<string name="desc" value="A basic, fundamental space that connects the Guild Castle&apos;s rooms together.\nThe marble, with warm light, promotes a beautiful, dignified ambiance, as does the vividly embroidered flag.\n\nOne side of the lobby has a Hall of Fame and trophy case. Many great heroes set foot here."/>
+		</imgdir>
+		<imgdir name="5">
+			<string name="name" value="Lobby"/>
+			<string name="desc" value="A basic, fundamental space that connects the Guild Castle&apos;s rooms together.\nThe marble, with warm light, promotes a beautiful, dignified ambiance, as does the vividly embroidered flag.\n\nOne side of the lobby has a Hall of Fame and trophy case. Many great heroes set foot here."/>
+		</imgdir>
+		<imgdir name="6">
+			<string name="name" value="Lobby"/>
+			<string name="desc" value="A basic, fundamental space that connects the Guild Castle&apos;s rooms together.\nThe marble, with warm light, promotes a beautiful, dignified ambiance, as does the vividly embroidered flag.\n\nOne side of the lobby has a Hall of Fame and trophy case. Many great heroes set foot here."/>
+		</imgdir>
+		<imgdir name="7">
+			<string name="name" value="Lobby"/>
+			<string name="desc" value="A basic, fundamental space that connects the Guild Castle&apos;s rooms together.\nThe marble, with warm light, promotes a beautiful, dignified ambiance, as does the vividly embroidered flag.\n\nOne side of the lobby has a Hall of Fame and trophy case. Many great heroes set foot here."/>
+		</imgdir>
+		<imgdir name="8">
+			<string name="name" value="Lobby"/>
+			<string name="desc" value="A basic, fundamental space that connects the Guild Castle&apos;s rooms together.\nThe marble, with warm light, promotes a beautiful, dignified ambiance, as does the vividly embroidered flag.\n\nOne side of the lobby has a Hall of Fame and trophy case. Many great heroes set foot here."/>
+		</imgdir>
+		<imgdir name="100">
+			<string name="name" value="Guild Safes"/>
+			<string name="desc" value="A place to store guild assets.\nFrom trivial odds and ends to valuable treasures, each object stored here is a valuable asset gathered for guild unity and cooperation. The diligent Harrison manages it meticulously, without missing anything."/>
+		</imgdir>
+		<imgdir name="101">
+			<string name="name" value="Conference Room"/>
+			<string name="desc" value="Important guild issues deserve to be discussed with class and professionalism. Here in the Conference Room, your guild members can come together to make plans, resolve their differences, and face the world with a united front."/>
+		</imgdir>
+		<imgdir name="102">
+			<string name="name" value="Training Area"/>
+			<string name="desc" value="A training space for knights who have sworn allegiance to the guild. Work out by the light of that sword-shaped window, and enjoy your gains."/>
+		</imgdir>
+		<imgdir name="103">
+			<string name="name" value="Enhancement Altar"/>
+			<string name="desc" value="The power of the Divine Anvil awaits anyone who challenges their limits. Grow your strength, and earn your guildmates&apos; recognition."/>
+		</imgdir>
+		<imgdir name="104">
+			<string name="name" value="Supply Station"/>
+			<string name="desc" value="A place for various Guild Castle supplies. These items support the guild members&apos; overall activities, from recreation to romance."/>
+		</imgdir>
+		<imgdir name="105">
+			<string name="name" value="Library"/>
+			<string name="desc" value="A treasure trove of knowledge, featuring all kinds of books. Any good guild member owes it to themselves to spend time reading and immersing themselves in daily self-development. Here, the joy of learning is open to everyone. As long as you don&apos;t suffer from headaches."/>
+		</imgdir>
+		<imgdir name="200">
+			<string name="name" value="Living Room"/>
+			<string name="desc" value="This space welcomes visitors to the Guild Castle. Here, invited guests can stay comfortably, and residents can use it as a warm, cozy break room."/>
+		</imgdir>
+		<imgdir name="201">
+			<string name="name" value="Storage Room"/>
+			<string name="desc" value="A nest for all sorts of odds and ends.\nThe gears on the wall are all that remains of the castle&apos;s old outer-wall clockwork. Looking at it, you feel more in touch with the castle&apos;s former residents."/>
+		</imgdir>
+		<imgdir name="202">
+			<string name="name" value="Dining Room"/>
+			<string name="desc" value="A place for feasting and friendship. Enjoy the melodies, or even play one yourself on the piano. The plants seem to perk up whenever someone performs."/>
+		</imgdir>
+		<imgdir name="203">
+			<string name="name" value="Swimming Pool"/>
+			<string name="desc" value="A small watery getaway for the Guild Castle. Swimming with everyone provides a pleasant escape from your day-to-day work.\n\nNot a swimmer? No worries, you can always lie back and relax by the poolside. Those colorful tubes are calling you!"/>
+		</imgdir>
+		<imgdir name="204">
+			<string name="name" value="Party Room"/>
+			<string name="desc" value="What party will be held today? Open one of the gift boxes piled on the floor. Inside is the care and friendship of someone who wrapped it while thinking of you."/>
+		</imgdir>
+		<imgdir name="205">
+			<string name="name" value="Greenhouse"/>
+			<string name="desc" value="A place where the warmest sunlight shines down on the Guild Castle. A cup of leisurely tea, surrounded by green leaves, is the best way to erase the fatigue of a difficult adventure. Colorful seasonal flowers are waiting for your care."/>
+		</imgdir>
+	</imgdir>
+	<imgdir name="Research">
+		<imgdir name="Guild">
+			<imgdir name="1">
+				<string name="name" value="Guild Castle Stage 1: Expanding room"/>
+				<string name="desc" value="You can expand one of the rooms of Guild Castle Stage 1. Before starting this research project, you can choose one of the left/right rooms.\r\n#cWhen the castle is expanded, all rooms and decorations placements are initialized to the default state.#"/>
+				<string name="h" value="Change to the Guild Castle Stage 1 [Expanded] with 3 rooms"/>
+			</imgdir>
+			<imgdir name="2">
+				<string name="name" value="Guild Castle Stage 1: Final expansion"/>
+				<string name="desc" value="Can be expanded to the final form of Guild Castle Stage 1.\r\n#cWhen the castle is expanded, all rooms and decoration placements are initialized to the default state.#"/>
+				<string name="h" value="Change to Guild Castle Stage 1 [Final]"/>
+			</imgdir>
+			<imgdir name="3">
+				<string name="name" value="Guild Castle Stage 2: Castle upgrade"/>
+				<string name="desc" value="Can be expanded to Guild Castle Stage 2.\r\n#cWhen the castle is expanded, all rooms and decoration placements are initialized to the default state.#"/>
+				<string name="h" value="Change to Guild Castle Stage 2 [Default]"/>
+			</imgdir>
+			<imgdir name="4">
+				<string name="name" value="Guild Castle Stage 2: Expanding room"/>
+				<string name="desc" value="Can expand the rooms of Guild Castle Stage 2. Before starting research, you can choose one of the left/right rooms."/>
+				<string name="h" value="Change to the Guild Castle Stage 2 [Expanded] with 6 rooms"/>
+			</imgdir>
+			<imgdir name="5">
+				<string name="name" value="Guild Castle Stage 2: Final expansion"/>
+				<string name="desc" value="Can be expanded to the final form of Guild Castle Stage 2.\r\n#cWhen the castle is expanded, all rooms and decoration placements are initialized to the default state.#"/>
+				<string name="h" value="Change to Guild Castle Stage 2 [Final]"/>
+			</imgdir>
+			<imgdir name="6">
+				<string name="name" value="Guild Castle: Room change cooldown reduction"/>
+				<string name="desc" value="Reduces the time required to change rooms. The more research you do, the more often you can change rooms.\r\n#cSlots that are already on cooldown will not be reduced additionally.#"/>
+				<string name="h" value="Cooldown after room change reduced to {RoomChangeCooltime:g} minutes"/>
+			</imgdir>
+			<imgdir name="7">
+				<string name="name" value="Obtain Room: Guild Safe"/>
+				<string name="desc" value="You can obtain the Guild Safe, which is one of the special rooms. Obtained rooms can be checked in the Guild Castle Rooms UI."/>
+				<string name="h" value="Obtain Guild Safe"/>
+			</imgdir>
+			<imgdir name="8">
+				<string name="name" value="Guild Safe: Increase safe quantity"/>
+				<string name="desc" value="Increases the number of safes. When you do the initial research, the general storage function is activated, and as the research proceeds, the maximum number of safes that can be used increases gradually."/>
+				<string name="h" value="Activate the general storage keeper function when reaching Level 1 for the first time. Number of safes available: {x:g}"/>
+			</imgdir>
+			<imgdir name="9">
+				<string name="name" value="Guild Safe: Inventory expansion"/>
+				<string name="desc" value="Increases the number of items that can be stored in the safe. As the research proceeds, the maximum number gradually increases. Inventory count is applied equally to all safes."/>
+				<string name="h" value="Increase the guild safe&apos;s maximum number of default slots to {maxInventoryCount:g}"/>
+			</imgdir>
+			<imgdir name="10">
+				<string name="name" value="Obtain Room: Training Area"/>
+				<string name="desc" value="You can obtain the Training Area, which is one of the special rooms. Obtained rooms can be checked in the Guild Castle Rooms UI."/>
+				<string name="h" value="Obtain Training Area"/>
+			</imgdir>
+			<imgdir name="11">
+				<string name="name" value="Training Area: Basic Combat Training"/>
+				<string name="desc" value="Increases the amount of basic EXP distributed in the Training Area."/>
+				<string name="h" value="Increase the EXP you obtain periodically by {x:g}%"/>
+			</imgdir>
+			<imgdir name="12">
+				<string name="name" value="Training Area: Increase Available Training Time"/>
+				<string name="desc" value="Increases Training Area hours. As research proceeds, you can stay in the Training Area longer."/>
+				<string name="h" value="Increase training area usage time up to {duration:g} minutes"/>
+			</imgdir>
+			<imgdir name="13">
+				<string name="name" value="Training Area: Enhance swordsmanship training"/>
+				<string name="desc" value="Slightly increases the distribution amount of EXP you can obtain from the Wind Resistant Training Chair. As you proceed with the research, the distribution amount increases little by little.\r\n#cTraining Area: Adds a multiplier to the EXP given through basic combat training research."/>
+				<string name="h" value="Increase EXP obtained from swordsmanship training by {x:g}%"/>
+			</imgdir>
+			<imgdir name="14">
+				<string name="name" value="Training Area: Enhance archery training"/>
+				<string name="desc" value="Slightly increases the distribution amount of EXP you can obtain from the Accurate Shot Training Chair. When you do the research for the first time, you can purchase the chair at the Training Area. As you proceed with the research, the distribution amount increases little by little.\r\n#cTraining Area: Increases in accordance with the EXP given through basic combat training research."/>
+				<string name="h" value="Sell Archery Chair when reaching level 1 for the first time. Increase the EXP obtained from archery training by {x:g}%"/>
+			</imgdir>
+			<imgdir name="15">
+				<string name="name" value="Obtain Room: Supply Station"/>
+				<string name="desc" value="You can obtain the Supply Station, which is one of the special rooms. Obtained rooms can be checked in the Guild Castle Rooms UI."/>
+				<string name="h" value="Obtain Supply Station"/>
+			</imgdir>
+			<imgdir name="16">
+				<string name="name" value="Supply Station: Energy Stone"/>
+				<string name="desc" value="Sell items that utilize the power of the Energy Stone. (Because they require the Energy Stone&apos;s power, they can only be used in Guild Dungeons.) As the research proceeds, more items will be added to the sales list.\r\n\r\n#c[List of Additional Items Per Level]\r\n - Level 1: Energy Stone&apos;s Protection &amp; Energy Stone&apos;s Grace\r\n - Level 2: Energy Stone&apos;s Blessing#"/>
+				<string name="h" value="Add a total of {x:g} new items to Susan&apos;s supply tab sales list"/>
+			</imgdir>
+			<imgdir name="17">
+				<string name="name" value="Supply Station: Level-up support"/>
+				<string name="desc" value="&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;&#43690;"/>
+				<string name="h" value="Add a total of {x:g} new items to Susan&apos;s supply tab sales list"/>
+			</imgdir>
+			<imgdir name="18">
+				<string name="name" value="Supply Station: Combat goods"/>
+				<string name="desc" value="Sell brooches with gorgeous jewels. Can be equipped in a totem slot. As research proceeds, totems with slightly better stats will be added to the sales list.\r\n#c[List of Additional Items Per Level]\r\n - Level 1: Guild Castle Blue Brooch\r\n - Level 2: Guild Castle Red Brooch\r\n - Level 3: Guild Castle Green Brooch#"/>
+				<string name="h" value="Add a total of {x:g} new items to the Oliver&apos;s supply tab sales list"/>
+			</imgdir>
+			<imgdir name="19">
+				<string name="name" value="Supply Station: Sensitivity items"/>
+				<string name="desc" value="Sell items that promote kindness and sensitivity. As the research proceeds, more items are added.\r\n\r\n#c[List of Additional Sales Per Level]\r\n - Level 1: Add Kiddy Potion to the sales list\r\n - Level 2: Add Pew Pew Heart to the sales list\r\n - Level 3: Add Scatter Pollen to the sales list#"/>
+				<string name="h" value="Add a total of {x:g} new items to the Susan&apos;s sensitivity tab sales list"/>
+			</imgdir>
+			<imgdir name="20">
+				<string name="name" value="Obtain Room: Dining Room"/>
+				<string name="desc" value="You can obtain the Dining Room, which is one of the regular rooms. Obtained rooms can be checked in the Guild Castle Rooms UI."/>
+				<string name="h" value="Obtain Dining Room"/>
+			</imgdir>
+			<imgdir name="21">
+				<string name="name" value="Dining Room: Play the Piano"/>
+				<string name="desc" value="You can activate the function to change the background music on the piano. When you sit down at the piano, you can select the background music you want to play. The background music returns to the original background music when the performance ends.\r\n\r\n#c[Playable BGM List]\r\n - Raindrop Flower - Jazz Ver.\r\n - Illiyard Moor\r\n - Borderless\r\n - Neo Castle#"/>
+				<string name="h" value="Activate the piano-playing function. 4 songs are available at first."/>
+			</imgdir>
+			<imgdir name="22">
+				<string name="name" value="Dining Room: Brilliant Performance"/>
+				<string name="desc" value="At the piano, you can choose which background music to play. As the research proceeds, the number of selectable background music tracks increases.\r\n\r\n#c[Additional BGM List]\r\n - For Einherjar\r\n - Temple Of Time\r\n - Pantheon\r\n - My Prince My Kingdom\r\n - Outlaw of the Lonely Island\r\n - Helisium Forest\r\n - Secret Elodin\r\n - The Village of Karupa\r\n - Fairy Tale\r\n - Login#"/>
+				<string name="h" value="Increase the list of background music that can be played on the piano to a maximum of {x:g} songs"/>
+			</imgdir>
+			<imgdir name="23">
+				<string name="name" value="Obtain Room: Library"/>
+				<string name="desc" value="You can obtain the Library, which is one of the special rooms. Obtained rooms can be checked in the Guild Castle Rooms UI."/>
+				<string name="h" value="Obtain Library"/>
+			</imgdir>
+			<imgdir name="24">
+				<string name="name" value="Library: Usage time"/>
+				<string name="desc" value="Increases library usage time. As research proceeds, you can stay in the library longer."/>
+				<string name="h" value="Increase library usage time up to {duration:g} minutes"/>
+			</imgdir>
+			<imgdir name="25">
+				<string name="name" value="Library: Reading habits"/>
+				<string name="desc" value="The time required to acquire the traits can be shortened. The more research you do, the less time it takes to acquire those traits."/>
+				<string name="h" value="Reduce the time it takes to acquire traits to {x:g} seconds"/>
+			</imgdir>
+			<imgdir name="26">
+				<string name="name" value="Library: Epiphany"/>
+				<string name="desc" value="When you click on a Library bookshelf, you can randomly obtain a trait. If you click a bookshelf after obtaining the trait a certain number of times, the trait corresponding to the clicked bookshelf will be randomly distributed, with an equal probability between 0 and 1000 points.\r\nRegardless of type, it can only be used once per day."/>
+				<string name="h" value="Accumulate 500 daily trait points, regardless of the type, then activate the function that randomly gives traits points when clicking on the bookshelf."/>
+			</imgdir>
+			<imgdir name="27">
+				<string name="name" value="Library: Enhance thinking skills"/>
+				<string name="desc" value="Enhance the amount of traits distributed in the Library. As research proceeds, the range of traits you can obtain randomly increases."/>
+				<string name="h" value="Increase the minimum amount of daily trait points to {x:g}, and the maximum amount to {y:g}"/>
+			</imgdir>
+			<imgdir name="28">
+				<string name="name" value="Obtain Room: Party Room"/>
+				<string name="desc" value="You can obtain the Party Room, which is one of the regular rooms. Obtained rooms can be checked in the Guild Castle Rooms UI."/>
+				<string name="h" value="Obtain Party Room"/>
+			</imgdir>
+			<imgdir name="29">
+				<string name="name" value="Party Room: Patissier"/>
+				<string name="desc" value="Increases the number of patissier items that can be purchased from Pit-a-Pat Gift Box in the Party Room.\r\n\r\n#c[List of Additional Items Per Level]\r\n - Level 1: Retro Cherry Cake\r\n - Level 2: Squirming Twisted Candle\r\n - Level 3: Sun and Moon Love Candle\r\n - Level 4: Delightful Digits Candle\r\n - Level 5: Pearlescent Cream Cake#"/>
+				<string name="h" value="Add a total of {x:g} new Patissier items to the Pit-a-Pat Gift Box sale item list"/>
+			</imgdir>
+			<imgdir name="30">
+				<string name="name" value="Party Room: Celebration items"/>
+				<string name="desc" value="Increases the number of celebration items that can be purchased from Pit-a-Pat Gift Box in the Party Room.\r\n\r\n#c[List of Additional Items Per Level]\r\n - Level 1: Fresh Flower Garland\r\n - Level 2: Pink Bean Hot-Air Balloon\r\n - Level 3: Star Slime Garland\r\n - Level 4: Yeti Hot-Air Balloon\r\n - Level 5: Sparkle Fuzzy Garland#"/>
+				<string name="h" value="Add a total of {x:g} new celebration items to the Pit-a-Pat Gift Box sale item list"/>
+			</imgdir>
+			<imgdir name="31">
+				<string name="name" value="Expand decoration placement slots: Stage 1 [Final]"/>
+				<string name="desc" value="Increases the number of slots where you can place decorations in the Guild Castle Stage 1 [Final]."/>
+				<string name="h" value="Added a total of {x:g} Medium Decoration slots to the Guild Castle Stage 1 [Final] 1st floor"/>
+			</imgdir>
+			<imgdir name="32">
+				<string name="name" value="Expand decoration placement slots: Stage 2 [Default]"/>
+				<string name="desc" value="Increases the number of slots where you can place decorations in the Guild Castle Stage 2 [Default]."/>
+				<string name="h" value="Added a total of {x:g} Small Decorations to the Guild Castle Stage 2 [Default] 2nd floor"/>
+			</imgdir>
+			<imgdir name="33">
+				<string name="name" value="Expand decoration placement slots: Stage 2 [Final]"/>
+				<string name="desc" value="Increases the number of slots where you can place decorations in the Guild Castle Stage 2 [Final]."/>
+				<string name="h" value="Added a total of {x:g} Medium Decorations to the Guild Castle Stage 2 [Final] 2nd floor"/>
+			</imgdir>
+			<imgdir name="34">
+				<string name="name" value="Expand decoration placement slots: Guild Safe/Library"/>
+				<string name="desc" value="Increase the number of slots where you can place decorations in the Guild Safe and Library."/>
+				<string name="h" value="The total number of decorations that can be placed in the Guild Safe has increased to {x:g}. The total number of decorations that can be placed in the Library has increased to {y:g}."/>
+			</imgdir>
+			<imgdir name="35">
+				<string name="name" value="Expand decoration placement slots: Supply Station/Party Room"/>
+				<string name="desc" value="Increase the number of slots where you can place decorations in the Supply Station and Party Room."/>
+				<string name="h" value="The total number of decorations that can be placed in the Supply Station has increased to {x:g}. The total number of decorations that can be placed in the Party Room has increased to {y:g}."/>
+			</imgdir>
+			<imgdir name="36">
+				<string name="name" value="Expand decoration placement slots: Training Area/Dining Room"/>
+				<string name="desc" value="Increase the number of slots where you can place decorations in the Training Area and Dining Room."/>
+				<string name="h" value="The total number of decorations that can be placed in the Training Area has increased to {x:g}. The total number of decorations that can be placed in the Dining Room has increased to {y:g}."/>
+			</imgdir>
+			<imgdir name="37">
+				<string name="name" value="Expand decoration placement slots: Living Room/Storage Room"/>
+				<string name="desc" value="Increases the number of slots where you can place decorations in the Living Room and Storage Room."/>
+				<string name="h" value="Total number of decorations that can be placed in the Living Room increased to {x:g}. Total number of decorations that can be placed in the Storage Room increased to {y:g}."/>
+			</imgdir>
+			<imgdir name="38">
+				<string name="name" value="Interior Design: Living Room"/>
+				<string name="desc" value="Adds various interior decorations to the Living Room."/>
+				<string name="h" value="Add interior decorations to the Living Room"/>
+			</imgdir>
+			<imgdir name="39">
+				<string name="name" value="Interior Design: Storage Room"/>
+				<string name="desc" value="Adds various interior decorations to the Storage Room"/>
+				<string name="h" value="Add interior decorations to the Storage Room"/>
+			</imgdir>
+			<imgdir name="40">
+				<string name="name" value="Interior Design: Dining Room"/>
+				<string name="desc" value="Adds various interior decorations to the Dining Room."/>
+				<string name="h" value="Add interior decorations in the Dining Room"/>
+			</imgdir>
+			<imgdir name="41">
+				<string name="name" value="Decoration storage slot expansion"/>
+				<string name="desc" value="Expands the default number of decoration storage slots."/>
+				<string name="h" value="Increase the total number of default decoration storage slots to {maxDecoInventoryCount:g}"/>
+			</imgdir>
+			<imgdir name="42">
+				<string name="name" value="Supply Station: Limited sale"/>
+				<string name="desc" value="Androids that look exactly like Susan, Oliver, and Benedict are sold on special occasions. Only one type of android appears, randomly based on a set probability, and the probability of an item appearing increases as the research proceeds.\r\n\r\n#c[Android Appearance List]#\r\n - Susan-roid (49.95%)\r\n - Oliver-roid (49.95%)\r\n - Bene-roid (0.1%)"/>
+				<string name="h" value="Once a day, a random android appears in the Oliver&apos;s sensitivity tab sales list, with a {x:g}% chance."/>
+			</imgdir>
+		</imgdir>
+		<imgdir name="Personal">
+			<imgdir name="1">
+				<string name="name" value="Weekly Mission: Monster Mow-Down 1"/>
+				<string name="desc" value="Increases the maximum number of monsters that you can defeat within the Cache. As you proceed with the research, you&apos;ll be able to investigate more of the Cache by defeating more monsters."/>
+				<string name="h" value="Add {x:g} monsters to the Cache (max {y:g} monsters)"/>
+			</imgdir>
+			<imgdir name="2">
+				<string name="name" value="Weekly Mission: Monster Mow-Down 2"/>
+				<string name="desc" value="Increases the maximum number of monsters that you can defeat within the Cache. As you proceed with the research, you&apos;ll be able to investigate more of the Cache by defeating more monsters."/>
+				<string name="h" value="Increases the maximum number of monsters that you can defeat within the Cache to {x:g}\r\nTime Required to Complete Research: {ResearchTimeCost:g} minutes"/>
+			</imgdir>
+			<imgdir name="3">
+				<string name="name" value="Weekly Mission: Monster Mow-Down 3"/>
+				<string name="desc" value="Increases the maximum number of monsters that you can defeat within the Cache. As you proceed with the research, you&apos;ll be able to investigate more of the Cache by defeating more monsters."/>
+				<string name="h" value="Increases the maximum number of monsters that you can defeat within the Cache to {x:g}\r\nTime Required to Complete Research: {ResearchTimeCost:g} minutes"/>
+			</imgdir>
+			<imgdir name="4">
+				<string name="name" value="Weekly Mission: Monster Mow-Down 4"/>
+				<string name="desc" value="Increases the maximum number of monsters that you can defeat within the Cache. As you proceed with the research, you&apos;ll be able to investigate more of the Cache by defeating more monsters."/>
+				<string name="h" value="Increases the maximum number of monsters that you can defeat within the Cache to {x:g}\r\nTime Required to Complete Research: {ResearchTimeCost:g} minutes"/>
+			</imgdir>
+			<imgdir name="5">
+				<string name="name" value="Weekly Mission: Monster Mow-Down 5"/>
+				<string name="desc" value="Increases the maximum number of monsters that you can defeat within the Cache. As you proceed with the research, you&apos;ll be able to investigate more of the Cache by defeating more monsters."/>
+				<string name="h" value="Increases the maximum number of monsters that you can defeat within the Cache to {x:g}\r\nTime Required to Complete Research: {ResearchTimeCost:g} minutes"/>
+			</imgdir>
+			<imgdir name="6">
+				<string name="name" value="Weekly Mission: Buff Support"/>
+				<string name="desc" value="Increases the amount of distributed EXP for defeating monsters in the Cache."/>
+				<string name="h" value="Obtain an additional amount equal to {x:g}% of the EXP given for defeating monsters in Cache"/>
+			</imgdir>
+			<imgdir name="7">
+				<string name="name" value="Weekly Mission: Cache Investigation 1"/>
+				<string name="desc" value="You can investigate deep areas that require Arcane Power. As the research proceeds, the area that can be investigated increases.\r\n#c - Level 1: Can investigate Arcane Power Area 1\r\n - Level 2: Can investigate Arcane Power Area 2\r\n - Level 3: Can investigate Arcane Power Area 3#"/>
+				<string name="h" value="Expand the area that can be investigated. Add {x:g} Arcane Power area(s)."/>
+			</imgdir>
+			<imgdir name="8">
+				<string name="name" value="Weekly Mission: Dragon Studies 1"/>
+				<string name="desc" value="Research the dragon that lives in the Cache of Greed to enhance the amount of earnable EXP.\r\n#c - Increase the amount of distributred EXP available in Arcane Power Area 1#"/>
+				<string name="h" value="Obtain an additional amount equal to {x:g}% of the EXP given for defeating monsters in Arcane Power Area 1"/>
+			</imgdir>
+			<imgdir name="9">
+				<string name="name" value="Weekly Mission: Dragon Studies 2"/>
+				<string name="desc" value="Research the dragon that lives in the Cache of Greed to enhance the amount of earnable EXP.\r\n#c - Increase the amount of distributred EXP available in Arcane Power Area 2#"/>
+				<string name="h" value="Obtain an additional amount equal to {x:g}% of the EXP given for defeating monsters in Arcane Power Area 2"/>
+			</imgdir>
+			<imgdir name="10">
+				<string name="name" value="Weekly Mission: Dragon Studies 3"/>
+				<string name="desc" value="Research the dragon that lives in the Cache of Greed to enhance the amount of earnable EXP.\r\n#c - Increase the amount of distributred EXP available in Arcane Power Area 3#"/>
+				<string name="h" value="Obtain an additional amount equal to {x:g}% of the EXP given for defeating monsters in Arcane Power Area 3"/>
+			</imgdir>
+			<imgdir name="11">
+				<string name="name" value="Weekly Mission: Cache Investigation 2"/>
+				<string name="desc" value="You can investigate deep areas that require Sacred Power. As the research proceeds, the area that can be investigated increases.\r\n#c - Level 1: Can investigate Sacred Power Area 1\r\n - Level 2: Can investigate Sacred Power Area 2#"/>
+				<string name="h" value="Expand the area that can be investigated, add {x:g} Sacred Power areas"/>
+			</imgdir>
+			<imgdir name="12">
+				<string name="name" value="Weekly Mission: Dragon Studies 4"/>
+				<string name="desc" value="Research the dragon that lives in the Cache to enhance the amount of earnable EXP.\r\n#c - Increase the amount of EXP distributed in Sacred Power Area 1#."/>
+				<string name="h" value="Obtain an additional amount equal to {x:g}% of the EXP given for defeating monsters in Sacred Power Area 1"/>
+			</imgdir>
+			<imgdir name="13">
+				<string name="name" value="Weekly Mission: Dragon Studies 5"/>
+				<string name="desc" value="Research the dragon that lives in the Cache to enhance the amount of earnable EXP.\r\n#c - Increase the amount of EXP distributed in Sacred Power Area 2#."/>
+				<string name="h" value="Obtain an additional amount equal to {x:g}% of the EXP given for defeating monsters in Sacred Power Area 2"/>
+			</imgdir>
+			<imgdir name="14">
+				<string name="name" value="Weekly Reward: Add items"/>
+				<string name="desc" value="The number of items obtainable from the Guild Castle&apos;s weekly reward has increased.\r\n#c[Additional Reward List]\r\n - Level 1: Add Karma Powerful Rebirth Flame\r\n - Level 2: Add Miracle Circulator x1 Coupon\r\n - Level 3: Add Karma Solid Cube#"/>
+				<string name="h" value="Add a total of {x:g} items to the weekly Guild Castle reward list"/>
+			</imgdir>
+			<imgdir name="15">
+				<string name="name" value="Weekly Reward: Maximum distribution amount enhancement 1"/>
+				<string name="desc" value="The guild has increased the maximum amount of distributed items in weekly Guild Castle rewards. Each item is randomly distributed, with an equal probability between the minimum and maximum distribution quantity.\r\n#cEach research breakthrough increases the total quantity of items.#"/>
+				<string name="h" value="Increase maximum amount of random distribution: Add {x:g} Nodestones"/>
+			</imgdir>
+			<imgdir name="16">
+				<string name="name" value="Weekly Reward: Maximum distribution amount enhancement 2"/>
+				<string name="desc" value="The guild has increased the maximum amount of distributed items in weekly Guild Castle rewards. Each item is randomly distributed, with an equal probability between the minimum and maximum distribution quantity.\r\n#cEach research breakthrough increases the total quantity of items.#"/>
+				<string name="h" value="Increase maximum amount of random distribution: Add {x:g} Nodestones, add {y:g} Arcane Symbol Selector Coupons"/>
+			</imgdir>
+			<imgdir name="17">
+				<string name="name" value="Weekly Reward: Maximum distribution amount enhancement 3"/>
+				<string name="desc" value="The guild has increased the maximum amount of distributed items in weekly Guild Castle rewards. Each item is randomly distributed, with an equal probability between the minimum and maximum distribution quantity.\r\n#cEach research breakthrough increases the total quantity of items.#"/>
+				<string name="h" value="Increase maximum amount of random distribution: Add {x:g} Karma Powerful Rebirth Flames, add {y:g} Arcane Symbol Selector Coupons"/>
+			</imgdir>
+			<imgdir name="18">
+				<string name="name" value="Weekly Reward: Maximum distribution amount enhancement 4"/>
+				<string name="desc" value="The guild has increased the maximum amount of distributed items in weekly Guild Castle rewards. Each item is randomly distributed, with an equal probability between the minimum and maximum distribution quantity.\r\n#cEach research breakthrough increases the total quantity of items.#"/>
+				<string name="h" value="Increase maximum amount of random distribution: Add {x:g} Miracle Circulator Coupons, add {y:g} Nodestones"/>
+			</imgdir>
+			<imgdir name="19">
+				<string name="name" value="Weekly Reward: Maximum distribution amount enhancement 5"/>
+				<string name="desc" value="The guild has increased the maximum amount of distributed items in weekly Guild Castle rewards. Each item is randomly distributed, with an equal probability between the minimum and maximum distribution quantity.\r\n#cEach research breakthrough increases the total quantity of items.#"/>
+				<string name="h" value="Increase maximum amount of random distribution: Add {x:g} Karma Solid Cube, add {y:g} Nodestone"/>
+			</imgdir>
+			<imgdir name="20">
+				<string name="name" value="Weekly Reward: Default Distribution Amount Enhancement 1"/>
+				<string name="desc" value="The guild has increased the maximum amount of distributed items in weekly Guild Castle rewards. Each distributed item is guaranteed be in at least the minimum quantity.\r\n#cEach research breakthrough increases the total quantity of items.#"/>
+				<string name="h" value="Increase the basic distribution amount: Add {x:g} Nodestone"/>
+			</imgdir>
+			<imgdir name="21">
+				<string name="name" value="Weekly Reward: Default Distribution Amount Enhancement 2"/>
+				<string name="desc" value="The guild has increased the maximum amount of distributed items in weekly Guild Castle rewards. Each distributed item is guaranteed be in at least the minimum quantity.\r\n#cEach research breakthrough increases the total quantity of items.#"/>
+				<string name="h" value="Increase the basic distribution amount: Add {x:g} Arcane Symbol Selector Coupon"/>
+			</imgdir>
+			<imgdir name="22">
+				<string name="name" value="Weekly Reward: Default Distribution Amount Enhancement 3"/>
+				<string name="desc" value="The guild has increased the maximum amount of distributed items in weekly Guild Castle rewards. Each distributed item is guaranteed be in at least the minimum quantity.\r\n#cEach research breakthrough increases the total quantity of items.#"/>
+				<string name="h" value="Increase the basic distribution amount: Add {x:g} Karma Powerful Rebirth Flame"/>
+			</imgdir>
+			<imgdir name="23">
+				<string name="name" value="Weekly Reward: Default Distribution Amount Enhancement 4"/>
+				<string name="desc" value="The guild has increased the maximum amount of distributed items in weekly Guild Castle rewards. Each distributed item is guaranteed be in at least the minimum quantity.\r\n#cEach research breakthrough increases the total quantity of items.#"/>
+				<string name="h" value="Increase the basic distribution amount: Add {x:g} Nodestone"/>
+			</imgdir>
+			<imgdir name="24">
+				<string name="name" value="Weekly Reward: Default Distribution Amount Enhancement 5"/>
+				<string name="desc" value="The guild has increased the maximum amount of distributed items in weekly Guild Castle rewards. Each distributed item is guaranteed be in at least the minimum quantity.\r\n#cEach research breakthrough increases the total quantity of items.#"/>
+				<string name="h" value="Increase the basic distribution amount: Add {x:g} Arcane Symbol Selector Coupon"/>
+			</imgdir>
+			<imgdir name="25">
+				<string name="name" value="Guild Castle: Teleport"/>
+				<string name="desc" value="Activates the Guild Castle fast travel function, which can be used by #cdouble-clicking# on the Guild Castle Rooms UI world map."/>
+				<string name="h" value="Activate Guild Castle fast travel"/>
+			</imgdir>
+			<imgdir name="26">
+				<string name="name" value="Guild Castle: Fast travel cooldown reduction"/>
+				<string name="desc" value="Reduces the cooldown of the Guild Castle fast travel function, which can be used by #cdouble-clicking# on the Guild Castle Rooms UI world map."/>
+				<string name="h" value="Reduce cooldown of Guild Castle fast travel to {RoomTeleportCooltimeSeconds:g} seconds"/>
+			</imgdir>
+		</imgdir>
+		<imgdir name="Tooltip">
+			<string name="masterLevel" value="[Master Level: {}]"/>
+			<string name="currentLevel" value="[Current Level: {}]"/>
+			<string name="nextLevel" value="[Next Level: {}]"/>
+			<string name="requirementTitle" value="#c[Prerequisites]#"/>
+			<string name="requirementElem" value="#c* {} research level {} or higher#"/>
+			<string name="ResearchTimeCost" value="Time Taken to Complete the Research: {} minutes"/>
+		</imgdir>
+	</imgdir>
+	<imgdir name="Room">
+		<imgdir name="Conference">
+			<imgdir name="NoticeBoard">
+				<imgdir name="Message">
+					<string name="Started" value="Please be respectful and considerate of others."/>
+				</imgdir>
+				<imgdir name="Notice">
+					<string name="FailOnChangeSubject" value="The meeting topic cannot be changed while the meeting is in progress."/>
+					<string name="NotInConference" value="There is no meeting in progress right now.\r\nPlease enter a meeting topic on the bulletin board."/>
+					<string name="InvalidText" value="You can&apos;t enter profanity in the meeting topic."/>
+				</imgdir>
+				<imgdir name="Confirm">
+					<string name="Input" value="Please enter the meeting topic.\r\n (Maximum 18 characters)"/>
+					<string name="Stop" value="Are you sure you want to end the meeting?\r\n(The bulletin board, and any ongoing voting, will be reset.)"/>
+				</imgdir>
+			</imgdir>
+			<imgdir name="Vote">
+				<imgdir name="Message">
+					<string name="RemainTime" value="The voting will end in moments."/>
+					<string name="End" value="Voting has been completed."/>
+					<string name="Abstention" value="Abstain"/>
+					<string name="VoterCount" value="People"/>
+				</imgdir>
+				<imgdir name="Notice">
+					<string name="EmptyText" value="Please enter both the title and item."/>
+					<string name="InvalidText" value="You can&apos;t enter profanity while voting."/>
+					<string name="OnVote" value="Voting is in progress."/>
+				</imgdir>
+				<imgdir name="Confirm">
+					<string name="Start" value="Would you like to hold this vote?"/>
+				</imgdir>
+			</imgdir>
+			<imgdir name="Assemble">
+				<imgdir name="Confirm">
+					<string name="Try" value="Do you want to summon a guild member to the Conference Room?"/>
+					<string name="Ask" value="You are invited to the guild Conference Room.\r\nUpon acceptance, you will be moved to the guild Conference Room immediately."/>
+				</imgdir>
+			</imgdir>
+			<imgdir name="Common">
+				<imgdir name="Notice">
+					<string name="OnCooltime" value="You cannot do that right now.\r\nPlease wait &lt;style color=&quot;red&quot;&gt;{}&lt;/&gt; minutes, &lt;style color=&quot;red&quot;&gt;{}&lt;/&gt; seconds."/>
+					<string name="Unknown" value="An unknown error has occurred."/>
+					<string name="InvalidAuthority" value="You can&apos;t do that."/>
+					<string name="NoticeboardUIClose" value="{} has ended the meeting."/>
+					<string name="CannotAssemble" value="You cannot accept it right now.\nPlease enter the Conference Room through the Guild Castle."/>
+				</imgdir>
+			</imgdir>
+		</imgdir>
+		<imgdir name="Library">
+			<imgdir name="Trait">
+				<string name="Charisma" value="Ambition"/>
+				<string name="Insight" value="Insight"/>
+				<string name="Will" value="Willpower"/>
+				<string name="Craft" value="Diligence"/>
+				<string name="Sense" value="Sensitivity"/>
+				<string name="Charm" value="Charm"/>
+			</imgdir>
+		</imgdir>
+	</imgdir>
+</imgdir>

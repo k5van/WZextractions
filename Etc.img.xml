@@ -29703,5 +29703,181 @@ Looking at this fills you with hope. It&apos;s terribly fragile, so handle with 
 			<string name="name" value="Coupon Pass"/>
 			<string name="desc" value="You can use this Coupon Pass at the Wongstaurant Main Menu. Consumes 1 at a time.#c\nPlease check the expiration date carefully.#"/>
 		</imgdir>
+		<imgdir name="4009506">
+			<string name="name" value="Maple Tree Lumber"/>
+			<string name="desc" value="#cGuild Castle Facility Building Material#\r\nThe highest quality lumber from a maple tree, and a necessary part of facility crafting.\r\nObtained as a low-chance monster drop. During Guild Castle decoration/room blueprint quests, you can donate these to #cBenedict in the Guild Castle#.\r\n#cGuild Castle facility materials are removed every Sunday at midnight.#\r\n#cFacility materials are removed from your inventory upon leaving a guild/getting kicked, or upon completing/canceling a blueprint.#"/>
+		</imgdir>
+		<imgdir name="4009507">
+			<string name="name" value="Unknown Smithing Stone"/>
+			<string name="desc" value="#cGuild Castle Facility Building Material#\r\nA mysterious smithing stone with unknown qualities, and a necessary part of facility crafting.\r\nObtained as a low-chance monster drop. During Guild Castle decoration/room blueprint quests, you can donate these to #cBenedict in the Guild Castle#.\r\n#cGuild Castle facility materials are removed every Sunday at midnight.#\r\n#cFacility materials are removed from your inventory upon leaving a guild/getting kicked, or upon completing/canceling a blueprint.#"/>
+		</imgdir>
+		<imgdir name="4009508">
+			<string name="name" value="Blessing Powder"/>
+			<string name="desc" value="#cGuild Castle Facility Building Material#\r\nA powder used to bless Guild Castle facilities, and a necessary part of facility crafting.\r\nObtained as a low-chance monster drop. During Guild Castle decoration/room blueprint quests, you can donate these to #cBenedict in the Guild Castle#.\r\n#cGuild Castle facility materials are removed every Sunday at midnight.#\r\n#cFacility materials are removed from your inventory upon leaving a guild/getting kicked, or upon completing/canceling a blueprint.#"/>
+		</imgdir>
+		<imgdir name="4009509">
+			<string name="name" value="Breath of the Artisan"/>
+			<string name="desc" value="#cGuild Castle Facility Building Material# A necessary part of crafting the best facilities for the Guild Castle.\r\nThe Guild Leader can obtain one every week, through the Energy Stone, after clearing a Weekly Quest. It can also appear as a low-chance boss monster drop.\r\nDuring Guild Castle decoration/room blueprint quests, you can donate these to #cBenedict in the Guild Castle#.\r\n#cGuild Castle facility materials are removed every Sunday at midnight.#\r\n#cFacility materials are removed from your inventory upon leaving a guild/getting kicked, or upon completing/canceling a blueprint.#"/>
+		</imgdir>
+		<imgdir name="4009510">
+			<string name="name" value="Thunbergia Pot Blueprint"/>
+			<string name="desc" value="#cGuild Castle Decoration Blueprint#\r\nA blueprint needed for crafting a certain Guild Castle decoration.\r\nObtained as a low-chance boss monster drop. To register a decoration blueprint, bring it to #cBenedict in the Guild Castle#."/>
+		</imgdir>
+		<imgdir name="4009511">
+			<string name="name" value="Bridal Wreath Pot Blueprint"/>
+			<string name="desc" value="#cGuild Castle Decoration Blueprint#\r\nA blueprint needed for crafting a certain Guild Castle decoration.\r\nObtained as a low-chance boss monster drop. To register a decoration blueprint, bring it to #cBenedict in the Guild Castle#."/>
+		</imgdir>
+		<imgdir name="4009512">
+			<string name="name" value="Oberon&apos;s Vase Blueprint"/>
+			<string name="desc" value="#cGuild Castle Decoration Blueprint#\r\nA blueprint needed for crafting a certain Guild Castle decoration.\r\nObtained as a low-chance boss monster drop. To register a decoration blueprint, bring it to #cBenedict in the Guild Castle#."/>
+		</imgdir>
+		<imgdir name="4009513">
+			<string name="name" value="Pot of Purity Blueprint"/>
+			<string name="desc" value="#cGuild Castle Decoration Blueprint#\r\nA blueprint needed for crafting a certain Guild Castle decoration.\r\nObtained as a low-chance boss monster drop. To register a decoration blueprint, bring it to #cBenedict in the Guild Castle#."/>
+		</imgdir>
+		<imgdir name="4009514">
+			<string name="name" value="Form of Power Blueprint"/>
+			<string name="desc" value="#cGuild Castle Decoration Blueprint#\r\nA blueprint needed for crafting a certain Guild Castle decoration.\r\nObtained as a low-chance boss monster drop. To register a decoration blueprint, bring it to #cBenedict in the Guild Castle#."/>
+		</imgdir>
+		<imgdir name="4009515">
+			<string name="name" value="Form of a Droplet Statue Blueprint"/>
+			<string name="desc" value="#cGuild Castle Decoration Blueprint#\r\nA blueprint needed for crafting a certain Guild Castle decoration.\r\nObtained as a low-chance boss monster drop. To register a decoration blueprint, bring it to #cBenedict in the Guild Castle#."/>
+		</imgdir>
+		<imgdir name="4009516">
+			<string name="name" value="Ornate Decorative Sword Blueprint"/>
+			<string name="desc" value="#cGuild Castle Decoration Blueprint#\r\nA blueprint needed for crafting a certain Guild Castle decoration.\r\nObtained as a low-chance boss monster drop. To register a decoration blueprint, bring it to #cBenedict in the Guild Castle#."/>
+		</imgdir>
+		<imgdir name="4009517">
+			<string name="name" value="Plaster Bust Blueprint"/>
+			<string name="desc" value="#cGuild Castle Decoration Blueprint#\r\nA blueprint needed for crafting a certain Guild Castle decoration.\r\nObtained as a low-chance boss monster drop. To register a decoration blueprint, bring it to #cBenedict in the Guild Castle#."/>
+		</imgdir>
+		<imgdir name="4009518">
+			<string name="name" value="Crystal Lighting Ornament Blueprint"/>
+			<string name="desc" value="#cGuild Castle Decoration Blueprint#\r\nA blueprint needed for crafting a certain Guild Castle decoration.\r\nObtained as a low-chance boss monster drop. To register a decoration blueprint, bring it to #cBenedict in the Guild Castle#."/>
+		</imgdir>
+		<imgdir name="4009519">
+			<string name="name" value="Crystal Candelabrum Blueprint"/>
+			<string name="desc" value="#cGuild Castle Decoration Blueprint#\r\nA blueprint needed for crafting a certain Guild Castle decoration.\r\nObtained as a low-chance boss monster drop. To register a decoration blueprint, bring it to #cBenedict in the Guild Castle#."/>
+		</imgdir>
+		<imgdir name="4009520">
+			<string name="name" value="Pig Statue Blueprint"/>
+			<string name="desc" value="#cGuild Castle Decoration Blueprint#\r\nA blueprint needed for crafting a certain Guild Castle decoration.\r\nObtained as a low-chance boss monster drop. To register a decoration blueprint, bring it to #cBenedict in the Guild Castle#."/>
+		</imgdir>
+		<imgdir name="4009521">
+			<string name="name" value="Mushroom Statue Blueprint"/>
+			<string name="desc" value="#cGuild Castle Decoration Blueprint#\r\nA blueprint needed for crafting a certain Guild Castle decoration.\r\nObtained as a low-chance boss monster drop. To register a decoration blueprint, bring it to #cBenedict in the Guild Castle#."/>
+		</imgdir>
+		<imgdir name="4009522">
+			<string name="name" value="Slime Statue Blueprint"/>
+			<string name="desc" value="#cGuild Castle Decoration Blueprint#\r\nA blueprint needed for crafting a certain Guild Castle decoration.\r\nObtained as a low-chance boss monster drop. To register a decoration blueprint, bring it to #cBenedict in the Guild Castle#."/>
+		</imgdir>
+		<imgdir name="4009523">
+			<string name="name" value="Snail Statue Blueprint"/>
+			<string name="desc" value="#cGuild Castle Decoration Blueprint#\r\nA blueprint needed for crafting a certain Guild Castle decoration.\r\nObtained as a low-chance boss monster drop. To register a decoration blueprint, bring it to #cBenedict in the Guild Castle#."/>
+		</imgdir>
+		<imgdir name="4009524">
+			<string name="name" value="Noble&apos;s Altar Blueprint"/>
+			<string name="desc" value="#cGuild Castle Decoration Blueprint#\r\nA blueprint needed for crafting a certain Guild Castle decoration.\r\nObtained as a low-chance boss monster drop. To register a decoration blueprint, bring it to #cBenedict in the Guild Castle#."/>
+		</imgdir>
+		<imgdir name="4009525">
+			<string name="name" value="Oil Painting Easel Blueprint"/>
+			<string name="desc" value="#cGuild Castle Decoration Blueprint#\r\nA blueprint needed for crafting a certain Guild Castle decoration.\r\nObtained as a low-chance boss monster drop. To register a decoration blueprint, bring it to #cBenedict in the Guild Castle#."/>
+		</imgdir>
+		<imgdir name="4009526">
+			<string name="name" value="Guild Castle Flag Blueprint"/>
+			<string name="desc" value="#cGuild Castle Decoration Blueprint#\r\nA blueprint needed for crafting a certain Guild Castle decoration.\r\nObtained as a low-chance boss monster drop. To register a decoration blueprint, bring it to #cBenedict in the Guild Castle#."/>
+		</imgdir>
+		<imgdir name="4009527">
+			<string name="name" value="White Grand Piano Blueprint"/>
+			<string name="desc" value="#cGuild Castle Decoration Blueprint#\r\nA blueprint needed for crafting a certain Guild Castle decoration.\r\nObtained as a low-chance boss monster drop. To register a decoration blueprint, bring it to #cBenedict in the Guild Castle#."/>
+		</imgdir>
+		<imgdir name="4009528">
+			<string name="name" value="Angel&apos;s Harp Blueprint"/>
+			<string name="desc" value="#cGuild Castle Decoration Blueprint#\r\nA blueprint needed for crafting a certain Guild Castle decoration.\r\nObtained as a low-chance boss monster drop. To register a decoration blueprint, bring it to #cBenedict in the Guild Castle#."/>
+		</imgdir>
+		<imgdir name="4009529">
+			<string name="name" value="Goddess Minerva Statue Blueprint"/>
+			<string name="desc" value="#cGuild Castle Decoration Blueprint#\r\nA blueprint needed for crafting a certain Guild Castle decoration.\r\nObtained as a low-chance boss monster drop. To register a decoration blueprint, bring it to #cBenedict in the Guild Castle#."/>
+		</imgdir>
+		<imgdir name="4009530">
+			<string name="name" value="Spirit of the Snow Sculpture Blueprint"/>
+			<string name="desc" value="#cGuild Castle Decoration Blueprint#\r\nA blueprint needed for crafting a certain Guild Castle decoration.\r\nObtained as a low-chance boss monster drop. To register a decoration blueprint, bring it to #cBenedict in the Guild Castle#."/>
+		</imgdir>
+		<imgdir name="4009531">
+			<string name="name" value="Dragon Fossil Blueprint"/>
+			<string name="desc" value="#cGuild Castle Decoration Blueprint#\r\nA blueprint needed for crafting a certain Guild Castle decoration.\r\nObtained as a low-chance boss monster drop. To register a decoration blueprint, bring it to #cBenedict in the Guild Castle#."/>
+		</imgdir>
+		<imgdir name="4009532">
+			<string name="name" value="Phonograph Cabinet and Sofa Blueprint"/>
+			<string name="desc" value="#cGuild Castle Decoration Blueprint#\r\nA blueprint needed for crafting a certain Guild Castle decoration.\r\nObtained as a low-chance boss monster drop. To register a decoration blueprint, bring it to #cBenedict in the Guild Castle#."/>
+		</imgdir>
+		<imgdir name="4009533">
+			<string name="name" value="Grandfather Clock Blueprint"/>
+			<string name="desc" value="#cGuild Castle Decoration Blueprint#\r\nA blueprint needed for crafting a certain Guild Castle decoration.\r\nObtained as a low-chance boss monster drop. To register a decoration blueprint, bring it to #cBenedict in the Guild Castle#."/>
+		</imgdir>
+		<imgdir name="4009534">
+			<string name="name" value="St. Tia Fountain Blueprint"/>
+			<string name="desc" value="#cGuild Castle Decoration Blueprint#\r\nA blueprint needed for crafting a certain Guild Castle decoration.\r\nObtained as a low-chance boss monster drop. To register a decoration blueprint, bring it to #cBenedict in the Guild Castle#."/>
+		</imgdir>
+		<imgdir name="4009535">
+			<string name="name" value="Craftsman Statue Blueprint"/>
+			<string name="desc" value="#cGuild Castle Decoration Blueprint#\r\nA blueprint needed for crafting a certain Guild Castle decoration.\r\nObtained as a low-chance boss monster drop. To register a decoration blueprint, bring it to #cBenedict in the Guild Castle#."/>
+		</imgdir>
+		<imgdir name="4009536">
+			<string name="name" value="Large Organ Blueprint"/>
+			<string name="desc" value="#cGuild Castle Decoration Blueprint#\r\nA blueprint needed for crafting a certain Guild Castle decoration.\r\nObtained as a low-chance boss monster drop. To register a decoration blueprint, bring it to #cBenedict in the Guild Castle#."/>
+		</imgdir>
+		<imgdir name="4009542">
+			<string name="name" value="Enhancement Altar Room Blueprint"/>
+			<string name="desc" value="#cGuild Castle Room Blueprint#\r\nA blueprint needed for building the Enhancement Altar for the Guild Castle.\r\nObtained as a low-chance boss monster drop. To register a room blueprint, bring it to #cBenedict in the Guild Castle#."/>
+		</imgdir>
+		<imgdir name="4009543">
+			<string name="name" value="Conference Room Blueprint"/>
+			<string name="desc" value="#cGuild Castle Room Blueprint#\r\nA blueprint needed for building the Guild Castle&apos;s Conference Room.\r\nObtained as a low-chance boss monster drop. To register a room blueprint, bring it to #cBenedict in the Guild Castle#."/>
+		</imgdir>
+		<imgdir name="4009544">
+			<string name="name" value="Swimming Pool Blueprint"/>
+			<string name="desc" value="#cGuild Castle Room Blueprint#\r\nA blueprint needed for building the Guild Castle&apos;s Swimming Pool.\r\nObtained as a low-chance boss monster drop. To register a room blueprint, bring it to #cBenedict in the Guild Castle#."/>
+		</imgdir>
+		<imgdir name="4009545">
+			<string name="name" value="Greenhouse Blueprint"/>
+			<string name="desc" value="#cGuild Castle Room Blueprint#\r\nA blueprint needed for building the Guild Castle&apos;s Greenhouse.\r\nObtained as a low-chance boss monster drop. To register a room blueprint, bring it to #cBenedict in the Guild Castle#."/>
+		</imgdir>
+		<imgdir name="4037148">
+			<string name="name" value="First Star Piece"/>
+			<string name="desc" value="The First Star Piece obtained by completing #cChapter I#. Shall we start the journey toward the Second Star Piece?"/>
+		</imgdir>
+		<imgdir name="4037149">
+			<string name="name" value="Second Star Piece"/>
+			<string name="desc" value="The Second Star Piece obtained by completing #cChapter II#. Collecting Star Pieces is quite fun."/>
+		</imgdir>
+		<imgdir name="4037150">
+			<string name="name" value="Third Star Piece"/>
+			<string name="desc" value="The Third Star Piece obtained by completing #cChapter III#. You feel a sense of pride watching your collection of Star Pieces grow!"/>
+		</imgdir>
+		<imgdir name="4037151">
+			<string name="name" value="Fourth Star Piece"/>
+			<string name="desc" value="The Fourth Star Piece obtained by completing #cChapter IV#. The Star Pieces collected so far are all sparkly and beautiful. Imagine how brightly they&apos;ll shine when you collect them all!"/>
+		</imgdir>
+		<imgdir name="4037152">
+			<string name="name" value="Fifth Star Piece"/>
+			<string name="desc" value="The Fifth Star Piece obtained by completing #cChapter V#. You obtained the chapter reward and the Fifth Star Piece! But where is the Sixth Star Piece?"/>
+		</imgdir>
+		<imgdir name="4037153">
+			<string name="name" value="Sixth Star Piece"/>
+			<string name="desc" value="It&apos;s the elusive #cSixth Star Piece#! You deserve a special gift for collecting all 6 star pieces."/>
+		</imgdir>
+		<imgdir name="4037154">
+			<string name="name" value="Terry&apos;s Hexagonal Star"/>
+			<string name="desc" value="A special gift from mischievous Terry. The beautiful, bright, and shiny hexagonal star reminds you of the journey you shared together. Cherish this gift and the memories."/>
+		</imgdir>
+		<imgdir name="4310337">
+			<string name="name" value="Star Fragment"/>
+			<string name="desc" value="A Star Fragment obtained by defeating #cenemies near your level#. Collect it in the #cStar Concentrator# in front of #cTerry# to complete the daily mission."/>
+		</imgdir>
+		<imgdir name="4310338">
+			<string name="name" value="Dazzling Star Fragment"/>
+			<string name="desc" value="A Dazzling Star Fragment obtained by defeating #cElite Monster/Champion#. Collect it in the #cStar Concentrator# in front of #cTerry# to complet the daily mission."/>
+		</imgdir>
 	</imgdir>
 </imgdir>

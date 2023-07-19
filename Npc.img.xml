@@ -43093,7 +43093,7 @@
 	</imgdir>
 	<imgdir name="3006190">
 		<string name="name" value="Hanasol"/>
-		<string name="n0" value="I thought we could protect it..."/>
+		<string name="n0" value="I thought we could protect it."/>
 		<string name="n1" value="I heard that you saw our lab."/>
 	</imgdir>
 	<imgdir name="3006191">
@@ -57067,5 +57067,201 @@
 		<string name="d0" value="Let&apos;s enjoy rock music together!"/>
 		<string name="n1" value="Love and peace, that&apos;s what rock music is all about."/>
 		<string name="d1" value="Let&apos;s enjoy rock music together!"/>
+	</imgdir>
+	<imgdir name="9401592">
+		<string name="name" value="Benedict"/>
+		<string name="func" value="Guild Castle Steward"/>
+		<string name="n0" value="My name is Benedict. I&apos;m the Guild Castle steward."/>
+		<string name="n1" value="I will bury my past, keeping only my name and the scar on my eye."/>
+		<string name="n2" value="Feel free to ask me any questions you have."/>
+		<string name="d0" value="My name is Benedict. I&apos;m the Guild Castle steward."/>
+		<string name="d1" value="I will bury my past, keeping only my name and the scar on my eye."/>
+		<string name="d2" value="Feel free to ask me any questions you have."/>
+	</imgdir>
+	<imgdir name="9401593">
+		<string name="name" value="Faint Voice"/>
+	</imgdir>
+	<imgdir name="9401594">
+		<string name="name" value="Jack"/>
+		<string name="d0" value="Father..."/>
+	</imgdir>
+	<imgdir name="9401595">
+		<string name="name" value="Energy Stone"/>
+		<string name="d0" value="(A jewel that shines with an elegant luster. Its beauty is reminiscent of the destroyed castle.)"/>
+		<string name="d1" value="(A jewel that shines with an elegant luster. Its beauty is reminiscent of the destroyed castle.)"/>
+	</imgdir>
+	<imgdir name="9401596">
+		<string name="name" value="Grader"/>
+		<string name="d0" value="How dare you set foot inside my castle?"/>
+		<string name="d1" value="How dare you set foot inside my castle?"/>
+	</imgdir>
+	<imgdir name="9401597">
+		<string name="name" value="Grader"/>
+	</imgdir>
+	<imgdir name="9401598">
+		<string name="name" value="Benedict"/>
+	</imgdir>
+	<imgdir name="9401599">
+		<string name="name" value="Mysterious Old Gentleman"/>
+	</imgdir>
+	<imgdir name="9401600">
+		<string name="name" value="Benedict"/>
+	</imgdir>
+	<imgdir name="9401601">
+		<string name="name" value="Grader"/>
+	</imgdir>
+	<imgdir name="9401602">
+		<string name="name" value="Jack"/>
+	</imgdir>
+	<imgdir name="9401603">
+		<string name="name" value="Susan"/>
+	</imgdir>
+	<imgdir name="9401604">
+		<string name="name" value="Oliver"/>
+	</imgdir>
+	<imgdir name="9401605">
+		<string name="name" value="Harrison"/>
+	</imgdir>
+	<imgdir name="9401606">
+		<string name="name" value="Jack"/>
+		<string name="n0" value="I stocked up on items that should be helpful to your training."/>
+		<string name="n1" value="We need to train constantly to safeguard the Guild Castle."/>
+	</imgdir>
+	<imgdir name="9401607">
+		<string name="name" value="Susan"/>
+		<string name="n0" value="I sell special items you can only find in the Guild Castle!"/>
+		<string name="n1" value="Hee hee, you might want to stop by every day."/>
+	</imgdir>
+	<imgdir name="9401608">
+		<string name="name" value="Oliver"/>
+		<string name="n0" value="I have various items that will be helpful in battle."/>
+		<string name="n1" value="Sometimes you might even discover a rare item!"/>
+		<string name="n2" value="You don&apos;t ever need a reason to come visit me!"/>
+	</imgdir>
+	<imgdir name="9401609">
+		<string name="name" value="Harrison"/>
+		<string name="n0" value="Let&apos;s see. Where&apos;s the ledger I need to get organized this week...? Oh! Here it is."/>
+		<string name="n1" value="Hmm... be careful..."/>
+	</imgdir>
+	<imgdir name="9401610">
+		<string name="name" value="Pit-a-Pat Gift Box"/>
+	</imgdir>
+	<imgdir name="9401611">
+		<string name="name" value="Tube Kiosk"/>
+	</imgdir>
+	<imgdir name="9401612">
+		<string name="name" value="Jack"/>
+	</imgdir>
+	<imgdir name="9401613">
+		<string name="name" value="Plant"/>
+	</imgdir>
+	<imgdir name="9401614">
+		<string name="name" value="Plant"/>
+	</imgdir>
+	<imgdir name="9401623">
+		<string name="name" value="Susan"/>
+	</imgdir>
+	<imgdir name="9401624">
+		<string name="name" value="Oliver"/>
+	</imgdir>
+	<imgdir name="9401625">
+		<string name="name" value="Pit-a-Pat Gift Box"/>
+	</imgdir>
+	<imgdir name="9401626">
+		<string name="name" value="Safe No. 1"/>
+	</imgdir>
+	<imgdir name="9401627">
+		<string name="name" value="Safe No. 2"/>
+	</imgdir>
+	<imgdir name="9401628">
+		<string name="name" value="Safe No. 3"/>
+	</imgdir>
+	<imgdir name="9401629">
+		<string name="name" value="Safe No. 4"/>
+	</imgdir>
+	<imgdir name="9401630">
+		<string name="name" value="GC_Showcase_1_dummy"/>
+	</imgdir>
+	<imgdir name="9401631">
+		<string name="name" value="GC_Showcase_2_dummy"/>
+	</imgdir>
+	<imgdir name="9401632">
+		<string name="name" value="GC_Showcase_3_dummy"/>
+	</imgdir>
+	<imgdir name="9401633">
+		<string name="name" value="GC_Showcase_4_dummy"/>
+	</imgdir>
+	<imgdir name="9401634">
+		<string name="name" value="GC_Showcase_5_dummy"/>
+	</imgdir>
+	<imgdir name="9401635">
+		<string name="name" value="GC_Showcase_6_dummy"/>
+	</imgdir>
+	<imgdir name="9401636">
+		<string name="name" value="GC_Showcase_7_dummy"/>
+	</imgdir>
+	<imgdir name="9401637">
+		<string name="name" value="GC_Showcase_8_dummy"/>
+	</imgdir>
+	<imgdir name="9401638">
+		<string name="name" value="GC_Showcase_9_dummy"/>
+	</imgdir>
+	<imgdir name="9401639">
+		<string name="name" value="GC_Showcase_10_dummy"/>
+	</imgdir>
+	<imgdir name="9401640">
+		<string name="name" value="Divine Anvil"/>
+	</imgdir>
+	<imgdir name="9401641">
+		<string name="name" value="Gavel"/>
+	</imgdir>
+	<imgdir name="9401642">
+		<string name="name" value="Regeneration Energy"/>
+	</imgdir>
+	<imgdir name="9401643">
+		<string name="name" value="Energy Stone"/>
+		<string name="d0" value="(A jewel that shines with an elegant luster. You can feel a warm, strong energy radiating from it.)"/>
+		<string name="d1" value="(A jewel that shines with an elegant luster. You can feel a warm, strong energy radiating from it.)"/>
+	</imgdir>
+	<imgdir name="9401645">
+		<string name="name" value="Craftsman Statue"/>
+	</imgdir>
+	<imgdir name="9401646">
+		<string name="name" value="Torn Journal"/>
+	</imgdir>
+	<imgdir name="9401647">
+		<string name="name" value="Personal Safe"/>
+		<string name="func" value="Storage Keeper"/>
+	</imgdir>
+	<imgdir name="9401686">
+		<string name="name" value="Terry"/>
+		<string name="func" value="Sixth Star"/>
+	</imgdir>
+	<imgdir name="9401687">
+		<string name="name" value="Starlight Concentrator"/>
+		<string name="func" value="Sixth Star"/>
+	</imgdir>
+	<imgdir name="9401688">
+		<string name="name" value="Broken Star Piece"/>
+	</imgdir>
+	<imgdir name="9401704">
+		<string name="name" value="Starlight Concentrator"/>
+		<string name="func" value="Sixth Star"/>
+	</imgdir>
+	<imgdir name="9401705">
+		<string name="name" value="Starlight Concentrator"/>
+		<string name="func" value="Sixth Star"/>
+	</imgdir>
+	<imgdir name="9401706">
+		<string name="name" value="Starlight Concentrator"/>
+		<string name="func" value="Sixth Star"/>
+	</imgdir>
+	<imgdir name="9401707">
+		<string name="name" value="Starlight Concentrator"/>
+		<string name="func" value="Sixth Star"/>
+	</imgdir>
+	<imgdir name="9401708">
+		<string name="name" value="Starlight Concentrator"/>
+		<string name="func" value="Sixth Star"/>
 	</imgdir>
 </imgdir>

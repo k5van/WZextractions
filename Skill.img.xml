@@ -5568,8 +5568,8 @@
 	</imgdir>
 	<imgdir name="4210015">
 		<string name="name" value="Advanced Dark Sight"/>
-		<string name="desc" value="Hones your stealth technique, giving you a chance of not breaking Dark Sight when you attack or use skills in Dark Sight. Has a chance to automatically trigger Dark Sight on attack, and attacking from Dark Sight will increase Final Damage.\nHowever, if you dodge an attack that deals damage proportional to Max HP, using the Dark Sight that activates when you are hit, the cooldown will not apply, and Dark Sight&apos;s duration will decrease.\nRequired Skill: #cDark Sight Lv. 10#"/>
-		<string name="h" value="#prop% chance to maintain Dark Sight on attacking. When inside your own Smokescreen or Shadow Veil, this increases to 100%.\n#x% chance to auto-trigger Dark Sight. Final Damage +#y% when attacking during Dark Sight.\nIf you dodge an attack that deals damage proportional to Max HP, using the Dark Sight that activates when you are hit, the Dark Sight&apos;s remaining time will be reduced by #z% of its maximum."/>
+		<string name="desc" value="Hones your stealth technique, giving you a chance of not breaking Dark Sight when you attack or use skills in Dark Sight. Has a chance to automatically trigger Dark Sight when attacked, and attacking from Dark Sight will increase Final Damage.\nHowever, if you dodge an attack that deals damage proportional to Max HP, using the Dark Sight that activates when you are hit, the cooldown will not apply, and Dark Sight&apos;s duration will decrease.\nRequired Skill: #cDark Sight Lv. 10#"/>
+		<string name="h" value="#prop% chance to maintain Dark Sight on attacking. When inside your own Smokescreen or Shadow Veil, this increases to 100%.\n#x% chance to auto-trigger Dark Sight when attacked. Final Damage +#y% when attacking during Dark Sight.\nIf you dodge an attack that deals damage proportional to Max HP, using the Dark Sight that activates when you are hit, the Dark Sight&apos;s remaining time will be reduced by #z% of its maximum."/>
 	</imgdir>
 	<imgdir name="4211001">
 		<string name="name" value="Chakra"/>
@@ -39135,7 +39135,7 @@ Every time 50 enemies near your level are defeated,\nthe #cfever gauge fills up 
 	<imgdir name="151101013">
 		<string name="name" value="Aetherial Arms"/>
 		<string name="desc" value="Automatically creates shards when attacking.\nCan be toggled #cOn/Off# with the skill key.\nRequired Skill: #cMagic Dispatch Lv. 20#"/>
-		<string name="h" value="When #cTrigger Skill hits#, creates shard every #x sec, consume #y MP upon creation.\nMagic Dispatch and Aetherial Arms Damage: +#damPlus%p\nCooldown: #cooltimeMS sec"/>
+		<string name="h" value="When #cTrigger Skill hits#, creates shard every #x sec, consume #y MP upon creation.\nMagic Dispatch and Aetherial Arms Damage: +#damPlus%p\n#cCooldown: #cooltimeMS sec."/>
 	</imgdir>
 	<imgdir name="151100014">
 		<string name="name" value="Bladecaster Control"/>
@@ -43644,9 +43644,9 @@ Manifest the power of the river within a Dragon Vein to allow travel along the r
 		<string name="h" value="Spin Driver Final Damage: +#damR_5th%"/>
 	</imgdir>
 	<imgdir name="400004451">
-		<string name="name" value="Blade Tempest Boost"/>
-		<string name="desc" value="Boosts Blade Tempest.\n\n#cLv. 20 - Max Targets: +1\nLv. 40 - Monster DEF Ignored: +20%#"/>
-		<string name="h" value="Blade Tempest Final Damage: +#damR_5th%"/>
+		<string name="name" value="Wheel Wind Boost"/>
+		<string name="desc" value="Boosts Wheel Wind.\n\n#cLv. 20 - Max Targets: +1\nLv. 40 - Monster DEF Ignored: +20%#"/>
+		<string name="h" value="Wheel Wind Final Damage: +#damR_5th%"/>
 	</imgdir>
 	<imgdir name="400004452">
 		<string name="name" value="Boosts Rolling Cross/Spin Driver"/>
@@ -45431,7 +45431,7 @@ Manifest the power of the river within a Dragon Vein to allow travel along the r
 		<string name="name" value="Venom Burst"/>
 	</imgdir>
 	<imgdir name="400040006">
-		<string name="name" value="Blade Tempest"/>
+		<string name="name" value="Blade Storm"/>
 	</imgdir>
 	<imgdir name="400040008">
 		<string name="name" value="Shadow Spear"/>
@@ -45461,7 +45461,7 @@ Manifest the power of the river within a Dragon Vein to allow travel along the r
 		<string name="name" value="Shadow Assault"/>
 	</imgdir>
 	<imgdir name="400041006">
-		<string name="name" value="Blade Tempest"/>
+		<string name="name" value="Blade Storm"/>
 		<string name="desc" value="Storm forward, slashing enemies with techniques honed at the Secret Garden. You can move while attacking."/>
 		<string name="h" value="MP Cost: #mpCon per attack. Attack up to #z enemies, with #y%, #w times, then deals #damage% damage, #attackCount times, on up to #mobCount enemies in front of you for #time sec., ignoring #ignoreMobpdpR% additional Enemy DEF.\nCooldown: #cooltime sec."/>
 	</imgdir>
@@ -58308,5 +58308,59 @@ Celestial Rank S: 5% EXP per stack."/>
 		<string name="name" value="Core Aura"/>
 		<string name="desc" value="Surrounds the true owner of the Core with a powerful aura that enhances abilities."/>
 		<string name="h" value="STR +#strX, DEX +#dexX, INT +#intX, LUK +#lukX, Attack Power +#padX, Magic ATT +#madX, Critical Damage +#criticaldamage"/>
+	</imgdir>
+	<imgdir name="80010215">
+		<string name="name" value="Lv. 1 Cute Perils&apos; Mysterious Power"/>
+		<string name="desc" value="Increases Attack Power and Magic ATT by 3."/>
+		<string name="h" value="#cAttack Power: +#padX, Magic ATT: +#madX#"/>
+	</imgdir>
+	<imgdir name="80010216">
+		<string name="name" value="Lv. 1 Cute Perils&apos; Mysterious Power"/>
+		<string name="desc" value="Increases Attack Power and Magic ATT by 3."/>
+		<string name="h" value="#cAttack Power: +#padX, Magic ATT: +#madX#"/>
+	</imgdir>
+	<imgdir name="80010217">
+		<string name="name" value="Lv. 1 Cute Perils&apos; Mysterious Power"/>
+		<string name="desc" value="Increases Attack Power and Magic ATT by 3."/>
+		<string name="h" value="#cAttack Power: +#padX, Magic ATT: +#madX#"/>
+	</imgdir>
+	<imgdir name="80012435">
+		<string name="name" value="Like it or Not Mount"/>
+		<string name="desc" value="[Master Level: 1]\nRide around on a Like it or Not mount that can double jump and move #cvery quickly#."/>
+		<string name="h" value="MP Cost: 10, Defense: 10, Speed: 170, Jump: 120"/>
+	</imgdir>
+	<imgdir name="80012436">
+		<string name="name" value="Like it or Not Mount"/>
+		<string name="desc" value="[Master Level: 1]\nRide around on a Like it or Not mount that can double jump and move #cvery quickly#."/>
+		<string name="h" value="MP Cost: 10, Defense: 10, Speed: 170, Jump: 120"/>
+	</imgdir>
+	<imgdir name="80012401">
+		<string name="name" value="Blue Tube"/>
+		<string name="desc" value="A Blue Tube that can be used in the Guild Castle Swimming Pool."/>
+	</imgdir>
+	<imgdir name="80012402">
+		<string name="name" value="Red Tube"/>
+		<string name="desc" value="A Red Tube that can be used in the Guild Castle Swimming Pool."/>
+	</imgdir>
+	<imgdir name="80012403">
+		<string name="name" value="Flamingo Tube"/>
+		<string name="desc" value="A Flamingo Tube that can be used in the Guild Castle Swimming Pool. Stand out at your next pool party."/>
+	</imgdir>
+	<imgdir name="80012404">
+		<string name="name" value="Floating Tray"/>
+		<string name="desc" value="A Floating Tray that can be used in the Guild Castle Swimming Pool. Enjoy a romantic dinner in the water."/>
+	</imgdir>
+	<imgdir name="80012434">
+		<string name="name" value="Radiant Star Pop Mount"/>
+		<string name="desc" value="Master Level: 1]\nAllows you to ride a Radiant Star Pop mount. Double-tap the jump key in town to use the High Altitude Flight skill.\r\n#cPress the attack key while using the High Altitude Flight skill to make the Radiant Star pop."/>
+		<string name="h1" value="DEF: +10, Speed: 170, Jump: +120"/>
+	</imgdir>
+	<imgdir name="80012442">
+		<string name="name" value="Radiant Star Pop Mount"/>
+		<string name="desc" value="Master Level: 1]\nAllows you to ride a Radiant Star Pop mount. Double-tap the jump key in town to use the High Altitude Flight skill.\r\n#cPress the attack key while using the High Altitude Flight skill to make the Radiant Star pop."/>
+		<string name="h1" value="DEF: +10, Speed: 170, Jump: +120"/>
+	</imgdir>
+	<imgdir name="80012439">
+		<string name="name" value="STAR"/>
 	</imgdir>
 </imgdir>

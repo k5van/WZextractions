@@ -3959,7 +3959,7 @@ Talk to Lauren at Henesys Hair Salon for Androids."/>
 		<string name="desc" value="Sever the bond between an item and the original owner to make the item tradable. This item can only be used on certain items and cannot be used on sealed items."/>
 	</imgdir>
 	<imgdir name="5520001">
-		<string name="name" value="Platinum Scissors of Karma "/>
+		<string name="name" value="Platinum Scissors of Karma"/>
 		<string name="desc" value="Sever the bond between an item and the original owner to make the item tradable. This item can only be used on certain items and cannot be used on sealed items."/>
 	</imgdir>
 	<imgdir name="5521000">
@@ -12650,11 +12650,11 @@ ATT, MATT + 100"/>
 	</imgdir>
 	<imgdir name="5150170">
 		<string name="name" value="VIP Royal Hair Coupon"/>
-		<string name="desc" value="A hair coupon you can use by taking it to Natalie the Hair Salon Owner at the #cHenesys Hair Salon.#"/>
+		<string name="desc" value="#cDouble-click# to apply the hairstyle of your choice from a carefully curated list. Cannot be used on Androids."/>
 	</imgdir>
 	<imgdir name="5152242">
 		<string name="name" value="VIP Royal Face Coupon"/>
-		<string name="desc" value="A face coupon you can use by taking it to Dr. Feeble at the #cHenesys Plastic Surgery.#"/>
+		<string name="desc" value="#cDouble-click# to apply the face of your choice from a carefully curated list. Cannot be used on Androids."/>
 	</imgdir>
 	<imgdir name="5240200">
 		<string name="name" value="Fish Treat"/>
@@ -13955,5 +13955,9 @@ Upon using the cube, the value of all potentials #cwill become consistent with t
 	<imgdir name="5010266">
 		<string name="name" value="Cerberus Symbol"/>
 		<string name="desc" value="Summon a Cerberus Symbol. Double-click to toggle the effect, or set up a hotkey for it in your Key Config."/>
+	</imgdir>
+	<imgdir name="5240243">
+		<string name="name" value="Four Perils&apos; Goblin Fire"/>
+		<string name="desc" value="Four Perils&apos; Goblin Fire loved by the #cCute Perils#. Recovers Fullness completely and #cincreases Closeness by 100#."/>
 	</imgdir>
 </imgdir>
